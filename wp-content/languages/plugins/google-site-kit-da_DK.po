@@ -1,0 +1,4207 @@
+# Translation of Plugins - Site Kit by Google - Stable (latest release) in Danish
+# This file is distributed under the same license as the Plugins - Site Kit by Google - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-03 10:39:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: da_DK\n"
+"Project-Id-Version: Plugins - Site Kit by Google - Stable (latest release)\n"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Country"
+msgstr "Land"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Timezone"
+msgstr "Tidszone"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Set up a new view"
+msgstr "Opret en ny visning"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "You will need to give Site Kit permission to create an Analytics account on your behalf and also accept the Google Analytics terms of service."
+msgstr "Du skal give Site Kit tilladelse til at oprette en Analytics-konto på dine vegne og også acceptere Google Analytics servicevilkår."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "You will be redirected to Google Analytics to accept the terms of service."
+msgstr "Du bliver omdirigeret til Google Analytics for at acceptere servicevilkårene."
+
+#. translators: %s: invalid account status identifier
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgid "Invalid account status: %s"
+msgstr "Ugyldig kontostatus: %s"
+
+#. translators: %s: invalid site status identifier
+#: dist/assets/js/googlesitekit-modules-adsense.js:16
+msgid "Invalid site status: %s"
+msgstr "Ugyldig webstatestatus: %s"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "The AdSense code has been placed by another plugin or theme"
+msgstr "AdSense-koden er placeret af et andet plugin eller tema"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:9
+msgid "Add site to AdSense"
+msgstr "Tilføj websted til AdSense"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:9
+msgid "We’ve detected that you haven’t added this site to your AdSense account yet."
+msgstr "Vi har opdaget, at du ikke har tilføjet dette websted til din AdSense-konto endnu."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:9
+msgid "Add site to your AdSense account"
+msgstr "Tilføj websted til din AdSense-konto"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:9
+msgid "Site Kit has placed AdSense code on your site to connect your site to AdSense and help you get the most out of ads. This means Google will automatically place ads for you in all the best places."
+msgstr "Site Kit har placeret AdSense-kode på dit websted for at forbinde dit websted til AdSense og hjælpe dig med at få mest muligt ud af annoncer. Dette betyder, at Google automatisk vil placere annoncer for dig på alle de bedste steder."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:9
+msgid "Your account is ready to use AdSense"
+msgstr "Din konto er klar til at bruge AdSense"
+
+#. translators: %s: account ID
+#: dist/assets/js/googlesitekit-modules-adsense.js:9
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "By not placing the code, AdSense will not show ads on your website unless you’ve already got some AdSense code."
+msgstr "Ved ikke at placere koden, viser AdSense ikke annoncer på dit websted, medmindre du allerede har fået noget AdSense-kode."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "We’ve pre-filled the required information for your new account. Confirm or edit any details:"
+msgstr "Vi har på forhånd udfyldt de krævede oplysninger til din nye konto. Bekræft eller rediger oplysninger:"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "Create your Analytics account"
+msgstr "Opret din Analytics-konto"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgid "You don’t have any ad impressions yet. Make sure you’ve completed these steps in AdSense:"
+msgstr "Du har ikke nogen annoncevisninger endnu. Sørg for, at du har afsluttet disse trin i AdSense:"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgid "No ad impressions yet"
+msgstr "Der er endnu ingen annoncevisninger"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "Additional permissions are required to create a new Analytics account."
+msgstr "Yderligere tilladelser kræves for at oprette en ny Analytics-konto."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "All website traffic"
+msgstr "Al webstedstrafik"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgid "Recommended"
+msgstr "Anbefalet"
+
+#. translators: %s: account ID
+#: dist/assets/js/googlesitekit-modules-adsense.js:9
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "Site Kit detected AdSense code for a different account %s on your site. For a better ads experience, you should remove AdSense code that’s not linked to this AdSense account."
+msgstr "Site Kit registrerede AdSense-kode for en anden konto %s på dit websted. For at få en bedre annonceoplevelse skal du fjerne AdSense-kode, der ikke er knyttet til denne AdSense-konto."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Learn more<span class=\"screen-reader-text\"> about updating your AdSense account</span>"
+msgstr "Lær mere <span class=\"screen-reader-text\">om opdatering af din AdSense-konto</span>"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "To start using AdSense, you need to update your account so that you can connect your site to AdSense."
+msgstr "For at begynde at bruge AdSense skal du opdatere din konto, så du kan forbinde dit websted til AdSense."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Looks like you have an AdMob account"
+msgstr "Det ser ud til, at du har en AdMob-konto"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Site Kit has placed AdSense code on every page across your site."
+msgstr "Site Kit har placeret AdSense-kode på hver side på dit websted."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Your account is getting ready"
+msgstr "Din konto er ved at blive klar"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Looks like you have multiple AdSense accounts associated with your Google account. Select the account to use with Site Kit below."
+msgstr "Det ser ud til, at du har flere AdSense-konti tilknyttet din Google-konto. Vælg den konto, der skal bruges med Site Kit nedenfor."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Select your AdSense account"
+msgstr "Vælg din AdSense-konto"
+
+#. translators: %s: user email address
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Learn more<span class=\"screen-reader-text\"> about adding a user to an existing AdSense account</span>"
+msgstr "Lær mere <span class=\"screen-reader-text\">om, hvordan du tilføjer en bruger til en eksisterende AdSense-konto</span>"
+
+#. translators: %s: user email address
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Already use AdSense? Add %s as a user to an existing AdSense account."
+msgstr "Brug du allerede AdSense? Føj %s som bruger til en eksisterende AdSense-konto."
+
+#. translators: 1: client ID, 2: user email address, 3: account ID
+#: dist/assets/js/googlesitekit-modules-adsense.js:5
+msgid "Site Kit detected AdSense code %1$s on your page. We recommend you remove that code or add %2$s as a user to the AdSense account %3$s."
+msgstr "Site Kit registrerede AdSense-kode %1$s på din side. Vi anbefaler, at du fjerner den kode eller tilføjer %2$s som bruger til AdSense-kontoen %3$s."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:3
+msgid "In order for your site to display ads, make sure you’ve completed these steps in AdSense."
+msgstr "For at dit websted skal vise annoncer, skal du sørge for, at du har udført disse trin i AdSense."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Keep AdSense code placed by Site Kit"
+msgstr "Behold AdSense-kode placeret af Site Kit"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:3
+msgid "Verified that your site is marked as \"Ready\""
+msgstr "Bekræftet, at dit websted er markeret som \"Klar\""
+
+#. translators: %s: Error message
+#: dist/assets/js/googlesitekit-modules-adsense.js:3
+msgid "Enabled auto ads for your site"
+msgstr "Aktiverede autoannoncer til dit websted"
+
+#. translators: %s: List of product names
+#: dist/assets/js/googlesitekit-activation.js:19
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:13
+#: dist/assets/js/googlesitekit-wp-dashboard.js:15
+#: dist/assets/js/googlesitekit-settings.js:15
+#: dist/assets/js/googlesitekit-dashboard-details.js:15
+#: dist/assets/js/googlesitekit-dashboard.js:15
+#: dist/assets/js/googlesitekit-dashboard-splash.js:17
+#: dist/assets/js/googlesitekit-module.js:15
+#: dist/assets/js/googlesitekit-modules-adsense.js:26
+#: dist/assets/js/googlesitekit-modules-analytics.js:18
+msgid "Site Kit can’t access all relevant data because you haven’t granted all permissions requested during setup. To use Site Kit, you’ll need to redo the setup for: %s – make sure to approve all permissions at the authentication stage."
+msgstr "Site Kit har ikke adgang til alle relevante data, fordi du ikke har givet alle de tilladelser, der blev anmodet om under opsætningen. Hvis du vil bruge Site Kit, skal du gentage opsætningen for: %s - Sørg for at godkende alle tilladelser i godkendelsestrinnet."
+
+#. translators: %s: an abbreviated number in thousands.
+#: dist/assets/js/googlesitekit-modules-search-console.js:4
+msgid "Connected Property"
+msgstr "Tilsluttet ejendom"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Link Analytics and AdSense"
+msgstr "Link Analytics og AdSense"
+
+#: dist/assets/js/googlesitekit-activation.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:19
+#: dist/assets/js/googlesitekit-module.js:17
+#: dist/assets/js/googlesitekit-modules-adsense.js:28
+#: dist/assets/js/googlesitekit-modules-analytics.js:20
+msgid "Site Kit can’t access necessary data"
+msgstr "Site Kit har ikke adgang til nødvendige data"
+
+#. translators: %1$s: Product name
+#: dist/assets/js/googlesitekit-activation.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:19
+#: dist/assets/js/googlesitekit-module.js:17
+#: dist/assets/js/googlesitekit-modules-adsense.js:28
+#: dist/assets/js/googlesitekit-modules-analytics.js:20
+msgid "Site Kit can’t access all relevant data because you haven’t granted all permissions requested during setup. To use Site Kit, you’ll need to redo the setup – make sure to approve all permissions at the authentication stage."
+msgstr "Site Kit har ikke adgang til alle relevante data, fordi du ikke har givet alle de tilladelser, der blev anmodet om under opsætningen. For at bruge Site Kit, skal du foretage genindstillingen - sørg for at godkende alle tilladelser på godkendelsestrinnet."
+
+#: dist/assets/js/googlesitekit-activation.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:19
+#: dist/assets/js/googlesitekit-module.js:17
+#: dist/assets/js/googlesitekit-modules-adsense.js:28
+#: dist/assets/js/googlesitekit-modules-analytics.js:20
+msgid "Redo setup"
+msgstr "Gentag opsætningen"
+
+#. translators: %1$s: Product name
+#: dist/assets/js/googlesitekit-activation.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:19
+#: dist/assets/js/googlesitekit-module.js:17
+#: dist/assets/js/googlesitekit-modules-adsense.js:28
+#: dist/assets/js/googlesitekit-modules-analytics.js:20
+msgid "Site Kit can’t access the relevant data from %1$s because you haven’t granted all permissions requested during setup. To use Site Kit, you’ll need to redo the setup for %1$s – make sure to approve all permissions at the authentication stage."
+msgstr "Site Kit har ikke adgang til de relevante data fra%1$s, fordi du ikke har givet alle de tilladelser, der blev anmodet om under opsætning. For at bruge Site Kit skal du gentage opsætningen for%1$s - sørg for at godkende alle tilladelser i godkendelsestrinnet."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Get reports for your top earning pages by linking your Analytics and AdSense accounts."
+msgstr "Få rapporter for dine topindtjeningssider ved at linke dine Analytics- og AdSense-konti."
+
+#: dist/assets/js/googlesitekit-activation.js:1
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard-splash.js:1
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Proceed"
+msgstr "Fortsæt"
+
+#: includes/Modules/Analytics.php:732
+msgid "Analytics provisioning requires connecting via the Site Kit Service."
+msgstr "Analytics-levering kræver tilslutning via Site Kit-tjenesten."
+
+#: includes/Modules/Tag_Manager.php:447
+msgid "Additional permissions are required to create a new Tag Manager container."
+msgstr "Yderligere tilladelser kræves for at oprette en ny Tag Manager-beholder."
+
+#: dist/assets/js/googlesitekit-activation.js:1
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard-splash.js:1
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Additional Permissions Required"
+msgstr "Yderligere tilladelser krævet"
+
+#: includes/Core/Modules/Module.php:476
+msgid "Invalid datapoint request."
+msgstr "Ugyldig anmodning om datapoint."
+
+#: includes/Modules/AdSense.php:565
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+msgid "The clientID parameter is not a valid AdSense client ID."
+msgstr "Klient-id parameteren er ikke et gyldigt AdSense-klient-id."
+
+#: includes/Modules/Analytics.php:620
+msgid "You’ll need to grant Site Kit permission to create a new Analytics view on your behalf."
+msgstr "Du skal give Site Kit tilladelse til at oprette en ny Analytics-visning på dine vegne."
+
+#: includes/Modules/Analytics.php:612
+msgid "You’ll need to grant Site Kit permission to create a new Analytics property on your behalf."
+msgstr "Du skal give Site Kit tilladelse til at oprette en ny Analytics-ejendom på dine vegne."
+
+#: includes/Modules/Analytics.php:604
+msgid "You’ll need to grant Site Kit permission to create a new Analytics account on your behalf."
+msgstr "Du skal give Site Kit tilladelse til at oprette en ny Analytics-konto på dine vegne."
+
+#: includes/Core/Authentication/Authentication.php:498
+#: includes/Core/Authentication/Authentication.php:515
+#: includes/Core/Authentication/Authentication.php:538
+msgid "You don't have permissions to authenticate with Site Kit."
+msgstr "Du har ikke tilladelser til at godkende med Site Kit."
+
+#: includes/Modules/Site_Verification.php:403
+#: includes/Core/Authentication/Authentication.php:933
+msgid "You don't have permissions to set up Site Kit."
+msgstr "Du har ikke tilladelse til at konfigurere Site Kit."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Format: GTM-XXXXXXX or OPT-XXXXXXX"
+msgstr "Format: GTM-XXXXXXX eller OPT-XXXXXXX"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Saving…"
+msgstr "Gemmer..."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Site Kit will add the code automatically."
+msgstr "Site Kit vil tilføje koden automatisk."
+
+#: includes/Modules/Analytics.php:1022
+msgid "The propertyID parameter is not a valid Analytics property ID."
+msgstr "Ejendoms-ID parameteren er ikke en gyldig Analytics ejendoms ID."
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "Verifying…"
+msgstr "Verificering..."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:1
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+#: dist/assets/js/chunk-googlesitekit-setup-wrapper-e13346873edace467a15.js:1
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:1
+msgid "Manage sites…"
+msgstr "Administrer websteder..."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Site Kit will not add the code to your site."
+msgstr "Site Kit vil ikke tilføje koden til dit websted."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "The AdSense code has not been placed on your site"
+msgstr "AdSense koden er endnu ikke placeret i dit websted"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "The AdSense code has been placed on your site"
+msgstr "AdSense koden er blevet placeret i dit websted"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "AdSense Code"
+msgstr "AdSense kode"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "Your account has been approved"
+msgstr "Din konto er blevet godkendt"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "Check your site status"
+msgstr "Kontroller dit websteds status"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "We’re getting your site ready for ads. This usually takes less than a day, but it can sometimes take a bit longer"
+msgstr "Vi gør dit websted klar til annoncer. Dette tager normalt mindre end en dag, men det kan undertiden tage lidt længere tid"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "You need to fix some issues before your account is approved. Go to AdSense to find out how to fix it"
+msgstr "Du skal løse nogle problemer, før din konto er godkendt. Gå til AdSense for at finde ud af, hvordan du løser det"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "Publisher ID"
+msgstr "Udgiver ID"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "Account Status"
+msgstr "Konto status"
+
+#. translators: %s: an abbreviated number in thousands.
+#: dist/assets/js/googlesitekit-activation.js:10
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:3
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:3
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights.js:3
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights.js:4
+#: dist/assets/js/googlesitekit-modules-search-console.js:3
+#: dist/assets/js/googlesitekit-modules-search-console.js:4
+#: dist/assets/js/googlesitekit-settings.js:3
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:3
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:3
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard-splash.js:8
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+#: dist/assets/js/googlesitekit-api.js:3 dist/assets/js/googlesitekit-api.js:4
+#: dist/assets/js/googlesitekit-module.js:3
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-modules-adsense.js:13
+#: dist/assets/js/googlesitekit-modules-adsense.js:14
+#: dist/assets/js/googlesitekit-modules-analytics.js:5
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "%sK"
+msgstr "%sK"
+
+#. translators: %s: an abbreviated number in millions.
+#: dist/assets/js/googlesitekit-activation.js:9
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:2
+#: dist/assets/js/googlesitekit-wp-dashboard.js:2
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights.js:2
+#: dist/assets/js/googlesitekit-modules-search-console.js:2
+#: dist/assets/js/googlesitekit-settings.js:2
+#: dist/assets/js/googlesitekit-dashboard-details.js:2
+#: dist/assets/js/googlesitekit-dashboard.js:2
+#: dist/assets/js/googlesitekit-dashboard-splash.js:7
+#: dist/assets/js/googlesitekit-api.js:2
+#: dist/assets/js/googlesitekit-module.js:2
+#: dist/assets/js/googlesitekit-modules-adsense.js:12
+#: dist/assets/js/googlesitekit-modules-analytics.js:4
+msgid "%sM"
+msgstr "%sM"
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:931
+msgid "The Site Kit setup was interrupted because you did not grant the necessary permissions."
+msgstr "Site Kit opsætningen blev afbrudt da du ikke har de nødvendige rettigheder."
+
+#. translators: %s: setup screen URL
+#: includes/Core/Authentication/Authentication.php:872
+msgid "To resume setup, <a href=\"%s\">start here</a>."
+msgstr "Genoptag opsætningen, <a href=\"%s\">start her</a>."
+
+#: includes/Core/Modules/Modules.php:777
+msgid "Updating settings failed."
+msgstr "Opdatering af indstillingerne mislykkedes."
+
+#: includes/Core/Modules/Modules.php:665
+msgid "Settings to set."
+msgstr "Indstillinger der skal angives."
+
+#: includes/Core/Modules/Modules.php:638 includes/Core/Modules/Modules.php:764
+msgid "Module does not support settings."
+msgstr "Modul understøtter ikke indstillingerne."
+
+#. translators: %s is the URL to the Site Kit dashboard.
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights.js:6
+msgid "To view insights, <a href=\"%s\">visit the dashboard</a>."
+msgstr "Hvis du vil have indblik, skal du <a href=\"%s\">besøge kontrolpanelet</a>."
+
+#. translators: %s: Number of days to request data.
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:26
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:28
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:30
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:28
+#: dist/assets/js/googlesitekit-wp-dashboard.js:30
+#: dist/assets/js/googlesitekit-wp-dashboard.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:28
+#: dist/assets/js/googlesitekit-settings.js:30
+#: dist/assets/js/googlesitekit-settings.js:32
+#: dist/assets/js/googlesitekit-settings.js:34
+#: dist/assets/js/googlesitekit-dashboard-details.js:28
+#: dist/assets/js/googlesitekit-dashboard-details.js:30
+#: dist/assets/js/googlesitekit-dashboard-details.js:32
+#: dist/assets/js/googlesitekit-dashboard-details.js:34
+#: dist/assets/js/googlesitekit-dashboard.js:28
+#: dist/assets/js/googlesitekit-dashboard.js:30
+#: dist/assets/js/googlesitekit-dashboard.js:32
+#: dist/assets/js/googlesitekit-dashboard.js:34
+#: dist/assets/js/googlesitekit-module.js:28
+#: dist/assets/js/googlesitekit-module.js:30
+#: dist/assets/js/googlesitekit-module.js:32
+#: dist/assets/js/googlesitekit-module.js:34
+msgid "Last %s day"
+msgid_plural "Last %s days"
+msgstr[0] "Senest %s dag"
+msgstr[1] "Seneste %s dage"
+
+#. translators: %s: Number of days matched.
+#: dist/assets/js/googlesitekit-activation.js:13
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:7
+#: dist/assets/js/googlesitekit-wp-dashboard.js:7
+#: dist/assets/js/googlesitekit-settings.js:7
+#: dist/assets/js/googlesitekit-dashboard-details.js:7
+#: dist/assets/js/googlesitekit-dashboard.js:7
+#: dist/assets/js/googlesitekit-dashboard-splash.js:11
+#: dist/assets/js/googlesitekit-module.js:7
+#: dist/assets/js/googlesitekit-modules-adsense.js:20
+#: dist/assets/js/googlesitekit-modules-analytics.js:12
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s dag"
+msgstr[1] "%s dage"
+
+#: includes/Core/Util/Requires_Javascript_Trait.php:36
+msgid "The Site Kit by Google plugin requires JavaScript to be enabled in your browser."
+msgstr "Site Kit by Google plugin kræver at JavaScript er aktiveret i din browser."
+
+#: includes/Core/Util/Debug_Data.php:297
+msgid "Required scopes"
+msgstr "Obligatoriske områder"
+
+#. translators: used between list items, there is a space after the comma.
+#: includes/Core/Util/Debug_Data.php:272
+#: dist/assets/js/googlesitekit-activation.js:17
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:11
+#: dist/assets/js/googlesitekit-wp-dashboard.js:13
+#: dist/assets/js/googlesitekit-settings.js:13
+#: dist/assets/js/googlesitekit-dashboard-details.js:13
+#: dist/assets/js/googlesitekit-dashboard.js:13
+#: dist/assets/js/googlesitekit-dashboard-splash.js:15
+#: dist/assets/js/googlesitekit-module.js:13
+#: dist/assets/js/googlesitekit-modules-adsense.js:24
+#: dist/assets/js/googlesitekit-modules-analytics.js:16
+msgid ", "
+msgstr ", "
+
+#: includes/Core/Util/Debug_Data.php:269
+msgid "Active Modules"
+msgstr "Aktive moduler"
+
+#: includes/Core/Util/Debug_Data.php:253
+msgid "Not authenticated"
+msgstr "Ikke godkendt"
+
+#: includes/Core/Util/Debug_Data.php:252
+msgid "Authenticated"
+msgstr "Godkendt"
+
+#: includes/Core/Util/Debug_Data.php:250
+msgid "User Status"
+msgstr "Bruger status"
+
+#: includes/Core/Util/Debug_Data.php:233
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "Site Status"
+msgstr "Websted status"
+
+#: includes/Core/Util/Debug_Data.php:221
+msgid "Not connected"
+msgstr "Ikke forbundet"
+
+#: includes/Core/Util/Debug_Data.php:220
+msgid "Connected through OAuth client credentials"
+msgstr "Oprettet via OAuth klient legitimationsoplysninger"
+
+#: includes/Core/Util/Debug_Data.php:219
+msgid "Connected through site credentials"
+msgstr "Oprettet forbindelse via legitimationsoplysninger"
+
+#: includes/Core/Util/Debug_Data.php:202
+msgid "AMP Mode"
+msgstr "AMP-tilstand"
+
+#: includes/Core/Util/Debug_Data.php:198
+msgid "Secondary"
+msgstr "Sekundær"
+
+#: includes/Core/Util/Debug_Data.php:197
+msgid "Primary"
+msgstr "Primær"
+
+#: includes/Core/Util/Debug_Data.php:172
+msgid "None"
+msgstr "Ingen"
+
+#: includes/Core/Util/Debug_Data.php:163
+msgid "Reference Site URL"
+msgstr "URL til reference websted"
+
+#: includes/Core/Util/Debug_Data.php:159
+msgid "WordPress Version"
+msgstr "WordPress version"
+
+#: includes/Core/Util/Debug_Data.php:155
+msgid "PHP Version"
+msgstr "PHP version"
+
+#: includes/Core/Util/Debug_Data.php:151
+msgid "Version"
+msgstr "Version"
+
+#: includes/Modules/AdSense.php:275
+msgid "AdSense snippet placed"
+msgstr "AdSense kodestykke er placeret"
+
+#: includes/Modules/AdSense.php:271
+msgid "AdSense account status"
+msgstr "AdSense konto status"
+
+#: includes/Modules/AdSense.php:266
+msgid "AdSense client ID"
+msgstr "AdSense klient ID"
+
+#: includes/Modules/AdSense.php:261
+msgid "AdSense account ID"
+msgstr "AdSense konto ID"
+
+#: includes/Modules/Tag_Manager.php:211
+msgid "Tag Manager snippet placed"
+msgstr "Tag Manager kodestykke er placeret"
+
+#: includes/Modules/Tag_Manager.php:206
+msgid "Tag Manager AMP container ID"
+msgstr "Tag Manager AMP container ID"
+
+#: includes/Modules/Tag_Manager.php:201
+msgid "Tag Manager container ID"
+msgstr "Tag Manager container ID"
+
+#: includes/Modules/Tag_Manager.php:196
+msgid "Tag Manager account ID"
+msgstr "Tag Manager konto ID"
+
+#: includes/Modules/Analytics.php:1446
+msgid "Google Analytics user opt-out added via Site Kit by Google"
+msgstr "Google Analytics brugerfravalg tilføjet via Site Kit af Google"
+
+#: includes/Modules/Analytics.php:274
+msgid "Analytics snippet placed"
+msgstr "Analytics-kodestykke er placeret"
+
+#: includes/Modules/Analytics.php:269
+msgid "Analytics profile ID"
+msgstr "Analytics profil ID"
+
+#: includes/Modules/Analytics.php:264
+msgid "Analytics property ID"
+msgstr "Analytics ejendoms ID"
+
+#: includes/Modules/Analytics.php:259
+msgid "Analytics account ID"
+msgstr "Analytics konto ID"
+
+#: includes/Modules/Search_Console.php:152
+msgid "Search Console property"
+msgstr "Search Console ejendom"
+
+#: includes/Modules/Optimize.php:164
+msgid "Optimize ID"
+msgstr "Optimize ID"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+msgid "AMP Container"
+msgstr "AMP Container"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+msgid "Web Container"
+msgstr "Web Container"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+msgid "Looks like your site is using paired AMP. Please select your Tag Manager account and relevant containers below, the snippets will be inserted automatically on your site."
+msgstr "Det ser ud som dit websted bruger parret AMP. Vælg din Tag Manager-konto og relevante containere nedenfor, så vil kodestykkerne blive indsat automatisk på dit websted."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "AMP Container ID"
+msgstr "AMP Container ID"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Web Container ID"
+msgstr "Web container ID"
+
+#: dist/assets/js/googlesitekit-activation.js:1
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard-splash.js:1
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Site Kit encountered an error"
+msgstr "Site Kit fandt en fejl"
+
+#. translators: %s: Search Console property domain name
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:7
+msgid "%s (domain property)"
+msgstr "%s (domæne egenskab)"
+
+#. translators: %d: the number of matching properties
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:5
+msgid "We found %d existing accounts. Please choose which one to use below."
+msgstr "Vi fandt %d eksisterende konti. Vælg, hvilken du bruge nedenfor."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "To create a new account, click the button below which will open the Google Tag Manager account creation screen in a new window."
+msgstr "Hvis du vil oprette en ny konto, skal du klikke på knappen nedenfor, som åbner skærmbilledet oprettelse af Google Tag manager-konto i et nyt vindue."
+
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Checking Compatibility…"
+msgstr "Kontrol af kompatibilitet..."
+
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Your site may not be ready for Site Kit"
+msgstr "Dit websted er muligvis ikke klar til Site Kit"
+
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Looks like you may be using a caching plugin which could interfere with setup. Please deactivate any caching plugins before setting up Site Kit. You may reactivate them once setup has been completed."
+msgstr "Det ser ud som om du bruger et cache plugin, som kan forstyrre opsætningen. Deaktiver alle cache lagringsplugins, før du konfigurerer Site Kit. Du kan genaktivere dem, når installationen er fuldført."
+
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Looks like this may be a staging environment and you already have the helper plugin. Before you can use Site Kit, please make sure you’ve provided the necessary credentials in the Authentication section and verified your production site in Search Console."
+msgstr "Det ser ud til, at dette kan være et iscenesættelsesmiljø, og du har allerede hjælpe plugin'et. Inden du kan bruge Site Kit, skal du sørge for, at du har angivet de nødvendige legitimations oplysninger i sektionen Autentificering og verificeret dit produktionssite i Search Console."
+
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Looks like this may be a staging environment. If so, you’ll need to install a helper plugin and verify your production site in Search Console."
+msgstr "Ser ud som om dette kan være et iscenesættelsesmiljø. I så fald skal du installere et hjælper-plugin og bekræfte dit produktionssite i Search Console."
+
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Learn how<span class=\"screen-reader-text\"> to install and use the helper plugin</span>"
+msgstr "Få mere at vide om, hvordan du<span class=\"screen-reader-text\"> installerer og bruger hjælpe plugin'et</span>"
+
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Configure<span class=\"screen-reader-text\"> the helper plugin</span>"
+msgstr "Konfigurer<span class=\"screen-reader-text\"> hjælpe plugin'et</span>"
+
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Activate<span class=\"screen-reader-text\"> the helper plugin</span>"
+msgstr "Aktiver<span class=\"screen-reader-text\"> hjælpe plugin'et</span>"
+
+#. translators: %s: an abbreviated number in thousands.
+#. translators: %s: privacy policy URL
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Install<span class=\"screen-reader-text\"> the helper plugin</span>"
+msgstr "Installer<span class=\"screen-reader-text\"> hjælpe plugin'et</span>"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "Once completed, click the link below to re-fetch your accounts to continue."
+msgstr "Når du er færdig, skal du klikke på linket nedenfor for at hente dine konti igen for at fortsætte."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "To create a new account, click the button below which will open the Google Analytics account creation screen in a new window."
+msgstr "Hvis du vil oprette en ny konto, skal du klikke på knappen nedenfor, som åbner skærmbilledet oprettelse af Google Analytics-konto i et nyt vindue."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "Set up a new account"
+msgstr "Konfigurer en ny konto"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+msgid "Site Kit will not add the code to your site"
+msgstr "Site Kit vil ikke tilføje koden til dit websted"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+msgid "Site Kit will add the code automatically"
+msgstr "Site Kit vil tilføje koden automatisk"
+
+#. translators: %s: the existing container ID.
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+msgid "An existing tag was found on your site (%s). If you later decide to replace this tag, Site Kit can place the new tag for you. Make sure you remove the old tag first."
+msgstr "Et eksisterende tag blev fundet på dit websted (%s). Hvis du senere beslutter dig for at udskifte dette tag, kan Site Kit placere det nye tag for dig. Sørg for at fjerne det gamle tag først."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Tag Manager Code Snippet"
+msgstr "Tag Manager kodestykke"
+
+#: includes/Modules/Tag_Manager.php:766
+msgid "No account found for given container"
+msgstr "Der blev ikke fundet en konto for den angivne beholder"
+
+#. translators: %s: Container ID
+#: includes/Modules/Tag_Manager.php:618
+msgid "We’ve detected there’s already an existing Tag Manager tag on your site (%s), but your account doesn’t seem to have the necessary access to this container. You can either remove the existing tag and connect to a different account, or request access to this container from your team."
+msgstr "Vi har registreret, at der allerede er et eksisterende Analytics-tag på dit websted (%s), men din konto ser ikke ud til at have adgang til denne Analytics-ejendom. Du kan enten fjerne det eksisterende tag og oprette forbindelse til en anden konto eller anmode om adgang til denne ejendom fra dit team."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "IP addresses are not being anonymized"
+msgstr "IP-adresser bliver ikke anonymiseret."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "IP addresses are being anonymized"
+msgstr "IP-adresser bliver anonymiseret."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "IP Address Anonymization"
+msgstr "Anonymisering af IP-adresse"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "Learn more<span class=\"screen-reader-text\"> about IP anonymization.</span>"
+msgstr "Læs mere<span class=\"screen-reader-text\"> om IP anonymisering.</span>"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "IP addresses will not be anonymized."
+msgstr "IP-adresser vil ikke blive anonymiseret."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "IP addresses will be anonymized."
+msgstr "IP-adresser vil blive anonymiseret."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "Anonymize IP addresses"
+msgstr "Anonymiser IP-adresser"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:5
+msgid "Sign in with Google to set up Site Kit"
+msgstr "Log ind med Google for at konfigurere Site Kit"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:5
+msgid "To use Site Kit, sign in with your Google account. The Site Kit service will guide you through 3 simple steps to complete the connection and configure the plugin."
+msgstr "Hvis du vil bruge Site Kit, skal du logge på med din Google-konto. Site Kit tjenesten vil guide dig gennem 3 enkle trin for at fuldføre forbindelsen og konfigurere plugin."
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:5
+msgid "Sign in with Google to configure Site Kit"
+msgstr "Log på med Google for at konfigurere Site Kit"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:37
+#: dist/assets/js/googlesitekit-wp-dashboard.js:39
+#: dist/assets/js/googlesitekit-settings.js:42
+#: dist/assets/js/googlesitekit-dashboard-details.js:42
+#: dist/assets/js/googlesitekit-dashboard.js:42
+#: dist/assets/js/googlesitekit-module.js:42
+msgid "Search Traffic Summary"
+msgstr "Oversigt over søgetrafik"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:5
+msgid "Oops! There was a problem during set up. Please try again."
+msgstr "Ups! Der opstod et problem under konfigurationen. Prøv igen."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:921
+msgid "Unable to authenticate Site Kit, as no client credentials exist."
+msgstr "Kunne ikke autorisere Site Kit da der ikke findes klient legitimations oplysninger."
+
+#: includes/Core/REST_API/REST_Routes.php:203
+msgid "List of request objects."
+msgstr "Liste over anmodningsobjekter."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "How fast this page is."
+msgstr "Hvor hurtigt denne side er."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "PageSpeed Insights is preparing data…"
+msgstr "PageSpeed Insights forbereder data…"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Go to your AdSense account to check on your site’s status or to complete setting up"
+msgstr "Gå til din AdSense-konto for at kontrollere dit websteds status eller for at fuldføre konfigurationen"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "After you’ve finished setting up your account, we’ll let you know when your site is ready to show ads. This usually takes less than a day, but it can sometimes take a bit longer."
+msgstr "Når du er færdig med at konfigurere din konto, giver vi dig besked, når dit websted er klar til at vise annoncer. Dette tager normalt mindre end en dag, men det kan nogle gange tage lidt længere tid."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:3
+msgid "Let’s get your site ready for ads"
+msgstr "Lad os gøre dit websted klar til annoncer"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Loading…"
+msgstr "Indlæser…"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:3
+msgid "Logged-in users will be included in Analytics tracking."
+msgstr "Brugere, der er logget ind, vil blive inkluderet i Analytics sporing."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:3
+msgid "Logged-in users will be excluded from Analytics tracking."
+msgstr "Brugere, der er logget ind, udelukkes fra Analytics sporing."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:3
+msgid "Exclude from Analytics"
+msgstr "Udeluk fra Analytics"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Analytics is currently enabled for all visitors."
+msgstr "Analytics er i øjeblikket aktiveret for alle besøgende."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgctxt "list separator"
+msgid ", "
+msgstr ", "
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Excluded from Analytics"
+msgstr "Ekskluderet fra Analytics"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:3
+msgid "Logged-in users"
+msgstr "Brugere, som er logget ind"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "Your site has not been added to Search Console yet. Would you like to add it now?"
+msgstr "Dit websted er ikke blevet føjet til Search Console endnu. Vil du tilføje det nu?"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:5
+msgid "Site Kit by Google was successfully reset."
+msgstr "Site Kit by Google blev nulstillet."
+
+#: includes/Core/Admin/Dashboard.php:115
+msgid "Site Kit Summary"
+msgstr "Site Kit oversigt"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+msgid "More details"
+msgstr "Flere detaljer"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+msgid "Stats for"
+msgstr "Statistik for"
+
+#. translators: %s: privacy policy URL
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "Authenticate Site Kit"
+msgstr "Godkend Site Kit"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "Finish"
+msgstr "Afslut"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "Connect Search Console"
+msgstr "Forbind Search Console"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "Authenticate"
+msgstr "Godkend"
+
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:7
+msgid "Go to Dashboard"
+msgstr "Gå til Kontrolpanel"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:7
+msgid "You successfully completed the Site Kit setup and connected Search Console. Check the dashboard for more services to connect."
+msgstr "Du har fuldført opsætningen af Site Kit og tilsluttet Search Console. Kontroller kontrolpanelet for at tilslutte flere tjenester."
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:7
+msgid "Congratulations!"
+msgstr "Tillykke!"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:7
+msgid "Your Search Console is set up with Site Kit."
+msgstr "Din Search Console er konfigureret til Site Kit."
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:7
+msgid "We’re locating your Search Console account."
+msgstr "Vi har lokaliseret din Search Console konto."
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:7
+msgid "Choose URL"
+msgstr "Vælg URL"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "Congratulations, your site has been verified!"
+msgstr "Tillykke, dit websted er blevet verificeret!"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "We will need to verify your URL for Site Kit."
+msgstr "Vi skal bekræfte din URL til Site Kit."
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "Verify URL"
+msgstr "Bekræft URL"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:7
+msgid "Website Address"
+msgstr "Webstedsadresse"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "Getting your verified sites…"
+msgstr "Henter dine verificeret websteder..."
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:5
+msgid "Sign in with Google"
+msgstr "Log på med Google"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "You did not grant access to one or more of the requested scopes. Please grant all scopes that you are prompted for."
+msgstr "Du gav ikke adgang til et eller flere af de ønskede områder. Giv venligst alle de områder, du bliver bedt om."
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "Please sign into your Google account to begin."
+msgstr "Log på din Google-konto for at begynde."
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+msgid "Authenticate with Google"
+msgstr "Godkend med Google"
+
+#: dist/assets/js/googlesitekit-activation.js:1
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:1
+#: dist/assets/js/googlesitekit-module.js:17
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "This account does not have access to the requested data."
+msgstr "Denne konto har ikke adgang til de ønskede data."
+
+#: dist/assets/js/googlesitekit-activation.js:1
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:1
+#: dist/assets/js/googlesitekit-module.js:17
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Permissions issue accessing data"
+msgstr "Problem med tilladelse til data adgang"
+
+#: dist/assets/js/googlesitekit-activation.js:1
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard-splash.js:1
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Site Kit by Google Logo"
+msgstr "Site Kit by Google Logo"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-module.js:17
+msgid "Set up Analytics"
+msgstr "Konfigurering af Analytics"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-module.js:17
+msgid "Connecting with Google Analytics to see unique vistors, goal completions, top pages and more."
+msgstr "Forbindelse med Google Analytics for at se unikke besøgende, målsætninger, top placeret sider og meget mere."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-module.js:17
+msgid "Learn more about what visitors do on your site."
+msgstr "Lær mere om, hvad besøgende gør på dit websted."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:7
+#: dist/assets/js/googlesitekit-settings.js:11
+#: dist/assets/js/googlesitekit-dashboard-details.js:11
+#: dist/assets/js/googlesitekit-dashboard.js:11
+#: dist/assets/js/googlesitekit-module.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wrapper-e13346873edace467a15.js:1
+msgid "Need help?"
+msgstr "Brug for hjælp?"
+
+#. translators: %d: the number of notifications
+#. translators: %d is the number of notifications
+#: dist/assets/js/googlesitekit-activation.js:6
+#: dist/assets/js/googlesitekit-activation.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:9
+#: dist/assets/js/googlesitekit-modules-pagespeed-insights.js:8
+#: dist/assets/js/googlesitekit-modules-search-console.js:6
+#: dist/assets/js/googlesitekit-settings.js:9
+#: dist/assets/js/googlesitekit-dashboard-details.js:9
+#: dist/assets/js/googlesitekit-dashboard.js:9
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-admin.js:3
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+#: dist/assets/js/googlesitekit-dashboard-splash.js:13
+#: dist/assets/js/googlesitekit-api.js:6
+#: dist/assets/js/googlesitekit-adminbar-loader.js:3
+#: dist/assets/js/googlesitekit-module.js:9
+#: dist/assets/js/googlesitekit-modules-adsense.js:22
+#: dist/assets/js/googlesitekit-modules-analytics.js:14
+msgid "%d notification"
+msgid_plural "%d notifications"
+msgstr[0] "%d meddelelse"
+msgstr[1] "%d meddelelser"
+
+#: dist/assets/js/googlesitekit-activation.js:2
+#: dist/assets/js/googlesitekit-settings.js:35
+#: dist/assets/js/googlesitekit-dashboard-details.js:35
+#: dist/assets/js/googlesitekit-dashboard.js:35
+#: dist/assets/js/googlesitekit-dashboard-splash.js:2
+#: dist/assets/js/googlesitekit-module.js:35
+msgid "There was a problem connecting to Google!"
+msgstr "Der var et problem at oprette forbindelse til Google!"
+
+#: dist/assets/js/googlesitekit-activation.js:2
+#: dist/assets/js/googlesitekit-settings.js:35
+#: dist/assets/js/googlesitekit-dashboard-details.js:35
+#: dist/assets/js/googlesitekit-dashboard.js:35
+#: dist/assets/js/googlesitekit-dashboard-splash.js:2
+#: dist/assets/js/googlesitekit-module.js:35
+msgid "Congrats on completing the setup for %s!"
+msgstr "Tillykke med færdiggørelsen af opsætningen for %s!"
+
+#: dist/assets/js/googlesitekit-activation.js:1
+#: dist/assets/js/googlesitekit-settings.js:34
+#: dist/assets/js/googlesitekit-dashboard-details.js:34
+#: dist/assets/js/googlesitekit-dashboard.js:34
+#: dist/assets/js/googlesitekit-dashboard-splash.js:1
+#: dist/assets/js/googlesitekit-module.js:34
+msgid "Here are some other services you can connect to see even more stats:"
+msgstr "Her er nogle andre tjenester, du kan oprette forbindelse til at se endnu flere statistikker:"
+
+#: dist/assets/js/googlesitekit-activation.js:1
+#: dist/assets/js/googlesitekit-settings.js:34
+#: dist/assets/js/googlesitekit-dashboard-details.js:34
+#: dist/assets/js/googlesitekit-dashboard.js:34
+#: dist/assets/js/googlesitekit-dashboard-splash.js:1
+#: dist/assets/js/googlesitekit-module.js:34
+msgid "Now you’ll be able to see how your site is doing in search. To get even more detailed stats, activate more modules. Here are our recommendations for what to include in your Site Kit:"
+msgstr "Nu kan du se, hvordan dit websted klarer sig i søgninger. For at få endnu mere detaljerede statistikker, aktivere flere moduler. Er her vores anbefalinger til, hvad der skal medtages i dit Site Kit:"
+
+#. translators: %s: parent module name
+#: dist/assets/js/googlesitekit-activation.js:4
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "Enable %s to start setup"
+msgstr "Aktiver %s til at starte opsætningen"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "The service was unable to process the request. Please try again later."
+msgstr "Tjenesten kunne ikke behandle anmodningen. Prøv igen senere."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Analytics server returned unknown error. Please try again later."
+msgstr "Analytics Server returnerede en ukendt fejl. Prøv igen senere."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Unexpected internal server error occurred."
+msgstr "Der opstod en uventet intern serverfejl."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Your account exceeded the maximum quota. Please try again later."
+msgstr "Din konto overskred den maksimale kvote. Prøv igen senere."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Your account does not have sufficient permission to access this data, please consult to your web administrator."
+msgstr "Din konto har ikke tilstrækkelig tilladelse til at få adgang til disse data, skal du kontakte din webadministrator."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "You need to be authenticated to get this data."
+msgstr "Du skal godkendes for at hente disse data."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Previous month"
+msgstr "Forrige måned"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "Site Visitors"
+msgstr "Websteds besægende"
+
+#: dist/assets/js/googlesitekit-activation.js:1
+#: dist/assets/js/googlesitekit-activation.js:2
+#: dist/assets/js/googlesitekit-activation.js:4
+#: dist/assets/js/googlesitekit-settings.js:34
+#: dist/assets/js/googlesitekit-settings.js:35
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:34
+#: dist/assets/js/googlesitekit-dashboard-details.js:35
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:34
+#: dist/assets/js/googlesitekit-dashboard.js:35
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:1
+#: dist/assets/js/googlesitekit-dashboard-splash.js:2
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+#: dist/assets/js/googlesitekit-module.js:34
+#: dist/assets/js/googlesitekit-module.js:35
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "OK, Got it!"
+msgstr "Okay, fik det!"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "You had a record-high amount of visitors to your website yesterday."
+msgstr "Du havde et rekordhøj antal besøgende på dit websted i går."
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "Congrats on more website visitors!"
+msgstr "Tillykke med flere besøgende på dit websted!"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "Congrats on five published posts"
+msgstr "Tillykke med fem offentliggjorte indlæg"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "That’s out of this world. Here are the combined stats for your posts"
+msgstr "Dette er fantastisk. Her er den kombinerede statistik for dine indlæg"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "That’s out of this world."
+msgstr "Dette er fantastisk."
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "Increase"
+msgstr "Forøg"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "Total Page Views"
+msgstr "Samlet antal sidevisninger"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "Over the past 4 weeks"
+msgstr "Over de sidste 4 uger"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "Increased page views!"
+msgstr "Forøget sidevisninger!"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "Congrats on your first post!"
+msgstr "Tillykke med dit første indlæg!"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "Welcome Back!"
+msgstr "Velkommen tilbage!"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "for month"
+msgstr "for måned"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "Last month was great!"
+msgstr "Sidste måned var fantastisk!"
+
+#. translators: %d: the number of notifications
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+msgid "Here are some high level stats"
+msgstr "Her er noget højniveau statistik"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "View Data"
+msgstr "Vis data"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Title or URL"
+msgstr "Titel eller URL"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Search for individual page or post information"
+msgstr "Søg efter individuelle side-eller indlægs oplysninger"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "To set up experiments and see the results, go to "
+msgstr "For at konfigurere eksperimenter og se resultaterne, skal du gå til "
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:37
+#: dist/assets/js/googlesitekit-wp-dashboard.js:39
+#: dist/assets/js/googlesitekit-settings.js:42
+#: dist/assets/js/googlesitekit-dashboard-details.js:42
+#: dist/assets/js/googlesitekit-dashboard.js:42
+#: dist/assets/js/googlesitekit-module.js:42
+msgid "Top search queries over the last %s"
+msgstr "Mest populære søgeforespørgsler i løbet af de sidste %s"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:36
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:37
+#: dist/assets/js/googlesitekit-wp-dashboard.js:38
+#: dist/assets/js/googlesitekit-wp-dashboard.js:39
+#: dist/assets/js/googlesitekit-settings.js:41
+#: dist/assets/js/googlesitekit-settings.js:42
+#: dist/assets/js/googlesitekit-dashboard-details.js:41
+#: dist/assets/js/googlesitekit-dashboard-details.js:42
+#: dist/assets/js/googlesitekit-dashboard.js:41
+#: dist/assets/js/googlesitekit-dashboard.js:42
+#: dist/assets/js/googlesitekit-module.js:41
+#: dist/assets/js/googlesitekit-module.js:42
+msgid "See full stats in Search Console"
+msgstr "Se fulde statistikker i Search Console"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:36
+#: dist/assets/js/googlesitekit-wp-dashboard.js:38
+#: dist/assets/js/googlesitekit-settings.js:41
+#: dist/assets/js/googlesitekit-dashboard-details.js:41
+#: dist/assets/js/googlesitekit-dashboard.js:41
+#: dist/assets/js/googlesitekit-module.js:41
+msgid "Overview for the last %s"
+msgstr "Oversigt for de sidste %s"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Search Console is connected"
+msgstr "Search Console er tilsluttet"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Search Console data is not yet available, please check back later."
+msgstr "Data fra Search Console er endnu ikke tilgængelig. Prøv igen senere."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Search Console Data Empty"
+msgstr "Ingen data fra Search Console"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Something went wrong"
+msgstr "Noget gik galt"
+
+#. translators: %s: page title
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Search Traffic Summary for %s"
+msgstr "Søgetrafik oversigt for %s"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Your most popular pages and how people found them from Search."
+msgstr "Dine mest populære sider, og hvordan folk fandt dem fra søgning."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Popularity"
+msgstr "Popularitet"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Top search queries for your site"
+msgstr "Mest populære søgeforespørgsler til dit websted"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:40
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Average Position"
+msgstr "Gennemsnitlig position"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+#: dist/assets/js/googlesitekit-module.js:40
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Average CTR"
+msgstr "Gennemsnitlig CTR"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Search Funnel"
+msgstr "Søge Kanaler"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "How your site appeared in Search results and how many visitors you got from Search."
+msgstr "Hvordan dit websted dukkede op i søgeresultaterne, og hvor mange besøgende du fik fra søgningen."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "What people searched for to find your page."
+msgstr "Hvad folk søgte efter for at finde din side."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Top Queries"
+msgstr "Mest populære forespørgsler"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Total Impressions"
+msgstr "Samlet antal eksponeringer"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:6
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Total Clicks"
+msgstr "Samlet antal klik"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "How fast your home page is."
+msgstr "Hvor hurtigt dit websted er."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Speed"
+msgstr "Hastighed"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Activate PageSpeed Insights"
+msgstr "Aktiver PageSpeed Insights"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Activate PageSpeed Insights."
+msgstr "Aktiver PageSpeed Insights."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Complete PageSpeed Insights activation."
+msgstr "Fuldfør aktivering af PageSpeed Insights."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Top content over the last 28 days"
+msgstr "Top indhold i løbet af de sidste 28 dage"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Analytics data is not yet available, please check back later."
+msgstr "Data fra Analytics er endnu ikke tilgængelig. Prøv igen senere."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Analytics Gathering Data"
+msgstr "Indsamlet data fra Analytics"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Avg. Time on Page"
+msgstr "Gns. tid på side"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Total Unique Visitors"
+msgstr "Samlet antal unikke besøgende"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Top acquisition sources over the last %s"
+msgstr "Mest populære anskaffelses kilder i løbet af de sidste %s"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:34
+#: dist/assets/js/googlesitekit-wp-dashboard.js:36
+#: dist/assets/js/googlesitekit-settings.js:39
+#: dist/assets/js/googlesitekit-dashboard-details.js:39
+#: dist/assets/js/googlesitekit-dashboard.js:39
+#: dist/assets/js/googlesitekit-module.js:39
+msgid "Top content over the last %s"
+msgstr "Top placeret indhold over de sidste %s"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:33
+#: dist/assets/js/googlesitekit-wp-dashboard.js:35
+#: dist/assets/js/googlesitekit-settings.js:38
+#: dist/assets/js/googlesitekit-dashboard-details.js:38
+#: dist/assets/js/googlesitekit-dashboard.js:38
+#: dist/assets/js/googlesitekit-module.js:38
+msgid "Audience overview for the last %s"
+msgstr "Målgruppeoversigt for de sidste %s"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "Analytics is connected"
+msgstr "Analytics er tilsluttet"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Unique Pageviews"
+msgstr "Unikke sidevisninger"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Pageviews"
+msgstr "Sidevisninger"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Title"
+msgstr "Overskrift"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Goals Completed"
+msgstr "Målsætning fuldført"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Create a new goal"
+msgstr "Opret et nyt resultat"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Goals measure how well your site or app fulfills your target objectives."
+msgstr "Resultater måler, hvor godt dit websted eller din app opfylder dine mål med resultaterne."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Use goals to measure success."
+msgstr "Brug resultater til at måle succes."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "%"
+msgstr "%"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Unique Visitors from Search"
+msgstr "Unikke besøgende fra søgninger"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Revenue"
+msgstr "Indtægter"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Top Earning Pages"
+msgstr "Bedst indtjenings sider"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Users Traffic Summary"
+msgstr "Oversigt over bruger trafik"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Views"
+msgstr "Visninger"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Most popular content"
+msgstr "Mest populære indhold"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-module.js:40
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Session Duration"
+msgstr "Varighed af session"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-module.js:40
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Bounce Rate"
+msgstr "Afvisningsprocent"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Page Title"
+msgstr "Side overskrift"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "How people found your site."
+msgstr "Hvordan folk fandt dit websted."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Percent"
+msgstr "Procent"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Source"
+msgstr "Kilde"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:33
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:34
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:36
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:38
+#: dist/assets/js/googlesitekit-settings.js:39
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:38
+#: dist/assets/js/googlesitekit-dashboard-details.js:39
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:38
+#: dist/assets/js/googlesitekit-dashboard.js:39
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:38
+#: dist/assets/js/googlesitekit-module.js:39
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "See full stats in Analytics"
+msgstr "Se fuld statistik i Analytics"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "How people found your page."
+msgstr "Hvordan folk fandt dit websted."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "All Traffic"
+msgstr "Alt Trafik"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Total Sessions"
+msgstr "Sessioner i alt"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Total Users"
+msgstr "Brugere i alt"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgid "Ad blocker detected, you need to disable it to get the AdSense latest data."
+msgstr "Annonceblokerer registreret, skal du deaktivere det for at få de nyeste AdSense-data."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgid "check module page"
+msgstr "kontrollere modul side"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgid "Site Kit has placed AdSense code on your site, "
+msgstr "Site Kit har placeret AdSense-kode på dit websted,"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:37
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Performance over previous 28 days"
+msgstr "Præstation over de foregående 28 dage"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:37
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Advanced Settings"
+msgstr "Avancerede indstillinger"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "Estimated earnings"
+msgstr "Anslået indtjening"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "AdSense is not connected"
+msgstr "AdSense er ikke tilsluttet"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "AdSense is connected"
+msgstr "AdSense er tilsluttet"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:37
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Page RPM"
+msgstr "Side RPM"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "This month"
+msgstr "Denne måned"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "Last 7 days"
+msgstr "Seneste 7 dage"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "Yesterday"
+msgstr "I går"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "Today so far"
+msgstr "I dag indtil videre"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "Ad Impressions"
+msgstr "Annonce eksponeringer"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "Total Earnings"
+msgstr "Samlet indtjening"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "RPM"
+msgstr "RPM"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "Last 28 days"
+msgstr "Sidste 28 dage"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "How much you’re earning from your content through AdSense."
+msgstr "Hvor meget din indtjening var fra dit indhold via AdSence."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:37
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Earnings"
+msgstr "Indtjeninger"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "Back"
+msgstr "Tilbage"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgid "Ad blocker detected, you need to disable it in order to set up AdSense."
+msgstr "Annonceblokerer registreret, skal du deaktivere det for at konfigurere AdSense."
+
+#. translators: %s: Analytics tag ID
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "An existing analytics tag was found on your site with the ID %s. If later on you decide to replace this tag, Site Kit can place the new tag for you. Make sure you remove the old tag first."
+msgstr "Et eksisterende Analytics-tag blev fundet på dit websted med id'et %s. Hvis du senere beslutter dig for at udskifte dette tag, kan Site Kit placere det nye tag for dig. Sørg for at fjerne det gamle tag først."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "Looks like you don't have an Analytics account yet. Once you create it, click on \"Re-fetch my account\" and Site Kit will locate it."
+msgstr "Det ser ud til, at du endnu ikke har en Analytics-konto. Når du har oprettet den, skal du klikke på \"Hent min konto igen\" og site Kit vil lokaliser den."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:3
+msgid "Configure Analytics"
+msgstr "Konfigurere Analytics"
+
+#. translators: %s: Error message
+#: dist/assets/js/googlesitekit-modules-analytics.js:3
+msgid "Please select the account information below. You can change this view later in your settings."
+msgstr "Vælg venligst konto oplysningerne nedenfor. Du kan ændre denne visning senere i dine indstillinger."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Analytics Code Snippet"
+msgstr "Analytics kodestykke"
+
+#. translators: %s: Analytics tag ID
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "View"
+msgstr "Vis"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Property"
+msgstr "Ejendom"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Inserted by another plugin or theme"
+msgstr "Indsat af et andet plugin eller tema"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Snippet is not inserted"
+msgstr "Kodestykket er ikke blevet indsat"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Snippet is inserted"
+msgstr "Kodestykke er indsat"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Learn more"
+msgstr "Lær mere"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:23
+#: dist/assets/js/googlesitekit-module.js:24
+msgid "Placing two tags at the same time is not recommended."
+msgstr "Det frarådes at placere to tags samtidigt."
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Set up a new property"
+msgstr "Opsæt en ny ejendom"
+
+#. translators: %s: Error message
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:24
+#: dist/assets/js/googlesitekit-wp-dashboard.js:26
+#: dist/assets/js/googlesitekit-settings.js:26
+#: dist/assets/js/googlesitekit-dashboard-details.js:26
+#: dist/assets/js/googlesitekit-dashboard.js:26
+#: dist/assets/js/googlesitekit-module.js:26
+#: dist/assets/js/googlesitekit-modules-adsense.js:3
+#: dist/assets/js/googlesitekit-modules-analytics.js:3
+msgid "Error: %s"
+msgstr "Fejl: %s"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+msgid "Confirm & Continue"
+msgstr "Bekræft & Fortsæt"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+msgid "Set up a new container"
+msgstr "Konfigurer en ny beholder"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+msgid "Container"
+msgstr "Container"
+
+#. translators: %s: the existing container ID.
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+msgid "Please select your Tag Manager account and container below, the snippet will be inserted automatically on your site."
+msgstr "Vælg din Tag Manager-konto og indholdsboks nedenfor og kodestykket bliver indsat automatisk på dit websted."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "Re-fetch My Account"
+msgstr "Hent min konto igen"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "Create an account"
+msgstr "Opret en konto"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Container ID"
+msgstr "Container ID"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:23
+#: dist/assets/js/googlesitekit-module.js:24
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Account"
+msgstr "Konto"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "You currently don’t have access to this Google Tag Manager account. You can either request access from your team, or remove this Google Tag Manager snippet and connect to a different account."
+msgstr "Du har i øjeblikket ikke adgang til denne Google Tag Manager-konto. Du kan enten anmode om adgang fra dit team eller fjerne dette Google Tag Manager kodestykke og oprette forbindelse til en anden konto."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "We didn’t find an associated Google Tag Manager account, would you like to set it up now? If you’ve just set up an account please re-fetch your account to sync it with Site Kit."
+msgstr "Vi fandt ikke en tilknyttet Google Tag Manager-konto, vil du gerne konfigurere den nu? Hvis du lige har oprettet en konto, skal du hente din konto igen for at synkronisere den med Site Kit."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Time to become fully interactive"
+msgstr "Tid til at blive fuldt interaktiv"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Real user speed data"
+msgstr "Reelle bruger hastighedsdata"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Desktop"
+msgstr "Computer"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Mobile"
+msgstr "Mobilenheder"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "An unknown error occurred while trying to fetch PageSpeed Insights data. Please try again later."
+msgstr "Der opstod en ukendt fejl under forsøg på at hente PageSpeed Insights-data. Prøv igen senere."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Configure Optimize"
+msgstr "Konfigurer Optimize"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Error: Not a valid Optimize ID."
+msgstr "Fejl: Er ikke et gyldigt Optimize ID."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Optimize Container ID"
+msgstr "Optimize Container ID"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "You can locate this here."
+msgstr "Du kan finde det her."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Please copy and paste your Optimize ID to complete your setup."
+msgstr "Kopier og indsæt dit Optimize-id for at fuldføre konfigurationen."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Error: AMP experiment settings are not in a valid JSON format."
+msgstr "Fejl: indstillingerne for AMP-eksperimentet er ikke i et gyldigt JSON-format."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Learn More."
+msgstr "Lær mere."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Please input your AMP experiment settings in JSON format below."
+msgstr "Indtast dine AMP-eksperiment indstillinger i JSON-format nedenfor."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "for how to implement Optimize tag in Google Analytics Code Snippet"
+msgstr "for hvordan du implementerer Optimer tag i Google Analytics-kodestykket"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "You disabled analytics auto insert snippet. If You are using Google Analytics code snippet, add the code below:"
+msgstr "Du har deaktiveret Analytics automatiske indsættelse af kodestykke. Hvis du bruger Google Analytics-kodestykke, skal du tilføje nedenstående kode:"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "for how to implement Optimize tag through your Tag Manager"
+msgstr "for at få implementeret Optimize-tag via din Tag Manager"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "You are using auto insert snippet with Tag Manager"
+msgstr "Du bruger automatisk indsættelse af kodestykke med Tag Manager"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Optimize Container ID missing, press \"edit\" to add"
+msgstr "Optimize Container ID mangler. Tryk \"rediger\" for at tilføje"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Your Optimize Container ID"
+msgstr "Dit Optimize Container ID"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:17
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:19
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:19
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:19
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:19
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:19
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Complete activation"
+msgstr "Komplet aktivering"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:17
+#: dist/assets/js/googlesitekit-wp-dashboard.js:19
+#: dist/assets/js/googlesitekit-settings.js:19
+#: dist/assets/js/googlesitekit-dashboard-details.js:19
+#: dist/assets/js/googlesitekit-dashboard.js:19
+#: dist/assets/js/googlesitekit-module.js:19
+msgid "%s module needs to be configured"
+msgstr "%s modul skal konfigureres"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:16
+#: dist/assets/js/googlesitekit-wp-dashboard.js:18
+#: dist/assets/js/googlesitekit-settings.js:18
+#: dist/assets/js/googlesitekit-dashboard-details.js:18
+#: dist/assets/js/googlesitekit-dashboard.js:18
+#: dist/assets/js/googlesitekit-module.js:18
+msgid "%s activation"
+msgstr "%s aktivering"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:23
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Counted each time your content appears in search results"
+msgstr "Tælles, hver gang dit indhold vises i søgeresultaterne"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:23
+#: dist/assets/js/googlesitekit-module.js:37
+#: dist/assets/js/googlesitekit-module.js:40
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Impressions"
+msgstr "Eksponeringer"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:23
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Number of times users clicked on your content in search results"
+msgstr "Antal gange brugere har klikket på dit indhold i søgeresultaterne"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:23
+#: dist/assets/js/googlesitekit-module.js:40
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Clicks"
+msgstr "Antal klik"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:23
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "Most searched for keywords related to your content"
+msgstr "Fleste søgninger efter søgeord relateret til dit indhold"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Keyword"
+msgstr "Søgeord"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Percentage of sessions"
+msgstr "Procent af sessioner"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Percentage"
+msgstr "Procent"
+
+#. translators: %s: date range
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Number of sessions users had on your website over last %s"
+msgstr "Antal sessioner, som brugerne havde på dit websted over %s"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:19
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-settings.js:21
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:21
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:21
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-module.js:21
+#: dist/assets/js/googlesitekit-module.js:40
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Sessions"
+msgstr "Sessioner"
+
+#. translators: %s: date range
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:19
+#: dist/assets/js/googlesitekit-wp-dashboard.js:21
+#: dist/assets/js/googlesitekit-settings.js:21
+#: dist/assets/js/googlesitekit-dashboard-details.js:21
+#: dist/assets/js/googlesitekit-dashboard.js:21
+#: dist/assets/js/googlesitekit-module.js:21
+msgid "Number of new users to visit your page over last %s"
+msgstr "Antal nye brugere, der besøgte dit websted over %s"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:17
+#: dist/assets/js/googlesitekit-wp-dashboard.js:19
+#: dist/assets/js/googlesitekit-settings.js:19
+#: dist/assets/js/googlesitekit-dashboard-details.js:19
+#: dist/assets/js/googlesitekit-dashboard.js:19
+#: dist/assets/js/googlesitekit-module.js:19
+msgid "New Users"
+msgstr "Nye brugere"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:17
+#: dist/assets/js/googlesitekit-wp-dashboard.js:19
+#: dist/assets/js/googlesitekit-settings.js:19
+#: dist/assets/js/googlesitekit-dashboard-details.js:19
+#: dist/assets/js/googlesitekit-dashboard.js:19
+#: dist/assets/js/googlesitekit-module.js:19
+msgid "Number of users that originated from that traffic"
+msgstr "Antal brugere, der stammer fra den pågældende trafik"
+
+#. translators: %s: an abbreviated number in thousands.
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:17
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:19
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-settings.js:19
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:19
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:19
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-module.js:19
+#: dist/assets/js/googlesitekit-module.js:40
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Users"
+msgstr "Brugere"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:17
+#: dist/assets/js/googlesitekit-wp-dashboard.js:19
+#: dist/assets/js/googlesitekit-settings.js:19
+#: dist/assets/js/googlesitekit-dashboard-details.js:19
+#: dist/assets/js/googlesitekit-dashboard.js:19
+#: dist/assets/js/googlesitekit-module.js:19
+msgid "Medium refers to where your traffic originated from"
+msgstr "Medium henviser til, hvor din trafik stammer fra"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:17
+#: dist/assets/js/googlesitekit-wp-dashboard.js:19
+#: dist/assets/js/googlesitekit-settings.js:19
+#: dist/assets/js/googlesitekit-dashboard-details.js:19
+#: dist/assets/js/googlesitekit-dashboard.js:19
+#: dist/assets/js/googlesitekit-module.js:19
+msgid "Medium"
+msgstr "Medium"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:17
+#: dist/assets/js/googlesitekit-wp-dashboard.js:19
+#: dist/assets/js/googlesitekit-settings.js:19
+#: dist/assets/js/googlesitekit-dashboard-details.js:19
+#: dist/assets/js/googlesitekit-dashboard.js:19
+#: dist/assets/js/googlesitekit-module.js:19
+msgid "Connect Accounts"
+msgstr "Tilslut konti"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:17
+#: dist/assets/js/googlesitekit-wp-dashboard.js:19
+#: dist/assets/js/googlesitekit-settings.js:19
+#: dist/assets/js/googlesitekit-dashboard-details.js:19
+#: dist/assets/js/googlesitekit-dashboard.js:19
+#: dist/assets/js/googlesitekit-module.js:19
+msgid "Connect Analytics with AdSense to create a powerful team that shows robust metrics for your site."
+msgstr "Forbind Analytics med AdSense for at oprette et effektivt team, der viser robuste målinger for dit websted."
+
+#: includes/Core/Notifications/Notification.php:71
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-module.js:17
+msgid "Dismiss"
+msgstr "Afvis"
+
+#. translators: %d is the number of notifications
+#. translators: %s: Number of days matched.
+#: dist/assets/js/googlesitekit-activation.js:15
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:7
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:9
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:9
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:9
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:13
+#: dist/assets/js/googlesitekit-module.js:9
+#: dist/assets/js/googlesitekit-module.js:17
+#: dist/assets/js/googlesitekit-modules-adsense.js:22
+#: dist/assets/js/googlesitekit-modules-analytics.js:14
+msgid "Source:"
+msgstr "Kilde:"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:11
+#: dist/assets/js/googlesitekit-settings.js:11
+#: dist/assets/js/googlesitekit-dashboard-details.js:11
+#: dist/assets/js/googlesitekit-dashboard.js:11
+#: dist/assets/js/googlesitekit-module.js:11
+msgid "0-49 (slow)"
+msgstr "0-49 (langsom)"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:11
+#: dist/assets/js/googlesitekit-settings.js:11
+#: dist/assets/js/googlesitekit-dashboard-details.js:11
+#: dist/assets/js/googlesitekit-dashboard.js:11
+#: dist/assets/js/googlesitekit-module.js:11
+msgid "50-89 (average)"
+msgstr "50-89 (gennemsnit)"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:11
+#: dist/assets/js/googlesitekit-settings.js:11
+#: dist/assets/js/googlesitekit-dashboard-details.js:11
+#: dist/assets/js/googlesitekit-dashboard.js:11
+#: dist/assets/js/googlesitekit-module.js:11
+msgid "90-100 (fast)"
+msgstr "90-100 (hurtigt)"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:11
+#: dist/assets/js/googlesitekit-settings.js:11
+#: dist/assets/js/googlesitekit-dashboard-details.js:11
+#: dist/assets/js/googlesitekit-dashboard.js:11
+#: dist/assets/js/googlesitekit-module.js:11
+msgid "Scale:"
+msgstr "Skala:"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:11
+#: dist/assets/js/googlesitekit-settings.js:11
+#: dist/assets/js/googlesitekit-dashboard-details.js:11
+#: dist/assets/js/googlesitekit-dashboard.js:11
+#: dist/assets/js/googlesitekit-module.js:11
+msgid "Performance"
+msgstr "Ydeevne"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:11
+#: dist/assets/js/googlesitekit-settings.js:11
+#: dist/assets/js/googlesitekit-dashboard-details.js:11
+#: dist/assets/js/googlesitekit-dashboard.js:11
+#: dist/assets/js/googlesitekit-module.js:11
+msgid "Slow"
+msgstr "Langsom"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:11
+#: dist/assets/js/googlesitekit-settings.js:11
+#: dist/assets/js/googlesitekit-dashboard-details.js:11
+#: dist/assets/js/googlesitekit-dashboard.js:11
+#: dist/assets/js/googlesitekit-module.js:11
+msgid "Average"
+msgstr "Gennemsnit"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:11
+#: dist/assets/js/googlesitekit-settings.js:11
+#: dist/assets/js/googlesitekit-dashboard-details.js:11
+#: dist/assets/js/googlesitekit-dashboard.js:11
+#: dist/assets/js/googlesitekit-module.js:11
+msgid "Fast"
+msgstr "Hurtig"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:11
+#: dist/assets/js/googlesitekit-settings.js:11
+#: dist/assets/js/googlesitekit-dashboard-details.js:11
+#: dist/assets/js/googlesitekit-dashboard.js:11
+#: dist/assets/js/googlesitekit-module.js:11
+msgid "Loading chart…"
+msgstr "Indlæser diagram..."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:9
+#: dist/assets/js/googlesitekit-wp-dashboard.js:11
+#: dist/assets/js/googlesitekit-settings.js:11
+#: dist/assets/js/googlesitekit-dashboard-details.js:11
+#: dist/assets/js/googlesitekit-dashboard.js:11
+#: dist/assets/js/googlesitekit-module.js:11
+msgid "%s data is not yet available, please check back later."
+msgstr "%s data er endnu ikke tilgængelige, du kan tjekke tilbage senere."
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:8
+#: dist/assets/js/googlesitekit-wp-dashboard.js:10
+#: dist/assets/js/googlesitekit-settings.js:10
+#: dist/assets/js/googlesitekit-dashboard-details.js:10
+#: dist/assets/js/googlesitekit-dashboard.js:10
+#: dist/assets/js/googlesitekit-module.js:10
+msgid "%s Gathering Data"
+msgstr "%s Indsamling af data"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:5
+#: dist/assets/js/googlesitekit-wp-dashboard.js:5
+#: dist/assets/js/googlesitekit-settings.js:5
+#: dist/assets/js/googlesitekit-dashboard-details.js:5
+#: dist/assets/js/googlesitekit-dashboard.js:5
+#: dist/assets/js/googlesitekit-module.js:5
+msgid "Data error in %s"
+msgstr "Datafejl i %s"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "reauthenticate your account"
+msgstr "godkend din konto igen"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "We’re unable to retrieve your data because your security token is expired or revoked. Please "
+msgstr "Vi kan ikke hente dine data, fordi dit sikkerhedstoken er udløbet eller tilbagekaldt. Vær så venlig "
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+msgid "Security Token Error"
+msgstr "Sikkerheds token fejl"
+
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgid "Create Account"
+msgstr "Opret konto"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+#: dist/assets/js/googlesitekit-modules-adsense.js:9
+msgid "You’ve already got an AdSense code on your site for this account, we recommend you use Site Kit to place code to get the most out of AdSense."
+msgstr "Du har allerede fået en AdSense-kode på dit websted til denne konto. Vi anbefaler, at du bruger Site Kit til at placere kode for at få mest muligt ud af AdSense."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:9
+msgid "Site Kit will place AdSense code on your site to connect your site to AdSense and help you get the most out of ads. This means Google will automatically place ads for you in all the best places."
+msgstr "Site Kit placerer AdSense-kode på dit website for at forbinde dit websted med AdSense og hjælpe dig med at få mest muligt ud af annoncerne. Det betyder, at Google automatisk placerer annoncer for dig alle de bedste steder."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgid "Let Site Kit place AdSense code on your site"
+msgstr "Lad Site Kit placere AdSense-kode på dit websted"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:22
+#: dist/assets/js/googlesitekit-wp-dashboard.js:24
+#: dist/assets/js/googlesitekit-settings.js:24
+#: dist/assets/js/googlesitekit-dashboard-details.js:24
+#: dist/assets/js/googlesitekit-dashboard.js:24
+#: dist/assets/js/googlesitekit-module.js:24
+#: dist/assets/js/googlesitekit-modules-analytics.js:10
+msgid "Let Site Kit place code on your site"
+msgstr "Lad Site Kit placere kode på dit websted"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:7
+#: dist/assets/js/googlesitekit-modules-adsense.js:3
+#: dist/assets/js/googlesitekit-modules-adsense.js:9
+msgid "Continue"
+msgstr "Fortsæt"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:3
+msgid "Site Kit will place AdSense code on every page across your site. This means Google will automatically place ads for you in all the best places."
+msgstr "Site Kit vil placere AdSense kode på hver side på tværs af dit websted. Det betyder, at Google automatisk placerer annoncer for dig på alle de bedste steder."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:3
+msgid "Create your AdSense account"
+msgstr "Opret din AdSense konto"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:3
+msgid "Create AdSense Account"
+msgstr "Opret AdSense konto"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Let Site Kit place AdSense code on your site to get your site approved"
+msgstr "Lad Site Kit placere AdSense-kode på dit websted for at få dit websted godkendt"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:9
+msgid "Looks like you’re already using AdSense"
+msgstr "Det ser ud til, at du allerede bruger AdSense"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "Go to AdSense to find out how to fix the issue"
+msgstr "Gå til AdSense for at finde ud af, hvordan du løser problemet"
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+msgid "You need to fix some things before we can connect Site Kit to your AdSense account."
+msgstr "Du skal rette nogle ting, før vi kan forbinde Site Kit til din AdSense-konto."
+
+#: dist/assets/js/googlesitekit-modules-adsense.js:7
+#: dist/assets/js/googlesitekit-modules-adsense.js:11
+msgid "Your site isn’t ready to show ads yet"
+msgstr "Dit websted er endnu ikke klar til at vise annoncer"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+msgid "Too many requests have been sent within a given time span. Please reload this page again in a few seconds"
+msgstr "Der er sendt for mange anmodninger inden for et givet tidsrum. Indlæs denne side igen om nogle få sekunder"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Unidentified error"
+msgstr "Uidentificeret fejl"
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Start gaining insights on how your site is performing in search by viewing one of your published posts."
+msgstr "Begynd at få indblik i, hvordan dit websted klarer sig i søgninger, ved at se et af dine udgivende indlæg."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Start gaining insights on how your site is performing in search by editing one of your posts."
+msgstr "Begynd at få indblik i, hvordan dit websted klarer sig i søgninger, ved at redigere et af dine indlæg."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Start gaining insights on how your site is performing in search by visiting the dashboard."
+msgstr "Begynd at få indblik i, hvordan dit websted klarer sig i søgninger, ved at besøge kontrolpanelet."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Set Up Site Kit"
+msgstr "Konfigurer Site Kit"
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Setup only takes a few minutes. Faster than brewing a cup of coffee."
+msgstr "Installationen tager kun et par minutter. Hurtigere end at brygge en kop kaffe."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Connect your account"
+msgstr "Tilslut din konto"
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Connecting your account only takes a few minutes. Faster than brewing a cup of coffee."
+msgstr "Det tager kun et par minutter at oprette forbindelse til din konto. Hurtigere end at brygge en kop kaffe."
+
+#. translators: %s: an abbreviated number in thousands.
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "You’re one step closer to connecting Google services to your WordPress site."
+msgstr "Du er et skridt tættere på at forbinde Google-tjenester til dit WordPress-websted."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Powerful tools integrated into your WordPress dashboard."
+msgstr "Kraftfulde værktøjer integreret i dit WordPress Kontrolpanel."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Track your site’s search performance with Google Search Console and browse around for more webmaster resources."
+msgstr "Spor dit websites søgeresultater med Google Search Console, og surf rundt efter flere Webmaster ressourcer."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "You want to be found on the web. We want to help."
+msgstr "Du ønsker at blive fundet på nettet. Vi vil gerne hjælpe."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Learn More"
+msgstr "Lær mere"
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Google Analytics gives you the free tools you need to analyze data for your business in one place."
+msgstr "Google Analytics giver dig de gratis værktøjer, du har brug for til at analysere data for din virksomhed på ét sted."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Analyze your site’s performance and get actionable tips to improve its speed across all devices."
+msgstr "Analyser dit websteds ydeevne, og få brugbare tip til at forbedre hastigheden på tværs af alle enheder."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgctxt "Service name"
+msgid "PageSpeed"
+msgstr "PageSpeed"
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Make your content work for you -- earning money by placing ads on your site."
+msgstr "Få dit indhold til at fungere for dig – at tjene penge ved at placere annoncer på dit website."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Understand your customers better: track how they navigate across your site and evaluate the performance of your products or posts."
+msgstr "Forstå dine kunder bedre: Spor, hvordan de navigerer på tværs af dit website, og vurder effektiviteten af dine varer eller sider."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Keep track of how people find you in Search, and how many of them visit your site."
+msgstr "Hold styr på, hvordan folk finder dig i Google Søg, og hvor mange af dem der besøger dit website."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Bringing the best of Google tools to WordPress."
+msgstr "Giver dig det bedste fra Google værktøjerne til WordPress."
+
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Welcome to Site Kit."
+msgstr "Velkommen til Site Kit."
+
+#: dist/assets/js/googlesitekit-activation.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:19
+#: dist/assets/js/googlesitekit-module.js:17
+msgid "Note: "
+msgstr "Bemærk: "
+
+#: dist/assets/js/googlesitekit-activation.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:19
+#: dist/assets/js/googlesitekit-module.js:17
+msgid "AdSense & Analytics metrics for top pages"
+msgstr "AdSence & Analytics data for top placeret sider"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:1
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+#: dist/assets/js/chunk-googlesitekit-setup-wrapper-e13346873edace467a15.js:1
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:1
+msgid "Disconnecting Site Kit by Google will remove your access to all services. After disconnecting, you will need to re-authorize to restore service."
+msgstr "Frakobling af Site Kit by Google vil fjerne din adgang til alle tjenester. Efter frakoblingen, skal du autorisere din konto igen for, at genskabe tjenesterne."
+
+#: dist/assets/js/googlesitekit-activation.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:1
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-dashboard-splash.js:19
+#: dist/assets/js/googlesitekit-module.js:17
+#: dist/assets/js/googlesitekit-module.js:37
+#: dist/assets/js/chunk-googlesitekit-setup-wrapper-e13346873edace467a15.js:1
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:1
+msgid "Disconnect"
+msgstr "Afbryd"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:1
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-module.js:37
+#: dist/assets/js/chunk-googlesitekit-setup-wrapper-e13346873edace467a15.js:1
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:1
+msgid "User Avatar"
+msgstr "Bruger Avatar"
+
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:5
+msgid "The Site Kit service will guide you through 3 simple setup steps."
+msgstr "Site Kit tjenesten vil fører dig gennem 3 enkle opsætnings trin."
+
+#. translators: %s is the site's hostname. (e.g. example.com)
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:5
+msgid "Site Kit will no longer have access to your account. If you’d like to reconnect Site Kit, click \"Start Setup\" below to generate new credentials."
+msgstr "Site Kit vil ikke længere have adgang til din konto. Hvis du vil forbinde til Site Kit igen, skal du klikke på \"Start opsætning\" nedenfor, for at generere nye legitimations oplysninger."
+
+#. translators: %s is the site's hostname. (e.g. example.com)
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:5
+msgid "You revoked access to Site Kit for %s"
+msgstr "Du tilbagekaldte adgangen til Site Kite for %s"
+
+#: dist/assets/js/googlesitekit-dashboard.js:46
+msgid "Site Overview"
+msgstr "Websted Oversigt"
+
+#: dist/assets/js/googlesitekit-activation.js:2
+#: dist/assets/js/googlesitekit-settings.js:35
+#: dist/assets/js/googlesitekit-dashboard-details.js:35
+#: dist/assets/js/googlesitekit-dashboard.js:35
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:2
+#: dist/assets/js/googlesitekit-module.js:35
+#: dist/assets/js/chunk-googlesitekit-setup-wrapper-e13346873edace467a15.js:1
+msgid "Connect Service"
+msgstr "Forbind service"
+
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+msgid "Detailed Page Stats"
+msgstr "Detaljeret side statistik"
+
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+msgid "Back to the Site Kit Dashboard"
+msgstr "Tilbage til Site Kit Kontrolpanel"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Admin Settings"
+msgstr "Admin indstillinger"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Connect More Services"
+msgstr "Forbind flere tjenester"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Connected Services"
+msgstr "Tilsluttet tjenester"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Tracking"
+msgstr "Sporing"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Site Kit is connected"
+msgstr "Site Kit er tilsluttet"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Plugin Status"
+msgstr "Plugin status"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "We’re working on adding new services to Site Kit by Google all the time, so please check back in the future."
+msgstr "Vi arbejder på, at tilføje yderligere tjenester til Site Kit by Google hele tiden, så tjek tilbage igen fremover."
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Congrats, you’ve connected all services!"
+msgstr "Sådan, du har tilsluttet alle tjenester!"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Connect More Services to Gain More Insights"
+msgstr "Forbind flere tjenester for at få mere indsigt"
+
+#. translators: %s: module name
+#: dist/assets/js/googlesitekit-settings.js:57
+msgid "these active modules depend on %s and will also be disconnected: "
+msgstr "disse aktive moduler afhænger af %s og vil også blive afbrudt: "
+
+#: dist/assets/js/googlesitekit-settings.js:55
+msgid "Disconnect %s from Site Kit?"
+msgstr "Afbryd %s fra Site Kit?"
+
+#. translators: %s: module name
+#: dist/assets/js/googlesitekit-settings.js:54
+msgid "See full details in %s"
+msgstr "Se alle detaljer i %s"
+
+#. translators: %s: module name
+#: dist/assets/js/googlesitekit-settings.js:52
+msgid "Disconnect %s from Site Kit"
+msgstr "Afbryd %s fra Site Kit"
+
+#: dist/assets/js/googlesitekit-settings.js:50
+msgid "Edit"
+msgstr "Rediger"
+
+#: dist/assets/js/googlesitekit-activation.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-settings.js:50
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:46
+#: dist/assets/js/googlesitekit-dashboard-splash.js:19
+#: dist/assets/js/googlesitekit-module.js:17
+#: dist/assets/js/chunk-googlesitekit-setup-wrapper-e13346873edace467a15.js:1
+msgid "Cancel"
+msgstr "Annuller"
+
+#: dist/assets/js/googlesitekit-settings.js:50
+msgid "Not Connected"
+msgstr "Ikke tilsluttet"
+
+#. translators: %s: module name.
+#: dist/assets/js/googlesitekit-activation.js:2
+#: dist/assets/js/googlesitekit-settings.js:35
+#: dist/assets/js/googlesitekit-settings.js:46
+#: dist/assets/js/googlesitekit-settings.js:50
+#: dist/assets/js/googlesitekit-dashboard-details.js:35
+#: dist/assets/js/googlesitekit-dashboard.js:35
+#: dist/assets/js/googlesitekit-dashboard-splash.js:2
+#: dist/assets/js/googlesitekit-module.js:35
+msgid "Connected"
+msgstr "Tilsluttet"
+
+#. translators: %s: module name.
+#: dist/assets/js/googlesitekit-settings.js:50
+msgid "%s is not connected"
+msgstr "%s er ikke tilsluttet"
+
+#. translators: %s: module name.
+#: dist/assets/js/googlesitekit-settings.js:48
+msgid "%s is connected"
+msgstr "%s er tilsluttet"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-settings.js:46
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Error:"
+msgstr "Fejl:"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Confirm Changes"
+msgstr "Bekræft ændringer"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "By disconnecting the %s module from Site Kit, you will no longer have access to:"
+msgstr "Ved at frakoble %s modulet fra Site Kit, vil du ikke længere have adgang til:"
+
+#. translators: %s: privacy policy URL
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Section locked while editing"
+msgstr "Sektion er låst under redigering"
+
+#: dist/assets/js/googlesitekit-settings.js:61
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgid "continue module setup"
+msgstr "fortsæt modul opsætningen"
+
+#. translators: %s: module name
+#: dist/assets/js/googlesitekit-settings.js:61
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgid "Setup incomplete: "
+msgstr "Installationen er ufuldstændig: "
+
+#. translators: %s: module name
+#: dist/assets/js/googlesitekit-settings.js:61
+msgid "Set up %s"
+msgstr "Konfigurer %s"
+
+#. translators: %s: module name
+#: dist/assets/js/googlesitekit-settings.js:59
+msgid "Set up Analytics to gain access to %s"
+msgstr "Konfigurer Analytics for at få adgang til %s"
+
+#. translators: %s: module name
+#: dist/assets/js/googlesitekit-activation.js:2
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-settings.js:35
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-settings.js:46
+#: dist/assets/js/googlesitekit-settings.js:57
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:35
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:35
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-dashboard-splash.js:2
+#: dist/assets/js/googlesitekit-module.js:17
+#: dist/assets/js/googlesitekit-module.js:35
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Internal Server Error"
+msgstr "Intern serverfejl"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Resetting this site will remove access to all services. After disconnecting, you will need to re-authorize your access to restore service."
+msgstr "Nulstilling af dette websted, vil fjerne adgangen til alle tjenester. Efter frakoblingen skal du autorisere din konto igen til gendannelses tjenesten."
+
+#: dist/assets/js/googlesitekit-settings.js:46
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Reset Site Kit"
+msgstr "Nulstil Site Kit"
+
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+msgid "Visit your Site Kit Dashboard"
+msgstr "Besøg Site Kit Kontrolpanel"
+
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+msgid "Set up analytics"
+msgstr "Konfigurer analytics"
+
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+msgid "See unique vistors, goal completions, top pages and more."
+msgstr "Se unikke besøgende, målsætninger, top placeret sider og meget mere."
+
+#. translators: %s: invalid account status identifier
+#: includes/Modules/AdSense.php:810
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+#: dist/assets/js/googlesitekit-module.js:37
+#: dist/assets/js/googlesitekit-modules-adsense.js:18
+msgctxt "Service name"
+msgid "AdSense"
+msgstr "AdSense"
+
+#: includes/Modules/PageSpeed_Insights.php:186
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:23
+#: dist/assets/js/googlesitekit-module.js:40
+msgctxt "Service name"
+msgid "PageSpeed Insights"
+msgstr "PageSpeed indsigt"
+
+#. translators: %s: Error message
+#: includes/Modules/Tag_Manager.php:791
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:24
+#: dist/assets/js/googlesitekit-wp-dashboard.js:26
+#: dist/assets/js/googlesitekit-settings.js:26
+#: dist/assets/js/googlesitekit-dashboard-details.js:26
+#: dist/assets/js/googlesitekit-dashboard.js:26
+#: dist/assets/js/googlesitekit-module.js:26
+msgctxt "Service name"
+msgid "Tag Manager"
+msgstr "Tag Manager"
+
+#: includes/Modules/Search_Console.php:492
+msgid "https://search.google.com/search-console/about"
+msgstr "https://search.google.com/search-console/about"
+
+#: includes/Modules/Search_Console.php:487
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:37
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-wp-dashboard.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:7
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-settings.js:42
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:42
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:42
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+#: dist/assets/js/googlesitekit-module.js:40
+#: dist/assets/js/googlesitekit-module.js:42
+#: dist/assets/js/googlesitekit-module.js:44
+msgctxt "Service name"
+msgid "Search Console"
+msgstr "Search Console"
+
+#. translators: %s: an abbreviated number in thousands.
+#: includes/Modules/Analytics.php:1289
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:32
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:34
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-wp-dashboard.js:34
+#: dist/assets/js/googlesitekit-wp-dashboard.js:36
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-settings.js:37
+#: dist/assets/js/googlesitekit-settings.js:39
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:37
+#: dist/assets/js/googlesitekit-dashboard-details.js:39
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:37
+#: dist/assets/js/googlesitekit-dashboard.js:39
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+#: dist/assets/js/googlesitekit-module.js:17
+#: dist/assets/js/googlesitekit-module.js:37
+#: dist/assets/js/googlesitekit-module.js:39
+#: dist/assets/js/googlesitekit-module.js:40
+#: dist/assets/js/googlesitekit-modules-analytics.js:6
+msgctxt "Service name"
+msgid "Analytics"
+msgstr "Analytics"
+
+#: includes/Modules/Optimize.php:289
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgctxt "Service name"
+msgid "Optimize"
+msgstr "Optimize"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:39
+#: dist/assets/js/googlesitekit-wp-dashboard.js:41
+#: dist/assets/js/googlesitekit-settings.js:44
+#: dist/assets/js/googlesitekit-dashboard-details.js:44
+#: dist/assets/js/googlesitekit-dashboard.js:44
+#: dist/assets/js/googlesitekit-module.js:44
+msgid "No results found"
+msgstr "Der blev ikke fundet nogen resultater"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Reset"
+msgstr "Nulstil"
+
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Close"
+msgstr "Luk"
+
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Day"
+msgstr "Dag"
+
+#: includes/Core/Authentication/Authentication.php:808
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:21
+#: dist/assets/js/googlesitekit-wp-dashboard.js:23
+#: dist/assets/js/googlesitekit-settings.js:23
+#: dist/assets/js/googlesitekit-dashboard-details.js:23
+#: dist/assets/js/googlesitekit-dashboard.js:23
+#: dist/assets/js/googlesitekit-module.js:23
+msgid "Click here"
+msgstr "Klik her"
+
+#: includes/Core/Authentication/Authentication.php:804
+msgid "You need to reauthenticate your Google account."
+msgstr "Du skal autorisere igen med din Google konto."
+
+#. translators: %s: error code from API
+#: includes/Core/Authentication/Clients/OAuth_Client.php:945
+msgid "Unknown Error (code: %s)."
+msgstr "Ukendt fejl (kode: %s)."
+
+#. translators: 1: error code from API, 2: URL to re-authenticate
+#: includes/Core/Authentication/Authentication.php:863
+msgid "Setup Error (code: %1$s). <a href=\"%2$s\">Re-authenticate with Google</a>"
+msgstr "Opsætningsfejl (kode: %1$s). <a href=\"%2$s\">Autorisere igen med Google</a>"
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:942
+msgid "Unable to receive access token because of an unsupported grant type."
+msgstr "Kunne ikke modtage adgangs token på grund af en ikke-understøttet støttetype."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:940
+msgid "Unable to receive access token because of an unauthorized client."
+msgstr "Kunne ikke modtage adgangs token på grund af en uautoriseret klient."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:938
+msgid "Unable to receive access token because of an invalid authorization code or refresh token."
+msgstr "Kunne ikke modtage adgangs token på grund af en ugyldig autorisationskode eller opdatering token."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:936
+msgid "Unable to receive access token because of an invalid client."
+msgstr "Kunne ikke modtage adgangs token på grund af en ugyldig klient."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:934
+msgid "Unable to receive access token because of an invalid OAuth request."
+msgstr "Kunne ikke modtage adgangs token på grund af en ugyldig OAuth forespørgsel."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:929
+msgid "Unable to receive access token because of an unknown error."
+msgstr "Kunne ikke modtage adgangs token på grund af en ukendt fejl."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:927
+msgid "Unable to receive access token because of an empty authorization code."
+msgstr "Kunne ikke modtage adgangs token på grund af en tom autorisationskode."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:925
+msgid "Internal error that the Google login redirect failed."
+msgstr "Intern fejl som Google log ind omdirigeringen fejlede."
+
+#: includes/Core/Authentication/Clients/OAuth_Client.php:923
+msgid "Unable to refresh access token, as no refresh token exists."
+msgstr "Kunne ikke opdater adgangs token, da der ikke findes noget opdaterings token."
+
+#: includes/Core/Util/Activation.php:249
+msgid "Hello world!"
+msgstr "Hej verden!"
+
+#. translators: %s: privacy policy URL
+#: dist/assets/js/googlesitekit-activation.js:8
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-202a8f53c46e62aeded3.js:3
+#: dist/assets/js/googlesitekit-settings.js:46
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:3
+msgid "Help us improve the Site Kit plugin by allowing tracking of anonymous usage stats. All data are treated in accordance with <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Google Privacy Policy</a>"
+msgstr "Hjælp os med at forbedre Site Kit plugin'et ved, at tillade sporing af anonyme brugsstatistik. Alle data behandles i overensstemmelse med <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Googles privatlivspolitik</a>"
+
+#: dist/assets/js/googlesitekit-activation.js:11
+#: dist/assets/js/chunk-googlesitekit-setup-wizard-proxy-29b0da81d821910655c6.js:5
+msgid "Start setup"
+msgstr "Start opsætning"
+
+#: dist/assets/js/googlesitekit-activation.js:11
+msgid "Congratulations, the Site Kit plugin is now activated."
+msgstr "Tillykke, Site Kit plugin'et er nu aktiveret."
+
+#: includes/Modules/Analytics.php:275 includes/Modules/Tag_Manager.php:212
+#: includes/Modules/AdSense.php:276 includes/Core/Util/Debug_Data.php:203
+msgid "No"
+msgstr "Nej"
+
+#: includes/Modules/Analytics.php:275 includes/Modules/Tag_Manager.php:212
+#: includes/Modules/AdSense.php:276
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/Core/Modules/Modules.php:863
+msgid "List of slugs of other modules depending on the module."
+msgstr "Liste over slugs af andre moduler som er afhængige af modulet."
+
+#: includes/Core/Modules/Modules.php:855
+msgid "List of slugs of other modules that the module depends on."
+msgstr "Liste over slugs af andre moduler, som modulet afhænger af."
+
+#: includes/Core/Modules/Modules.php:850
+msgid "Whether the module setup has been completed."
+msgstr "Om modulopsætningen er fuldført."
+
+#: includes/Core/Modules/Modules.php:846
+msgid "Whether the module is active."
+msgstr "Om modulet er aktivt."
+
+#: includes/Core/Modules/Modules.php:841
+msgid "Whether the module is internal, thus without any UI."
+msgstr "Om modulet er internt, således uden nogen brugergrænseflade."
+
+#: includes/Core/Modules/Modules.php:835
+msgid "The module homepage."
+msgstr "Modulets hjemmeside."
+
+#: includes/Core/Modules/Modules.php:830
+msgid "Description of the module."
+msgstr "Beskrivelse af modulet."
+
+#: includes/Core/Modules/Modules.php:825
+msgid "Name of the module."
+msgstr "Navnet på modulet."
+
+#: includes/Core/REST_API/REST_Routes.php:265
+msgid "Text content to search for."
+msgstr "Tekstindhold, der skal søges efter."
+
+#: includes/Core/Authentication/Authentication.php:511
+#: includes/Core/Authentication/Authentication.php:534
+#: includes/Core/Authentication/Authentication.php:913
+msgid "Invalid nonce."
+msgstr "Ugyldigt input."
+
+#: includes/Core/REST_API/REST_Routes.php:158
+msgid "Missing request data."
+msgstr "Manglende anmodningsdata."
+
+#: includes/Core/Modules/Modules.php:740
+msgid "Module data point to address."
+msgstr "Modul data skal peges mod adresse."
+
+#: includes/Core/Modules/Modules.php:723
+msgid "Data to set."
+msgstr "Data, der skal angives."
+
+#: includes/Core/Modules/Modules.php:577 includes/Core/Modules/Modules.php:618
+#: includes/Core/Modules/Modules.php:677 includes/Core/Modules/Modules.php:735
+#: includes/Core/Modules/Modules.php:820
+msgid "Identifier for the module."
+msgstr "Identifikation for mudulet."
+
+#: includes/Core/Modules/Modules.php:540
+msgid "An internal error occurred while trying to deactivate the module."
+msgstr "Der opstod en intern fejl under forsøg på at deaktivere modulet."
+
+#. translators: %s: module name
+#: includes/Core/Modules/Modules.php:535
+msgid "Module cannot be deactivated because deactivation of dependant %s failed."
+msgstr "Modulet kan ikke deaktiveres, fordi deaktivering af den afhængelige %s mislykkedes."
+
+#: includes/Core/Modules/Modules.php:526
+msgid "An internal error occurred while trying to activate the module."
+msgstr "Der opstod en intern fejl under forsøg på at aktivere modulet."
+
+#. translators: %s: module name
+#: includes/Core/Modules/Modules.php:522
+msgid "Module cannot be activated because of inactive dependency %s."
+msgstr "Modulet kan ikke aktiveres på grund af en inaktiv afhængighed %s."
+
+#: includes/Core/Modules/Modules.php:596 includes/Core/Modules/Modules.php:634
+#: includes/Core/Modules/Modules.php:651 includes/Core/Modules/Modules.php:693
+#: includes/Core/Modules/Modules.php:710
+msgid "Invalid module slug."
+msgstr "Ugyldig modul-slug."
+
+#. translators: %s: module name
+#: includes/Core/Modules/Module.php:777
+msgid "Activate %s"
+msgstr "Aktiver %s"
+
+#: includes/Core/Modules/Module.php:762
+msgid "https://about.google/intl/en/"
+msgstr "https://about.google/intl/en/"
+
+#: includes/Core/Modules/Module.php:761
+msgid "https://www.google.com"
+msgstr "https://www.google.com"
+
+#. translators: %s: service identifier
+#: includes/Core/Modules/Module.php:687
+msgid "Google service identified by %s does not exist."
+msgstr "Google tjenesten identificeret af %s eksisterer ikke."
+
+#: includes/Core/Modules/Module.php:675 includes/Core/Modules/Module.php:679
+msgid "Google services not set up correctly."
+msgstr "Google tjenester er ikke konfigureret korrekt."
+
+#: includes/Core/Modules/Module.php:651
+msgid "Google client not set up correctly."
+msgstr "Google klient er ikke konfigureret korrekt."
+
+#. translators: %s: module slug
+#: includes/Core/Modules/Modules.php:282 includes/Core/Modules/Modules.php:303
+#: includes/Core/Modules/Modules.php:324
+msgid "Invalid module slug %s."
+msgstr "Ugyldig model-slug %s."
+
+#: includes/Core/Admin/Screen.php:128
+#: dist/assets/js/googlesitekit-activation.js:1
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-settings.js:34
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:34
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:34
+#: dist/assets/js/googlesitekit-dashboard-splash.js:1
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-module.js:34
+msgid "Site Kit"
+msgstr "Site Kit"
+
+#: includes/Core/Admin/Screens.php:264
+#: dist/assets/js/googlesitekit-settings.js:46
+msgid "Settings"
+msgstr "Indstillinger"
+
+#: includes/Core/Admin/Screens.php:221 includes/Core/Admin/Screens.php:284
+msgid "Dashboard"
+msgstr "Kontrolpanel"
+
+#: includes/Plugin.php:81
+msgid "Meanwhile, we recommend deactivating it in the network and re-activating it for an individual site."
+msgstr "I mellemtiden anbefaler vi, at deaktiver plugin'et på netværket og i stedet genaktiver det på et individuelt websted."
+
+#: includes/Plugin.php:73
+msgid "The Site Kit by Google plugin is <strong>not yet compatible</strong> for use in a WordPress multisite network, but we&#8217;re actively working on that."
+msgstr "Site Kit by Google plugin'et er <strong>endnu ikke kompatibel</strong> til brug i WordPress multisite netværk, men vi arbejder aktivt på dette."
+
+#: includes/Modules/Analytics.php:1294
+msgid "https://marketingplatform.google.com/about/analytics/"
+msgstr "https://marketingplatform.google.com/about/analytics/"
+
+#: includes/Modules/Analytics.php:1293
+msgid "https://analytics.google.com/analytics/web"
+msgstr "https://analytics.google.com/analytics/web"
+
+#: includes/Modules/Analytics.php:1291
+#: dist/assets/js/googlesitekit-dashboard-splash.js:9
+msgid "Get to know your customers."
+msgstr "Få kendskab til dine kunder."
+
+#: includes/Modules/Analytics.php:1290
+msgid "Get a deeper understanding of your customers. Google Analytics gives you the free tools you need to analyze data for your business in one place."
+msgstr "Få en dybere forståelse af dine kunder. Google Analytics giver dig de gratis værktøjer du behøver for, at analysere data for din forretning på ét sted."
+
+#: includes/Modules/Analytics.php:1005
+msgid "All Web Site Data"
+msgstr "Alle websteds data"
+
+#. translators: %s: Property id of the existing tag
+#: dist/assets/js/googlesitekit-modules-analytics.js:8
+msgid "We've detected there's already an existing Analytics tag on your site (ID %s), but your account doesn't seem to have access to this Analytics property. You can either remove the existing tag and connect to a different account, or request access to this property from your team."
+msgstr "Vi har registreret, at der allerede er et eksisterende Analytics-tag på dit websted (ID %s), men din konto ser ikke ud til at have adgang til denne Analytics-ejendom. Du kan enten fjerne det eksisterende tag og oprette forbindelse til en anden konto eller anmode om adgang til denne ejendom fra dit team."
+
+#: includes/Modules/Analytics.php:771
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:4
+#: dist/assets/js/googlesitekit-wp-dashboard.js:4
+#: dist/assets/js/googlesitekit-settings.js:4
+#: dist/assets/js/googlesitekit-dashboard-details.js:4
+#: dist/assets/js/googlesitekit-dashboard.js:4
+#: dist/assets/js/googlesitekit-dashboard-splash.js:4
+#: dist/assets/js/googlesitekit-module.js:4
+#: dist/assets/js/googlesitekit-modules-adsense.js:1
+#: dist/assets/js/googlesitekit-modules-analytics.js:1
+msgid "Analytics module needs to be configured."
+msgstr "Analytics Modulet skal konfigureres."
+
+#: includes/Modules/Analytics.php:784
+msgid "Analytics internal web property ID not set."
+msgstr "Analytics intern web-egendoms ID er ikke angivet."
+
+#: includes/Modules/Analytics.php:807
+msgid "Analytics profile ID not set."
+msgstr "Analytics Profil ID er ikke angivet."
+
+#: includes/Modules/Analytics.php:860
+msgid "Analytics property ID not set."
+msgstr "Analytics ejendoms ID er ikke angivet."
+
+#: includes/Modules/Analytics.php:644
+msgid "Analytics account ID not set."
+msgstr "Analytics Konto ID er ikke angivet."
+
+#: includes/Modules/Analytics.php:191
+#: dist/assets/js/googlesitekit-activation.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:19
+#: dist/assets/js/googlesitekit-module.js:17
+msgid "Top acquisition sources"
+msgstr "Top erhvervelse kilder"
+
+#: includes/Modules/Analytics.php:190
+#: dist/assets/js/googlesitekit-activation.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:19
+#: dist/assets/js/googlesitekit-module.js:17
+msgid "Top pages"
+msgstr "Top placeret sider"
+
+#: includes/Modules/Analytics.php:189
+#: dist/assets/js/googlesitekit-activation.js:21
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:15
+#: dist/assets/js/googlesitekit-wp-dashboard.js:17
+#: dist/assets/js/googlesitekit-settings.js:17
+#: dist/assets/js/googlesitekit-dashboard-details.js:17
+#: dist/assets/js/googlesitekit-dashboard.js:17
+#: dist/assets/js/googlesitekit-dashboard-splash.js:19
+#: dist/assets/js/googlesitekit-module.js:17
+msgid "Audience overview"
+msgstr "Målgruppeoversigt"
+
+#: includes/Modules/Site_Verification.php:353
+msgid "https://developers.google.com/site-verification/"
+msgstr "https://developers.google.com/site-verification/"
+
+#: includes/Modules/Site_Verification.php:352
+msgid "https://www.google.com/webmasters/verification/home"
+msgstr "https://www.google.com/webmasters/verification/home"
+
+#: includes/Modules/Site_Verification.php:350
+msgid "Verify ownership with Google Site Verification."
+msgstr "Bekræft ejerskab med Google Site Verifikation."
+
+#: includes/Modules/Site_Verification.php:349
+msgid "Google Site Verification allows you to manage ownership of your site."
+msgstr "Google Site Verification giver dig mulighed for, at administrere ejerskabet af dit websted."
+
+#: includes/Modules/Site_Verification.php:348
+msgid "Site Verification"
+msgstr "Websted vertifikation"
+
+#: includes/Modules/Site_Verification.php:172
+msgid "Unknown user."
+msgstr "Ukendt bruger."
+
+#: includes/Modules/Optimize.php:294
+msgid "https://marketingplatform.google.com/about/optimize/"
+msgstr "https://marketingplatform.google.com/about/optimize/"
+
+#: includes/Modules/Optimize.php:293
+msgid "https://optimize.google.com/optimize/home/"
+msgstr "https://optimize.google.com/optimize/home/"
+
+#: includes/Modules/Optimize.php:291
+msgid "Increase your CTR."
+msgstr "Forøg dit CTR."
+
+#: includes/Modules/Optimize.php:290
+msgid "Create free A/B tests that help you drive metric-based design solutions to your site."
+msgstr "Opret gatis A/B tests, der hjælper dig med, at drive en metrisk-baseret design løsning til dit websted."
+
+#: includes/Modules/Optimize.php:223
+msgid "AMP experiment JSON not set."
+msgstr "AMP eksperiment JSON er ikke indstillet."
+
+#: includes/Modules/Optimize.php:246
+msgid "Optimize ID not set."
+msgstr "Optimize ID er ikke angivet."
+
+#: includes/Modules/Optimize.php:76
+msgid "Probability and confidence calculations"
+msgstr "Beregninger af sandsynlighed og tillid"
+
+#: includes/Modules/Optimize.php:75
+msgid "Improvement tracking"
+msgstr "Forbedret sporing"
+
+#: includes/Modules/Optimize.php:74
+msgid "A/B or multivariate testing"
+msgstr "A/B eller flerdimensionale tests"
+
+#: includes/Modules/AdSense.php:815
+msgid "https://www.google.com/intl/en_us/adsense/start/"
+msgstr "https://www.google.com/intl/en_us/adsense/start/"
+
+#: includes/Modules/AdSense.php:812
+msgid "Monetize Your Site."
+msgstr "Tjen penge på dit websted."
+
+#: includes/Modules/AdSense.php:811
+msgid "Earn money by placing ads on your website. It’s free and easy."
+msgstr "Tjen penge ved at placere annoncer på dit websted. Det er gratis og nemt."
+
+#: includes/Modules/AdSense.php:739
+msgid "Invalid date range."
+msgstr "Ugyldig dato interval."
+
+#: includes/Modules/AdSense.php:545
+msgid "Go to AdSense"
+msgstr "Gå til AdSense"
+
+#: includes/Modules/AdSense.php:412
+msgid "AdSense account status not set."
+msgstr "AdSense konto status er ikke angivet."
+
+#: includes/Modules/AdSense.php:450
+msgid "AdSense client ID not set."
+msgstr "AdSense klient ID er ikke angivet."
+
+#: includes/Modules/AdSense.php:395
+msgid "AdSense account ID not set."
+msgstr "AdSense konto ID er ikke angivet."
+
+#: includes/Modules/AdSense.php:131
+msgid "Intelligent, automatic ad placement"
+msgstr "Intelligent, automatisk annonceplacering"
+
+#: includes/Modules/AdSense.php:130
+msgid "Monetize your website"
+msgstr "Tjen penge på dit websted"
+
+#: includes/Modules/Optimize.php:295 includes/Modules/Analytics.php:1295
+#: includes/Modules/Tag_Manager.php:797
+msgid "Marketing Platform"
+msgstr "Marketing Platform"
+
+#: includes/Modules/Tag_Manager.php:796
+msgid "https://marketingplatform.google.com/about/tag-manager/"
+msgstr "https://marketingplatform.google.com/about/tag-manager/"
+
+#: includes/Modules/Tag_Manager.php:795
+msgid "https://tagmanager.google.com/"
+msgstr "https://tagmanager.google.com/"
+
+#: includes/Modules/Tag_Manager.php:793
+msgid "Tag management made simple."
+msgstr "Tag håndtering er gjort enkelt."
+
+#: includes/Modules/Tag_Manager.php:792
+msgid "Tag Manager creates an easy to manage way to create tags on your site without updating code."
+msgstr "Tag Manager skaber en nem måde, at administrere tags på dit websted uden, at opdatere kode."
+
+#: includes/Modules/Tag_Manager.php:534
+msgid "Tag Manager container ID not set."
+msgstr "Tag Manager boks ID er ikke angivet."
+
+#: includes/Modules/Tag_Manager.php:472
+msgid "Tag Manager account ID not set."
+msgstr "Tag Manager konto ID er ikke angivet."
+
+#: includes/Modules/Tag_Manager.php:150
+msgid "Create tags without updating code"
+msgstr "Opret tags uden at opdatere kode"
+
+#: includes/Modules/PageSpeed_Insights.php:226
+msgid "Website performance reports for mobile and desktop"
+msgstr "Rapporter om websteds ydeevne for mobilenheder og computere"
+
+#: includes/Modules/PageSpeed_Insights.php:192 includes/Modules/AdSense.php:816
+msgid "Additional Google Services"
+msgstr "Yderligere Google tjenester"
+
+#: includes/Modules/PageSpeed_Insights.php:191
+msgid "https://developers.google.com/speed/docs/insights/v5/about"
+msgstr "https://developers.google.com/speed/docs/insights/v5/about"
+
+#: includes/Modules/PageSpeed_Insights.php:190
+msgid "https://developers.google.com/speed/pagespeed/insights/"
+msgstr "https://developers.google.com/speed/pagespeed/insights/"
+
+#: includes/Modules/PageSpeed_Insights.php:188
+msgid "Learn more about your website’s performance."
+msgstr "Lær mere om dit websteds ydeevne."
+
+#: includes/Modules/PageSpeed_Insights.php:187
+#: dist/assets/js/chunk-googlesitekit-adminbar-2251fc60b8ace67e074e.js:35
+#: dist/assets/js/googlesitekit-wp-dashboard.js:37
+#: dist/assets/js/googlesitekit-settings.js:40
+#: dist/assets/js/googlesitekit-dashboard-details.js:40
+#: dist/assets/js/googlesitekit-dashboard.js:40
+#: dist/assets/js/googlesitekit-module.js:40
+msgid "Google PageSpeed Insights gives you metrics about performance, accessibility, SEO and PWA."
+msgstr "Google PageSpeed Insights giver dig data om ydeevne, tilgængelighed, SEO og PWA."
+
+#. translators: 1: Invalid parameter name, 2: list of valid values
+#: includes/Modules/Tag_Manager.php:521 includes/Modules/Tag_Manager.php:554
+#: includes/Modules/PageSpeed_Insights.php:100
+msgid "Request parameter %1$s is not one of %2$s"
+msgstr "Anmodet parameter %1$s er ikke en af %2$s"
+
+#: includes/Modules/Search_Console.php:491
+msgid "https://search.google.com/search-console"
+msgstr "https://search.google.com/search-console"
+
+#: includes/Modules/Search_Console.php:489
+msgid "Connect your site to Google Search Console."
+msgstr "Forbind dit websted med Google Search Console."
+
+#: includes/Modules/Search_Console.php:488
+msgid "Google Search Console and helps you understand how Google views your site and optimize its performance in search results."
+msgstr "Google Search Console hjælper dig til, at forstå hvordan Google ser dit websted og optimerer ydelsen i søgeresultaterne."
+
+#: includes/Core/REST_API/Exception/Invalid_Datapoint_Exception.php:38
+msgid "Invalid datapoint."
+msgstr "Ugyldig datapoint."
+
+#: includes/Modules/Search_Console.php:239
+msgid "Error adding the site to Search Console."
+msgstr "Fejl ved tilslutning af webstedet til Search Console."
+
+#. translators: %s: Missing parameter name
+#: includes/Modules/Optimize.php:231 includes/Modules/Optimize.php:254
+#: includes/Modules/Analytics.php:651 includes/Modules/Analytics.php:716
+#: includes/Modules/Analytics.php:720 includes/Modules/Analytics.php:724
+#: includes/Modules/Analytics.php:728 includes/Modules/Analytics.php:791
+#: includes/Modules/Analytics.php:814 includes/Modules/Analytics.php:830
+#: includes/Modules/Analytics.php:838 includes/Modules/Analytics.php:849
+#: includes/Modules/Analytics.php:867 includes/Modules/Analytics.php:979
+#: includes/Modules/Analytics.php:992 includes/Modules/Analytics.php:1000
+#: includes/Modules/Analytics.php:1013 includes/Modules/Analytics.php:1046
+#: includes/Modules/Search_Console.php:215 includes/Modules/Tag_Manager.php:479
+#: includes/Modules/Tag_Manager.php:544 includes/Modules/Tag_Manager.php:571
+#: includes/Modules/Tag_Manager.php:601
+#: includes/Modules/PageSpeed_Insights.php:86
+#: includes/Modules/Site_Verification.php:165 includes/Modules/AdSense.php:402
+#: includes/Modules/AdSense.php:419 includes/Modules/AdSense.php:441
+#: includes/Modules/AdSense.php:457 includes/Modules/AdSense.php:468
+#: includes/Modules/AdSense.php:556 includes/Modules/AdSense.php:586
+#: includes/Modules/AdSense.php:605 includes/Modules/AdSense.php:613
+#: includes/Modules/AdSense.php:631
+#: includes/Core/Notifications/Notifications.php:283
+msgid "Request parameter is empty: %s."
+msgstr "Anmodede parameter er tom: %s."
+
+#: google-site-kit.php:47
+msgid "Error Activating"
+msgstr "Aktivering mislykkedes"
+
+#. translators: %s: version number
+#: google-site-kit.php:46
+msgid "Site Kit requires PHP version %s"
+msgstr "Site Kit kræver PHP version %s"
+
+#. Author URI of the plugin
+msgid "https://opensource.google.com"
+msgstr "https://opensource.google.com"
+
+#. Author of the plugin
+msgid "Google"
+msgstr "Google"
+
+#. Description of the plugin
+msgid "Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web."
+msgstr "Site kit er en one-stop-løsning for WordPress-brugere til at bruge alt, hvad Google har at tilbyde for at gøre dem succesfulde på nettet."
+
+#. Plugin URI of the plugin
+msgid "https://sitekit.withgoogle.com"
+msgstr "https://sitekit.withgoogle.com"
+
+#. Plugin Name of the plugin
+#: includes/Core/Admin/Screen.php:86 includes/Core/Util/Debug_Data.php:104
+msgid "Site Kit by Google"
+msgstr "Site Kit by Google"

@@ -1,0 +1,1071 @@
+# Translation of Plugins - GDPR Cookie Consent - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - GDPR Cookie Consent - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-04 09:46:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - GDPR Cookie Consent - Stable (latest release)\n"
+
+#: public/views/cookie-law-info_bar.php:21
+msgid "Close"
+msgstr "Zavřít"
+
+#: admin/views/admin_non_necessary_cookie.php:43
+msgid "Default state"
+msgstr "Výchozí stav"
+
+#: admin/views/admin_non_necessary_cookie.php:47
+msgid "If you enable this option, the category toggle button will be in the active state for cookie consent."
+msgstr "Pokud tuto možnost povolíte, přepínací tlačítko kategorie bude v aktivním stavu pro souhlas s cookie."
+
+#: public/views/cookie-law-info_popup_content.php:7
+msgid "Show less"
+msgstr "Zobrazit méně"
+
+#: public/views/cookie-law-info_popup_content.php:7
+msgid "Show more"
+msgstr "Zobrazit více"
+
+#: admin/views/admin_non_necessary_cookie.php:44
+#: public/views/cookie-law-info_popup_content.php:5
+msgid "Enabled"
+msgstr "Povolit"
+
+#: public/views/cookie-law-info_popup_content.php:4
+msgid "Always Enabled"
+msgstr "Vždy povoleno"
+
+#: admin/views/admin-settings-buttons.php:12
+#: admin/views/admin-settings-buttons.php:162
+msgid "Settings Button"
+msgstr "Nastavení tlačítka"
+
+#: admin/class-cookie-law-info-admin.php:160
+#: admin/class-cookie-law-info-admin.php:161
+msgid "Necessary Cookie"
+msgstr "Potřebný soubor cookie"
+
+#: admin/class-cookie-law-info-admin.php:168
+#: admin/class-cookie-law-info-admin.php:169
+#: admin/partials/cookie-law-info-privacy_overview.php:51
+msgid "Privacy Overview"
+msgstr "Přehled ochrany osobních údajů"
+
+#: admin/class-cookie-law-info-admin.php:377
+msgid "Cookie Type"
+msgstr "Typ souboru cookie"
+
+#: admin/class-cookie-law-info-admin.php:629
+msgid "Close Header"
+msgstr "Zavřete záhlaví"
+
+#: admin/class-cookie-law-info-admin.php:633
+msgid "Open URL"
+msgstr "Otevřete adresu URL"
+
+#: admin/class-cookie-law-info-admin.php:646
+msgid "Extra Large"
+msgstr "Hodně velké"
+
+#: admin/class-cookie-law-info-admin.php:650
+msgid "Large"
+msgstr "Velký"
+
+#: admin/class-cookie-law-info-admin.php:654
+msgid "Medium"
+msgstr "Střední"
+
+#: admin/class-cookie-law-info-admin.php:658
+msgid "Small"
+msgstr "Malé"
+
+#: admin/class-cookie-law-info-admin.php:672
+msgid "Default theme font"
+msgstr "Výchozí písmo motivu"
+
+#: admin/class-cookie-law-info-admin.php:676
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: admin/class-cookie-law-info-admin.php:680
+msgid "Serif"
+msgstr "Serif"
+
+#: admin/class-cookie-law-info-admin.php:684
+msgid "Arial"
+msgstr "Arial"
+
+#: admin/class-cookie-law-info-admin.php:688
+msgid "Arial Black"
+msgstr "Arial Black"
+
+#: admin/class-cookie-law-info-admin.php:692
+msgid "Georgia, serif"
+msgstr "Georgia, serif"
+
+#: admin/class-cookie-law-info-admin.php:696
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: admin/class-cookie-law-info-admin.php:700
+msgid "Lucida"
+msgstr "Lucida"
+
+#: admin/class-cookie-law-info-admin.php:704
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: admin/class-cookie-law-info-admin.php:708
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: admin/class-cookie-law-info-admin.php:712
+msgid "Trebuchet"
+msgstr "Trebuchet"
+
+#: admin/class-cookie-law-info-admin.php:716
+msgid "Verdana"
+msgstr "Verdana"
+
+#: admin/partials/cookie-law-info-privacy_overview.php:58
+msgid "Privacy Overview Title"
+msgstr "Název přehledu ochrany osobních údajů"
+
+#: admin/partials/cookie-law-info-privacy_overview.php:64
+#: admin/partials/cookie-law-info-privacy_overview.php:79
+msgid "This will be shown in the settings visible for user on consent screen."
+msgstr "To se zobrazí v nastavení viditelném pro uživatele na obrazovce souhlasu."
+
+#: admin/partials/cookie-law-info-privacy_overview.php:87
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: admin/views/admin_necessary_cookie.php:23
+msgid "Necessary Cookie Settings"
+msgstr "Nezbytné nastavení souborů cookie"
+
+#: admin/views/goto-pro.php:93
+msgid "GDPR compliance with Google Tag Manager"
+msgstr "Soulad GDPR s Google Tag Manager"
+
+#: admin/views/goto-pro.php:94
+msgid "Javascript helper functions"
+msgstr "Pomocné funkce jazyka Javascript"
+
+#: admin/views/admin-settings-help.php:30
+msgid "This is the cookie settings button rendering shortcode."
+msgstr "Toto je tlačítko nastavení cookies, které vykresluje shortkód."
+
+#: public/class-cookie-law-info-public.php:74
+msgid "Necessary"
+msgstr "Nezbytné"
+
+#: public/class-cookie-law-info-public.php:75
+msgid "Non-necessary"
+msgstr "Není nutné"
+
+#: admin/views/admin_non_necessary_cookie.php:45
+#: public/views/cookie-law-info_popup_content.php:6
+msgid "Disabled"
+msgstr "Vypnuto"
+
+#: public/modules/shortcode/shortcode.php:180
+msgid "No records found"
+msgstr "Záznam nebyl nalezen"
+
+#: admin/modules/cli-policy-generator/classes/class-policy-generator-ajax.php:26
+msgid "Unable to handle your request."
+msgstr "Vaši žádost nelze zpracovat."
+
+#: admin/modules/cli-policy-generator/classes/class-policy-generator-ajax.php:96
+#: admin/modules/cli-policy-generator/classes/class-policy-generator-ajax.php:132
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:132
+msgid "Error"
+msgstr "Chyba"
+
+#: admin/modules/cli-policy-generator/classes/class-preview-page.php:27
+msgid "Cookie Policy"
+msgstr "Zásady používání souborů cookie"
+
+#: admin/modules/cli-policy-generator/classes/class-preview-page.php:83
+msgid "Auto reload preview"
+msgstr "Automatické opětovné načtení náhledu"
+
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:106
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:107
+#: admin/modules/cli-policy-generator/views/policy-generator.php:21
+msgid "Policy generator"
+msgstr "Generátor zásad"
+
+#: admin/modules/cli-policy-generator/cli-policy-generator.php:133
+msgid "Success"
+msgstr "Hotovo"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:25
+msgid "Sample heading"
+msgstr "Ukázkový nadpis"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:26
+msgid "Sample content"
+msgstr "Ukázkový obsah"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:27
+msgid "Delete"
+msgstr "Smazat"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:49
+msgid "Add new"
+msgstr "Přidat nové"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:53
+msgid "Heading"
+msgstr "Nadpis"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:82
+msgid "Update existing Cookie Policy page"
+msgstr "Aktualizujte stránku Zásady souborů cookie."
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:88
+msgid "Create Cookie Policy page"
+msgstr "Vytvořit stránku zásad pro soubory cookie"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:92
+msgid "Live preview"
+msgstr "Živý náhled"
+
+#: admin/views/admin-settings-buttons.php:211
+msgid "Click"
+msgstr "Klik"
+
+#: admin/views/admin-settings-buttons.php:211
+msgid "here"
+msgstr "zde"
+
+#: admin/views/admin-settings-buttons.php:211
+msgid " to generate content for Cookie Policy page."
+msgstr " generovat obsah pro stránku Zásady souborů cookie."
+
+#: admin/views/admin-settings-buttons.php:301
+msgid "Minimize Cookie Bar in this page/URL?"
+msgstr "Minimalizovat Cookie Bar na této stránce / URL?"
+
+#: admin/views/admin-settings-help.php:36
+msgid "Setup margin for above buttons"
+msgstr "Nastavení okraje pro výše uvedená tlačítka"
+
+#: admin/views/admin-settings-help.php:82
+msgid "Columns available"
+msgstr "Dostupné sloupce"
+
+#: admin/views/admin-settings-help.php:82
+msgid "Will print all columns by default."
+msgstr "Ve výchozím nastavení budou vytištěny všechny sloupce."
+
+#: public/modules/shortcode/shortcode.php:93
+msgid "Your current state:"
+msgstr "Váš aktuální stav:"
+
+#: public/modules/shortcode/shortcode.php:98
+msgid "Consent Accepted."
+msgstr "Souhlas byl přijat."
+
+#: public/modules/shortcode/shortcode.php:101
+msgid "Consent rejected."
+msgstr "Souhlas byl zamítnut."
+
+#: public/modules/shortcode/shortcode.php:105
+msgid "No consent given."
+msgstr "Žádný souhlas nebyl udělen."
+
+#: public/modules/shortcode/shortcode.php:107
+msgid "Manage your consent."
+msgstr "Spravujte svůj souhlas."
+
+#: admin/class-cookie-law-info-admin.php:209
+msgid "Premium Upgrade"
+msgstr "Upgrade na Premium verzi"
+
+#: admin/views/goto-pro.php:73
+msgid "30 Day Money Back Guarantee"
+msgstr "30denní záruka vrácení peněz"
+
+#: admin/views/goto-pro.php:74
+msgid "Fast and Superior Support"
+msgstr "Rychlá a vynikající podpora"
+
+#: admin/views/goto-pro.php:75
+msgid "10X Powerful with GDPR Cookie Consent Features That Every Site Needs"
+msgstr "10x výkonný s GDPR Cookie souhlas s funkcemi, které potřebuje každý web"
+
+#: admin/views/goto-pro.php:78
+msgid "Upgrade to Premium"
+msgstr "Upgrade na Premium verzi"
+
+#: admin/views/goto-pro.php:84
+msgid "Automatic Cookie Scanner"
+msgstr "Automatický Cookie skener"
+
+#: admin/views/goto-pro.php:85
+msgid "Auto block scripts - Google Analytics, Facebook Pixel, Google Tag Manager, Hotjar Analytics, Google Publisher Tag, Youtube embed, Vimeo embed, Google maps, Addthis widget, Sharethis widget, Twitter widget, Soundcloud embed, Slideshare embed, Linkedin widget, Instagram embed, Pinterest widget"
+msgstr "Automatické blokování skriptů - Google Analytics, Facebook Pixel, Google Tag Manager, Hotjar Analytics, Google Publisher Tag, Youtube embed, Vimeo embed, Google maps, Addthis widget, Sharethis widget, Twitter widget, Soundcloud embed, Slideshare embed, Linkedin widget, Instagram embed , Widget Pinterest"
+
+#: admin/views/goto-pro.php:87
+msgid "Granular control over the cookies/scipts used by the website"
+msgstr "Podrobná kontrola nad soubory cookie / scipity, které web používá"
+
+#: admin/views/goto-pro.php:88
+msgid "User consent audit logs"
+msgstr "Protokoly auditu souhlasu uživatele"
+
+#: admin/views/goto-pro.php:89
+msgid "Customized privacy overview"
+msgstr "Přizpůsobený přehled o ochraně osobních údajů"
+
+#: admin/views/goto-pro.php:91
+msgid "Advanced support for cache plugins"
+msgstr "Pokročilá podpora pro cache pluginy"
+
+#: admin/views/admin-settings-general.php:26
+msgid "Cookie bar as"
+msgstr "Cookie bar jako"
+
+#: admin/views/admin-settings-general.php:33
+msgid "Banner"
+msgstr "Baner"
+
+#: admin/views/admin-settings-general.php:36
+msgid "Popup"
+msgstr "Popup"
+
+#: admin/views/admin-settings-general.php:39
+msgid "Widget"
+msgstr "Widget"
+
+#: admin/views/admin-settings-general.php:45
+msgid "Position"
+msgstr "Pozice"
+
+#: admin/views/admin-settings-general.php:199
+msgid "Bottom Right"
+msgstr "Vpravo dole"
+
+#: admin/views/admin-settings-general.php:202
+msgid "Bottom Left"
+msgstr "Dole vlevo"
+
+#: admin/views/admin-settings-general.php:205
+msgid "Top Right"
+msgstr "Vpravo nahoře"
+
+#: admin/views/admin-settings-general.php:208
+msgid "Top Left"
+msgstr "Vlevo nahoře"
+
+#: admin/views/goto-pro.php:90
+msgid "Cookie bar preview in admin settings page"
+msgstr "Náhled lišty cookie na stránce nastavení správce"
+
+#: admin/views/admin-settings-buttons.php:250
+msgid "URL or Page?"
+msgstr "URL nebo stránka?"
+
+#: admin/views/admin-settings-buttons.php:254
+#: admin/views/admin-settings-buttons.php:265
+msgid "Page"
+msgstr "Stránka"
+
+#: admin/views/admin-settings-buttons.php:268
+msgid "Select One"
+msgstr "Vybrat jedno"
+
+#: admin/views/admin-settings-buttons.php:293
+msgid "The currently selected page does not exist. Please select a new page."
+msgstr "Aktuálně vybraná stránka neexistuje. Vyberte novou stránku."
+
+#: admin/views/admin-settings-buttons.php:308
+msgid "Open in new window?"
+msgstr "Otevřít v novém okně?"
+
+#: admin/views/admin-settings-help.php:94
+msgid "Add content after accepting the cookie notice."
+msgstr "Po přijetí oznámení o cookie přidejte obsah."
+
+#: admin/class-cookie-law-info-admin.php:152
+#: admin/class-cookie-law-info-admin.php:153
+msgid "Non-necessary Cookie"
+msgstr "Volitelné cookies"
+
+#: admin/class-cookie-law-info-admin.php:208
+msgid "Support"
+msgstr "Podpora"
+
+#: admin/partials/cookie-law-info-admin_settings.php:25
+#: admin/views/admin_necessary_cookie.php:17
+#: admin/views/admin_non_necessary_cookie.php:23
+msgid "Settings updated."
+msgstr "Nastavení aktualizováno."
+
+#: admin/partials/cookie-law-info-admin_settings.php:26
+#: admin/views/admin_necessary_cookie.php:18
+#: admin/views/admin_non_necessary_cookie.php:24
+msgid "Unable to update Settings."
+msgstr "Nastavení nelze aktualizovat."
+
+#: admin/partials/cookie-law-info-admin_settings.php:27
+msgid "Settings reset to defaults."
+msgstr "Obnovení výchozího nastavení."
+
+#: admin/partials/cookie-law-info-admin_settings.php:28
+msgid "Unable to reset settings."
+msgstr "Nastavení nelze obnovit."
+
+#: admin/partials/cookie-law-info-admin_settings.php:57
+msgid "General"
+msgstr "Obecné"
+
+#: admin/partials/cookie-law-info-admin_settings.php:58
+msgid "Customise Cookie Bar"
+msgstr "Přizpůsobte cookies bar"
+
+#: admin/partials/cookie-law-info-admin_settings.php:61
+msgid "Help Guide"
+msgstr "Průvodce nápovědou"
+
+#: admin/views/admin-settings-advanced.php:15
+msgid "Delete settings and reset"
+msgstr "Odstraňte nastavení a resetujte"
+
+#: admin/views/admin-settings-advanced.php:15
+msgid "Are you sure you want to delete all your settings?"
+msgstr "Opravdu chcete všechna nastavení smazat?"
+
+#: admin/views/admin-settings-buttons.php:23
+#: admin/views/admin-settings-buttons.php:95
+#: admin/views/admin-settings-buttons.php:165
+#: admin/views/admin-settings-buttons.php:219
+msgid "Text"
+msgstr "Text"
+
+#: admin/views/admin-settings-buttons.php:29
+#: admin/views/admin-settings-buttons.php:101
+#: admin/views/admin-settings-buttons.php:171
+#: admin/views/admin-settings-buttons.php:225
+msgid "Text colour"
+msgstr "Barva textu"
+
+#: admin/views/admin-settings-buttons.php:37
+#: admin/views/admin-settings-buttons.php:109
+#: admin/views/admin-settings-buttons.php:179
+#: admin/views/admin-settings-buttons.php:233
+msgid "Show as"
+msgstr "Zobrazit jako"
+
+#: admin/views/admin-settings-buttons.php:39
+#: admin/views/admin-settings-buttons.php:111
+#: admin/views/admin-settings-buttons.php:181
+#: admin/views/admin-settings-buttons.php:235
+msgid "Button"
+msgstr "Tlačítko"
+
+#: admin/views/admin-settings-buttons.php:41
+#: admin/views/admin-settings-buttons.php:113
+#: admin/views/admin-settings-buttons.php:183
+#: admin/views/admin-settings-buttons.php:237
+msgid "Link"
+msgstr "Odkaz"
+
+#: admin/views/admin-settings-buttons.php:45
+#: admin/views/admin-settings-buttons.php:117
+#: admin/views/admin-settings-buttons.php:187
+#: admin/views/admin-settings-buttons.php:241
+msgid "Background colour"
+msgstr "Barva pozadí"
+
+#: admin/views/admin-settings-buttons.php:62
+#: admin/views/admin-settings-buttons.php:137
+#: admin/views/admin-settings-buttons.php:252
+#: admin/views/admin-settings-buttons.php:259
+msgid "URL"
+msgstr "URL"
+
+#: admin/views/admin-settings-buttons.php:65
+#: admin/views/admin-settings-buttons.php:140
+msgid "Button will only link to URL if Action = Open URL"
+msgstr "Tlačítko bude odkazovat na URL, pouze pokud Akce = Otevřít URL"
+
+#: admin/views/admin_non_necessary_cookie.php:38
+#: admin/views/admin-settings-buttons.php:74
+#: admin/views/admin-settings-buttons.php:148
+#: admin/views/admin-settings-buttons.php:304
+#: admin/views/admin-settings-buttons.php:311
+#: admin/views/admin-settings-messagebar.php:52
+#: admin/views/admin-settings-general.php:58
+#: admin/views/admin-settings-general.php:90
+#: admin/views/admin-settings-general.php:137
+#: admin/views/admin-settings-general.php:153
+#: admin/views/admin-settings-general.php:170
+#: admin/views/admin-settings-general.php:239
+#: admin/views/admin-settings-general.php:247
+#: admin/views/admin-settings-general.php:254
+msgid "No"
+msgstr "Ne"
+
+#: admin/views/admin-settings-buttons.php:81
+#: admin/views/admin-settings-buttons.php:152
+#: admin/views/admin-settings-buttons.php:195
+#: admin/views/admin-settings-buttons.php:315
+msgid "Size"
+msgstr "Velikost"
+
+#: admin/views/admin-settings-messagebar.php:8
+#: admin/views/admin-settings-general.php:9
+#: admin/views/admin-settings-general.php:15
+msgid "Cookie Bar"
+msgstr "Cookie Bar"
+
+#: admin/views/admin-settings-general.php:10
+#: admin/views/admin-settings-general.php:164
+msgid "Show Again Tab"
+msgstr "Zobrazit znovu Tab"
+
+#: admin/views/admin-settings-general.php:11
+#: admin/views/admin-settings-general.php:230
+msgid "Other"
+msgstr "Jiné"
+
+#: admin/views/admin-settings-general.php:21
+msgid "On"
+msgstr "Zapnuto"
+
+#: admin/views/admin-settings-general.php:22
+msgid "Off"
+msgstr "Vypnuto"
+
+#: admin/views/admin-settings-general.php:55
+msgid "Add overlay?"
+msgstr "Přidat překrytí?"
+
+#: admin/views/admin-settings-general.php:59
+msgid "When the popup is active, an overlay will block the user from browsing the site."
+msgstr "Když je vyskakovací okno aktivní, překryvný blok zabrání uživateli v procházení webu."
+
+#: admin/views/admin-settings-general.php:60
+msgid "`Accept on scroll` will not work along with this option."
+msgstr "`Accept on scroll 'nebude fungovat spolu s touto volbou."
+
+#: admin/views/admin-settings-general.php:122
+#: admin/views/admin-settings-general.php:125
+msgid "Disappear"
+msgstr "Zmizet"
+
+#: admin/views/admin-settings-general.php:134
+msgid "Auto-hide(Accept) cookie bar after delay?"
+msgstr "Automaticky skrýt (přijmout) soubor cookie po nějakém čase?"
+
+#: admin/views/admin-settings-general.php:144
+msgid "seconds"
+msgstr "vteřin"
+
+#: admin/views/admin-settings-general.php:154
+msgid "As per latest GDPR policies it is required to take an explicit consent for the cookies. Use this option with discretion especially if you serve EU"
+msgstr "Podle nejnovějších zásad GDPR se vyžaduje výslovný souhlas s cookies. Tuto možnost používejte s uvážením, zejména pokud fungujete v EU"
+
+#: admin/views/admin-settings-general.php:155
+msgid "This option will not work along with `Popup overlay`."
+msgstr "Tato možnost nebude fungovat spolu s překryvným oknem."
+
+#: admin/views/admin-settings-general.php:218
+msgid "Specify"
+msgstr "Upřesněte"
+
+#: admin/views/admin-settings-general.php:251
+msgid "Reload after Reject button click"
+msgstr "Obnovit po kliknutí na tlačítko Odmítnout"
+
+#: admin/views/admin-settings-help.php:9
+msgid "Shortcodes"
+msgstr "Shortkódy"
+
+#: admin/views/admin-settings-help.php:10
+#: admin/views/admin-settings-help.php:103
+msgid "Help Links"
+msgstr "Odkazy na nápovědu"
+
+#: admin/views/admin-settings-help.php:17
+msgid "You can enter the shortcodes in the \"message\" field of the Cookie Law Info bar. They add nicely formatted buttons and/or links into the cookie bar, without you having to add any HTML."
+msgstr "Krátké kódy můžete zadat do pole „zpráva“ na informačním panelu Cookie Law. Do lišty cookie přidávají pěkně formátovaná tlačítka a / nebo odkazy, aniž byste museli přidávat HTML."
+
+#: admin/views/admin-settings-help.php:22
+msgid "This is the \"main button\" you customise above."
+msgstr "Toto je „hlavní tlačítko“, které si přizpůsobíte výše."
+
+#: admin/views/admin-settings-help.php:26
+msgid "This is the cookie reject button shortcode."
+msgstr "Toto je zkratka tlačítka pro odmítnutí souboru cookie."
+
+#: admin/views/admin-settings-help.php:33
+msgid "This is the \"read more\" link you customise above."
+msgstr "Toto je odkaz „Číst více“, který si přizpůsobíte výše."
+
+#: admin/views/goto-pro.php:103 admin/views/admin-settings-help.php:107
+#: admin/views/admin-settings-help.php:110
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: admin/views/admin-settings-help.php:108
+msgid "Refer to our documentation to set and get started"
+msgstr "Nastavte a začněte v naší dokumentaci"
+
+#: admin/views/admin-settings-help.php:116
+msgid "We would love to help you on any queries or issues."
+msgstr "Rádi bychom vám pomohli při jakýchkoli dotazech nebo problémech."
+
+#: admin/views/admin-settings-help.php:118
+msgid "Contact Us"
+msgstr "Kontaktujte nás"
+
+#: admin/views/admin-settings-messagebar.php:11
+msgid "Message Heading"
+msgstr "Nadpis zprávy"
+
+#: admin/views/admin-settings-messagebar.php:14
+msgid "Leave it blank, If you do not need a heading"
+msgstr "Nechte to prázdné, pokud nepotřebujete nadpis"
+
+#: admin/views/admin-settings-messagebar.php:25
+msgid "Shortcodes allowed: see the Help Guide tab"
+msgstr "Povoleny krátké kódy: viz karta Nápověda"
+
+#: admin/views/admin-settings-messagebar.php:25
+msgid "Examples: \"We use cookies on this website [cookie_accept] to find out how to delete cookies [cookie_link].\""
+msgstr "Příklady: „Používáme cookies na tomto webu [cookie_accept], abychom zjistili, jak smazat cookies [cookie_link].“"
+
+#: admin/views/admin_necessary_cookie.php:43
+#: admin/views/admin_non_necessary_cookie.php:86
+#: admin/views/admin-settings-save-button.php:12
+msgid "Update Settings"
+msgstr "Aktualizovat nastavení"
+
+#: admin/views/goto-pro.php:86
+msgid "Location based exclusion of cookie notice for EU countries"
+msgstr "Vyloučení oznámení o souborech cookie pro země EU založené na poloze"
+
+#: public/class-cookie-law-info-public.php:271
+msgid "Add New"
+msgstr "Přidat nové"
+
+#: public/modules/shortcode/shortcode.php:144
+msgid "Delete Cookies"
+msgstr "Smazat cookies"
+
+#. Author URI of the plugin
+msgid "http://cookielawinfo.com/"
+msgstr "http://cookielawinfo.com/"
+
+#: admin/views/admin_non_necessary_cookie.php:37
+#: admin/views/admin-settings-buttons.php:72
+#: admin/views/admin-settings-buttons.php:147
+#: admin/views/admin-settings-buttons.php:303
+#: admin/views/admin-settings-buttons.php:310
+#: admin/views/admin-settings-messagebar.php:51
+#: admin/views/admin-settings-general.php:57
+#: admin/views/admin-settings-general.php:89
+#: admin/views/admin-settings-general.php:136
+#: admin/views/admin-settings-general.php:152
+#: admin/views/admin-settings-general.php:169
+#: admin/views/admin-settings-general.php:238
+#: admin/views/admin-settings-general.php:246
+#: admin/views/admin-settings-general.php:253
+msgid "Yes"
+msgstr "Ano"
+
+#. Author of the plugin
+msgid "WebToffee"
+msgstr "WebToffee"
+
+#: admin/views/admin-settings-general.php:150
+msgid "Auto-hide cookie bar if the user scrolls ( Accept on Scroll )?"
+msgstr "Automaticky skrýt lištu cookie, pokud se uživatel posouvá (Přijmout při posouvání)?"
+
+#: admin/views/admin-settings-general.php:244
+msgid "Reload after Accept button click"
+msgstr "Znovu načíst po kliknutí na tlačítko Přijmout"
+
+#: admin/modules/cli-policy-generator/classes/class-policy-generator-ajax.php:22
+#: admin/class-cookie-law-info-admin.php:219
+#: admin/class-cookie-law-info-admin.php:278
+#: admin/class-cookie-law-info-admin.php:320
+#: admin/partials/cookie-law-info-privacy_overview.php:8
+msgid "You do not have sufficient permission to perform this operation"
+msgstr "K provedení této operace nemáte dostatečné oprávnění"
+
+#: admin/class-cookie-law-info-admin.php:253
+#: admin/class-cookie-law-info-admin.php:298
+#: admin/class-cookie-law-info-admin.php:343
+#: admin/partials/cookie-law-info-privacy_overview.php:27
+msgid "Settings Updated."
+msgstr "Nastavení aktualizováno."
+
+#: admin/class-cookie-law-info-admin.php:358
+msgid "ERROR MIGRATING SETTINGS (ERROR: 2)"
+msgstr "NASTAVENÍ CHYBOVÉ MIGRACE (CHYBA: 2)"
+
+#: admin/class-cookie-law-info-admin.php:144
+#: admin/class-cookie-law-info-admin.php:145
+#: admin/partials/cookie-law-info-admin_settings.php:31
+msgid "Cookie Law Settings"
+msgstr "Nastavení Souhlasu cookie"
+
+#: admin/partials/cookie-law-info-admin_settings.php:39
+msgid "Your Cookie Law Info bar is switched on"
+msgstr "Je aktivována lišta s informacemi o cookies"
+
+#: admin/partials/cookie-law-info-admin_settings.php:47
+msgid "Your Cookie Law Info bar is switched off"
+msgstr "Je deaktivována lišta s informacemi o cookies"
+
+#: admin/class-cookie-law-info-admin.php:207
+msgid "Settings"
+msgstr "Nastavení"
+
+#: admin/views/admin-settings-general.php:19
+msgid "Cookie Bar is currently:"
+msgstr "Cookie Bar je v současné době:"
+
+#: admin/views/admin-settings-general.php:65
+msgid "Cookie Bar will be shown in:"
+msgstr "Bar Cookie se zobrazí v:"
+
+#: admin/views/admin-settings-general.php:71
+#: admin/views/admin-settings-general.php:74
+msgid "Header"
+msgstr "Hlavička"
+
+#: admin/views/admin-settings-general.php:72
+#: admin/views/admin-settings-general.php:75
+msgid "Footer"
+msgstr "Patička"
+
+#: admin/views/admin-settings-general.php:87
+msgid "Fix Cookie Bar to Header?"
+msgstr "Přilepit Cookie bar v záhlaví?"
+
+#: admin/views/admin-settings-general.php:91
+msgid "If you select \"Header\" then you can optionally stick the cookie bar to the header. Will not have any effect if you select \"Footer\"."
+msgstr "Pokud vyberete „Záhlaví“, můžete volitelně přilepit lištu cookie k záhlaví. Pokud vyberete možnost Zápatí, nebude to mít žádný účinek."
+
+#: admin/views/admin-settings-general.php:100
+msgid "On load"
+msgstr "Načíst"
+
+#: admin/views/admin-settings-general.php:105
+#: admin/views/admin-settings-general.php:108
+#: admin/views/admin-settings-general.php:121
+#: admin/views/admin-settings-general.php:124
+msgid "Animate"
+msgstr "Animovat"
+
+#: admin/views/admin-settings-general.php:106
+#: admin/views/admin-settings-general.php:109
+msgid "Sticky"
+msgstr "Připnuté"
+
+#: admin/views/admin-settings-general.php:116
+msgid "On hide"
+msgstr "Skrýt"
+
+#: admin/views/admin-settings-general.php:141
+msgid "Milliseconds until hidden"
+msgstr "Milisekundy, než se skryje"
+
+#: admin/views/admin-settings-general.php:144
+msgid "Specify milliseconds (not seconds)"
+msgstr "Určete milisekundy (nikoli sekundy)"
+
+#: admin/views/admin-settings-general.php:233
+msgid "Reload after \"scroll accept\" event?"
+msgstr "Znovu načíst po události „scroll scroll“?"
+
+#: admin/views/admin-settings-general.php:167
+msgid "Use Show Again Tab?"
+msgstr "Použít kartu Zobrazit znovu?"
+
+#: admin/views/admin-settings-general.php:175
+#: admin/views/admin-settings-general.php:192
+msgid "Tab Position"
+msgstr "Pozice záložky"
+
+#: admin/views/admin-settings-general.php:49
+#: admin/views/admin-settings-general.php:180
+#: admin/views/admin-settings-general.php:183
+msgid "Right"
+msgstr "Vpravo"
+
+#: admin/views/admin-settings-general.php:48
+#: admin/views/admin-settings-general.php:181
+#: admin/views/admin-settings-general.php:184
+msgid "Left"
+msgstr "Vlevo"
+
+#: admin/views/admin-settings-general.php:215
+msgid "From Left Margin"
+msgstr "Z levého okraje"
+
+#: admin/views/admin-settings-general.php:222
+msgid "Show More Text"
+msgstr "Zobrazit Více textu"
+
+#: admin/views/admin-settings-messagebar.php:19
+msgid "Message"
+msgstr "Zpráva"
+
+#: admin/views/admin-settings-messagebar.php:29
+msgid "Cookie Bar Colour"
+msgstr "Barva Cookie Bar"
+
+#: admin/views/admin-settings-messagebar.php:39
+msgid "Text Colour"
+msgstr "Barva textu"
+
+#: admin/views/admin-settings-messagebar.php:49
+msgid "Show Border?"
+msgstr "Zobrazit okraj?"
+
+#: admin/views/admin-settings-messagebar.php:56
+msgid "Border Colour"
+msgstr "Barva okraje"
+
+#: admin/views/admin-settings-messagebar.php:66
+msgid "Font"
+msgstr "Písmo"
+
+#: admin/partials/cookie-law-info-admin_settings.php:59
+msgid "Customise Buttons"
+msgstr "Přizpůsobit tlačítka"
+
+#: admin/views/admin-settings-buttons.php:10
+msgid "Accept Button"
+msgstr "Tlačítko Přijmout"
+
+#: admin/views/admin-settings-buttons.php:19
+msgid "Main Button"
+msgstr "Hlavní tlačítko"
+
+#: admin/views/admin-settings-buttons.php:20
+msgid "This button/link can be customised to either simply close the cookie bar, or follow a link. You can also customise the colours and styles, and show it as a link or a button."
+msgstr "Toto tlačítko / odkaz lze upravit tak, aby jednoduše zavíralo lištu cookie nebo sledovalo odkaz. Můžete také přizpůsobit barvy a styly a zobrazit je jako odkaz nebo tlačítko."
+
+#: admin/views/admin-settings-buttons.php:54
+#: admin/views/admin-settings-buttons.php:125
+msgid "Action"
+msgstr "Akce"
+
+#: admin/views/admin-settings-buttons.php:70
+#: admin/views/admin-settings-buttons.php:145
+msgid "Open URL in new window?"
+msgstr "Otevřít URL v novém okně?"
+
+#: admin/views/admin-settings-buttons.php:11
+#: admin/views/admin-settings-buttons.php:92
+msgid "Reject Button"
+msgstr "Tlačítko Odmítnutí"
+
+#: admin/views/admin-settings-buttons.php:13
+#: admin/views/admin-settings-buttons.php:205
+msgid "Read More Link"
+msgstr "Odkaz Číst více"
+
+#: admin/views/admin-settings-buttons.php:206
+msgid "This button/link can be used to provide a link out to your Privacy & Cookie Policy. You can customise it any way you like."
+msgstr "Toto tlačítko / odkaz lze použít k poskytnutí odkazu na vaše zásady ochrany osobních údajů a souborů cookie. Můžete si ji přizpůsobit libovolným způsobem."
+
+#: admin/views/admin-settings-help.php:16
+msgid "Cookie bar shortcodes"
+msgstr "Shortkódy Cookie baru"
+
+#: admin/views/admin-settings-help.php:65
+msgid "Other shortcodes"
+msgstr "Ostatní shortkódy"
+
+#: admin/views/admin-settings-help.php:66
+msgid "These shortcodes can be used in pages and posts on your website. It is not recommended to use these inside the cookie bar itself."
+msgstr "Tyto krátké kódy lze použít na stránkách a příspěvcích na vašem webu. Nedoporučujeme je používat uvnitř samotné lišty cookie."
+
+#: admin/views/admin-settings-help.php:72
+msgid "This prints out a nice table of cookies, in line with the guidance given by the ICO."
+msgstr "Tím se vytiskne pěkná tabulka cookies, v souladu s pokyny ICO."
+
+#: admin/views/admin-settings-help.php:72
+msgid "You need to enter the cookies your website uses via the Cookie Law Info menu in your WordPress dashboard."
+msgstr "Musíte zadat cookies, které váš web používá, pomocí nabídky Cookie Law Info na hlavním panelu WordPress."
+
+#: admin/views/admin-settings-help.php:86
+msgid "This shortcode will display a normal HTML link which when clicked, will delete the cookie set by Cookie Law Info (this cookie is used to remember that the cookie bar is closed)."
+msgstr "Tento krátký kód zobrazí normální odkaz HTML, který po kliknutí smaže soubor cookie nastavený informacemi Cookie Law Info (tento soubor cookie se používá k zapamatování, že panel cookie je zavřený)."
+
+#: admin/views/admin-settings-help.php:90
+msgid "Add any text you like- useful if you want e.g. another language to English."
+msgstr "Přidejte jakýkoli text, který se vám líbí - užitečné, pokud chcete např. jiný jazyk do angličtiny."
+
+#: admin/partials/cookie-law-info-admin_settings.php:60
+#: admin/views/admin-settings-advanced.php:8
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: admin/views/admin-settings-advanced.php:9
+msgid "Sometimes themes apply settings that clash with plugins. If that happens, try adjusting these settings."
+msgstr "Témata někdy používají nastavení, která jsou v rozporu s doplňky. Pokud k tomu dojde, zkuste tato nastavení upravit."
+
+#: admin/views/admin-settings-advanced.php:13
+msgid "Reset all values"
+msgstr "Resetujte všechna nastavení"
+
+#: admin/views/admin-settings-advanced.php:16
+msgid "Warning: this will actually delete your current settings."
+msgstr "Varování: Tím se skutečně odstraní vaše aktuální nastavení."
+
+#: admin/views/goto-pro.php:56
+msgid "Where did my settings go?"
+msgstr "Kam šlo moje nastavení?"
+
+#: admin/views/goto-pro.php:57
+msgid "Cookie Law Info version 0.9 has been updated and has new settings."
+msgstr "Cookie Law Info verze 0.9 byla aktualizována a má nová nastavení."
+
+#: admin/views/goto-pro.php:57
+msgid "Your previous settings are safe."
+msgstr "Vaše předchozí nastavení jsou bezpečná."
+
+#: admin/views/goto-pro.php:58
+msgid "You can either copy over your old settings to this version, or use the new default values."
+msgstr "Můžete zkopírovat staré nastavení do této verze nebo použít nové výchozí hodnoty."
+
+#: admin/views/goto-pro.php:60
+msgid "Would you like to:"
+msgstr "Chtěl bys:"
+
+#: admin/views/goto-pro.php:62
+msgid "Use previous settings"
+msgstr "Použijte předchozí nastavení"
+
+#: admin/views/goto-pro.php:63
+msgid "Start afresh with the new version"
+msgstr "Začněte znovu s novou verzí"
+
+#: admin/views/goto-pro.php:67
+msgid "If you want to go back to the previous version you can always download it again from"
+msgstr "Pokud se chcete vrátit k předchozí verzi, můžete si ji znovu stáhnout z"
+
+#: admin/views/goto-pro.php:108
+msgid "Like this plugin?"
+msgstr "Líbí se vám modul?"
+
+#: admin/views/goto-pro.php:109
+msgid "If you find this plugin useful please show your support and rate it"
+msgstr "Pokud zjistíte, že je tento plugin užitečný, ukažte svou podporu a ohodnoťte ji"
+
+#: admin/views/goto-pro.php:109
+msgid "  much appreciated!"
+msgstr " vysoce ceněné!"
+
+#: admin/views/admin-settings-help.php:115
+msgid "Help and Support"
+msgstr "Pomoc a podpora"
+
+#: admin/views/admin_non_necessary_cookie.php:29
+msgid "Non-necessary Cookie Settings"
+msgstr "Nepotřebná nastavení souborů cookie"
+
+#: admin/views/admin_non_necessary_cookie.php:36
+msgid "Enable Non-necessary Cookie"
+msgstr "Povolit nepotřebný soubor cookie"
+
+#: admin/views/admin_non_necessary_cookie.php:61
+msgid "This script will be added to the page HEAD section if the above settings is enabled and user has give consent."
+msgstr "Tento skript bude přidán do sekce HEAD, pokud je výše uvedené nastavení povoleno a uživatel dává souhlas."
+
+#: admin/views/admin_non_necessary_cookie.php:66
+msgid "Print scripts in the head tag on the front end if above cookie settings is enabled and user has given consent."
+msgstr "Pokud je povoleno výše nastavení souborů cookie a uživatel dal souhlas, tiskněte skripty v sekci HEAD na rozhraní frontend."
+
+#: admin/views/admin_non_necessary_cookie.php:73
+msgid "This script will be added right after the BODY section if the above settings is enabled and user has given consent."
+msgstr "Tento skript bude přidán ihned po sekci BODY, pokud jsou výše uvedená nastavení povolena a uživatel dal souhlas."
+
+#: admin/views/admin_non_necessary_cookie.php:76
+msgid "Print scripts before the closing body tag on the front end if above cookie settings is enabled and user has given consent."
+msgstr "Vytiskněte skripty před koncovou značku těla na front-endu, pokud je výše uvedené nastavení cookies povoleno a uživatel dal souhlas."
+
+#: public/class-cookie-law-info-public.php:269
+msgid "Cookie List"
+msgstr "Seznam souborů cookie"
+
+#: public/class-cookie-law-info-public.php:272
+msgid "Add New Cookie Type"
+msgstr "Přidat nový typ souboru cookie"
+
+#: public/class-cookie-law-info-public.php:273
+msgid "Edit Cookie Type"
+msgstr "Upravit typ souboru cookie"
+
+#: public/class-cookie-law-info-public.php:274
+msgid "New Cookie Type"
+msgstr "Nový typ souboru cookie"
+
+#: public/class-cookie-law-info-public.php:275
+msgid "View Cookie Type"
+msgstr "Zobrazit typ souboru cookie"
+
+#: public/class-cookie-law-info-public.php:276
+msgid "Search Cookies"
+msgstr "Hledat cookies"
+
+#: public/class-cookie-law-info-public.php:277
+msgid "Nothing found"
+msgstr "Nic nenalezeno"
+
+#: public/class-cookie-law-info-public.php:278
+msgid "Nothing found in Trash"
+msgstr "Nic jsme v koši nenašli"
+
+#: admin/class-cookie-law-info-admin.php:378
+msgid "Cookie Duration"
+msgstr "Doba trvání souboru cookie"
+
+#: admin/class-cookie-law-info-admin.php:376
+msgid "Cookie ID"
+msgstr "ID souboru cookie"
+
+#: public/modules/shortcode/shortcode.php:202
+#: public/class-cookie-law-info-public.php:270
+msgid "Cookie"
+msgstr "Cookie"
+
+#: public/modules/shortcode/shortcode.php:206
+msgid "Type"
+msgstr "Typ"
+
+#: public/modules/shortcode/shortcode.php:210
+msgid "Duration"
+msgstr "Délka"
+
+#: admin/modules/cli-policy-generator/views/policy-generator.php:57
+#: admin/views/admin_necessary_cookie.php:30
+#: admin/views/admin_non_necessary_cookie.php:53
+#: public/modules/shortcode/shortcode.php:214
+msgid "Description"
+msgstr "Popis"
+
+#. Plugin Name of the plugin
+#: public/class-cookie-law-info-public.php:268
+msgid "GDPR Cookie Consent"
+msgstr "GDPR Cookie Consent"
+
+#. Plugin URI of the plugin
+msgid "https://www.webtoffee.com/product/gdpr-cookie-consent/"
+msgstr "https://www.webtoffee.com/product/gdpr-cookie-consent/"

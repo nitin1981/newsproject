@@ -1,0 +1,107 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-04 03:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin.php:23
+msgid "Sorry, you are not allowed to install themes on this site."
+msgstr ""
+
+#: admin.php:32
+msgid "Upload Theme"
+msgstr ""
+
+#: admin.php:38
+#, php-format
+msgid "Installing Theme from uploaded file: %s"
+msgstr ""
+
+#: custom-theme-upgrader.php:43
+msgid "Upgrading the theme&#8230;"
+msgstr ""
+
+#: custom-theme-upgrader.php:44
+msgid "Backing up the old version of the theme&#8230;"
+msgstr ""
+
+#. 1: theme zip URL
+#: custom-theme-upgrader.php:62
+#, php-format
+msgid ""
+"A backup zip file of the old theme version can be downloaded <a "
+"href=\"%1$s\">here</a>."
+msgstr ""
+
+#: custom-theme-upgrader.php:72
+msgid "Moving the old version of the theme to a new directory&#8230;"
+msgstr ""
+
+#: custom-theme-upgrader.php:93
+msgid ""
+"Unable to find a new directory name to move the old version of the theme to. "
+"No backup will be created."
+msgstr ""
+
+#. 1: new theme directory name
+#: custom-theme-upgrader.php:99
+#, php-format
+msgid ""
+"Moved the old version of the theme to a new theme directory named %1$s. This "
+"directory should be backed up and removed from the site."
+msgstr ""
+
+#: custom-theme-upgrader.php:101
+msgid ""
+"Unable to move the old version of the theme to a new directory. No backup "
+"will be created."
+msgstr ""
+
+#: custom-theme-upgrader.php:121
+msgid ""
+"A theme backup can not be created since a destination path for the backup "
+"file could not be found."
+msgstr ""
+
+#. 1: zip error details
+#: custom-theme-upgrader.php:150
+#, php-format
+msgid ""
+"A theme backup can not be created as creation of the zip file failed with "
+"the following error: %1$s"
+msgstr ""
+
+#. 1: theme name, 2: theme version
+#: custom-theme-upgrader.php:157
+#, php-format
+msgid "Theme Backup - %1$s - %2$s"
+msgstr ""
+
+#. Name of the plugin
+msgid "Mystery Theme Updater"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Upgrade themes and plugins using a zip file without having to remove them "
+"first."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://mysterythemes.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mystery Themes"
+msgstr ""

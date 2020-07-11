@@ -1,0 +1,5839 @@
+msgid ""
+msgstr ""
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: PhraseApp (phraseapp.com)\n"
+
+#: functions.php:321
+#, fuzzy
+msgid " - Latest updates"
+msgstr "- Nyeste oppdateringer"
+
+#: core/theme-option.php:460
+#, fuzzy
+msgid " Full Width Section Image"
+msgstr "Inndelingsbilde i full bredde"
+
+#: importer/inc/OneClickDemoImport.php:382
+#, php-format
+#, fuzzy
+msgid "%1$s%3$sThat's it, all done!%4$s%2$sThe import of demo data has finished. Please check your page and make sure that everything has been imported correctly.%5$s"
+msgstr "%1$s%3$sDet var det, alt er klart!%4$s%2$sImporteringen av demonstrasjonsdata er ferdig. Sjekk siden din og se om alt er korrekt importert.%5$s"
+
+#: importer/inc/OneClickDemoImport.php:393
+#, php-format
+#, fuzzy
+msgid "%1$sThe demo import has finished, but there were some import errors.%2$sMore details about the errors can be found in this %3$s%5$slog file%6$s%4$s%7$s"
+msgstr "%1$sDemonstrasjonsimporteringen er ferdig, men det oppsto noen feil under importeringen.%2$sDu finner mer informasjon om feilene i denne %3$s%5$sloggfilen%6$s%4$s%7$s"
+
+#: inc/class-ilotheme-walker-comment.php:59
+#, php-format
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">sier:</span>"
+
+#: onecom-addons/onecom-inc.php:413
+#, php-format
+msgid "%s is purged successfully."
+msgstr "%s er tømt."
+
+#: classes/class-moments-widget-recent-posts.php:41
+#, fuzzy
+msgid "(no title)"
+msgstr "Sidetittel"
+
+#: 404.php:22
+#, fuzzy
+msgid "404"
+msgstr "404"
+
+#: classes/class-moments-customize.php:74
+#, fuzzy
+msgid "404 Page Content"
+msgstr "404 Sideinnhold"
+
+#: inc/core_functions.php:69
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Postet</span> %s"
+
+# Error message that is shown when an Administrator user tries to login with a wrong password, explaining that they need to set a new one.
+# 
+# The text in between the placeholders will become a link.
+# 
+# _______________________________________
+#: functions.php:456
+#, php-format
+msgid "<strong>ERROR</strong> If you are owner of this domain, please %s reset your password%s by providing email id registered with one.com."
+msgstr "Du har skrevet inn et feil passord. Hvis dette er den første gangen du logger inn med denne brukeren, trenger du å %s bestemme deg for et nytt passord %s."
+
+# Please insert the tags (linebreaks).
+msgid "A content delivery network is a system of distributed servers that deliver pages and other web content to a user, <br/>based on the geographic locations of the user, the origin of the webpage and the content delivery server. <br>This is especially useful if you have a lot of visitors spread across the globe."
+msgstr "Et content delivery network (CDN) er et system av distribuerte servere som leverer sider og annet webinnhold til en bruker, <br/>basert av brukerens geografiske plassering, hvor nettsiden kommer fra og innholdsleveringsserveren.<br>Dette er spesielt nyttig hvis du har mange besøkende fra hele verden."
+
+#: onecom-addons/onecom-inc.php:503
+msgid "A custom URL or permalink structure is required for the Performance Cache plugin to work correctly. Please go to the <a href=\"options-permalink.php\">Permalinks Options Page</a> to configure them."
+msgstr "En egendefinert URL eller permalink-struktur er nødvendig for at Performance Cache pluginen skal fungere riktig. Vennligst gå til <a href=\"options-permalink.php\">Alternativer for permalenker-siden</a> for å konfigurere dem."
+
+#: inc/theme_metaboxes.php:260 inc/theme_metaboxes.php:413
+#: inc/theme_metaboxes.php:449
+msgid "A video will override the featured image for this post."
+msgstr "En video vil overstyre det aktuelle bildet for dette innlegget."
+
+#: admin/options-init.php:478
+msgid "About"
+msgstr "Om"
+
+#: inc/customizer/blog-template-control.php:214
+msgid "About Blog"
+msgstr "Om bloggen"
+
+#: inc/customizer/blog-template-control.php:269
+#: inc/customizer/blog-template-control.php:311
+msgid "About Me"
+msgstr "Om meg"
+
+#: inc/customizer/blog-template-control.php:258
+msgid "About the blog"
+msgstr "Om bloggen"
+
+#: inc/theme_metaboxes.php:206
+msgid "About us section"
+msgstr "Bunninndeling"
+
+#: admin/options-init.php:436 admin/options-init.php:443
+msgid "Above the flip box"
+msgstr "Over flip-boksen"
+
+#: inc/theme_metaboxes.php:625
+msgid "Acronym"
+msgstr "Akronym"
+
+#: inc/functions.php:266 inc/functions.php:281 inc/functions.php:608
+#: inc/functions.php:610 templates/network/plugin-listing.php:87
+#: templates/network/plugin-listing.php:89
+#: templates/network/recommended-plugin-listing.php:100
+#: templates/network/theme-listing-loop.php:77
+#: templates/network/theme-listing-loop.php:79 templates/plugin-listing.php:86
+#: templates/plugin-listing.php:88 templates/recommended-plugin-listing.php:99
+#: templates/theme-listing-loop.php:74 templates/theme-listing-loop.php:76
+#, fuzzy
+msgid "Activate"
+msgstr "Aktiver"
+
+#: classes/class-moments-customize.php:487
+#: classes/class-moments-customize.php:505 inc/customizer/index.php:281
+#: inc/customizer/index.php:296
+#, fuzzy
+msgid "Active"
+msgstr "Aktiv"
+
+#: includes/ws-shortcode.php:40
+#, fuzzy
+msgid "Actual ratio"
+msgstr "Behold størrelsesforhold"
+
+#: includes/customize-page.php:101
+#, fuzzy
+msgid "Add a custom color to text in your online shop."
+msgstr "Legg til ønsket tekstfarge for nettbutikken din."
+
+#: includes/customize-page.php:86
+#, fuzzy
+msgid "Add a custom font for your online shop."
+msgstr "Legg til ønsket skrifttype for nettbutikken din."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:92
+msgid "Add a link to your cookie policy"
+msgstr "Legg til en lenke til dine retningslinjer for informasjonskapsler"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:83
+msgid "Add a text asking your users to accept cookies."
+msgstr "Legg til en tekst som ber brukerne dine om å godta informasjonskapsler."
+
+#: custompost/custompost.php:8
+msgid "Add Adventure"
+msgstr "Add Reise"
+
+#: includes/settings-page.php:43
+#, fuzzy
+msgid "Add custom CSS to the shopfront."
+msgstr "Legg til ønsket CSS på butikksiden."
+
+#: includes/customize-page.php:62
+#, fuzzy
+msgid "Add custom CSS to your shop and read the tips to get started. You can always start over, by emptying the custom CSS field below."
+msgstr "Legg til ønsket CSS for nettbutikken din og les tipsene før du starter. Du kan alltid starte på nytt ved å tømme CSS-feltet nedenfor."
+
+#: inc/theme_options.php:627
+msgid "Add fonts in your website."
+msgstr "Legg til skrifttyper på nettsiden."
+
+#: option-tree/includes/ot-functions-option-types.php:1310
+#, fuzzy
+msgid "Add Google Font"
+msgstr "Legg til Google-skrifttype"
+
+#: inc/category-media.php:45 inc/category-media.php:84
+msgid "Add Image"
+msgstr "Legg til bilde"
+
+#: option-tree/includes/ot-functions-docs-page.php:398
+#: option-tree/includes/ot-functions-option-types.php:247
+#: option-tree/includes/ot-functions-option-types.php:3163
+#: option-tree/includes/ot-functions-settings-page.php:169
+#: option-tree/ot-loader.php:777
+#, fuzzy
+msgid "Add Media"
+msgstr "Legg til medier"
+
+#: option-tree/includes/ot-functions-option-types.php:1512
+#: option-tree/includes/ot-functions-option-types.php:2258
+#, fuzzy
+msgid "Add New"
+msgstr "Legg til ny"
+
+#: custompost/custompost.php:9
+msgid "Add New Adventure"
+msgstr "Add New Reise"
+
+#: inc/core_functions.php:469
+msgid "Add New Catalog"
+msgstr "Legg til ny"
+
+#: inc/core_functions.php:446
+msgid "Add New Instructor"
+msgstr "Legg til ny instruktør"
+
+#: inc/core_functions.php:375
+msgid "Add New Recipe Type"
+msgstr "Legg til ny oppskriftstype"
+
+#: functions.php:167
+msgid "Add New Reviews"
+msgstr "Legg til nye vurderinger"
+
+#: custompost/customposts.php:71
+msgid "Add New Service"
+msgstr "Legg til ny tjeneste"
+
+#: inc/core_functions.php:332
+msgid "Add New Slide"
+msgstr "Legg til nytt bilde"
+
+#: custompost/customposts.php:40
+msgid "Add New Spotlight"
+msgstr "Legg til nytt Spotlight"
+
+#: inc/classes/class-vlog.php:358
+msgid "Add New Testimonial"
+msgstr "Legg til ny kundeevaluering"
+
+#: inc/core_functions.php:375
+msgid "Add New Tutorials Type"
+msgstr "Legg til ny tutorialtype"
+
+#: template-parts/menuDiv.php:70
+msgid "Add New User"
+msgstr "Legg til ny bruker"
+
+#: admin/options-init.php:121
+msgid "Add phone number on your website"
+msgstr "Legg til telefonnummer på nettsiden"
+
+#: functions.php:164
+msgid "Add Reviews"
+msgstr "Legg til vurderinger"
+
+#: custompost/customposts.php:70
+msgid "Add Service"
+msgstr "Legg til tjeneste"
+
+#: custompost/customposts.php:39
+msgid "Add Spotlight"
+msgstr "Legg til Spotlight"
+
+#: custompost/custompost.php:101
+msgid "Add Testimonial"
+msgstr "Add Kundeevalueringer"
+
+#: custompost/customposts.php:8
+msgid "Add Testimonials"
+msgstr "Legg til kundeevaluering"
+
+#: inc/classes/class-vlog.php:234
+#, fuzzy
+msgid "Add widgets here to appear in your footer."
+msgstr "Legg til widgets her for at de skal vises i bunnteksten."
+
+#: functions.php:280
+msgid "Add widgets here to appear in your header."
+msgstr "Legg til widgets som skal vises i toppteksten."
+
+#: inc/classes/class-vlog.php:223
+#, fuzzy
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Legg til widgets her for at de skal vises i sidepanelet."
+
+#: includes/settings-page.php:30
+#, fuzzy
+msgid "Add your online shop to a page"
+msgstr "Legg til nettbutikken på en side"
+
+#: inc/widgets.php:266 inc/widgets.php:350
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/options-init.php:540
+msgid "Address Line 1"
+msgstr "Adresselinje 1"
+
+#: admin/options-init.php:546
+msgid "Address Line 2"
+msgstr "Adresselinje 2"
+
+# You have three ways that you can show the shopping cart on your site.
+# 
+# This is the header and description, after which you need to choose an option.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:21
+msgid "Adjust cart position"
+msgstr "Velg handlekurvplassering og -stil"
+
+#: inc/theme_options.php:68
+msgid "Advanced"
+msgstr "Avansert"
+
+#: custompost/custompost.php:6 custompost/custompost.php:7
+msgid "Adventure"
+msgstr "Reise"
+
+#: custompost/custompost.php:30
+msgid "Adventures"
+msgstr "Reise"
+
+#: inc/core_functions.php:370
+msgid "All Recipe Types"
+msgstr "Alle oppskriftstyper"
+
+#: functions.php:165
+msgid "All Reviews"
+msgstr "Alle vurderinger"
+
+#: inc/theme_metaboxes.php:183
+msgid "All services button link"
+msgstr "Tjenester knappelenke"
+
+#: inc/theme_metaboxes.php:175
+msgid "All services button text"
+msgstr "Tjenester knappetekst"
+
+#: inc/core_functions.php:335
+msgid "All Slides"
+msgstr "Alle bilder"
+
+#: inc/core_functions.php:370
+msgid "All Tutorials Types"
+msgstr "Alle tutorialtyper"
+
+#: template-parts/menuDiv.php:71
+msgid "All Users"
+msgstr "Alle brukere"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:135
+msgid "All your plugins are updated"
+msgstr "Alle dine plugins er oppdaterte"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:170
+msgid "All your themes are updated!"
+msgstr "Alle dine temaer er oppdaterte"
+
+# Checkbox option to enable a share link that is visible under each post.
+# __________________________
+#: inc/customizer/blog-template-control.php:335
+msgid "Allow social sharing for posts?"
+msgstr "Legg til en delelink under hver bloggpost"
+
+#: includes/ws-shortcode.php:25
+#, fuzzy
+msgid "Alphabetical"
+msgstr "Alfabetisk"
+
+#: includes/settings-page.php:85
+#, fuzzy
+msgid "Any question?"
+msgstr "Spørsmål?"
+
+#: templates/discouraged-plugin-listing.php:119
+#: templates/network/discouraged-plugin-listing.php:119
+#, fuzzy
+msgid "Are you sure that you want to deactivate this plugin?"
+msgstr "Er du sikker på at du vil deaktivere plugin?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+#: staging/Includes/Core/views/includes/footer.php:14
+#: staging/Includes/Core/views/includes/footer.php:29
+#: staging/Includes/Core/views/includes/footer.php:44
+#: staging/Includes/Core/views/includes/footer.php:62
+#: staging/Includes/Core/views/staging.php:34
+#, fuzzy
+msgid "Are you sure?"
+msgstr "Er du sikker?"
+
+# This option will be available to users instead of "In head of all pages", but only when they don't use a One.com theme. The customer then needs to add a css selector in the box below.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:41
+msgid "Attach cart to css selector"
+msgstr "Legg handlekurven til CSS-velgeren"
+
+#: template-parts/internal-banner.php:60
+#: template-parts/internal-banner.php:62
+msgid "Author"
+msgstr "Forfatter"
+
+#: inc/theme_metaboxes.php:89 inc/theme_metaboxes.php:504
+#: inc/theme_metaboxes.php:687 inc/theme_metaboxes.php:939
+#: inc/theme_metaboxes.php:1026 inc/theme_metaboxes.php:1101
+#: inc/theme_metaboxes.php:1191
+msgid "Auto"
+msgstr "Auto"
+
+#: templates/network/theme-listing.php:83 templates/theme-listing.php:84
+#, fuzzy
+msgid "Back to themes"
+msgstr "Tilbake til temaer"
+
+#: admin/options-init.php:206
+#, fuzzy
+msgid "Background"
+msgstr "Bakgrunn"
+
+#: option-tree/includes/ot-functions-option-types.php:151
+#, fuzzy
+msgid "Background Attachment"
+msgstr "Bakgrunn \"attachment\""
+
+#: classes/class-moments-customize.php:517 inc/customizer/index.php:306
+#, fuzzy
+msgid "Background Color"
+msgstr "Bakgrunnsfarge"
+
+#: includes/customize-page.php:209
+#, fuzzy
+msgid "Background color (dropdown menu)"
+msgstr "Bakgrunnsfarge (nedtrekksmeny)"
+
+#: includes/customize-page.php:153
+#, fuzzy
+msgid "Background color (online shop)"
+msgstr "Bakgrunnsfarge (nettbutikk)"
+
+#: option-tree/includes/ot-functions-option-types.php:240
+#, fuzzy
+msgid "Background Image"
+msgstr "Bakgrunnsbilde"
+
+#: option-tree/includes/ot-functions-option-types.php:171
+#, fuzzy
+msgid "Background Position"
+msgstr "Plassering av bakgrunn"
+
+#: option-tree/includes/ot-functions-option-types.php:132
+#, fuzzy
+msgid "Background Repeat"
+msgstr "Gjenta bakgrunn"
+
+#: inc/theme_metaboxes.php:288 inc/theme_metaboxes.php:526
+msgid "Background Section"
+msgstr "Bakgrunn inndeling"
+
+#: inc/theme_options.php:302
+msgid "Background Section - Text Color"
+msgstr "Bakgrunnsinndeling - Tekstfarge"
+
+#: option-tree/includes/ot-functions-option-types.php:214
+#: option-tree/includes/ot-functions-option-types.php:228
+#, fuzzy
+msgid "Background Size"
+msgstr "Størrelse bakgrunn"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:600
+msgid "Background updates are working properly."
+msgstr "Bakgrunnsoppdateringer er aktiverte og fungerer som de skal"
+
+#: core/theme-option.php:406
+#, fuzzy
+msgid "Banner"
+msgstr "Banner"
+
+#: admin/options-init.php:417
+msgid "Banner Blurb"
+msgstr "Banner Blurb"
+
+#: inc/theme_options.php:368
+msgid "Banner Buttons"
+msgstr "Bannerknapper"
+
+#: inc/theme_options.php:391
+msgid "Banner Buttons - Border"
+msgstr "Bannerknapper - Kantlinje"
+
+#: inc/theme_options.php:399
+msgid "Banner Buttons - Border Radius"
+msgstr "Bannerknapper - Radius kantlinje"
+
+#: inc/theme_options.php:382
+msgid "Banner Buttons - Show Border"
+msgstr "Bannerknapper - Vis banner"
+
+#: inc/customizer/index.php:532
+msgid "Banner Caption"
+msgstr "Bannertekst"
+
+#: inc/theme_metaboxes.php:95
+msgid "Banner Caption - Content"
+msgstr "Bannertekst - tittel"
+
+#: inc/theme_metaboxes.php:123
+msgid "Banner Caption - Subtitle"
+msgstr "Bannertekst - Undertittel"
+
+#: inc/theme_metaboxes.php:114
+msgid "Banner Caption - Title"
+msgstr "Bannertekst - tittel"
+
+#: inc/theme_metaboxes.php:163
+msgid "Banner Content"
+msgstr "Bannerinnhold"
+
+#: inc/theme_metaboxes.php:105 inc/theme_metaboxes.php:954
+#: inc/theme_metaboxes.php:1041 inc/theme_metaboxes.php:1116
+#: inc/theme_metaboxes.php:1206
+msgid "Banner Custom Height"
+msgstr "Egendefinert bannerhøyde"
+
+#: inc/theme-options.php:329
+msgid "Banner Font Style"
+msgstr "Banner skrifttype"
+
+#: inc/theme_options.php:890
+msgid "Banner Heading Font Style"
+msgstr "Skrifttype banneroverskrift"
+
+#: inc/theme_metaboxes.php:81 inc/theme_metaboxes.php:496
+#: inc/theme_metaboxes.php:679 inc/theme_metaboxes.php:931
+#: inc/theme_metaboxes.php:1018 inc/theme_metaboxes.php:1093
+#: inc/theme_metaboxes.php:1183
+msgid "Banner Height"
+msgstr "Bannerhøyde"
+
+#: inc/widgets.php:211
+msgid "Banner Height (px)"
+msgstr "Bannerhøyde (px)"
+
+#: metaboxes/metabox.php:44
+#, fuzzy
+msgid "Banner Image"
+msgstr "Bannerbilde"
+
+#: inc/theme_metaboxes.php:977 inc/theme_metaboxes.php:1052
+#: inc/theme_metaboxes.php:1150
+msgid "Banner Setting"
+msgstr "Bannerinnstilling"
+
+#: inc/theme_metaboxes.php:904 inc/theme_metaboxes.php:985
+msgid "Banner Settings"
+msgstr "Bannerinnstillinger"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:122
+msgid "Banner style"
+msgstr "Bannerstil"
+
+#: core/theme-option.php:421
+#, fuzzy
+msgid "Banner Sub-text"
+msgstr "Banner undertekst"
+
+#: inc/theme_options.php:910
+msgid "Banner Subtext Font Style"
+msgstr "Banner undertekst skrifttype"
+
+#: admin/options-init.php:411
+msgid "Banner Subtitle Text"
+msgstr "Banner undertitteltekst"
+
+#: core/theme-option.php:415
+#, fuzzy
+msgid "Banner Text"
+msgstr "Bannertekst"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:82
+msgid "Banner text"
+msgstr "Bannertekst"
+
+#: admin/options-init.php:405
+msgid "Banner Title Text"
+msgstr "Banner titteltekst"
+
+#: inc/widgets.php:249
+msgid "Banner Widget"
+msgstr "Banner-widget"
+
+#: staging/Includes/Core/views/staging.php:25
+#, fuzzy
+msgid "Before you continue, please be aware of the following:"
+msgstr "Før du fortsetter må du legge merke til følgende:"
+
+#: core/theme-option.php:433 core/theme-option.php:443
+#: core/theme-option.php:450
+#, fuzzy
+msgid "Below the banner"
+msgstr "Under banneret"
+
+#: core/theme-option.php:484 core/theme-option.php:494
+#: core/theme-option.php:501 core/theme-option.php:508
+#: core/theme-option.php:518 core/theme-option.php:525
+#: core/theme-option.php:532 core/theme-option.php:542
+#: core/theme-option.php:549
+#, fuzzy
+msgid "Below the full width section"
+msgstr "Nedenfor inndelingen i full bredde"
+
+#: inc/core_functions.php:60
+msgid "Big Text Color"
+msgstr "Farge stor tekst"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:125
+msgid "Black"
+msgstr "Svart"
+
+#: inc/theme_options.php:86
+msgid "Blog"
+msgstr "Blogg"
+
+#: classes/class-moments-customize.php:562 inc/customizer/index.php:331
+#, fuzzy
+msgid "Blog Listing - Page Layout"
+msgstr "Bloggoppføring - Sideoppsett"
+
+#: admin/options-init.php:522
+msgid "Blog Section Title"
+msgstr "Tittel blogginndeling"
+
+#: functions.php:417 inc/customizer/blog-template-control.php:115
+msgid "Blog Settings"
+msgstr "Blogginnstillinger"
+
+#: functions.php:385
+msgid "Blog settings"
+msgstr "Blogginnstillinger"
+
+#: functions.php:151
+msgid "Blog Sidebar"
+msgstr "Blogg sidestolpe"
+
+#: inc/customizer/blog-template-control.php:125
+msgid "Blog Template"
+msgstr "Bloggmal"
+
+#: inc/theme_options.php:111 inc/theme_options.php:716
+#: inc/theme_options.php:723
+msgid "Body"
+msgstr "Brødtekst"
+
+#: admin/options-init.php:111
+#, fuzzy
+msgid "Body Background"
+msgstr "Bakgrunn"
+
+#: classes/class-moments-customize.php:434 inc/customizer/index.php:236
+msgid "Body Background color"
+msgstr "Bakgrunn"
+
+#: admin/options-init.php:112
+#, fuzzy
+msgid "Body background with image, color, etc."
+msgstr "Bakgrunn med bilde, farge osv."
+
+#: classes/class-moments-customize.php:340 inc/customizer/index.php:143
+#, fuzzy
+msgid "Body Font Style"
+msgstr "Fontstil brødtekst"
+
+#: admin/options-init.php:392
+msgid "Body Social Icon background Color"
+msgstr "Bakgrunnsfarge for sosiale medier-ikon"
+
+#: admin/options-init.php:385
+msgid "Body Social Icon Color"
+msgstr "Bakgrunnsfarge sosiale medier-ikon"
+
+#: inc/customizer/index.php:200
+#, fuzzy
+msgid "Body text"
+msgstr "Brødtekst"
+
+#: classes/class-moments-customize.php:428 inc/customizer/index.php:231
+#, fuzzy
+msgid "Body Text Color"
+msgstr "Brødtekstfarge"
+
+# The colour of the text in comments
+# __________________________
+#: inc/customizer/blog-template-control.php:103
+msgid "Body text of comments"
+msgstr "Tekst i kommentarfelt"
+
+# Label to set the colour of the body text of the blog post.
+# 
+# See screenshot for context and the corresponding colour, which is pink.
+# ______________________
+#: inc/customizer/blog-template-control.php:102
+msgid "Body text of posts"
+msgstr "Tekst i bloggpost"
+
+#: inc/theme_metaboxes.php:1242
+msgid "Booking Page Link"
+msgstr "Bestillingssidelenke"
+
+#: includes/customize-page.php:220
+#, fuzzy
+msgid "Border color (dropdown menu)"
+msgstr "Kantlinjefarge (nedtrekksmeny)"
+
+#: includes/customize-page.php:265
+#, fuzzy
+msgid "Borders"
+msgstr "Kantlinjer"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:62
+msgid "Bottom"
+msgstr "Nederst"
+
+#: metabox/metabox.php:16
+#, fuzzy
+msgid "Bottom Content"
+msgstr "Bunninnhold"
+
+#: includes/ws-shortcode.php:75
+#, fuzzy
+msgid "Bottom left"
+msgstr "Nederst til venstre"
+
+#: options-init.php:391
+msgid "Bottom Left Section"
+msgstr "Venstre bunninndeling"
+
+#: admin/options-init.php:534
+msgid "Bottom Left Section Content"
+msgstr "Innhold venstre bunninndeling"
+
+#: admin/options-init.php:528
+msgid "Bottom Left Section Title"
+msgstr "Tittel venstre bunninndeling"
+
+#: includes/customize-page.php:301
+#, fuzzy
+msgid "Bottom line (borders)"
+msgstr "Nederste linje (kantlinjer)"
+
+#: includes/ws-shortcode.php:74
+#, fuzzy
+msgid "Bottom right"
+msgstr "Nederst til høyre"
+
+#: options-init.php:397
+msgid "Bottom Right Section"
+msgstr "Høyre bunninndeling"
+
+#: core/theme-option.php:559
+#, fuzzy
+msgid "Bottom Section"
+msgstr "Bunninndeling"
+
+#: admin/options-init.php:543
+#, fuzzy
+msgid "Bottom Section Content"
+msgstr "Innhold bunninndeling"
+
+#: admin/options-init.php:552
+#, fuzzy
+msgid "Bottom Section Image"
+msgstr "Bilde bunninndeling"
+
+#: admin/options-init.php:537
+#, fuzzy
+msgid "Bottom Section Subtitle"
+msgstr "Undertittel bunninndeling"
+
+#: admin/options-init.php:531
+#, fuzzy
+msgid "Bottom Section Title"
+msgstr "Tittel bunninndeling"
+
+#: core/theme-option.php:483
+#, fuzzy
+msgid "Box-1 Image"
+msgstr "Boks-1 bilde"
+
+#: core/theme-option.php:500
+#, fuzzy
+msgid "Box-1 Text"
+msgstr "Boks-1 tekst"
+
+#: core/theme-option.php:493
+#, fuzzy
+msgid "Box-1 Title"
+msgstr "Boks-1 tittel"
+
+#: core/theme-option.php:507
+#, fuzzy
+msgid "Box-2 Image"
+msgstr "Boks-2 bilde"
+
+#: core/theme-option.php:524
+#, fuzzy
+msgid "Box-2 Text"
+msgstr "Boks-3 tekst"
+
+#: core/theme-option.php:517
+#, fuzzy
+msgid "Box-2 Title"
+msgstr "Boks-2 tittel"
+
+#: core/theme-option.php:531
+#, fuzzy
+msgid "Box-3 Image"
+msgstr "Boks-3 bilde"
+
+#: core/theme-option.php:548
+#, fuzzy
+msgid "Box-3 Text"
+msgstr "Boks-3 tekst"
+
+#: core/theme-option.php:541
+#, fuzzy
+msgid "Box-3 Title"
+msgstr "Boks-3 tittel"
+
+#: inc/widgets.php:100
+msgid "Brand description."
+msgstr "Merkebeskrivelse"
+
+#: functions.php:265
+#, fuzzy
+msgid "Breakfast"
+msgstr "Frokost"
+
+#: single.php:104
+#, fuzzy
+msgid "Breakfast: "
+msgstr "Frokost:"
+
+#: inc/theme_metaboxes.php:270
+msgid "Button 1 Link"
+msgstr "Knappelenke"
+
+#: inc/theme_metaboxes.php:263
+msgid "Button 1 Title"
+msgstr "Knappetittel"
+
+#: inc/theme_metaboxes.php:284
+msgid "Button 2 Link"
+msgstr "Knappelenke"
+
+#: inc/theme_metaboxes.php:919
+#, fuzzy
+msgid "Button 2 Title"
+msgstr "Knappetittel"
+
+#: admin/options-init.php:583
+msgid "Button Background Color"
+msgstr "Bakgrunnsfarge for knapp"
+
+#: classes/class-moments-customize.php:452 inc/customizer/index.php:251
+#, fuzzy
+msgid "Button Color"
+msgstr "Knappefarge"
+
+#: inc/widgets.php:288
+#, fuzzy
+msgid "Button Label"
+msgstr "Knappetikett"
+
+#: inc/widgets.php:327
+#, fuzzy
+msgid "Button label"
+msgstr "Knappetikett"
+
+#: classes/class-moments-newsletter-widget.php:110
+msgid "Button label:"
+msgstr "Knappetikett"
+
+#: inc/theme_metaboxes.php:138 inc/theme_metaboxes.php:271
+#: inc/theme_metaboxes.php:326 inc/theme_metaboxes.php:554
+#: inc/widgets.php:203
+msgid "Button Link"
+msgstr "Knappelenke"
+
+#: inc/theme_metaboxes.php:320
+msgid "Button link"
+msgstr "Knappelenke"
+
+#: inc/theme_metaboxes.php:795
+msgid "Button Text"
+msgstr "Knappetekst"
+
+#: inc/customizer/index.php:220
+msgid "Button text"
+msgstr "Knappetekst"
+
+#: inc/theme_metaboxes.php:203 inc/theme_metaboxes.php:263
+#: inc/theme_metaboxes.php:318 inc/theme_metaboxes.php:427
+#: inc/theme_metaboxes.php:547 inc/theme_metaboxes.php:961
+#: inc/theme_metaboxes.php:967 inc/theme_metaboxes.php:1130
+#: inc/theme_metaboxes.php:1236
+msgid "Button Title"
+msgstr "Knappetittel"
+
+#: inc/theme_options.php:358 inc/theme_options.php:1042
+msgid "Buttons"
+msgstr "Knapper"
+
+#: classes/class-moments-customize.php:321 inc/customizer/index.php:124
+#, fuzzy
+msgid "Buttons Font Style"
+msgstr "Skrifttypestil for knapper"
+
+#: templates/network/recommended-plugin-listing.php:117
+#: templates/recommended-plugin-listing.php:116
+#, fuzzy
+msgid "By"
+msgstr "Av"
+
+#: inc/lib/validator.php:374
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: inc/theme_metaboxes.php:58
+msgid "Caption Alignment"
+msgstr "Justering av bildetekst"
+
+#: functions.php:277
+#, fuzzy
+msgid "Car"
+msgstr "Bil"
+
+#: single.php:122
+#, fuzzy
+msgid "Car: "
+msgstr "Bil:"
+
+#: includes/customize-page.php:167
+#, fuzzy
+msgid "Cart & price (focus color)"
+msgstr "Handlekurv og pris (fokusfarge)"
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+# 
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:75
+msgid "Cart color"
+msgstr "Handlekurvfarge"
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/settings-page.php:52 includes/settings-page.php:55
+#: includes/settings-page.php:56
+msgid "Cart position and style"
+msgstr "Handlekurvplassering og -stil"
+
+#: includes/ws-cart-shortcode.php:124
+msgid "Cart saved successfully."
+msgstr "Handlekurven er lagret"
+
+# You can set the color of the cart. If you select the floating cart option, then you should also choose a background color, this is the little tab around the cart.
+# 
+# Same for the checkout banner, the background is the blue color in the screenshot, and the cart color here is set to white.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:81 includes/ws-cart-shortcode.php:86
+#: includes/ws-cart-shortcode.php:114
+msgid "Cart tab background color"
+msgstr "Bakgrunnsfarge på handlekurvfanen"
+
+#: inc/core_functions.php:491
+msgid "Catalog Description"
+msgstr "Logo og beskrivelse"
+
+#: template-parts/menuDiv.php:29
+msgid "Categories"
+msgstr "Kategorier"
+
+#: inc/theme_metaboxes.php:154 inc/theme_metaboxes.php:181
+#: inc/theme_metaboxes.php:208 inc/theme_metaboxes.php:214
+#: inc/theme_metaboxes.php:220
+msgid "Category"
+msgstr "Kategori"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:47
+#, fuzzy
+msgid "Caution: Rebuilding will overwrite all files and the database of your existing staging website."
+msgstr "Forsiktig: Hvis du gjenoppbygger blir alle filer og databasen til ditt eksisterende testmiljø overskrevet."
+
+#: inc/theme_metaboxes.php:71
+msgid "Center"
+msgstr "Midten"
+
+#: includes/customize-page.php:210
+#, fuzzy
+msgid "Change the background color for dropdown menus."
+msgstr "Endre bakgrunnsfarge for nedtrekksmenyer."
+
+#: includes/customize-page.php:221
+#, fuzzy
+msgid "Change the border color for dropdown menus."
+msgstr "Endre kantlinjefarge for nedtrekksmenyer."
+
+#: includes/customize-page.php:242
+#, fuzzy
+msgid "Change the color of text for selected dropdown items."
+msgstr "Endrer fargen på teksten for det valgte elementer i nedtrekksmenyen."
+
+#: includes/customize-page.php:116
+#, fuzzy
+msgid "Change the color on text links, selected text and text for input fields."
+msgstr "Endre farge på tekstlenker, valgt tekst og tekst for inndatafelt."
+
+#: inc/theme_metaboxes.php:82
+msgid "Change the font for this banner"
+msgstr "Endre skrifttype for dette banneret"
+
+#: inc/theme_metaboxes.php:497 inc/theme_metaboxes.php:680
+#: inc/theme_metaboxes.php:932 inc/theme_metaboxes.php:1019
+#: inc/theme_metaboxes.php:1094 inc/theme_metaboxes.php:1184
+msgid "Change the font for this internal banner"
+msgstr "Endre skrifttype for dette interne banneret"
+
+#: inc/theme_options.php:606
+msgid "Change the font style for Header Menu"
+msgstr "Endre skrifttype for meny i banner"
+
+#: inc/theme_options.php:586
+msgid "Change the font style for logo"
+msgstr "Endre skrifttype for logo"
+
+#: includes/customize-page.php:252
+#, fuzzy
+msgid "Change the hover color for the items in dropdown menu."
+msgstr "Endre farge ved mus over for elementer i nedtrekksmeny."
+
+#: includes/customize-page.php:232
+#, fuzzy
+msgid "Change the text color for dropdown menus."
+msgstr "Endre tekstfarge for nedtrekksmenyer."
+
+#: includes/settings-page.php:86
+#, fuzzy
+msgid "Chat with us"
+msgstr "Chat med oss"
+
+#: metaboxes/metabox.php:185 metaboxes/metabox.php:198
+#, fuzzy
+msgid "Choose or Upload an Image"
+msgstr "Velg eller last opp bilde"
+
+#: functions.php:326
+msgid "Click here to view the post"
+msgstr "Klikk her for å se innlegget"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:28
+#, fuzzy
+msgid "Click on \"Rebuild Staging\" to regenerate your staging site."
+msgstr "Klikk på “Gjenoppbygg staging” for å bygge staging-siden på nytt."
+
+#: inc/customizer/blog-template-control.php:139
+msgid "Click to Select"
+msgstr "Klikk for å velge"
+
+#: includes/ws-cart-shortcode.php:20 includes/ws-shortcode.php:2
+#, fuzzy
+msgid "close"
+msgstr "lukk"
+
+#: inc/theme-metaboxes.php:174
+msgid "Collection Link"
+msgstr "Kolleksjonslenke"
+
+#: inc/theme_options.php:64
+msgid "Color Scheme"
+msgstr "Fargevalg"
+
+#: inc/customizer/blog-template-control.php:155
+msgid "Colors"
+msgstr "Farger"
+
+#: template-parts/mainDiv.php:28
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: comments.php:38
+#, fuzzy
+msgid "Comments are closed."
+msgstr "Kommentarer er lukket."
+
+#: admin/options-init.php:127
+msgid "Common Bottom Text"
+msgstr "Felles bunntekst"
+
+#: inc/lib/validator.php:534
+#, fuzzy
+msgid "Connection timed out"
+msgstr "Tilkoblingen har utløpt"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:41
+msgid "Connection to Wordpress.org"
+msgstr "Tilkoblingen til wordpress.org mislyktes"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:292
+msgid "Connection to Wordpress.org was successful"
+msgstr "Tilkoblingen til wordpress.org var vellykket"
+
+#: admin/options-init.php:561
+#, fuzzy
+msgid "Contact"
+msgstr "Kontakt"
+
+#: inc/core_functions.php:279
+msgid "Contact Details "
+msgstr "Kontaktopplysninger"
+
+#: inc/core_functions.php:94 inc/core_functions.php:216
+#, fuzzy
+msgid "Contact Details"
+msgstr "Kontaktopplysninger"
+
+#: inc/theme-metaboxes.php:390 inc/theme-metaboxes.php:396
+msgid "Contact Form"
+msgstr "Kontaktskjema"
+
+#: inc/core_functions.php:84 inc/core_functions.php:206
+#, fuzzy
+msgid "Contact query from website"
+msgstr "Kontaktskjema dra nettside"
+
+#: admin/options-init.php:450
+#, fuzzy
+msgid "Content"
+msgstr "Innhold"
+
+#: inc/theme_options.php:412
+msgid "Content Buttons"
+msgstr "Innholdsknapper"
+
+#: inc/theme_options.php:434
+msgid "Content Buttons - Border"
+msgstr "Innholdsknapper - Kantlinje"
+
+#: inc/theme_options.php:447
+msgid "Content Buttons - Border Radius"
+msgstr "Innholdsknapper - Radius kantlinje"
+
+#: inc/theme_options.php:425
+msgid "Content Buttons - Show Border"
+msgstr "Innholdsknapper - Vis kantlinje"
+
+#: template-parts/content.php:36
+#, fuzzy
+msgid "Continue reading"
+msgstr "Les mer"
+
+#: modules/cookie-banner/inc/functions.php:22
+#: modules/cookie-banner/inc/functions.php:23
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:3
+msgid "Cookie Banner"
+msgstr "Cookiebanner"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:89
+msgid "Cookie policy link (Optional)"
+msgstr "Lenken til retningslinjer for informasjonskapsler (valgfritt)"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:85
+#, fuzzy
+msgid "Cookie requirements vary. This default text is for general use but may not meet your particular legal requirements."
+msgstr "Kravene for informasjonskapsler varierer. Denne standardteksten er for generell bruk, men det er ikke sikkert at den oppfyller dine spesifikke juridiske behov."
+
+#: staging/one_staging.php:149
+#, fuzzy
+msgid "Copied successfully."
+msgstr "Testmiljø opprettet."
+
+#: includes/ws-shortcode.php:105
+#, fuzzy
+msgid "Copied to clipboard"
+msgstr "Kopiert til utklippstavle"
+
+#: includes/ws-shortcode.php:102
+#, fuzzy
+msgid "Copy shortcode"
+msgstr "Kopier shortcode"
+
+#: staging/Includes/Core/views/staging.php:34
+#, fuzzy
+msgid "Copy staging to live"
+msgstr "Kopier test til live"
+
+#: staging/Includes/Core/views/staging.php:18
+#, fuzzy
+msgid "Copy staging to your live site"
+msgstr "Kopier testmiljø til live nettsted"
+
+#: includes/ws-shortcode.php:95
+#, fuzzy
+msgid "Copy this shortcode to the page"
+msgstr "Kopier denne shortcoden til siden"
+
+#: staging/one_staging.php:156
+#, fuzzy
+msgid "Copying database..."
+msgstr "Kopierer database…"
+
+#: staging/one_staging.php:158
+#, fuzzy
+msgid "Copying files..."
+msgstr "Kopierer filer…"
+
+#: classes/class-moments-customize.php:535
+#, fuzzy
+msgid "Copyright Background Color"
+msgstr "Copyright bakgrunnsfarge"
+
+#: inc/theme-options.php:311
+msgid "Copyright Font Style"
+msgstr "Copyright skrifttype"
+
+#: inc/customizer/index.php:427
+#, fuzzy
+msgid "Copyright Text"
+msgstr "Copyright-tekst"
+
+#: classes/class-moments-customize.php:216
+msgid "Copyright text"
+msgstr "Copyright-tekst"
+
+#: inc/theme_options.php:349
+msgid "Copyright Text Color"
+msgstr "Copyright tekstfarge"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:530
+msgid "Correct file permissions."
+msgstr "Filtillatelsene er justert korrekt"
+
+#: inc/core_functions.php:368
+msgctxt "costume-crafting"
+msgid "Tutorials Type"
+msgstr "Tutorialtype"
+
+#: inc/core_functions.php:367
+msgctxt "costume-crafting"
+msgid "Tutorials Types"
+msgstr "Tutorialtype"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: template-parts/section-enroll-form.php:40
+msgid "Courses"
+msgstr "Kurs"
+
+#: staging/Includes/Core/views/live.php:47
+#, fuzzy
+msgid "Create a staging version of your site to try out new plugins, themes and customizations"
+msgstr "Opprett en testversjon av nettstedet for å prøve ut nye plugins, tema og tilpasninger"
+
+#: staging/Includes/Core/views/live.php:54
+#, fuzzy
+msgid "Create staging site"
+msgstr "Opprett testmiljø"
+
+#: includes/ws-shortcode.php:45
+#, fuzzy
+msgid "Crop images"
+msgstr "Beskjær bilder"
+
+#: inc/theme_metaboxes.php:97 inc/theme_metaboxes.php:512
+#: inc/theme_metaboxes.php:695 inc/theme_metaboxes.php:947
+#: inc/theme_metaboxes.php:1034 inc/theme_metaboxes.php:1109
+#: inc/theme_metaboxes.php:1199
+msgid "Custom"
+msgstr "Egendefinert"
+
+#: inc/theme_options.php:101
+msgid "Custom colors selection may override the Primary and Secondary Skin colors at some places"
+msgstr "Egendefinerte fargevalg kan overstyre primære og sekundære skallfarger noen steder"
+
+#: inc/theme_options.php:1388
+msgid "Custom CSS"
+msgstr "Egendefinert CSS"
+
+#: inc/theme_metaboxes.php:435 inc/theme_metaboxes.php:826
+msgid "Custom Form"
+msgstr "Egendefinert skjema"
+
+#: inc/theme-metaboxes.php:87
+msgid "Custom Height"
+msgstr "Egendefinert høyde"
+
+#: custompost/customposts.php:92
+msgid "Custom post type for Service"
+msgstr "Egendefinert innleggstype for tjeneste"
+
+#: custompost/customposts.php:61
+msgid "Custom post type for Spotlight"
+msgstr "Egendefinert innleggstype for Spotlight"
+
+#: inc/theme_metaboxes.php:224 inc/theme_metaboxes.php:515
+#: inc/theme_metaboxes.php:617 inc/theme_metaboxes.php:764
+#: inc/theme_metaboxes.php:886
+msgid "Custom Title"
+msgstr "Egendefinert tittel"
+
+#: webshop.php:124
+#, fuzzy
+msgid "Customize"
+msgstr "Tilpass styling"
+
+#: inc/theme_options.php:583
+msgid "Customize > Site Identity > Site Icon"
+msgstr "Tilpass > Nettsted Identitet > Site Icon"
+
+#: inc/theme_options.php:100
+msgid "Customize Skin"
+msgstr "Egendefinert skall"
+
+#: includes/customize-page.php:61 webshop.php:124
+#, fuzzy
+msgid "Customize the look of your online shop"
+msgstr "Skreddersy utseendet på nettbutikken"
+
+#: includes/settings-page.php:42
+#, fuzzy
+msgid "Customize the styling for your shop"
+msgstr "Skreddersy stylingen for nettbutikken din"
+
+#: admin/options-init.php:426
+msgid "CV Headline"
+msgstr "CV Overskrift"
+
+#: admin/options-init.php:420
+msgid "CV Name"
+msgstr "CV Navn"
+
+#: admin/options-init.php:432
+msgid "CV Summary"
+msgstr "CV Sammendrag"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:63
+msgid "Database security"
+msgstr "Databasen din er sårbar for angrep"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/core_functions.php:76
+msgid "Date"
+msgstr "Dato"
+
+#: inc/theme_metaboxes.php:620
+msgid "Day"
+msgstr "Dag"
+
+#: onecom-addons/onecom-inc.php:155
+#, fuzzy
+msgid "Deactivate"
+msgstr "Deaktiver"
+
+#: templates/discouraged-plugin-listing.php:121
+#: templates/network/discouraged-plugin-listing.php:121
+#, fuzzy
+msgid "Deactivating a plugin can break functionality on your website."
+msgstr "Hvis du deaktiverer en plugin kan dette føre til at noe slutter å fungere på nettstedet."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:85
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:103
+msgid "Debug mode/Error reporting"
+msgstr "Nettstedet ditt er konfigurert slik at feil blir vist til de besøkende"
+
+# Description displayed on the cart tile under the Online shop plugin settings.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/settings-page.php:53
+msgid "Decide how the cart icon is displayed. Place it on all pages or not."
+msgstr "Velg hvordan og hvor du ønsker at handlekurven skal vises på nettstedet ditt. "
+
+#: includes/customize-page.php:268
+#, fuzzy
+msgid "Default buttons (borders)"
+msgstr "Standardknapper (kantlinjer)"
+
+#: inc/theme-metaboxes.php:309
+msgid "Default page title will be displayed if this field is blank."
+msgstr "Standard sidetittel vises hvis dette feltet er tomt."
+
+#: template-parts/mainDiv.php:36
+msgid "Delete"
+msgstr "Slett"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:53
+#, fuzzy
+msgid "Delete Staging"
+msgstr "Slett testmiljø"
+
+#: staging/one_staging.php:162
+#, fuzzy
+msgid "Deleting staging..."
+msgstr "Sletter staging…"
+
+#: inc/classes/class-vlog.php:368
+#, fuzzy
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: templates/network/theme-listing.php:90 templates/theme-listing.php:91
+#, fuzzy
+msgid "Desktop"
+msgstr "PC"
+
+#: inc/theme_metaboxes.php:306
+msgid "Details"
+msgstr "Kontaktopplysninger"
+
+#: templates/discouraged-plugin-listing.php:13
+#: templates/discouraged-plugin-listing.php:25
+#: templates/network/discouraged-plugin-listing.php:13
+#: templates/network/discouraged-plugin-listing.php:25
+#: templates/network/plugin-listing.php:25
+#: templates/network/recommended-plugin-listing.php:25
+#: templates/plugin-listing.php:25 templates/recommended-plugin-listing.php:25
+#, fuzzy
+msgid "Discouraged plugins"
+msgstr "Plugins du bør unngå"
+
+#: core/widgets.php:317
+msgid "Display information with icon."
+msgstr "Vis informasjon med ikon."
+
+#: inc/customizer/blog-template-control.php:229
+#: inc/customizer/blog-template-control.php:282
+msgid "Display?"
+msgstr "Vis?"
+
+#: inc/widgets.php:250
+msgid "Displays a call to action banner with image."
+msgstr "Viser et handlingsbanner med bilde."
+
+#: inc/widgets.php:267
+msgid "Displays an address on your site."
+msgstr "Viser en adresse på nettsiden."
+
+#: classes/class-moments-social-widgets.php:12
+#, fuzzy
+msgid "Displays social icons list."
+msgstr "Vist liste med sosiale ikoner."
+
+#: includes/customize-page.php:207
+#, fuzzy
+msgid "Dropdown menus"
+msgstr "Nedtrekksmenyer"
+
+#: page_Travel.php:98
+#, fuzzy
+msgid "Earlier Travels"
+msgstr "Tidligere reiser"
+
+#: classes/class-moments-walker-comment.php:73
+#: classes/class-moments-walker-comment.php:175
+msgid "Edit"
+msgstr "Rediger"
+
+#: custompost/custompost.php:10
+msgid "Edit Adventure"
+msgstr "Edit Reise"
+
+#: inc/theme_options.php:1378
+msgid "Edit Footer Widgets"
+msgstr "Rediger bunntekst-widgets"
+
+#: inc/core_functions.php:449
+msgid "Edit Instructor"
+msgstr "Rediger instruktør"
+
+#: inc/core_functions.php:391
+msgid "Edit Lesson"
+msgstr "Rediger leksjon"
+
+#: template-parts/menuDiv.php:67
+msgid "Edit My Profile"
+msgstr "Rediger min profil"
+
+#: inc/core_functions.php:330
+msgid "Edit Recipe"
+msgstr "Rediger oppskrift"
+
+#: inc/core_functions.php:373
+msgid "Edit Recipe Type"
+msgstr "Rediger oppskriftstype"
+
+#: functions.php:166
+msgid "Edit Reviews"
+msgstr "Rediger vurderinger"
+
+#: custompost/customposts.php:72
+#, fuzzy
+msgid "Edit Service"
+msgstr "Rediger tjeneste"
+
+#: inc/core_functions.php:333
+msgid "Edit Slide"
+msgstr "Rediger bilde"
+
+#: inc/theme_options.php:782
+msgid "Edit Slides"
+msgstr "Rediger bilder"
+
+#: custompost/customposts.php:41
+msgid "Edit Spotlight"
+msgstr "Rediger Spotlight"
+
+#: includes/settings-page.php:44
+#, fuzzy
+msgid "Edit styling"
+msgstr "Rediger styling"
+
+#: inc/classes/class-vlog.php:358
+msgid "Edit Testimonial"
+msgstr "Edit Kundeevalueringer"
+
+#: custompost/customposts.php:10
+msgid "Edit Testimonials"
+msgstr "Rediger kundevurderinger"
+
+#: inc/core_functions.php:330
+msgid "Edit Tutorial"
+msgstr "Rediger tutorial"
+
+#: inc/core_functions.php:373
+msgid "Edit Tutorials Type"
+msgstr "Rediger tutorialtype"
+
+#: inc/core_functions.php:259
+msgid "Email "
+msgstr "E-post"
+
+#: inc/core_functions.php:57 inc/core_functions.php:183
+#: inc/onecom-blocks.php:144 inc/onecom-blocks.php:186 inc/widgets.php:138
+#: template-parts/section-contact-form.php:40
+#, fuzzy
+msgid "Email"
+msgstr "E-post"
+
+#: admin/options-init.php:558
+msgid "Email Address"
+msgstr "E-postadresse"
+
+#: classes/class-moments.php:158
+#, fuzzy
+msgid "Email entered is not valid or empty."
+msgstr "Oppgitt e-postadresse er enten ugyldig eller tom."
+
+#: inc/core_functions.php:33 inc/core_functions.php:160
+#: inc/onecom-blocks.php:417
+#, fuzzy
+msgid "Email entered is not valid."
+msgstr "Oppgitt e-post er ikke gyldig."
+
+#: classes/class-moments.php:166
+#, fuzzy
+msgid "Email is too large, please use a valid email."
+msgstr "E-postadresse er for lang, bruk en gyldig e-postadresse."
+
+#: inc/core_functions.php:37 inc/core_functions.php:164
+#: inc/onecom-blocks.php:420
+#, fuzzy
+msgid "Email is too large."
+msgstr "E-post er for lang."
+
+#: functions.php:421
+msgid "Email notifications"
+msgstr "E-postvarslinger"
+
+#: inc/theme_metaboxes.php:806
+msgid "Email Subject"
+msgstr "E-postemne"
+
+#: widgets/widget.php:140
+msgid "Email:"
+msgstr "E-post:"
+
+#: onecom-addons/templates/turbocharge-page-settings.php:108
+msgid "Enable CDN"
+msgstr "Aktivere CDN"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:75
+msgid "Enable cookie banner"
+msgstr "Aktiver cookiebanner"
+
+#: onecom-addons/onecom-inc.php:338 vcaching.php:756
+msgid "Enable Performance Cache"
+msgstr "Aktiver Performance Cache"
+
+#: inc/theme-metaboxes.php:90
+msgid "Enter banner height with unit. Example - 560px"
+msgstr "Skriv inn bannerhøyde, f.eks. 560 px"
+
+#: admin/options-init.php:470
+msgid "Enter multiple towns using comma (,) such as: Town1,Town2,Town3"
+msgstr "Oppgi flere steder atskilt med komma (,), som: Sted1,Sted2,Sted3"
+
+#: inc/theme-metaboxes.php:130
+msgid "Enter one specification per line."
+msgstr "Oppgi én spesifikasjon per linje."
+
+#: inc/theme-metaboxes.php:117
+msgid "Enter product price with unit. Example - $128.00"
+msgstr "Oppgi produktpris per enhet, f.eks. $128.00"
+
+#: admin/options-init.php:468
+msgid "Enter Towns"
+msgstr "Oppgi sted"
+
+#: classes/class-moments-social-widgets.php:108
+#, fuzzy
+msgid "Enter your social profile links here:"
+msgstr "Skriv inn  lenker til profiler på sosiale medier her:"
+
+#: classes/class-moments-customize.php:76
+#, fuzzy
+msgid "Error 404 - Not Found"
+msgstr "Feil 404 - Ikke funnet"
+
+#: inc/theme_metaboxes.php:601
+msgid "Events"
+msgstr "Aktivitet"
+
+#: inc/theme_metaboxes.php:570
+msgid "Events Section"
+msgstr "Aktivitetsinndeling"
+
+#: inc/classes/class-oct-metaboxes.php:101
+#, fuzzy
+msgid "Example:"
+msgstr "Eksempel:"
+
+#: templates/network/theme-listing.php:14 templates/theme-listing.php:14
+#, fuzzy
+msgid "Exclusive themes specially crafted for One.com customers."
+msgstr "Eksklusive temaer spesialutviklet for one.com-kunder."
+
+#: inc/widgets.php:114
+#, fuzzy
+msgid "Facebook"
+msgstr "Facebook"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_metaboxes.php:202 inc/theme_metaboxes.php:222
+msgid "Facilities"
+msgstr "Hjelpemidler"
+
+#: inc/theme-metaboxes.php:468 inc/theme-metaboxes.php:474
+msgid "FAQ's"
+msgstr "FAQ-er"
+
+#: core/theme-option.php:189
+#, fuzzy
+msgid "Favicon"
+msgstr "Favicon"
+
+#: admin/options-init.php:164
+#, fuzzy
+msgid "Favicon Icon"
+msgstr "Favicon-ikon"
+
+#: inc/theme_metaboxes.php:129 inc/theme_metaboxes.php:536
+#: inc/theme_metaboxes.php:893 inc/theme_options.php:282
+msgid "Featured"
+msgstr "Aktuelt"
+
+#: inc/theme_metaboxes.php:193
+msgid "Featured Highlighted Right Text"
+msgstr "Aktuelt: uthevet tekst til høyre"
+
+#: inc/theme-metaboxes.php:96
+msgid "Featured Product"
+msgstr "Aktuelt produkt"
+
+#: inc/theme-metaboxes.php:183
+msgid "Featured Products"
+msgstr "Aktuelle produkter"
+
+#: inc/theme_metaboxes.php:185
+msgid "Featured Right Text"
+msgstr "Aktuelt: tekst til høyre"
+
+#: inc/theme_metaboxes.php:210
+msgid "Features"
+msgstr "Funksjoner"
+
+#: inc/theme_metaboxes.php:448
+msgid "Features Left Area"
+msgstr "Funksjoner til venstre"
+
+#: inc/theme_metaboxes.php:241
+msgid "Features List"
+msgstr "Liste over funksjoner"
+
+#: inc/theme_metaboxes.php:456
+msgid "Features Right Area"
+msgstr "Funksjoner til høyre"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:67
+msgid "File editing from admin"
+msgstr "Filredigering fra WordPress-admin er tillatt"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:313
+msgid "File editing from WordPress admin is disabled"
+msgstr "Filredigering fra WordPress-admin er deaktivert"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:286
+msgid "File editing from your WordPress dashboard is allowed, meaning users with a role that has this right can edit all the core files of your site. Someone might accidentally break it, or a hacker might get access to a password."
+msgstr "Brukere som har en Administrator-rolle kan redigere alle kjernefilene på nettstedet ditt fra ditt WordPress-instrumentbord. Det vil si at noen kan tilfeldigvis skade nettstedet ditt, og hvis en hacker bryter seg inn har de tilgang til alle kjernefilene dine. "
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# 
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:321
+#, php-format
+msgid "File editing from your WordPress dashboard is allowed, meaning users with a role that has this right can edit all the core files of your site. Someone might accidentally break it, or a hacker might get access to a password. %sDisable file editing in WordPress admin%s"
+msgstr "For å fikse dette må du legge til en linje i wp-config.php-filen som vil deaktivere filredigeringsalternativer fra instrumentbordet ditt. Vi har laget en trinnvis veiledning: %sDeaktivere filredigering i WordPress-admin%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:53
+msgid "File execution in uploads"
+msgstr "Kjøring av filer i opplastingsmappen din er aktivert"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:379
+msgid "File execution is allowed in in your uploads folder. This means that an attacker can upload malware and execute it by simply trying to access it from their browser."
+msgstr "Det vil si at en hacker kan opplaste skadelig programvare og aktivere den ved å forsøke å få tilgang til den fra nettleseren sin."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# 
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:425
+#, php-format
+msgid "File execution is allowed in your uploads folder. This means that an attacker can upload malware and execute it by simply trying to access it from their browser. %sDisable file execution in the WordPress uploads folder%s"
+msgstr "Du kan aktivere kjøring av filer ved å legge en bit av en kode til en .htaccess-fil og plassere den i opplastingsmappen din. Se vår trinnvise veiledning: %sDeaktiver kjøring av fil i WordPress-opplastingsmappe%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:432
+msgid "File execution is blocked in \"Uploads\" folder."
+msgstr "Din opplastingsmappe er beskyttet mot skadelig kjøring av filer"
+
+#: includes/customize-page.php:136
+#, fuzzy
+msgid "Fill color"
+msgstr "Fyllfarge"
+
+#: includes/customize-page.php:138
+#, fuzzy
+msgid "Fill color is applied to .svg icons in your shop, like the arrow on the \"Back\" button."
+msgstr "Fyllfargen brukes på .svg-ikoner i butikken, som f.eks. pilen på \"Tilbake\"-knappen."
+
+#: staging/one_staging.php:160
+#, fuzzy
+msgid "Finalising..."
+msgstr "Fullfører…"
+
+#: staging/one_staging.php:161
+#, fuzzy
+msgid "Finished!"
+msgstr "Fullført!"
+
+#: inc/theme_metaboxes.php:914
+msgid "First button link"
+msgstr "Tjenester knappelenke"
+
+#: inc/theme_metaboxes.php:909
+msgid "First button title"
+msgstr "Knappetittel"
+
+#: functions.php:269
+#, fuzzy
+msgid "Flight"
+msgstr "Fly"
+
+#: single.php:110
+#, fuzzy
+msgid "Flight: "
+msgstr "Fly:"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:32
+msgid "Floating cart on all pages"
+msgstr "Fristilt handlekurv på alle sider"
+
+#: includes/customize-page.php:165
+#, fuzzy
+msgid "Focus color"
+msgstr "Fokusfarge"
+
+#: includes/customize-page.php:84
+#, fuzzy
+msgid "Font"
+msgstr "Skrifttype"
+
+#: inc/theme_options.php:626
+msgid "Font Families"
+msgstr "Skrifttypefamilier"
+
+#: option-tree/includes/ot-functions-option-types.php:2990
+#, fuzzy
+msgid "Font Family"
+msgstr "Fontfamilie"
+
+#: classes/class-moments-customize.php:394 inc/customizer/index.php:110
+#: inc/customizer/index.php:129 inc/customizer/index.php:148
+#: inc/customizer/index.php:197
+#, fuzzy
+msgid "Font Size"
+msgstr "Skriftstørrelse"
+
+#: classes/class-moments-customize.php:389 inc/customizer/index.php:192
+#, fuzzy
+msgid "Font Style"
+msgstr "Fontstil"
+
+#: inc/theme_options.php:654
+msgid "Font Styles"
+msgstr "Skrifttypestiler"
+
+#: classes/class-moments-customize.php:401 inc/customizer/index.php:117
+#: inc/customizer/index.php:136 inc/customizer/index.php:155
+#: inc/customizer/index.php:204
+#, fuzzy
+msgid "Font Weight"
+msgstr "Skrifttykkelse"
+
+#: classes/class-moments-pages.php:196 inc/customizer/index.php:301
+#: inc/customizer/index.php:409
+#, fuzzy
+msgid "Footer"
+msgstr "Bunntekst"
+
+#: functions.php:83
+msgid "Footer 1"
+msgstr "Bunntekst 1"
+
+#: functions.php:93
+msgid "Footer 2"
+msgstr "Bunntekst 2"
+
+#: functions.php:103
+msgid "Footer 3"
+msgstr "Bunntekst 3"
+
+#: functions.php:160
+msgid "Footer Area 1"
+msgstr "Bunntekst område 1"
+
+#: functions.php:169
+msgid "Footer Area 2"
+msgstr "Bunntekst område 2"
+
+#: functions.php:178
+msgid "Footer Area 3"
+msgstr "Bunntekst område 3"
+
+#: admin/options-init.php:207
+#, fuzzy
+msgid "Footer background with image, color, etc."
+msgstr "Bakgrunn i bunntekst med bilde, farge osv."
+
+#: inc/theme_options.php:1358
+msgid "Footer Color"
+msgstr "Bunntekstfarge"
+
+#: classes/class-moments-customize.php:541
+msgid "Footer copyright text"
+msgstr "Copyright-tekst"
+
+#: classes/class-moments-customize.php:529
+msgid "Footer heading color"
+msgstr "Overskriftsfarge"
+
+#: inc/theme_options.php:1407
+msgid "Footer Scripts"
+msgstr "Bunntekst-script"
+
+#: admin/options-init.php:399
+msgid "Footer Social Icon Color"
+msgstr "Fotnotefarge for sosiale ikon"
+
+#: inc/theme_options.php:1073
+msgid "For example: Post Author, Published Date, Post Categories"
+msgstr "For eksempel: forfatter, publisert dato og kategori"
+
+#: inc/theme_options.php:459
+msgid "Form Buttons"
+msgstr "Skjemaknapper"
+
+#: inc/theme_options.php:481
+msgid "Form Buttons - Border"
+msgstr "Skjemaknapp - Kantlinje"
+
+#: inc/theme_options.php:489
+msgid "Form Buttons - Border Radius"
+msgstr "Skjemaknapper - Radius kantlinje"
+
+#: inc/theme_options.php:472
+msgid "Form Buttons - Show Border"
+msgstr "Skjemaknapper - Vis kantlinje"
+
+#: inc/theme_metaboxes.php:469
+msgid "Form Description"
+msgstr "Kort beskrivelse"
+
+#: inc/theme_metaboxes.php:445 inc/theme_metaboxes.php:835
+msgid "Form Embed Code or Shortcode"
+msgstr "Skjema Embed Code eller Shortcode"
+
+#: inc/theme_metaboxes.php:754
+msgid "Form Fields Labels"
+msgstr "Etiketter til skjemafelt"
+
+#: inc/theme_metaboxes.php:731
+msgid "Form Section"
+msgstr "Skjemainndeling"
+
+#: inc/theme_metaboxes.php:462
+msgid "Form Title"
+msgstr "Tittel på tilbudsskjema"
+
+#: inc/theme_metaboxes.php:93 inc/theme_metaboxes.php:508
+#: inc/theme_metaboxes.php:691 inc/theme_metaboxes.php:943
+#: inc/theme_metaboxes.php:1030 inc/theme_metaboxes.php:1105
+#: inc/theme_metaboxes.php:1195
+msgid "Full Viewport"
+msgstr "Full visningsport"
+
+#: admin/options-init.php:522
+#, fuzzy
+msgid "Full width Section Background Image"
+msgstr "Full bredde på bakgrunnsbilde i inndeling"
+
+#: admin/options-init.php:516
+#, fuzzy
+msgid "Full Width Section Subtitle"
+msgstr "Undertittel for inndeling i full bredde"
+
+#: core/theme-option.php:469
+#, fuzzy
+msgid "Full Width Section Text"
+msgstr "Inndelingstekst i full bredde"
+
+#: admin/options-init.php:510
+#, fuzzy
+msgid "Full Width Section Title"
+msgstr "Inndelingstittel i full bredde"
+
+#: inc/core_functions.php:426 inc/core_functions.php:427
+#: inc/core_functions.php:435
+#, fuzzy
+msgid "Gallery"
+msgstr "Galleri"
+
+#: classes/class-moments-customize.php:423 inc/customizer/index.php:226
+#, fuzzy
+msgid "General"
+msgstr "Generelt"
+
+#: includes/settings-page.php:31
+#, fuzzy
+msgid "Generate a shortcode and add it to any page."
+msgstr "Generer en shortcode og legg den til på en side."
+
+#: includes/ws-shortcode.php:3
+#, fuzzy
+msgid "Generate the shortcode"
+msgstr "Generer shortcode"
+
+# Description telling users what to do here. The shortcode should be copied in the page in WordPress.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-shortcode.php:4
+#, fuzzy
+msgid "Generate the shortcode with these settings, and copy it to the page where you want your webshop to be displayed."
+msgstr "Juster innstillingene her for å lage den korte koden, deretter kan du kopiere inn koden på siden der du vil at nettbutikken din skal vises."
+
+#: template-parts/content-none.php:21
+#, fuzzy
+msgid "Get started here"
+msgstr "Kom i gang her"
+
+#: includes/settings-page.php:32
+#, fuzzy
+msgid "Get the shortcode"
+msgstr "Hent shortcode"
+
+#: onecom-themes-plugins.php:426
+#, fuzzy
+msgid "Go to Control Panel at One.com"
+msgstr "Gå til Kontrollpanel hos one.com"
+
+#: onecom-themes-plugins.php:443
+#, fuzzy
+msgid "Go to Guides & FAQ at One.com"
+msgstr "Gå til Guider & FAQ hos one.com"
+
+#: includes/settings-page.php:21
+#, fuzzy
+msgid "Go to Products & Orders"
+msgstr "Gå til produkter og bestillinger"
+
+#: core/theme-option.php:374
+#, fuzzy
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: admin/options-init.php:399
+#, fuzzy
+msgid "Google+"
+msgstr "Google+"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:124
+msgid "Grey"
+msgstr "Grå"
+
+#: functions.php:256
+#, fuzzy
+msgid "Group"
+msgstr "Gruppe"
+
+#: single.php:92
+#, fuzzy
+msgid "Group: "
+msgstr "Gruppe:"
+
+#: functions.php:273
+#, fuzzy
+msgid "Guide"
+msgstr "Guide"
+
+#: single.php:116
+#, fuzzy
+msgid "Guide: "
+msgstr "Guide:"
+
+#: admin/options-init.php:270
+#, fuzzy
+msgid "H1 Font Style"
+msgstr "H1 Skriftstil"
+
+#: inc/theme-options.php:682
+msgid "H1 Text Color"
+msgstr "H1 tekstfarge"
+
+#: admin/options-init.php:288
+#, fuzzy
+msgid "H2 Font Style"
+msgstr "H2 Skriftstil"
+
+#: inc/theme-options.php:689
+msgid "H2 Text Color"
+msgstr "H2 tekstfarge"
+
+#: admin/options-init.php:306
+#, fuzzy
+msgid "H3 Font Style"
+msgstr "H3 Skriftstil"
+
+#: inc/theme-options.php:696
+msgid "H3 Text Color"
+msgstr "H3 tekstfarge"
+
+#: admin/options-init.php:324
+#, fuzzy
+msgid "H4 Font Style"
+msgstr "H4 Skriftstil"
+
+#: inc/theme-options.php:703
+msgid "H4 Text Color"
+msgstr "H4 tekstfarge"
+
+#: admin/options-init.php:342
+#, fuzzy
+msgid "H5 Font Style"
+msgstr "H5 Skriftstil"
+
+#: inc/theme-options.php:710
+msgid "H5 Text Color"
+msgstr "H5 tekstfarge"
+
+#: admin/options-init.php:360
+#, fuzzy
+msgid "H6 Font Style"
+msgstr "H6 Skriftstil"
+
+#: inc/theme-options.php:717
+msgid "H6 Text Color"
+msgstr "H6 tekstfarge"
+
+#: functions.php:325
+msgid "has added a new post"
+msgstr "har lagt til et nytt innlegg"
+
+#: inc/theme_options.php:1397
+msgid "Head Scripts"
+msgstr "Hovedscript"
+
+#: classes/class-moments-customize.php:635 classes/class-moments-pages.php:193
+#: functions.php:134 inc/customizer/index.php:404
+#, fuzzy
+msgid "Header"
+msgstr "Overskrift"
+
+#: classes/class-moments-customize.php:207
+msgid "Header banner"
+msgstr "Overskrift"
+
+#: inc/theme_options.php:597
+msgid "Header Height"
+msgstr "Høyde topptekst"
+
+#: inc/theme_options.php:455
+msgid "Header Left Text"
+msgstr "Header venstre tekst"
+
+#: admin/options-init.php:154
+#, fuzzy
+msgid "Header Logo"
+msgstr "Overskriftslogo"
+
+#: inc/theme_options.php:694
+msgid "Header Menu Font Style"
+msgstr "Skrifttype for overskriftsmeny"
+
+#: inc/theme_options.php:464
+msgid "Header Right Text"
+msgstr "Header høyre tekst"
+
+#: inc/theme_options.php:473
+msgid "Header Subtitle"
+msgstr "Header underoverskrift"
+
+#: inc/theme_options.php:482
+msgid "Header Tagline"
+msgstr "Header tagline"
+
+#: inc/theme_options.php:380 inc/theme_options.php:741
+msgid "Heading"
+msgstr "Topptekst"
+
+#: includes/customize-page.php:290
+#, fuzzy
+msgid "Headings (borders)"
+msgstr "Overskrifter (kantlinjer)"
+
+#: classes/class-moments-customize.php:446 inc/customizer/index.php:246
+#, fuzzy
+msgid "Headings Colors"
+msgstr "Overskriftsfarge"
+
+# IMPORTANT!!!!
+# 
+# This is the NAME of the feature. Try to keep it short and clean and to the point. If there is no good version in your language, use the English one, or a variant thereof.
+# 
+# The Health Monitor checks a WordPress site for vulnerabilities and if its overall performance is good. Issues are reported, with information on how to fix it.
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:14
+#: modules/health-monitor/inc/functions.php:15
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:11
+#: onecom-themes-plugins.php:661
+msgid "Health Monitor"
+msgstr "Helseovervåking"
+
+# Description of the Health Monitor feature, make sure to use the same term as for the name.
+# 
+# 
+# ________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:14
+msgid "Health Monitor lets you monitor the essential security checkpoints and fix them if needed."
+msgstr "Helseovervåking skanner nettstedet ditt for potensielle sikkerhetstrusler og kontrollerer nettstedets helhetstilstand. "
+
+# Make sure that you use the same term as you used for the name. This text isn't visible yet, but it will show the percentage of health after this. 100% means no issues.
+# 
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Health Monitor score is"
+msgstr "Resultat etter Helseovervåking er"
+
+#: functions.php:164
+msgid "Hi! This blog is being upgraded to WordPress at the moment. It will be back online in a few minutes."
+msgstr "Hei! Denne bloggen blir for øyeblikket oppgradert til WordPress. Den vil være online igjen om et par minutter."
+
+# This message is going to be displayed to customers during the migration of iloblogs to WordPress.
+msgid "Hi! Your blog is being migrated to WordPress at the moment. \nA bundle of features and flexibilities is getting ready for you.\nWe'll send you an email when the migration will be finished."
+msgstr "Hei! Denne bloggen blir for øyeblikket oppgradert til WordPress. Den vil være online igjen om et par minutter."
+
+#: inc/theme_metaboxes.php:231 inc/theme_metaboxes.php:390
+#: inc/theme_metaboxes.php:523 inc/theme_metaboxes.php:625
+msgid "Highlighted Text"
+msgstr "Uthevet tekst"
+
+#: metaboxes/metabox.php:40
+#, fuzzy
+msgid "Hightlight Box"
+msgstr "Uthev boks"
+
+#: metaboxes/metabox.php:41
+#, fuzzy
+msgid "Hightlight Content"
+msgstr "Uthev innhold"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_metaboxes.php:651
+msgid "History"
+msgstr "Historie"
+
+#: admin/options-init.php:425
+#, fuzzy
+msgid "Home"
+msgstr "Hjem"
+
+#: inc/customizer/index.php:524
+#, fuzzy
+msgid "Homepage Banner"
+msgstr "Hjemmesidebanner"
+
+#: inc/theme_options.php:259
+msgid "Homepage Banner - Text Color"
+msgstr "Hjemmesidebanner - Tekstfarge"
+
+#: options-init.php:346
+msgid "Homepage Content"
+msgstr "Innhold på hjemmeside"
+
+#: inc/theme_metaboxes.php:900
+msgid "Homepage Icon"
+msgstr "Slagord på hjemmeside"
+
+#: inc/theme_options.php:775
+msgid "Homepage Slider"
+msgstr "Bildekarusell for hjemmeside"
+
+#: options-init.php:338
+msgid "Homepage Slogan"
+msgstr "Slagord på hjemmeside"
+
+#: inc/core_functions.php:56
+msgid "Hover Background Color"
+msgstr "Bakgrunnsfarge"
+
+#: includes/customize-page.php:183
+#, fuzzy
+msgid "Hover color"
+msgstr "Pekerfølsom farge (hover / mouse-over)"
+
+#: includes/customize-page.php:251
+#, fuzzy
+msgid "Hover color (dropdown menu)"
+msgstr "Farge ved mus over (nedtrekksmeny)"
+
+#: inc/core_functions.php:54
+msgid "Hover Text Color"
+msgstr "Pekefølsom kobling tekstfarge"
+
+#: inc/theme_metaboxes.php:255
+msgid "Icon"
+msgstr "Ikon"
+
+#: core/widgets.php:382
+msgid "Icon Alignment"
+msgstr "Ikonjustering"
+
+#: core/theme-option.php:390
+#, fuzzy
+msgid "Icon Background Color"
+msgstr "Ikon bakgrunnsfarge"
+
+#: core/widgets.php:316
+msgid "Icon Box"
+msgstr "Ikonboks"
+
+#: classes/class-moments-social-widgets.php:205
+#, fuzzy
+msgid "Icon Color"
+msgstr "Ikon-farge"
+
+#: classes/class-moments-social-widgets.php:214
+#, fuzzy
+msgid "Icon Hover Color"
+msgstr "Ikon pekefarge"
+
+#: core/widgets.php:390
+msgid "Icon Size"
+msgstr "Ikonstørrelse"
+
+#: classes/class-moments-social-widgets.php:223
+#, fuzzy
+msgid "If colors are not set, skin colors will be applied."
+msgstr "Hvis fargen ikker er angitt, brukes standard farge."
+
+#: inc/theme_options.php:508
+msgid "If turned On, the native colors of social icons will be used."
+msgstr "Hvis slått På, vil de opprinnelige fargene til sosiale ikoner bli brukt."
+
+#: functions.php:327
+msgid "If you prefer not to receive updates by email, please log in to"
+msgstr "Hvis du foretrekker å motta oppdateringer via e-post kan du logge deg inn på"
+
+#: metaboxes/metabox.php:183
+#, fuzzy
+msgid "Image"
+msgstr "Bilde"
+
+#: inc/customizer/blog-template-control.php:105
+msgid "Image borders"
+msgstr "Bildekanter"
+
+#: includes/customize-page.php:194
+#, fuzzy
+msgid "Image overlay color"
+msgstr "Bildeoverlegg med farge"
+
+#: includes/ws-shortcode.php:34
+#, fuzzy
+msgid "Image style"
+msgstr "Bildestil"
+
+#: ../includes/ot-functions-admin.php:137
+msgid "Import"
+msgstr "Importer"
+
+#: functions.php:385 functions.php:386 importer/views/plugin-page.php:101
+#: importer/views/plugin-page.php:113
+#, fuzzy
+msgid "Import Demo Data"
+msgstr "Importer demodata"
+
+#: importer/views/plugin-page.php:14
+msgid "Import demo data"
+msgstr "Importere demonstrasjonsdata"
+
+#: importer/views/plugin-page.php:173
+#, fuzzy
+msgid "Importing, please wait!"
+msgstr "Importerer, vennligst vent!"
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:38
+msgid "In head on all pages"
+msgstr "I toppteksten på alle sider"
+
+# This option places the cart in the header on all your pages, usually to the right of your menu. This option is only available when you are using a One.com theme. If you use another theme you get the option "Attach cart to CSS selector" instead.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:38
+#, fuzzy
+msgid "In header on all pages"
+msgstr "I toppteksten på alle sider"
+
+#: inc/theme_metaboxes.php:709 inc/theme_metaboxes.php:715
+#: inc/theme_metaboxes.php:1124 inc/theme_metaboxes.php:1213
+#: inc/theme_metaboxes.php:1220
+msgid "Information Blocks"
+msgstr "Informasjonsblokker"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:71
+msgid "Insecure usernames"
+msgstr "Du bruker et generisk brukernavn som er enkelt å gjette seg til"
+
+#: admin/options-init.php:571
+#, fuzzy
+msgid "Insert email addresses separated by comma"
+msgstr "Sett inn e-postadresser atskilt med komma"
+
+# Selecting this option only shows the cart icon inside the webshop widget, and not on any other places. It is the default setting for the cart.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:49
+msgid "Inside Webshop widget"
+msgstr "Kun på innsiden av butikkminiprogrammet"
+
+#: inc/widgets.php:122
+#, fuzzy
+msgid "Instagram"
+msgstr "Instagram"
+
+#: templates/network/theme-listing-loop.php:82
+#: templates/network/theme-listing.php:87 templates/theme-listing-loop.php:79
+#: templates/theme-listing.php:88
+#, fuzzy
+msgid "Install"
+msgstr "Installer"
+
+#: templates/network/plugin-listing.php:92
+#: templates/network/recommended-plugin-listing.php:102
+#: templates/plugin-listing.php:91 templates/recommended-plugin-listing.php:101
+#, fuzzy
+msgid "Install now"
+msgstr "Installer nå"
+
+#: inc/functions.php:549
+#, fuzzy
+msgid "Installing plugin"
+msgstr "Installerer plugin"
+
+#: inc/functions.php:214
+#, fuzzy
+msgid "Installing theme"
+msgstr "Installerer tema"
+
+#: inc/core_functions.php:467
+msgid "Instructor"
+msgstr "Instruktør"
+
+#: inc/core_functions.php:468
+msgid "Instructor Description"
+msgstr "Instruktørbeskrivelse"
+
+#: inc/theme_metaboxes.php:898 inc/theme_metaboxes.php:923
+msgid "Instructors"
+msgstr "Instruktør"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_options.php:300
+msgid "Internal Banner - Background"
+msgstr "Intern fane - bakgrunn"
+
+#: inc/theme_options.php:272
+msgid "Internal Banner - Text Color"
+msgstr "Internt banner - Tekstfarge"
+
+#: inc/theme_options.php:949
+msgid "Internal Banner Font Style"
+msgstr "Intern banner skrifttypestil"
+
+#: inc/theme_metaboxes.php:519 inc/theme_metaboxes.php:703
+msgid "Internal Banner Height"
+msgstr "Intern bannerhøyde"
+
+#: inc/theme_options.php:942
+msgid "Internal Banners"
+msgstr "Interne bannere"
+
+# This is an error message that becomes visible if someone cannot do their math. You are welcome to change it a bit to make it shorter, for example, "That is not correct, try again".
+# ____________________________
+#: classes/class-moments-blocks.php:193 classes/class-moments-captcha.php:63
+msgid "Invalid answer, please try again."
+msgstr "Det var dessverre ikke riktig svar, prøv igjen."
+
+#: classes/class-moments.php:149
+msgid "Invalid security token, please reload the page and try again."
+msgstr "Det inntraff en feil. Vennligst last siden på nytt og prøv igjen."
+
+#: staging/Includes/Core/views/staging.php:30
+#, fuzzy
+msgid "It can take a couple of minutes for the copy to finish, so please do not close or navigate away from this page."
+msgstr "Det kan ta noen minutter før kopieringsjobben er ferdig, så vennligst ikke lukk eller gå bort fra denne siden."
+
+#: importer/views/plugin-page.php:45
+#, fuzzy
+msgid "It can take a couple of minutes for the import to finish, so please click the Import button only once."
+msgstr "Det kan ta et par minutter før importen er fullført. Du må derfor bare klikke på Importer-knappen én gang."
+
+#: staging/Includes/Core/views/staging.php:28
+#, fuzzy
+msgid "It is not possible to reverse this process."
+msgstr "Det er ikke mulig å omgjøre denne prosessen."
+
+#: onecom-addons/onecom-inc.php:412
+#, php-format
+msgid "It seems that %s is already purged. There is no resource in the cache to purge."
+msgstr "Det ser ut som om %s allerede er tømt. Det finnes ingen ressurser I cache som skal tømmes."
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: template-parts/content-none.php:17
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det ser ut som om vi ikke greier å finne det du ser etter. Kanskje hjelper det å søke."
+
+#: admin/options-init.php:128
+msgid "It will display on every pages, services etc."
+msgstr "Denne vil vises på alle sider, tjenester etc."
+
+#: inc/theme-metaboxes.php:164 inc/theme-metaboxes.php:213
+#: inc/theme-metaboxes.php:250 inc/theme-metaboxes.php:494
+msgid "Items"
+msgstr "Elementer"
+
+#: option-tree/includes/ot-functions-docs-page.php:29
+#, fuzzy
+msgid "Label"
+msgstr "Navn"
+
+#: searchform.php:3 searchform.php:7
+msgctxt "label"
+msgid "Search for:"
+msgstr "Søk:%s"
+
+#: includes/ws-shortcode.php:38
+#, fuzzy
+msgid "Landscape"
+msgstr "Liggende"
+
+# This relates to the last time that the Health Monitor scan was done. It will be followed by a date.
+# 
+# ______________________________________
+# 
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Last checked on"
+msgstr "Sist kontrollert"
+
+#: classes/class-moments-pages.php:278
+msgid "Layout"
+msgstr "Oppsett"
+
+#: inc/lib/validator.php:16 inc/lib/validator.php:438
+#, fuzzy
+msgid "Learn more"
+msgstr "Les mer"
+
+# This text will be visible to premium feature or theme and linked to either Premium Support/Guide page or Premium Hosting package page.
+msgid "Learn more about Premium"
+msgstr "Lær mer om Premium"
+
+#: includes/settings-page.php:74
+#, fuzzy
+msgid "Learn more about the online shop from the guides and FAQs on our website."
+msgstr "Les mer om nettbutikken i guider og finn svar på vanlige spørsmål."
+
+#: inc/template-tags.php:65
+#, fuzzy
+msgid "Leave a Comment"
+msgstr "Legg igjen en kommentar"
+
+#: inc/theme_metaboxes.php:75
+msgid "Left"
+msgstr "Venstre"
+
+#: core/theme-option.php:432
+#, fuzzy
+msgid "Left Section Image"
+msgstr "Bilde i venstre inndeling"
+
+#: core/theme-option.php:449
+#, fuzzy
+msgid "Left Section Text"
+msgstr "Tekst venstre inndeling"
+
+#: core/theme-option.php:442
+#, fuzzy
+msgid "Left Section Title"
+msgstr "Tittel venstre inndeling"
+
+#: ../includes/ot-functions-admin.php:3196
+msgid "Left Sidebar"
+msgstr "Venstre sidestolpe"
+
+#: inc/core_functions.php:409
+msgid "Lesson"
+msgstr "Leksjon"
+
+#: inc/core_functions.php:410
+msgid "Lesson Description"
+msgstr "Leksjonsbeskrivelse"
+
+#: option-tree/includes/ot-functions-option-types.php:3068
+#, fuzzy
+msgid "Line Height"
+msgstr "Linjehøyde"
+
+#: ../includes/ot-functions-admin.php:3262
+#: ../includes/ot-functions-admin.php:3318
+#: ../includes/ot-functions-admin.php:5506
+msgid "Link"
+msgstr "Lenke"
+
+#: classes/class-moments-customize.php:440 inc/customizer/index.php:241
+#, fuzzy
+msgid "Link Color"
+msgstr "Lenkefarge"
+
+#: admin/options-init.php:176
+#, fuzzy
+msgid "Link Hover Color"
+msgstr "Lenkefarge med mus over"
+
+#: inc/theme-metaboxes.php:40 inc/theme-metaboxes.php:280
+msgid "Link Text"
+msgstr "Lenketekst"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:100
+msgid "Link text"
+msgstr "Lenketekst"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:105
+msgid "Link URL"
+msgstr "Lenke URL"
+
+#: admin/options-init.php:361
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/customizer/index.php:210
+msgid "Links"
+msgstr "Linker"
+
+#: template-parts/menuDiv.php:78
+msgid "Log in"
+msgstr "Logg inn"
+
+#: template-parts/menuDiv.php:74
+msgid "Log Out"
+msgstr "Logg ut"
+
+#: admin/options-init.php:191
+#, fuzzy
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/widgets.php:99
+msgid "Logo & Description"
+msgstr "Logo og beskrivelse"
+
+#: inc/theme_options.php:674
+msgid "Logo Font Style"
+msgstr "Logo-skrifttype"
+
+#: inc/theme_options.php:445
+#, fuzzy
+msgid "Logo Height"
+msgstr "Linjehøyde"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_options.php:491 inc/theme_options.php:500
+#: inc/theme_options.php:509
+msgid "Logo Text"
+msgstr "Logotekst"
+
+#: classes/class-moments-customize.php:458 inc/customizer/index.php:256
+#, fuzzy
+msgid "Logo Text Color"
+msgstr "Farge logotekst"
+
+#: functions.php:94
+#, fuzzy
+msgid "Mainmenu Navigation"
+msgstr "Hovedmeny-navigasjon"
+
+#: inc/theme_options.php:1377
+msgid "Manage Footer Widgets"
+msgstr "Administrer bunnekst-widgets"
+
+#: classes/class-moments-pages.php:207
+msgid "Manage Header Menu"
+msgstr "Administrere topptekstmeny"
+
+#: classes/class-moments-pages.php:202
+msgid "Manage Logo Text"
+msgstr "Administrer logotekst"
+
+#: inc/theme_options.php:585
+msgid "Manage Site Title"
+msgstr "Administrer nettsidetittel"
+
+#: inc/theme_options.php:781
+msgid "Manage Slider"
+msgstr "Administrer bildekarusell"
+
+#: classes/class-moments-social-widgets.php:230
+#, fuzzy
+msgid "Manage Social Icons"
+msgstr "Administrer sosiale ikoner"
+
+#: inc/theme_metaboxes.php:882
+msgid "Map Embed Code"
+msgstr "Map Embed Code"
+
+#: inc/theme_metaboxes.php:853
+msgid "Map Section"
+msgstr "Kartinndeling"
+
+#: classes/class-moments-customize.php:470 functions.php:85
+#: inc/customizer/index.php:266
+#, fuzzy
+msgid "Menu"
+msgstr "Meny"
+
+#: classes/class-moments-customize.php:475 inc/customizer/index.php:271
+#, fuzzy
+msgid "Menu Background Color"
+msgstr "Meny bakgrunnstekst"
+
+#: classes/class-moments-customize.php:302 inc/customizer/index.php:105
+#, fuzzy
+msgid "Menu Font Style"
+msgstr "Meny skrifttype"
+
+#: inc/theme_options.php:212
+msgid "Menu Item Background Color"
+msgstr "Bakgrunnsfarge menyelement"
+
+#: classes/class-moments-customize.php:481 inc/customizer/index.php:276
+#, fuzzy
+msgid "Menu Item Color"
+msgstr "Farge menyelement"
+
+#: inc/core_functions.php:268
+msgid "Message "
+msgstr "Melding"
+
+#: inc/core_functions.php:66 inc/core_functions.php:198
+#: inc/onecom-blocks.php:148 template-parts/section-contact-form.php:49
+#, fuzzy
+msgid "Message"
+msgstr "Melding"
+
+#: inc/core_functions.php:45 inc/core_functions.php:172
+#: inc/onecom-blocks.php:426
+#, fuzzy
+msgid "Message is too large, please shorten it."
+msgstr "Melding er for lang, vennligst forkort den."
+
+#: inc/core_functions.php:41 inc/core_functions.php:168
+#: inc/onecom-blocks.php:423
+#, fuzzy
+msgid "Message text is empty or too short."
+msgstr "Meldingstekst er tom eller for kort."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:61
+msgid "Middle"
+msgstr "I midten"
+
+#: admin/options-init.php:504
+msgid "Middle Bottom Section Content"
+msgstr "Innhold midtre bunninndeling"
+
+#: admin/options-init.php:498
+msgid "Middle Bottom Section Title"
+msgstr "Tittel midtre bunninndeling"
+
+#: admin/options-init.php:465
+msgid "Middle Left Section Content"
+msgstr "Innhold venstre midtinndeling"
+
+#: admin/options-init.php:459
+msgid "Middle Left Section Title"
+msgstr "Tittel venstre midtinndeling"
+
+#: admin/options-init.php:491
+msgid "Middle Right Section Content"
+msgstr "Innhold høyre midtinndeling"
+
+#: admin/options-init.php:476
+msgid "Middle Right Section Image"
+msgstr "Bilde høyre midtinndeling"
+
+#: admin/options-init.php:484
+msgid "Middle Right Section Title"
+msgstr "Tittel høyre midtinndeling"
+
+#: admin/options-init.php:476
+#, fuzzy
+msgid "Middle Section-1 Content Image"
+msgstr "Innhold bilde midtinndeling-1"
+
+#: admin/options-init.php:469
+#, fuzzy
+msgid "Middle Section-1 Link"
+msgstr "Lenke midtinndeling-1"
+
+#: admin/options-init.php:463
+#, fuzzy
+msgid "Middle Section-1 Title"
+msgstr "Tittel midtinndeling-1"
+
+#: admin/options-init.php:497
+#, fuzzy
+msgid "Middle Section-2 Left Content"
+msgstr "Innhold venstre midtinndeling-2"
+
+#: admin/options-init.php:503
+#, fuzzy
+msgid "Middle Section-2 Right content"
+msgstr "Innhold høyre midtinndeling-2"
+
+#: admin/options-init.php:491
+#, fuzzy
+msgid "Middle Section-2 Title"
+msgstr "Tittel midtinndeling-2"
+
+#: functions.php:311
+#, fuzzy
+msgid "Missing Attachment"
+msgstr "Manglende vedlegg"
+
+#: functions.php:85
+#, fuzzy
+msgid "Mobile"
+msgstr "Mobil"
+
+#: inc/theme_metaboxes.php:615
+msgid "Month"
+msgstr "Måned"
+
+#: templates/network/recommended-plugin-listing.php:110
+#: templates/recommended-plugin-listing.php:109
+#, fuzzy
+msgid "More details"
+msgstr "Mer informasjon"
+
+#: includes/ws-shortcode.php:29
+#, fuzzy
+msgid "Most popular"
+msgstr "Mest populære"
+
+#: inc/core_functions.php:263
+msgid "Name "
+msgstr "Navn"
+
+#: inc/core_functions.php:61 inc/core_functions.php:188
+#: inc/onecom-blocks.php:136 template-parts/section-contact-form.php:22
+#, fuzzy
+msgid "Name"
+msgstr "Navn"
+
+#: inc/core_functions.php:25 inc/core_functions.php:152
+#: inc/onecom-blocks.php:406
+#, fuzzy
+msgid "Name is empty or too short."
+msgstr "Navn er tomt eller for kort."
+
+#: inc/core_functions.php:29 inc/core_functions.php:156
+#: inc/onecom-blocks.php:414
+#, fuzzy
+msgid "Name is too large."
+msgstr "Navn er for langt."
+
+#: onecom-addons/templates/turbocharge-page-settings.php:82
+#: onecom-addons/templates/turbocharge-page-settings.php:111
+msgid "Need help?"
+msgstr "Trenger du hjelp?"
+
+#: custompost/custompost.php:11
+msgid "New Adventure"
+msgstr "New Reise"
+
+#: inc/theme-metaboxes.php:146
+msgid "New Collections"
+msgstr "Vis kolleksjoner"
+
+#: inc/core_functions.php:448
+msgid "New Item"
+msgstr "Nytt element"
+
+#: inc/core_functions.php:390
+msgid "New Lesson"
+msgstr "Ny leksjon"
+
+#: inc/core_functions.php:329
+msgid "New Recipe"
+msgstr "Ny oppskrift"
+
+#: inc/core_functions.php:376
+msgid "New Recipe Type"
+msgstr "Ny oppskriftstype"
+
+#: custompost/customposts.php:73
+#, fuzzy
+msgid "New Service"
+msgstr "Ny tjeneste"
+
+#: inc/core_functions.php:334
+msgid "New Slide"
+msgstr "Nytt bilde"
+
+#: custompost/customposts.php:42
+msgid "New Spotlight"
+msgstr "Ny Spotlight"
+
+#: inc/classes/class-vlog.php:357
+msgid "New Testimonial"
+msgstr "Ny kundevurdering"
+
+#: inc/core_functions.php:329
+msgid "New Tutorial"
+msgstr "Ny tutorial"
+
+#: inc/core_functions.php:376
+msgid "New Tutorials Type"
+msgstr "Ny tutorialtype"
+
+#: includes/ws-shortcode.php:26
+#, fuzzy
+msgid "Newest"
+msgstr "Nyeste"
+
+#: inc/widgets.php:276
+#, fuzzy
+msgid "Newsletter"
+msgstr "Nyhetsbrev"
+
+#: inc/theme-metaboxes.php:327
+msgid "Newsletter Settings"
+msgstr "Innstillinger for nyhetsbrev"
+
+#: classes/class-moments-newsletter-widget.php:18
+msgid "Newsletter widget"
+msgstr "Nyhetsbrev"
+
+#: single.php:32 template-parts/content-single.php:43
+#, fuzzy
+msgid "Next"
+msgstr "Neste"
+
+#: inc/classes/class-vlog.php:361
+msgid "No entries found!"
+msgstr "Ingen oppføringer funnet!"
+
+#: importer/views/plugin-page.php:43
+#, fuzzy
+msgid "No existing data will be deleted or modified, this includes posts, pages, categories, images, custom post types or any other data."
+msgstr "Ingen eksisterende data blir slettet eller endret, dette inkluderer innlegg, sider, kategorier, bilder, egendefinerte innleggstyper eller annen data."
+
+#: search.php:33
+msgid "No posts found. Try a different search!"
+msgstr "Ingen innlegg funnet. Endre søket ditt!"
+
+#: inc/theme_options.php:1095 inc/theme_options.php:1121
+msgid "No Sidebar"
+msgstr "Ingen sidestolpe"
+
+#: inc/core_functions.php:338
+msgid "No Slides found"
+msgstr "Ingen bilder funnet"
+
+#: inc/core_functions.php:339
+msgid "No Slides found in the Trash"
+msgstr "Ingen bilder funnet i papirkurven"
+
+#: index.php:33
+msgid "Not Found"
+msgstr "Ikke funnet"
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+#, fuzzy
+msgid "Not right now"
+msgstr "Ikke nå"
+
+#: importer/views/plugin-page.php:50
+#, fuzzy
+msgid "Note:"
+msgstr "Merk:"
+
+#: inc/theme_options.php:1148
+msgid "Note: You can override this setting on a specific page."
+msgstr "Merk: Du kan overstyre denne innstillingen på en enkelt side."
+
+#: inc/theme_options.php:1123
+msgid "Note: You can override this setting on a specific post."
+msgstr "Merk: Du kan overstyre denne innstillingen på et bestemt innlegg."
+
+#: custompost/customposts.php:14 custompost/customposts.php:45
+#: custompost/customposts.php:76
+#, fuzzy
+msgid "Nothing found"
+msgstr "Ingenting funnet"
+
+#: inc/classes/class-vlog.php:362
+#, fuzzy
+msgid "Nothing found in Trash"
+msgstr "Ingenting funnet i Papirkurv"
+
+#: admin/options-init.php:484
+#, fuzzy
+msgid "Notice Section Content"
+msgstr "Innhold merknadsinndeling"
+
+#: option-tree/includes/ot-functions-option-types.php:446
+#, fuzzy
+msgid "Offset Left"
+msgstr "Forskjøvet mot venstre"
+
+#: option-tree/includes/ot-functions-option-types.php:455
+#, fuzzy
+msgid "Offset Top"
+msgstr "Forskjøvet topp"
+
+#: inc/theme_metaboxes.php:463 inc/theme_options.php:869
+#: inc/theme_options.php:899 inc/theme_options.php:924
+msgid "One column with left sidebar"
+msgstr "Én kolonne med venstre sidestolpe"
+
+#: inc/theme_metaboxes.php:453 inc/theme_options.php:859
+#: inc/theme_options.php:889 inc/theme_options.php:914
+msgid "One column with right sidebar"
+msgstr "Én kolonne med høyre sidestolpe"
+
+#: inc/theme_metaboxes.php:458 inc/theme_options.php:844
+#: inc/theme_options.php:894 inc/theme_options.php:919
+msgid "One column without sidebar"
+msgstr "Én kolonne uten sidestolpe"
+
+# 
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:139
+msgid "One or more of your installed themes are outdated. Using outdated themes can break your site and generate potential security risks."
+msgstr "En eller flere av dine installerte temaer er utdaterte. Når du bruker utdaterte temaer kan nettstedet ditt krasje og det kan oppstå en potensiell sikkerhetsrisiko."
+
+# 
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# 
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:163
+#, php-format
+msgid "One or more of your installed themes are outdated. Using outdated themes can break your site and generate potential security risks. %sUpdate your Themes to the newest version%s"
+msgstr "Oppdater temaene til den siste versjonen. Vi anbefaler at du fjerner ethvert tema du ikke kommer til å bruke. Se denne veiledningen for mer informasjon:  %sHvordan oppdaterer jeg et publiseringsverktøy som WordPress?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:108
+msgid "One or more of your plugins are outdated. Outdated plugins make your site vulnerable to security attacks."
+msgstr "En eller flere plugins er utdaterte. Utdaterte plugins er populære mål for hackere og en alvorlig sikkerhetstrussel.  "
+
+# 
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# 
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:128
+#, php-format
+msgid "One or more of your plugins are outdated. Outdated plugins make your site vulnerable to security attacks. %sUpdate your Plugins to the newest version%s"
+msgstr "Oppdater plugins-ene dine til de siste versjonene. Vi anbefaler at du fjerner enhver plugins som du ikke kommer til å bruke. Se denne veiledningen for mer informasjon:  %sHvordan oppdaterer jeg et publiseringsverktøy som WordPress?%s"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:427
+msgid "One or more of your plugins is on the list of plugins we advise against using. Plugins on this list have a negative effect on the performance of your site, or pose a security risk."
+msgstr "En eller flere av dine plugins er på listen over plugins vi ikke anbefaler å bruke. Plugins på denne listen har en negativ innvirkning på nettstedets ytelse eller er en sikkerhetstrussel."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# 
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:484
+#, php-format
+msgid "One or more of your plugins is on the list of plugins we advise against using. Plugins on this list have a negative effect on the performance of your site, or pose a security risk. Deactivate %sDiscouraged WordPress plugins%s"
+msgstr "Fjern plugins som ikke er anbefalte fra WordPress-installasjonen. Det finnes tusenvis av plugins, det er derfor relativt enkelt å finne en erstatning som har de samme funksjonene. Se her for en fullstendig oversikt over plugins vi ikke anbefaler å bruke: %sIkke anbefalte WordPress-plugins%s. "
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:314
+msgid "One or more of your usernames is very common, like for example “admin”. These usernames are easy to guess and could be exploited by hackers."
+msgstr "Vanlige brukernavn som f.eks. “admin” er enkle å gjette seg til og kan bli misbrukt av hackere. De bruker roboter for å teste ut millioner av passord når de prøver å bryte seg inn. Hvis du har et personlig brukernavn blir det vanskeligere for hackeren å lykkes."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:352
+#, php-format
+msgid "One or more of your usernames is very common, like for example “admin”. These usernames are easy to guess and could be exploited by hackers. %sChange a WordPress username in PhpMyAdmin%s"
+msgstr "Endre det vanlige brukernavnet til et som er personlig, baser det på navnet eller kallenavnet ditt. Se denne veiledningen for å finne ut hvordan du skal gjøre det: %sEndre et WordPress-brukernavn i PhpMyAdmin%s"
+
+#: comments.php:37
+#, php-format
+#, fuzzy
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Ett svar til &ldquo;%s&rdquo;"
+
+#: onecom-themes-plugins.php:319 onecom-themes-plugins.php:320
+#: onecom-themes-plugins.php:375 onecom-themes-plugins.php:378
+msgid "One.com"
+msgstr "one.com"
+
+#: onecom-themes-plugins.php:423
+#, fuzzy
+msgid "One.com Control Panel"
+msgstr "one.com kontrollpanel"
+
+#: onecom-themes-plugins.php:440
+#, fuzzy
+msgid "One.com Guides & FAQ"
+msgstr "Guider & FAQ one.com"
+
+# IMPORTANT!!!!
+# 
+# This is the NAME of the feature. Try to keep it short and clean and to the point. If there is no good version in your language, use the English one, or a variant thereof. Make sure you are consistent, there are 4 keys that have Health Monitor.
+# 
+# The Health Monitor checks a WordPress site for vulnerabilities and if its overall performance is good. Issues are reported, with information on how to fix it.
+# 
+#: modules/health-monitor/inc/widgets.php:12
+msgid "One.com Health Monitor"
+msgstr "Helseovervåking fra one.com"
+
+#: includes/settings-page.php:15
+msgid "One.com Online Shop"
+msgstr "Nettbutikk fra one.com "
+
+#: onecom-addons/templates/page-settings.php:5
+msgid "One.com Performance Cache improves your website's performance"
+msgstr "Performance Cache fra one.com forbedrer ytelsen på nettsiden"
+
+# 'one.com' is written in lowercases.
+msgid "One.com performance tools"
+msgstr "one.com ytelsesverktøy"
+
+#: templates/discouraged-plugin-listing.php:23
+#: templates/network/discouraged-plugin-listing.php:23
+#: templates/network/plugin-listing.php:23
+#: templates/network/recommended-plugin-listing.php:23
+#: templates/plugin-listing.php:23 templates/recommended-plugin-listing.php:23
+#, fuzzy
+msgid "One.com plugins"
+msgstr "one.com utvidelser"
+
+#: webshop.php:116
+#, fuzzy
+msgid "Online shop Settings"
+msgstr "Innstillinger for nettbutikk"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:44
+#, fuzzy
+msgid "Only one staging version can be created for each website. When you rebuild a staging website, any existing staging site will be replaced with a new snapshot of your live website."
+msgstr "Det er bare mulig å opprette ett testmiljø per nettsted. Når du gjenoppbygger et testmiljø vil alle eksisterende testmiljøer bli erstattet av et nytt bilde av ditt live nettsted."
+
+#: inc/widgets.php:208
+msgid "Open in new window?"
+msgstr "Åpne i nytt vindu?"
+
+#: option-tree/ot-loader.php:22
+#, fuzzy
+msgid "OptionTree is installed as a plugin and also embedded in your current theme. Please deactivate the plugin to load the theme dependent version of OptionTree, and remove this warning."
+msgstr "OptionTree et installert som en plugin og også innebygd i ditt gjeldende tema. Deaktiver pluginen for å laste temaavhengig versjon av OptionTree og fjerne denne advarselen.."
+
+#: includes/customize-page.php:279
+#, fuzzy
+msgid "Order details (borders)"
+msgstr "Bestillingsinformasjon (kantlinjer)"
+
+#: importer/views/plugin-page.php:51
+#, fuzzy
+msgid "Otherwise you might end up mixing the demo data with the existing content on your website."
+msgstr "Ellers kan du ende opp med å blande demodata med eksisterende innhold på nettstedet din."
+
+#: includes/settings-page.php:85
+#, fuzzy
+msgid "Our chat support is open 24/7"
+msgstr "Vår chat support er åpen 24/7"
+
+#: admin/options-init.php:461 admin/options-init.php:485
+#: admin/options-init.php:514
+msgid "Page content"
+msgstr "Sideinnhold"
+
+#: metaboxes/metabox.php:53
+msgid "Page Content"
+msgstr "Sideinnhold"
+
+#: metabox/metabox.php:18
+msgid "Page Description"
+msgstr "Sideinnhold"
+
+#: 404.php:23
+#, fuzzy
+msgid "Page Not Found"
+msgstr "Side ikke funnet"
+
+#: inc/theme_metaboxes.php:641
+msgid "Page Section"
+msgstr "Sideinndeling"
+
+#: inc/theme_metaboxes.php:25 inc/theme_metaboxes.php:461
+#: inc/theme_metaboxes.php:896 inc/theme_metaboxes.php:1060
+#: inc/theme_metaboxes.php:1142 inc/theme_options.php:285
+#: inc/theme_options.php:987
+msgid "Page Sections"
+msgstr "Sideinndeling"
+
+#: metabox/metabox.php:5
+#, fuzzy
+msgid "Page Settings"
+msgstr "Sideinnstillinger"
+
+#: metaboxes/metabox.php:23
+#, fuzzy
+msgid "Page Sub Title"
+msgstr "Sideundertittel"
+
+#: inc/theme_metaboxes.php:991 inc/theme_metaboxes.php:1066
+#: inc/theme_metaboxes.php:1155
+msgid "Page Subtitle"
+msgstr "Sideundertittel"
+
+#: inc/theme_options.php:152 inc/theme_options.php:762
+msgid "Page Title"
+msgstr "Sidetittel"
+
+#: inc/theme_options.php:891 inc/theme_options.php:950
+msgid "Pages > Home > Banner"
+msgstr "Sider > Hjem > Banner"
+
+#: single.php:80
+#, fuzzy
+msgid "Pages:"
+msgstr "Sider:"
+
+#: inc/core_functions.php:371
+msgid "Parent Recipe Type"
+msgstr "Hovedoppskriftstyper"
+
+#: inc/core_functions.php:372
+msgid "Parent Recipe Type:"
+msgstr "Hovedoppskriftstyper:"
+
+#: inc/core_functions.php:371
+msgid "Parent Tutorials Type"
+msgstr "Hovedtutorialtype"
+
+#: inc/core_functions.php:372
+msgid "Parent Tutorials Type:"
+msgstr "Hovedtutorialtype:"
+
+#: vcaching.php:306
+msgid "Performance Cache requires you to use custom permalinks. Please go to the <a href=\"options-permalink.php\">Permalinks Options Page</a> to configure them."
+msgstr "Performance Cache krever at du bruker egendefinerte permalenker. Vennligst gå til <a href=“options-permalink.php”>Innstillinger for permalenker</a> for å konfigurere dem."
+
+#: onecom-addons/onecom-inc.php:282
+msgid "Performance Tools"
+msgstr "Ytelsesverktøy"
+
+#: admin/options-init.php:367
+msgid "Personal Website"
+msgstr "Personlig nettside"
+
+#: inc/core_functions.php:193 inc/onecom-blocks.php:140
+#: template-parts/section-contact-form.php:31
+#, fuzzy
+msgid "Phone"
+msgstr "Telefon"
+
+#: inc/core_functions.php:345
+msgid "Phone "
+msgstr "Telefon"
+
+#: inc/onecom-blocks.php:411
+msgid "Phone is empty or too short."
+msgstr "Navn er tomt eller for kort."
+
+#: widgets/widget.php:142
+msgid "Phone:"
+msgstr "Telefon:"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:25
+msgid "PHP version"
+msgstr "Du bruker ikke den anbefalte PHP-versjonen"
+
+#: front-page.php:135
+msgid "Please add / edit"
+msgstr "Legg til / rediger"
+
+#: inc/theme_metaboxes.php:447 inc/theme_metaboxes.php:836
+msgid "Please copy and paste the Embed Code or Shortcode of the custom form (if any). This will replace the default form."
+msgstr "Kopier og lim inn Embed Code eller Shortcode til det egendefinerte skjemaet (hvis aktuelt). Dette erstatter standardskjema."
+
+#: includes/ws-shortcode.php:85
+#, fuzzy
+msgid "Please enter a number between 2 and 100."
+msgstr "Skriv inn et tall mellom 2 og 100."
+
+#: template-parts/home/section-newsletter.php:31
+msgid "Please enter your email."
+msgstr "Vennligst oppgi e-postadresse."
+
+#: staging/Includes/Core/views/live.php:49
+#, fuzzy
+msgid "Please note"
+msgstr "Vennligst merk"
+
+#: inc/theme_metaboxes.php:146
+#, fuzzy
+#| msgid "Please select the therapies to be diplayed."
+msgid "Please select services to be diplayed."
+msgstr "Velg kursene som skal vises."
+
+#: inc/theme_metaboxes.php:193
+msgid "Please select the courses to be diplayed."
+msgstr "Velg kursene som skal vises."
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_metaboxes.php:290 inc/theme_metaboxes.php:953
+msgid "Please select the items to be displayed."
+msgstr "Vennligst velg elementene som skal vises"
+
+#: inc/theme_metaboxes.php:120
+msgid "Please select the services to be diplayed."
+msgstr "Velg kursene som skal vises."
+
+#: inc/theme_metaboxes.php:144
+#, fuzzy
+#| msgid "Please select the therapies to be diplayed."
+msgid "Please select the services to be displayed."
+msgstr "Velg kursene som skal vises."
+
+#: inc/theme_metaboxes.php:144
+msgid "Please select the therapies to be diplayed."
+msgstr "Velg kursene som skal vises."
+
+#: inc/lib/validator.php:370 inc/lib/validator.php:638
+msgid "Please upgrade to a subscription with access to Premium features."
+msgstr "Vennligst oppgrader til et abonnement med tilgang til Premium funksjoner."
+
+#: core/theme-option.php:434 core/theme-option.php:461
+#, fuzzy
+msgid "Please upload Image."
+msgstr "Vennligst last opp bilde."
+
+#: core/theme-option.php:533
+#, fuzzy
+msgid "Please upload the image ."
+msgstr "Vennligst last opp bilde."
+
+#: core/theme-option.php:407 core/theme-option.php:485
+#: core/theme-option.php:509
+#, fuzzy
+msgid "Please upload the image."
+msgstr "Vennligst last opp bilde."
+
+# This key is a sentence used in the staging (test) functionality of WP. It informs users that they have to wait until their staging site (the content from their test environment) is being copied to their live site.
+# 
+#: staging/Includes/Core/views/staging.php:6
+msgid "Please wait, while we are copying staging into live."
+msgstr "Please wait, while we are copying staging into live."
+
+#: staging/Includes/Core/views/live.php:7
+#, fuzzy
+msgid "Please wait, while we are copying your live site to the staging site."
+msgstr "Vennligst vent mens vi kopierer nettstedet ditt til testmiljøet."
+
+#: staging/Includes/Core/views/live.php:15
+#, fuzzy
+msgid "Please wait, while we are updating staging site."
+msgstr "Vennligst vent mens vi oppdaterer staging site."
+
+#: inc/classes/class-vlog.php:149 inc/classes/class-vlog.php:190
+#, fuzzy
+msgid "Please wait..."
+msgstr "Vennligst vent ..."
+
+#: inc/functions.php:600
+#, fuzzy
+msgid "Plugin installed successfully"
+msgstr "Plug-in er installert"
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:29
+#: onecom-themes-plugins.php:337 onecom-themes-plugins.php:338
+#: onecom-themes-plugins.php:345 onecom-themes-plugins.php:346
+#: onecom-themes-plugins.php:353 onecom-themes-plugins.php:354
+#: onecom-themes-plugins.php:398 onecom-themes-plugins.php:401
+#: onecom-themes-plugins.php:412 onecom-themes-plugins.php:664
+#, fuzzy
+msgid "Plugins"
+msgstr "Utvidelser"
+
+#: staging/Includes/Core/views/live.php:49
+#, fuzzy
+msgid "Plugins that are URL sensitive may not work as expected on the staging site."
+msgstr "Det kan forekomme, at utvidelser og plugins som er URL-sensitive, ikke fungerer som forventet på staging-siden."
+
+#: templates/network/plugin-listing.php:13 templates/plugin-listing.php:13
+#, fuzzy
+msgid "Plugins that bring the One.com experience and services to WordPress."
+msgstr "Plugins som bringer one.com-opplevelsen og - tjenester til WordPress."
+
+#: includes/ws-shortcode.php:39
+#, fuzzy
+msgid "Portrait"
+msgstr "Stående"
+
+#: inc/core_functions.php:449
+msgctxt "Post Type General Name"
+msgid "Instructors"
+msgstr "Instruktør"
+
+#: inc/core_functions.php:391
+msgctxt "Post Type General Name"
+msgid "Lessons"
+msgstr "Leksjon"
+
+#: inc/core_functions.php:327
+msgctxt "Post Type General Name"
+msgid "Recipes"
+msgstr "Oppskrifter"
+
+#: inc/core_functions.php:327
+msgctxt "Post Type General Name"
+msgid "Tutorials"
+msgstr "Tutorial"
+
+#: inc/core_functions.php:450
+msgctxt "Post Type Singular Name"
+msgid "Instructor"
+msgstr "Instruktør"
+
+#: inc/core_functions.php:392
+msgctxt "Post Type Singular Name"
+msgid "Lesson"
+msgstr "Leksjon"
+
+#: inc/core_functions.php:328
+msgctxt "Post Type Singular Name"
+msgid "Recipe"
+msgstr "Oppskrift"
+
+#: inc/core_functions.php:328
+msgctxt "Post Type Singular Name"
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: inc/core_functions.php:12
+#, php-format
+msgid "Posted by %s"
+msgstr "Postet av %s"
+
+#: archive.php:36
+msgid "Posted in"
+msgstr "Publisert i"
+
+#: importer/views/plugin-page.php:44
+#, fuzzy
+msgid "Posts, pages, images, widgets, menus and other theme settings will get imported."
+msgstr "Innlegg, sider, bilder, widgets, menyer og andre temainnstillinger blir importert."
+
+# This will be used to tag premium themes on thumbnail/banners.
+msgid "PREMIUM"
+msgstr "PREMIUM"
+
+#: inc/lib/validator.php:360
+msgid "Premium feature"
+msgstr "Premium funksjon"
+
+#: staging/one_staging.php:157
+#, fuzzy
+msgid "Preparing directories..."
+msgstr "Forbereder mapper…"
+
+#: staging/one_staging.php:154
+#, fuzzy
+msgid "Preparing..."
+msgstr "Forbereder…"
+
+#: templates/network/recommended-plugin-listing.php:13
+#: templates/recommended-plugin-listing.php:13
+#, fuzzy
+msgid "Presenting some of our favorite WordPress plugins, curated for quality."
+msgstr "Vi presenterer noen av våre WordPress-favoritter, spesielt valgt ut til deg."
+
+#: templates/network/theme-listing-loop.php:49
+#: templates/theme-listing-loop.php:42
+#, fuzzy
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: single.php:31 template-parts/content-single.php:42
+#, fuzzy
+msgid "Previous"
+msgstr "Forrige"
+
+#: functions.php:261
+#, fuzzy
+msgid "Price"
+msgstr "Pris"
+
+#: inc/theme_metaboxes.php:697
+msgid "Price Blocks"
+msgstr "Prisblokker"
+
+#: single.php:98
+#, fuzzy
+msgid "Price: "
+msgstr "Pris:"
+
+#: includes/ws-shortcode.php:28
+#, fuzzy
+msgid "Price: High to low"
+msgstr "Pris: høy til lav"
+
+#: includes/ws-shortcode.php:27
+#, fuzzy
+msgid "Price: Low to high"
+msgstr "Pris: lav til høy"
+
+#: functions.php:225
+msgid "Primary"
+msgstr "Primær"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_options.php:325 inc/theme_options.php:845
+msgid "Primary Buttons"
+msgstr "Primære knapper"
+
+#: functions.php:150
+msgid "Primary Navigation"
+msgstr "Primær navigasjon"
+
+#: functions.php:142
+msgid "Primary Sidebar"
+msgstr "Primær sidestolpe"
+
+# Settings section where you can make the blog private, so that users need to log in before they can see it.
+# __________________________
+#: inc/customizer/blog-template-control.php:346
+msgid "Private blog"
+msgstr "Privat blogg"
+
+#: includes/ws-shortcode.php:93
+#, fuzzy
+msgid "Pro tip"
+msgstr "Tips"
+
+#: includes/ws-shortcode.php:65
+#, fuzzy
+msgid "Products per page"
+msgstr "Antall produkter pr. side"
+
+#: includes/ws-shortcode.php:51
+#, fuzzy
+msgid "Products per row"
+msgstr "Produkter per rad"
+
+#: admin/options-init.php:451
+msgid "Profile Image"
+msgstr "Profilbilde"
+
+#: includes/ws-shortcode.php:69
+#, fuzzy
+msgid "Promotion label position"
+msgstr "Plassering av kampanjeetikett"
+
+#: inc/theme_metaboxes.php:817
+msgid "Provide email accounts where you want to receive emails from this form."
+msgstr "Oppgi e-postkontoer som du vil at dette skjemaet skal sende e-post til."
+
+#: admin/options-init.php:572
+#, fuzzy
+msgid "Provide email ids on which you want to receive email from contact form. Example: info@one.com, contact@gmail.com"
+msgstr "Oppgi e-postadresser som du ønsker å motta e-post fra kontaktskjema. F.eks. info@one.com, kontakt@gmail.com"
+
+#: single.php:48
+#, fuzzy
+msgid "Published on: "
+msgstr "Publisert:"
+
+#: vcaching.php:1059 vcaching.php:1069
+msgid "Purge from Varnish"
+msgstr "Tøm fra Vanish"
+
+#: onecom-addons/templates/page-settings.php:25 vcaching.php:314
+#: vcaching.php:317 vcaching.php:334
+msgid "Purge Performance Cache"
+msgstr "Tøm all Performance Cache"
+
+#: admin/options-init.php:489
+msgid "Quote Form Description"
+msgstr "Beskrivelse av tilbudsskjema"
+
+#: admin/options-init.php:482
+msgid "Quote Form Title"
+msgstr "Tittel på tilbudsskjema"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_options.php:353 inc/theme_options.php:396
+msgid "Radius"
+msgstr "Radius"
+
+#: template-parts/content-blog.php:47
+#, fuzzy
+msgid "Read More"
+msgstr "Les mer"
+
+#: template-parts/home-main-content.php:34
+#: template-parts/home-main-content.php:76
+msgid "Read more"
+msgstr "Les mer"
+
+#: inc/theme_metaboxes.php:167
+msgid "Read more button text"
+msgstr "Tjenester knappetekst"
+
+#: template-parts/content-none.php:21
+#, fuzzy
+msgid "Ready to publish your first post?"
+msgstr "Klar til å publisere ditt første innlegg?"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:52
+#, fuzzy
+msgid "Rebuild Staging"
+msgstr "Gjenoppbygg testmiljø"
+
+#: classes/class-moments-widget-recent-posts.php:14
+#, fuzzy
+msgid "Recent Posts"
+msgstr "Nylige innlegg"
+
+#: template-parts/menuDiv.php:44
+msgid "Recently Published"
+msgstr "Nylig publisert"
+
+#: inc/core_functions.php:336
+msgid "Recipe"
+msgstr "Oppskrift"
+
+#: inc/core_functions.php:337
+msgid "Recipe Description"
+msgstr "Beskrivelse av oppskrift"
+
+#: inc/core_functions.php:377
+msgid "Recipe Type"
+msgstr "Oppskriftstype"
+
+#: admin/options-init.php:570
+#, fuzzy
+msgid "Recipients"
+msgstr "Mottakere"
+
+#: templates/discouraged-plugin-listing.php:24
+#: templates/network/discouraged-plugin-listing.php:24
+#: templates/network/plugin-listing.php:24
+#: templates/network/recommended-plugin-listing.php:24
+#: templates/plugin-listing.php:24 templates/recommended-plugin-listing.php:24
+#, fuzzy
+msgid "Recommended plugins"
+msgstr "Anbefalte utvidelser"
+
+#: includes/customize-page.php:69
+#, fuzzy
+msgid "Redo"
+msgstr "Gjør om"
+
+#: includes/customize-page.php:69
+#, fuzzy
+msgid "Redo last undone action"
+msgstr "Gjør om siste angret handling"
+
+# Message in WordPress, reminding users to empty the cache when enabling a cookie banner.
+# 
+# _________________________________________________________________
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:140
+msgid "Remember to delete cache in case you are using any caching plugin."
+msgstr "Hvis du bruker en caching plug-in, må du huske å tømme cachen din."
+
+#: inc/category-media.php:46 inc/category-media.php:85
+msgid "Remove Image"
+msgstr "Fjern bilde"
+
+#: comments.php:62
+#, fuzzy
+msgid "Reply"
+msgstr "Svar"
+
+# Option with checkbox where you can make the blog private, so that users need to log in before they can see it.
+# __________________________
+#: inc/customizer/blog-template-control.php:359
+msgid "Require login credentials to view blog?"
+msgstr "Krev at brukere må logge inn for å se bloggen"
+
+#: comments.php:67 comments.php:70
+msgid "Required"
+msgstr "Påkrevd"
+
+#: option-tree/includes/ot-settings-api.php:365
+#, fuzzy
+msgid "Reset Options"
+msgstr "Tilbakestill alternativer"
+
+#: functions.php:162 functions.php:163 functions.php:169
+msgid "Reviews"
+msgstr "Vurderinger"
+
+#: inc/theme_metaboxes.php:67
+msgid "Right"
+msgstr "Høyre"
+
+#: metaboxes/metabox.php:27
+#, fuzzy
+msgid "Right Main Content"
+msgstr "Høyre hovedinnhold"
+
+#: ../includes/ot-functions-admin.php:3201
+msgid "Right Sidebar"
+msgstr "Høyre sidestolpe"
+
+#: onecom-addons/templates/turbocharge-page-settings.php:70
+msgid "Save"
+msgstr "Lagre"
+
+#: includes/customize-page.php:7 includes/customize-page.php:68
+#, fuzzy
+msgid "Save & Publish"
+msgstr "Lagre og publiser"
+
+#: option-tree/includes/ot-functions-settings-page.php:93
+#: option-tree/includes/ot-functions-settings-page.php:132
+#, fuzzy
+msgid "Save Changes"
+msgstr "Lagre endringer"
+
+#: includes/customize-page.php:48 includes/customize-page.php:68
+#, fuzzy
+msgid "Saved & Published"
+msgstr "Lagret og publisert"
+
+#: modules/health-monitor/inc/functions.php:42
+#: modules/health-monitor/inc/widgets.php:43
+msgid "Scan again"
+msgstr "Skann igjen"
+
+#: modules/health-monitor/inc/widgets.php:32
+msgid "Scan now"
+msgstr "Skann nå"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_metaboxes.php:550
+msgid "Schedule"
+msgstr "Fremdriftsplan"
+
+#: inc/theme_options.php:1408
+msgid "Scripts to be inserted after footer."
+msgstr "Script som kan settes inn etter bunnteksten."
+
+#: inc/theme_options.php:1398
+msgid "Scripts to be inserted in \"head\" tag."
+msgstr "Scrip for innsetting i \"head\"-taggen."
+
+#: searchform.php:17
+#, fuzzy
+msgid "Search"
+msgstr "Søk"
+
+#: custompost/custompost.php:13
+msgid "Search Adventures"
+msgstr "Search Reise"
+
+#: searchform.php:10
+#, fuzzy
+msgid "Search for:"
+msgstr "Søk etter:"
+
+#: inc/core_functions.php:369
+msgid "Search Recipe Types"
+msgstr "Søk oppskriftstype"
+
+#: search.php:22
+#, fuzzy
+msgid "Search Results"
+msgstr "Søkeresultater"
+
+#: custompost/customposts.php:75
+msgid "Search Service"
+msgstr "Søk tjeneste"
+
+#: inc/core_functions.php:337
+msgid "Search Slides"
+msgstr "Søk bilder"
+
+#: custompost/customposts.php:44
+msgid "Search Spotlight"
+msgstr "Søk Spotlight"
+
+#: custompost/custompost.php:106
+msgid "Search Testimonial"
+msgstr "Search Kundeevalueringer"
+
+#: inc/classes/class-vlog.php:360
+msgid "Search Testimonials"
+msgstr "Søk kundevurderinger"
+
+#: inc/core_functions.php:369
+msgid "Search Tutorials Types"
+msgstr "Søk tutorialtyper"
+
+#: template-parts/internal-banner.php:45
+#, php-format
+#, fuzzy
+msgid "Search: %s"
+msgstr "Søk:%s"
+
+#: functions.php:130
+#, fuzzy
+msgid "Secondary"
+msgstr "Sekundær skriftfamilie"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_options.php:362 inc/theme_options.php:864
+msgid "Secondary Buttons"
+msgstr "Sekundære knapper"
+
+#: inc/theme_options.php:743
+msgid "Secondary Font Family"
+msgstr "Sekundær skriftfamilie"
+
+#: inc/theme_metaboxes.php:141 inc/theme_metaboxes.php:168
+#: inc/theme_metaboxes.php:195
+msgid "Section"
+msgstr "Del"
+
+#: inc/theme_metaboxes.php:279 inc/theme_metaboxes.php:335
+#: inc/theme_metaboxes.php:387 inc/theme_metaboxes.php:562
+#: inc/theme_metaboxes.php:844
+msgid "Section Background"
+msgstr "Inndelingsbakgrunn"
+
+#: inc/theme_metaboxes.php:167 inc/theme_metaboxes.php:230
+#: inc/theme_metaboxes.php:309 inc/theme_metaboxes.php:418
+#: inc/theme_metaboxes.php:592 inc/theme_metaboxes.php:874
+msgid "Section Content"
+msgstr "Inndelingsinnhold"
+
+#: inc/theme_metaboxes.php:291
+msgid "Section Image"
+msgstr "Bilde i venstre inndeling"
+
+#: inc/theme_metaboxes.php:225
+msgid "Section Sub Title"
+msgstr "Inndelingstittel"
+
+#: inc/theme_metaboxes.php:160 inc/theme_metaboxes.php:223
+#: inc/theme_metaboxes.php:302 inc/theme_metaboxes.php:359
+#: inc/theme_metaboxes.php:410 inc/theme_metaboxes.php:540
+#: inc/theme_metaboxes.php:584 inc/theme_metaboxes.php:745
+#: inc/theme_metaboxes.php:867
+msgid "Section Title"
+msgstr "Inndelingstittel"
+
+#: inc/theme_options.php:994
+msgid "Section Titles Font Style"
+msgstr "Inndelingstittel skrifttypestil"
+
+#: option-tree/includes/ot-functions-option-types.php:3160
+#, fuzzy
+msgid "Select an image by clicking the + button"
+msgstr "Velg et bilde ved å klikke på \"pluss\"-knappen"
+
+#: admin/options-init.php:174
+#, fuzzy
+msgid "Select background color of header."
+msgstr "Velg bakgrunnsfarge for topptekst."
+
+#: inc/theme_metaboxes.php:415 inc/theme_metaboxes.php:775
+#: inc/theme_metaboxes.php:1006 inc/theme_metaboxes.php:1078
+msgid "Select banner image"
+msgstr "Velg tjenester"
+
+#: admin/options-init.php:406
+msgid "Select icon background color on footer section"
+msgstr "Velg bakgrunnsfarge for ikon i bunntekstinndeling"
+
+#: admin/options-init.php:393
+msgid "Select icon background color on main content area"
+msgstr "Velg bakgrunnsfarge for ikon for brødtekstfeltet"
+
+#: admin/options-init.php:400
+msgid "Select icon color on footer section"
+msgstr "Velg ikonfarge i bunntekstinndeling"
+
+#: admin/options-init.php:386
+msgid "Select icon color on main content area"
+msgstr "Velg ikonfarge for brødtekstfeltet"
+
+#: inc/theme_metaboxes.php:120 inc/theme_metaboxes.php:332
+#: inc/theme_metaboxes.php:473
+msgid "Select Services"
+msgstr "Velg tjenester"
+
+#: core/theme-option.php:391
+#, fuzzy
+msgid "Select social icon background color"
+msgstr "Velg bakgrunnsfarge for sosialt ikon"
+
+#: admin/options-init.php:416
+#, fuzzy
+msgid "Select social icon background color."
+msgstr "Velg bakgrunnsfarge for sosialt ikon."
+
+#: core/theme-option.php:382
+#, fuzzy
+msgid "Select social icon color"
+msgstr "Velg farge for sosialt ikon"
+
+#: admin/options-init.php:408
+#, fuzzy
+msgid "Select social icon color."
+msgstr "Velg farge for sosialt ikon."
+
+#: admin/options-init.php:588
+msgid "Select the button background color for contact form "
+msgstr "Velg bakgrunnsfargen for knappen i kontaktskjemaet"
+
+#: admin/options-init.php:206 admin/options-init.php:226
+#: admin/options-init.php:245 admin/options-init.php:263
+#: admin/options-init.php:281 admin/options-init.php:299
+#: admin/options-init.php:317 admin/options-init.php:335
+#, fuzzy
+msgid "Select the font size, font family, color etc"
+msgstr "Velg skriftstørrelse, skriftserie, farge osv."
+
+#: admin/options-init.php:256 admin/options-init.php:275
+#: admin/options-init.php:293 admin/options-init.php:311
+#: admin/options-init.php:329 admin/options-init.php:347
+#: admin/options-init.php:365
+#, fuzzy
+msgid "Select the font size, font family, color etc."
+msgstr "Velg skriftstørrelse, skriftserie, farge osv."
+
+# This text is a description explaining what checking happens when you check the option to show the checkout banner.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:111
+msgid "Select this option to show a checkout banner at the bottom of all pages of your site on mobile devices, when there is something in the cart."
+msgstr "Velg dette alternativet for å vise en utsjekkingsbanner nederst på alle sidene i nettstedet ditt på mobile enheter og når noe er i handlekurven."
+
+# You have three ways that you can show the shopping cart on your site.
+# 
+# This is the header and description, after which you need to choose an option.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:25
+msgid "Select where you want the cart icon to be visible."
+msgstr "Velg hvor du ønsker at handlekurven skal være synlig på nettstedet ditt."
+
+#: includes/customize-page.php:241
+#, fuzzy
+msgid "Selected value (dropdown)"
+msgstr "Valgt verdi (nedtrekksmeny)"
+
+#: custompost/customposts.php:68 custompost/customposts.php:69
+#, fuzzy
+msgid "Service"
+msgstr "Tjeneste"
+
+#: inc/core_functions.php:325
+msgid "Service "
+msgstr "Tjeneste"
+
+#: inc/core_functions.php:342
+msgid "Service Description"
+msgstr "Tjenestebeskrivelse"
+
+#: inc/theme_metaboxes.php:378
+msgid "Service Details"
+msgstr "Tjenestedetaljer"
+
+#: inc/core_functions.php:71
+#, fuzzy
+msgid "Services"
+msgstr "Tjenester"
+
+#: admin/options-init.php:429
+msgid "Services Button Link"
+msgstr "Tjenester knappelenke"
+
+#: admin/options-init.php:423
+msgid "Services Button Text"
+msgstr "Tjenester knappetekst"
+
+#: inc/theme_metaboxes.php:324
+msgid "Services Label"
+msgstr "Tjenestenavn"
+
+#: inc/theme_metaboxes.php:907
+msgid "Services page Icon"
+msgstr "Tjenestenavn"
+
+#: includes/customize-page.php:154
+#, fuzzy
+msgid "Set a color for the background of your shop."
+msgstr "Sett en farge på bakgrunnen til butikken din."
+
+# Title and button text for the cart feature under Online Shop plugin settings.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:21
+#, fuzzy
+msgid "Set cart position and style"
+msgstr "Handlekurvplassering og -stil"
+
+#: classes/class-moments-customize.php:95
+#, fuzzy
+msgid "Settings"
+msgstr "Innstillinger"
+
+# A clickable link which opens social media icons to share the current blog post.
+msgid "Share"
+msgstr "Del"
+
+#: inc/theme_metaboxes.php:249 inc/theme_metaboxes.php:609
+msgid "Short Description"
+msgstr "Kort beskrivelse"
+
+#: includes/ws-shortcode.php:15
+#, fuzzy
+msgid "Show \"sort by\" selector"
+msgstr "Vis \"sorter etter\"-velger"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:77
+msgid "Show a banner on your website to inform visitors about cookies and get their consent."
+msgstr "Vis et banner på nettsiden for å informere besøkende om informasjonskapsler og be om deres samtykke."
+
+#: inc/theme_options.php:120 inc/theme_options.php:306
+msgid "Show Background Image"
+msgstr "Vis bakgrunnsbilde"
+
+#: inc/theme_metaboxes.php:41 inc/theme_metaboxes.php:475
+#: inc/theme_metaboxes.php:656 inc/theme_metaboxes.php:910
+#: inc/theme_metaboxes.php:997 inc/theme_metaboxes.php:1072
+#: inc/theme_metaboxes.php:1161
+msgid "Show Banner"
+msgstr "Vis banner?"
+
+#: inc/theme_metaboxes.php:39
+msgid "Show banner"
+msgstr "Vis banner"
+
+#: inc/theme_metaboxes.php:483 inc/theme_metaboxes.php:664
+#: inc/theme_metaboxes.php:918 inc/theme_metaboxes.php:1005
+#: inc/theme_metaboxes.php:1080 inc/theme_metaboxes.php:1169
+msgid "Show Banner?"
+msgstr "Vis banner?"
+
+#: includes/ws-shortcode.php:9
+#, fuzzy
+msgid "Show category selector"
+msgstr "Vis kategorivelger"
+
+#: inc/theme_metaboxes.php:175
+msgid "Show Courses"
+msgstr "Vis kurs"
+
+#: inc/theme_metaboxes.php:251 inc/theme_metaboxes.php:380
+#: inc/theme_metaboxes.php:416
+msgid "Show Featured Video"
+msgstr "Vis aktuell video"
+
+#: inc/theme_metaboxes.php:636
+msgid "Show Features"
+msgstr "Vis funksjoner"
+
+#: inc/theme_options.php:428
+msgid "Show Header"
+msgstr "Vis header"
+
+#: inc/theme_options.php:564
+msgid "Show Logo"
+msgstr "Vis logo"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_options.php:472
+msgid "Show Logo Image"
+msgstr "Vis logobilde"
+
+#: inc/theme_options.php:1072
+msgid "Show Post Metadata"
+msgstr "Vis metadata for innlegg"
+
+#: inc/theme_metaboxes.php:674
+msgid "Show Price Section"
+msgstr "Vis prisseksjon"
+
+#: inc/theme_metaboxes.php:153 inc/theme_metaboxes.php:216
+#: inc/theme_metaboxes.php:294 inc/theme_metaboxes.php:351
+#: inc/theme_metaboxes.php:402 inc/theme_metaboxes.php:532
+#: inc/theme_metaboxes.php:576 inc/theme_metaboxes.php:737
+#: inc/theme_metaboxes.php:859
+msgid "Show Section"
+msgstr "Vis inndeling"
+
+#: inc/theme_metaboxes.php:111 inc/theme_metaboxes.php:464
+msgid "Show Services"
+msgstr "Vis tjenester"
+
+#: inc/theme_metaboxes.php:74 inc/theme_metaboxes.php:116
+msgid "Show Slider"
+msgstr "Vis bildekarusell"
+
+#: inc/theme_options.php:815
+#, fuzzy
+msgid "Show Thumbnail"
+msgstr "Vis tittel"
+
+#: inc/theme_metaboxes.php:216 inc/theme_metaboxes.php:506
+#: inc/theme_metaboxes.php:609 inc/theme_metaboxes.php:756
+#: inc/theme_metaboxes.php:878
+msgid "Show Title"
+msgstr "Vis tittel"
+
+#: inc/theme_metaboxes.php:204
+msgid "Show Title Icon"
+msgstr "Vis tittelikon"
+
+#: inc/theme-metaboxes.php:335
+msgid "Show/Hide Newsletter Section"
+msgstr "Vis/skjul nyhetsbrev-delen"
+
+#: functions.php:152
+#, fuzzy
+msgid "Sidebar"
+msgstr "Sidepanel"
+
+# This message will become visible if a user has installed our "One.com Analytics and Online Marketing" plugin, but doesn't yet have a cookie banner.
+# ___________________________________________________
+#: modules/cookie-banner/inc/functions.php:173
+msgid "Since you are using One.com Analytics plugin, we recommend that you enable a cookie banner. This banner tells your visitors about your site storing data about them."
+msgstr "Plug-insene one.com Analytics og Online Marketing som du bruker benytter annonser som sporer cookies til nettstedet ditt. Vi anbefaler at du legger til en cookie-fane for å informere dine besøkende om dette."
+
+#: classes/class-moments-customize.php:602 inc/customizer/index.php:371
+#, fuzzy
+msgid "Single Page - Page layout"
+msgstr "Enkelt side - sideoppsett"
+
+#: classes/class-moments-customize.php:582 inc/customizer/index.php:351
+#, fuzzy
+msgid "Single Post - Page Layout"
+msgstr "Enkelt innlegg - Sideoppsett"
+
+#: admin/options-init.php:104
+#, fuzzy
+msgid "Site Description / Tagline"
+msgstr "Sidebeskrivelse /Tageline"
+
+#: inc/theme_options.php:574
+msgid "Site title"
+msgstr "Sidetittel"
+
+#: admin/options-init.php:97
+#, fuzzy
+msgid "Site Title"
+msgstr "Sidetittel"
+
+#: admin/options-init.php:221
+msgid "Site Title Font Style"
+msgstr "Fontstil i sidetittel"
+
+#: inc/theme_options.php:574
+msgid "Site title will be displayed if no image uploaded."
+msgstr "Nettstedtittel vises hvis ingen bilder er lastet opp."
+
+#: inc/theme_options.php:84
+msgid "Skin - Primary Color"
+msgstr "Skall - Primærfarge"
+
+#: inc/theme_options.php:92
+msgid "Skin - Secondary Color"
+msgstr "Skall - Sekundærfarge"
+
+#: modules/cookie-banner/inc/functions.php:179
+msgid "Skip setup"
+msgstr "Hopp over oppsett"
+
+#: inc/core_functions.php:330
+msgid "Slide"
+msgstr "Bilde"
+
+#: option-tree/includes/ot-functions-docs-page.php:269
+#, fuzzy
+msgid "Slider"
+msgstr "Bildekarusell"
+
+#: inc/core_functions.php:61
+msgid "Small Text Color"
+msgstr "Farge liten tekst"
+
+#: admin/options-init.php:379
+#, fuzzy
+msgid "Social"
+msgstr "Sosiale medier"
+
+#: admin/options-init.php:415
+#, fuzzy
+msgid "Social Icon Background Color"
+msgstr "Bakgrunnsfarge sosialt ikon"
+
+#: admin/options-init.php:406
+#, fuzzy
+msgid "Social Icon Color"
+msgstr "Farge sosialt ikon"
+
+#: classes/class-moments-social-widgets.php:196
+#, fuzzy
+msgid "Social Icon Default Colors"
+msgstr "Standardfarge sosiale ikoner"
+
+#: classes/class-moments-social-widgets.php:11
+#, fuzzy
+msgid "Social Icons"
+msgstr "Delelinker"
+
+#: inc/theme_options.php:518
+msgid "Social Icons Color"
+msgstr "Farge sosiale ikoner"
+
+#: option-tree/includes/ot-functions-docs-page.php:272
+#, fuzzy
+msgid "Social Links"
+msgstr "Sosiale lenker"
+
+#: inc/theme_options.php:1148
+msgid "Social Profile Icon"
+msgstr "Sosial profil-ikon"
+
+#: inc/theme_options.php:1323
+msgid "Social Profile Link"
+msgstr "Sosial profil-lenke"
+
+#: admin/options-init.php:516
+msgid "Social Section Content"
+msgstr "Innhold sosial inndeling"
+
+#: admin/options-init.php:510
+msgid "Social Section Title"
+msgstr "Tittel sosial inndeling"
+
+#: classes/class-moments-blocks.php:201 classes/class-moments-captcha.php:73
+#: classes/class-moments.php:208 inc/lib/validator.php:15
+#: inc/lib/validator.php:133
+#, fuzzy
+msgid "Some error occurred, please reload the page and try again."
+msgstr "Det inntraff en feil. Vennligst last siden på nytt og prøv igjen."
+
+#: functions.php:309
+msgid "Something went wrong! Please try again!"
+msgstr "Det oppsto en feil. Vennligst prøv igjen."
+
+#: inc/functions.php:234 inc/functions.php:568
+msgid "Something went wrong. Please contact the support at One.com."
+msgstr "Noe gikk galt. Ta kontakt med support hos one.com."
+
+# Error message that is currently hidden, will be used in the future.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:125
+msgid "Something went wrong. Please reload the page and try again."
+msgstr "En feil oppsto. Last inn siden igjen og prøv på nytt."
+
+#: staging/one_staging.php:150
+#, fuzzy
+msgid "Something went wrong; please try again."
+msgstr "Noe gikk galt. Ta kontakt med support hos One.com."
+
+#: 404.php:21
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "Beklager, men du ser etter noe som ikke finnes."
+
+#: inc/functions.php:379
+#, fuzzy
+msgid "Sorry, no compatible plugins found with your version of WordPress and PHP."
+msgstr "Beklager, ingen kompatible utvidelser ble funnet for din versjon av WordPress og PHP."
+
+#: inc/lib/validator.php:559
+#, fuzzy
+msgid "Sorry, no compatible themes found for your version of WordPress and PHP."
+msgstr "Beklager, ingen kompatible temaer ble funnet for din versjon av WordPress og PHP."
+
+#: includes/ws-shortcode.php:22
+#, fuzzy
+msgid "Sort by"
+msgstr "Sorter etter"
+
+#: inc/widgets.php:215
+msgid "Space after caption (px)"
+msgstr "Mellomrom etter bildetekst (px)"
+
+#: inc/theme-metaboxes.php:126
+msgid "Specifications"
+msgstr "Spesifikasjoner"
+
+#: onecom-addons/templates/turbocharge-page-settings.php:99
+msgid "Speed up your website with fast content delivery network."
+msgstr "Gjør nettstedet raskere med fast content delivery network"
+
+#: custompost/customposts.php:37 custompost/customposts.php:38
+msgid "Spotlight"
+msgstr "Spotlight"
+
+#: admin/options-init.php:442
+msgid "Spotlight Blurb"
+msgstr "Spotlight Blurb"
+
+#: front-page.php:135
+msgid "spotlight posts"
+msgstr "spotlight-innlegg"
+
+#: admin/options-init.php:435
+msgid "Spotlight Title"
+msgstr "Spotlight tittel"
+
+#: includes/ws-shortcode.php:37
+#, fuzzy
+msgid "Square"
+msgstr "Kvadratisk"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:49
+msgid "SSL certificate"
+msgstr "Nettstedet ditt har ingen fungerende SSL-sertifikater"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:22
+#, fuzzy
+msgid "Staging Backend:"
+msgstr "Testmiljø backend:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:21
+#, fuzzy
+msgid "Staging Frontend:"
+msgstr "Testmiljø frontend:"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:15
+#, fuzzy
+msgid "Staging site broken"
+msgstr "Staging-side virker ikke"
+
+#: option-tree/includes/ot-functions-docs-page.php:52
+#, fuzzy
+msgid "Standard"
+msgstr "Standard"
+
+#: staging/one_staging.php:155
+#, fuzzy
+msgid "Start copying..."
+msgstr "Start kopiering…"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_metaboxes.php:712 inc/theme_metaboxes.php:745
+#: inc/theme_metaboxes.php:751
+msgid "Stats"
+msgstr "Statistikk"
+
+#: inc/theme-options.php:841
+msgid "Sub Footer Background"
+msgstr "Sub Footer bakgrunn"
+
+#: inc/theme-options.php:852
+msgid "Sub Footer Text Color"
+msgstr "Sub Footer tekstfarge"
+
+#: metabox/metabox.php:96
+#, fuzzy
+msgid "Sub Title"
+msgstr "Undertittel"
+
+#: classes/class-moments-customize.php:493 inc/customizer/index.php:286
+#, fuzzy
+msgid "Submenu Item Background Color"
+msgstr "Bakgrunnsfarge for undermenyelement"
+
+#: classes/class-moments-customize.php:499 inc/customizer/index.php:291
+#, fuzzy
+msgid "Submenu Item Color"
+msgstr "Farge undermenyelement"
+
+#: inc/theme-options.php:794
+msgid "Submenu Item color"
+msgstr "Undermenyelement Varefarge"
+
+#: functions.php:197 functions.php:224
+#: template-parts/section-contact-form.php:77
+#, fuzzy
+msgid "SUBMIT"
+msgstr "Send"
+
+#: comments.php:81
+msgid "Submit Comment"
+msgstr "Send kommentar"
+
+#: classes/class-moments-newsletter-widget.php:77
+#, fuzzy
+msgid "Subscribe"
+msgstr "Abonner"
+
+#: classes/class-moments.php:200
+#, fuzzy
+msgid "Subscribed successfully."
+msgstr "Abonnement startet."
+
+#: inc/widgets.php:65
+msgid "Subtext"
+msgstr "Undertekst"
+
+#: inc/theme_metaboxes.php:1252 inc/theme_metaboxes.php:1260
+msgid "Subtitle"
+msgstr "Undertittel"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+#, fuzzy
+msgid "Suggested alternative"
+msgstr "Anbefalt alternativ"
+
+#: templates/discouraged-plugin-listing.php:88
+#: templates/network/discouraged-plugin-listing.php:88
+#, fuzzy
+msgid "Suggested alternatives"
+msgstr "Anbefalte alternativer"
+
+#: inc/core_functions.php:367
+msgctxt "taxonomy general name"
+msgid "Recipe Types"
+msgstr "Oppskriftstyper"
+
+#: inc/core_functions.php:368
+msgctxt "taxonomy singular name"
+msgid "Recipe Type"
+msgstr "Oppskriftstype"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_metaboxes.php:763 inc/theme_metaboxes.php:783
+msgid "Team"
+msgstr "Team"
+
+#: inc/classes/class-vlog.php:356 inc/classes/class-vlog.php:367
+#, fuzzy
+msgid "Testimonial"
+msgstr "Kundeevalueringer"
+
+#: inc/theme-options.php:367
+msgid "Testimonial Font Style"
+msgstr "Kundeerfaring skrifttype"
+
+#: inc/classes/class-vlog.php:355
+#, fuzzy
+msgid "Testimonials"
+msgstr "Kundeevalueringer"
+
+#: metaboxes/metabox.php:37
+#, fuzzy
+msgid "Text"
+msgstr "Tekst"
+
+#: classes/class-moments-customize.php:523 inc/customizer/index.php:311
+#, fuzzy
+msgid "Text color"
+msgstr "Tekstfarge"
+
+#: admin/options-init.php:152
+#, fuzzy
+msgid "Text Color"
+msgstr "Tekstfarge"
+
+#: includes/customize-page.php:231
+#, fuzzy
+msgid "Text color (dropdown menu)"
+msgstr "Tekstfarge (nedtrekksmeny)"
+
+#: option-tree/includes/ot-functions-option-types.php:3081
+#, fuzzy
+msgid "Text Decoration"
+msgstr "Tekstdekorasjon"
+
+#: includes/customize-page.php:115
+#, fuzzy
+msgid "Text links"
+msgstr "Tekstlenker"
+
+#: inc/theme_options.php:930 inc/theme_options.php:969
+msgid "Text Shadow"
+msgstr "Tekstskygge"
+
+#: inc/theme_metaboxes.php:242 inc/theme_metaboxes.php:1221
+msgid "The added features will be displayed in the order they are arranged here."
+msgstr "De valgte funksjonene vises i den rekkefølgen de er satt opp her."
+
+#: inc/theme_metaboxes.php:289
+msgid "The added plans will be displayed in the order they are arranged here."
+msgstr "De valgte funksjonene vises i den rekkefølgen de er satt opp her."
+
+#: inc/theme_metaboxes.php:370 inc/theme_metaboxes.php:603
+msgid "The added testimonial will be displayed in the order they are arranged here."
+msgstr "De valgte kundeerfaringene vises i den rekkefølgen de er satt opp her."
+
+#: inc/lib/validator.php:365
+msgid "The chosen theme is not available in your current subscription."
+msgstr "Temaet du har valgt er ikke tilgjengelig i ditt nåværende abonnement."
+
+#: importer/views/plugin-page.php:35
+#, fuzzy
+msgid "The easiest way to setup your theme is by importing demo data. It includes demo posts, pages, images and theme settings. This will allow you to edit the demo content, instead of creating everything from scratch."
+msgstr "Den enkleste måten du kan sette opp temaet ditt på, er ved å importere demodata. Dette inkluderer demoinnlegg, bilder og innstillinger. Dette sikrer at du kan redigere demoinnlegg, i stedet for å lage alt fra bunnen av."
+
+#: admin/options-init.php:483 admin/options-init.php:490
+msgid "The field used on service pages"
+msgstr "Felt brukt på tjenestesider"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:45
+#, fuzzy
+msgid "The login details for the staging backend are the same as for the live website."
+msgstr "Brukernavn og passord til testmiljøet er identisk som til ditt live nettsted."
+
+#: inc/theme_options.php:627
+msgid "The newly added font families will appear after saving the options."
+msgstr "Den nye skrifttypefamilien vises etter at du har lagret."
+
+#: modules/notice-discouraged-plugins.php:90
+#, php-format
+#, fuzzy
+msgid "The plugin <strong>%s</strong>, that you are using, creates a lot of large temporary files causing high load on our servers and possible time-outs on your site.<br/>We strongly advise you to deactivate it. If you keep on using this plugin we may be forced to suspend your site. "
+msgstr "Du bruker en plugin som heter <strong>%s</strong>, og denne lager mange midlertidige filer som utgjør en stor belastning på våre servere og mulig timeout på nettstedet ditt.<br/>Vi anbefaler på det sterkeste at du deaktiverer den. Hvis du fortsetter å bruke denne pluginen kan vi bli tvunget til å stenge nettstedet ditt. "
+
+#: inc/theme_options.php:1389
+msgid "The rules added here will be applied as additional CSS."
+msgstr "Reglene lagt til her gjelder som ekstra CSS."
+
+#: inc/theme_metaboxes.php:194
+msgid "The selected courses/lessons will be displayed."
+msgstr "Valgte kurs/leksjoner vises."
+
+#: inc/theme_metaboxes.php:121 inc/theme_metaboxes.php:333
+#: inc/theme_metaboxes.php:474
+msgid "The selected services will be displayed."
+msgstr "De valgte tjenester vil bli vist."
+
+#: inc/theme_metaboxes.php:145
+msgid "The selected therapies will be displayed."
+msgstr "De valgte tjenester vil bli vist."
+
+#: staging/Includes/Core/views/live.php:48
+#, fuzzy
+msgid "The staging environment allows you to make changes to your site, without it affecting the live version of your website. When you create a staging site, it will be a snapshot of your live website."
+msgstr "I testmiljøet kan du foreta endringer på nettstedet uten at det berører versjonen som er I drift. Når du oppretter en testside vil denne være et bilde av ditt live nettsted."
+
+#: staging/Includes/Core/views/includes/footer.php:46
+#, fuzzy
+msgid "The staging site will be lost."
+msgstr "Testmiljøet går tapt."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:43
+#, fuzzy
+msgid "The staging website is a copy of your live website, where you can test new plugins and themes without affecting your live website."
+msgstr "Testmiljøet er en kopi av ditt live nettsted, hvor du kan teste nye plugins og tema uten at nettstedet blir berørt."
+
+#: onecom-addons/onecom-inc.php:288
+msgid "The time that website data is stored in the Varnish cache. After the TTL expires the data will be updated, 0 means no caching."
+msgstr "Tiden nettsidedataene blir lagret I Varnish cache. Etter TTL utløper blir dataene oppdatert, 0 betyr ingen caching."
+
+#: inc/functions.php:263
+#, fuzzy
+msgid "Theme installed successfully"
+msgstr "Tema er installert"
+
+#: inc/theme_options.php:891
+msgid "Theme Options > Banners > Homepage Banner Height"
+msgstr "Alternativer for tema > Bannere > Høyde på hjemmesidebanner"
+
+#: inc/theme_options.php:950
+msgid "Theme Options > Banners > Internal Banner Height"
+msgstr "Alternativer for tema > Bannere > Intern bannerhøyde"
+
+#: inc/theme_metaboxes.php:963
+msgid "Theme Options > Typography > Font Styles > Internal Banners"
+msgstr "Temaalternativer > Typografi > Skrifttypestiler > Interne bannere"
+
+#: option-tree/includes/ot-functions-admin.php:57
+#: option-tree/includes/ot-functions-admin.php:127
+#: option-tree/includes/ot-functions-admin.php:221
+#, fuzzy
+msgid "Theme Options reset."
+msgstr "Alternativer for tema tilbakestilt."
+
+#: option-tree/includes/ot-functions-admin.php:56
+#: option-tree/includes/ot-functions-admin.php:126
+#: option-tree/includes/ot-functions-admin.php:220
+#, fuzzy
+msgid "Theme Options updated."
+msgstr "Alternativer for tema oppdatert."
+
+#: inc/theme_options.php:655
+msgid "Theme's default font properties can be changed from the section specific tabs given below."
+msgstr "Temaets standard skrifttypeegenskaper kan endres fra de inndelingsspesifikke fanene nedenfor."
+
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:33
+#: onecom-themes-plugins.php:329 onecom-themes-plugins.php:330
+#: onecom-themes-plugins.php:387 onecom-themes-plugins.php:390
+#: onecom-themes-plugins.php:663
+#, fuzzy
+msgid "Themes"
+msgstr "Temaer"
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+#, fuzzy
+msgid "There are also some suggestions for alternative plugins to use instead."
+msgstr "Vi kommer også med forslag til andre plugins som du kan bruke i stedet."
+
+#: includes/customize-page.php:82
+#, fuzzy
+msgid "These examples will help you get started with customizing the CSS."
+msgstr "Disse eksemplene vil hjelpe deg å komme i gang med å skreddersy CSS."
+
+#: classes/class-moments.php:176
+#, fuzzy
+msgid "This email is already used. Please use a different email."
+msgstr "Denne e-postadressen er allerede i bruk. Vennligst bruk en annen e-postadresse."
+
+#: inc/lib/validator.php:367
+msgid "This feature is not available in your current subscription."
+msgstr "Denne funksjonen er ikke tilgjengelig i ditt nåværende abonnement."
+
+#: inc/lib/validator.php:436
+msgid "This is a Premium Theme"
+msgstr "Dette er et Premium tema."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:70
+msgid "This is configured properly!"
+msgstr "Feilrapportering og feilsøkingsmodus er deaktivert"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:118
+msgid "This is the text that appears on the button that activates cookies."
+msgstr "Dette er teksten som vises på knappen som aktiverer informasjonskapsler."
+
+#: staging/Includes/Core/views/staging.php:22
+#, fuzzy
+msgid "This is your staging website, a snapshot of your live website. Here you can test changes without affecting your live website."
+msgstr "Dette er testnettstedet ditt, et bilde av ditt live nettsted. Her kan du teste endringer uten at det berører ditt live nettsted."
+
+#: comments.php:7
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Dette innlegget er passordbeskyttet. Skriv inn passordet for å lese kommentarene."
+
+#: inc/theme_options.php:970
+msgid "This will add a shadow on the banner text"
+msgstr "Dette legger en skygge på bannerteksten"
+
+#: inc/theme_options.php:931
+msgid "This will add a shadow on the text."
+msgstr "Dette legger til en skygge på teksten."
+
+#: inc/theme_metaboxes.php:894 inc/theme_metaboxes.php:901
+#, fuzzy
+msgid "This will be displayed in Listing Page section"
+msgstr "Nettstedtittel vises hvis ingen bilder er lastet opp."
+
+#: inc/theme_options.php:744
+msgid "This will change the font familiy of titles of special elements, e.g., widgets."
+msgstr "Dette endrer skriftfamilie for overskrifter på spesialelementer, f.eks. widgets."
+
+#: inc/theme_metaboxes.php:963
+msgid "This will change the height of the banner."
+msgstr "Dette endrer høyden på banneret."
+
+#: inc/theme_options.php:724
+msgid "This will change the typography of content areas only."
+msgstr "Dette endrer bare typografien på innholdsområdet."
+
+#: inc/theme_options.php:891 inc/theme_options.php:911
+msgid "This will change the typography of homepage banner only."
+msgstr "Dette endrer bare typografien på hjemmesidebanneret."
+
+#: inc/theme_options.php:950
+msgid "This will change the typography of internal page banners only."
+msgstr "Dette endrer bare typografien til internt sidebanner."
+
+#: inc/theme_options.php:675
+msgid "This will change the typography of logo text only."
+msgstr "Dette endrer bare typografien på logoteksten."
+
+#: inc/theme_options.php:763
+msgid "This will change the typography of main titles on pages."
+msgstr "Dette endrer typografien på hovedoverskriftene på sidene."
+
+#: inc/theme_options.php:695
+msgid "This will change the typography of navigation menu in header."
+msgstr "Dette endrer bare typografien på navigasjonsmenyen."
+
+#: inc/theme_options.php:995
+msgid "This will change the typography of section titles on pages."
+msgstr "Dette endrer typografien til inndelingstitlene på sidene."
+
+#: inc/theme_options.php:1050
+msgid "This will change the typography of the buttons."
+msgstr "Dette endrer typografien på knappene."
+
+#: inc/theme_options.php:1022
+msgid "This will change the typography of the Footer."
+msgstr "Dette endrer typografien på bunnteksten."
+
+#: inc/theme_options.php:1083
+msgid "This will change the visibility and position of sidebar on the blog post listing pages."
+msgstr "Dette endrer synligheten og plasseringen av sidestolpen på sider med lister over bloggposter."
+
+#: inc/theme_options.php:1109
+msgid "This will change the visibility and position of sidebar on the post details pages."
+msgstr "Dette endrer synligheten og plasseringen av sidestolpen på sidene med innleggsdetaljer."
+
+#: inc/theme_options.php:1148
+msgid "This will change the visibility and position of the sidebar on the pages."
+msgstr "Dette endrer synligheten og plasseringen av sidestolpen på sidene"
+
+# Warning that if you set a background colour, this will override any background images you may have.
+# 
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#: inc/customizer/blog-template-control.php:106
+msgid "This will override the body background image."
+msgstr "Dersom du angir en farge her vil det overstyre eventuelle bakgrunnsbilder."
+
+#: staging/Includes/Core/views/includes/footer.php:64
+#, fuzzy
+msgid "This will overwrite your live website with a copy of the files and database from your staging website."
+msgstr "Dette overskriver ditt live nettsted med en kopi av filene og databasen fra testmiljøet."
+
+#: staging/Includes/Core/views/includes/footer.php:16
+#, fuzzy
+msgid "This will overwrite your staging website with a copy of the files and database from your live website. All changes made in your staging website will be lost."
+msgstr "Dette overskriver ditt testmiljø med en kopi av filene og databasen fra ditt live nettsted. Alle endringer foretatt I testmiljøet går tapt."
+
+#: inc/theme_metaboxes.php:436
+msgid "This will replace the default form."
+msgstr "Dette erstatter standardskjema."
+
+#: inc/theme_options.php:816
+#, fuzzy
+msgid "This will show/hide the featured images on archive pages."
+msgstr "En video vil overstyre det aktuelle bildet for dette innlegget."
+
+#: inc/theme_options.php:1073
+msgid "This will show/hide the post details."
+msgstr "Dette viser/skjuler detaljer om innlegget."
+
+#: inc/theme_options.php:850
+msgid "Three columns without sidebar"
+msgstr "Tre kolonner uten sidestolper"
+
+#: onecom-addons/onecom-inc.php:349 vcaching.php:772
+msgid "Time to live in seconds in Varnish cache"
+msgstr "“Time to live” (levetid I sekunder) I Varnish cache"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_metaboxes.php:681 inc/theme_metaboxes.php:693
+msgid "Timeline"
+msgstr "Tidslinje"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:140
+msgid "Tip"
+msgstr "Tips"
+
+#: includes/settings-page.php:73
+#, fuzzy
+msgid "Tips & tricks?"
+msgstr "Råd og tips?"
+
+#: includes/customize-page.php:80
+#, fuzzy
+msgid "Tips for CSS"
+msgstr "Tips for CSS"
+
+#: classes/class-moments-social-widgets.php:102
+#, fuzzy
+msgid "Title"
+msgstr "Tittel"
+
+#: inc/theme_metaboxes.php:113 inc/theme_metaboxes.php:213
+#: inc/theme_metaboxes.php:314 inc/theme_metaboxes.php:358
+msgid "Title Icon"
+msgstr "Tittelikon"
+
+# Label to set the colour of the title of the sections for category, recent posts, previous posts, etc.
+# 
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#: inc/customizer/blog-template-control.php:100
+msgid "Title of \"Category\" and \"Previous posts\""
+msgstr "Titler for \"Kategori\" og \"Tidligere blogposter\""
+
+# Label to set the colour of the post title.
+# 
+# See screenshot for context and the corresponding colours.
+# ____________________________
+#: inc/customizer/blog-template-control.php:101
+msgid "Title of posts"
+msgstr "Tittel på bloggpost"
+
+# Label to set the colour blog titkle.
+# 
+# See screenshot for context and the corresponding colour, purple in this case.
+# __________________________
+#: inc/customizer/blog-template-control.php:99
+msgid "Title of the blog"
+msgstr "Bloggtittel"
+
+#: classes/class-moments-newsletter-widget.php:92
+#: classes/class-moments-widget-recent-posts.php:101
+#, fuzzy
+msgid "Title:"
+msgstr "Tittel:"
+
+#: onecom-addons/templates/page-settings.php:30
+msgid "To access this plugin, you must upgrade your hosting package to a <a href='https://www.one.com/en/wordpress' target='_blank'>WordPress package</a>."
+msgstr "For å bruke denne pluginen må du oppgradere hostingpakken til en <a href='https://www.one.com/en/wordpress' target='_blank'>WordPress-pakke</a>."
+
+#: inc/theme_metaboxes.php:963
+msgid "To change Banner Font Style"
+msgstr "Intern banner skrifttypestil"
+
+#: inc/theme_options.php:891 inc/theme_options.php:950
+msgid "To change Banner Height: "
+msgstr "Slik endrer du bannerhøyde:"
+
+#: inc/theme_options.php:891 inc/theme_options.php:950
+msgid "To change Homepage Banner Content: "
+msgstr "Slik endrer du innhold på hjemmesidebanneret:"
+
+#: inc/theme_options.php:824
+msgid "To change Homepage Banner Content:"
+msgstr "Slik endrer du innhold på hjemmesidebanneret:"
+
+#: inc/theme_options.php:575
+msgid "To change the font style of header"
+msgstr "Slik endrer du skrifttypen på toppteksten"
+
+#: inc/theme_options.php:564
+msgid "To change the font style of logo"
+msgstr "Slik endrer du skrifttypestilen på logoen"
+
+#: onecom-addons/onecom-inc.php:154
+#, fuzzy
+msgid "To get the best out of One.com Performance Cache, kindly deactivate the existing \"Varnish Caching\" plugin.&nbsp;&nbsp;"
+msgstr "For å få mest mulig ut av one.com Performance Cache anbefaler vi at du deaktiverer den eksisterende pluginen “Varnish Cachin”.&nbsp;&nbsp;"
+
+#: includes/settings-page.php:17
+msgid "To manage your products and orders, click \"Go to Products & Orders\", and log in with your One.com account."
+msgstr "Administrer produkter og bestillinger ved å klikke på \"Gå til produkter og bestillinger\", og logg på med one.com-kontoen din."
+
+#: front-page.php:135
+msgid "to show this section."
+msgstr "for å vise denne inndelingen."
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:60
+msgid "Top"
+msgstr "Øverst"
+
+#: includes/ws-shortcode.php:73
+#, fuzzy
+msgid "Top left"
+msgstr "Øverst til venstre"
+
+#: includes/ws-shortcode.php:72
+#, fuzzy
+msgid "Top right"
+msgstr "Øverst til høyre"
+
+#: admin/options-init.php:446
+#, fuzzy
+msgid "Top Section Content"
+msgstr "Innhold toppinndeling"
+
+#: admin/options-init.php:455
+#, fuzzy
+msgid "Top Section Content Image"
+msgstr "Bilde innhold toppinndeling"
+
+#: admin/options-init.php:440
+#, fuzzy
+msgid "Top Section Subtitle"
+msgstr "Undertittel toppinndeling"
+
+#: admin/options-init.php:434
+#, fuzzy
+msgid "Top Section Title"
+msgstr "Tittel toppinndeling"
+
+#: functions.php:121
+#, fuzzy
+msgid "Travel"
+msgstr "Reise"
+
+#: inc/theme_metaboxes.php:789
+msgid "Treatment Settings"
+msgstr "Sideinnstillinger"
+
+#: template-parts/content-none.php:13
+msgid "Try a search instead"
+msgstr "Prøv heller et søk"
+
+#: inc/lib/validator.php:559
+#, fuzzy
+msgid "Try again"
+msgstr "Prøv igjen"
+
+#: 404.php:48 template-parts/content-none.php:9
+msgid "Try searching with a different keyword."
+msgstr "Prøv å søke med et annet søkeord."
+
+#: vcaching.php:418
+msgid "Trying to purge URL : "
+msgstr "Prøver å tømme URL:"
+
+#: inc/core_functions.php:336
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#: inc/core_functions.php:337
+msgid "Tutorial Description"
+msgstr "Beskrivelse av tutorial"
+
+#: inc/core_functions.php:377
+msgid "Tutorials Type"
+msgstr "Tutorialtype"
+
+#: inc/widgets.php:118
+#, fuzzy
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/theme_options.php:870
+msgid "Two columns with left sidebar"
+msgstr "To kolonner med venstre sidestolpe"
+
+#: inc/theme_options.php:860
+msgid "Two columns with right sidebar"
+msgstr "To kolonner med høyre sidestolpe"
+
+#: inc/theme_options.php:845
+msgid "Two columns without sidebar"
+msgstr "To kolonner uten sidestolpe"
+
+# 
+# Label for CAPTCHA. If the translation becomes too long, leave out "below" or just stick to "Type in the answer".
+# 
+# _________________________________
+#: classes/class-moments-blocks.php:232 classes/class-moments-captcha.php:17
+msgid "Type in the answer to the sum below:"
+msgstr "Skriv inn svaret nedenfor."
+
+#: classes/class-moments-pages.php:268
+#, fuzzy
+msgid "Typography"
+msgstr "Typografi"
+
+#: inc/theme_options.php:575
+msgid "Typography > Header Font Style > Header Menu Font Style"
+msgstr "Typografi > Skrifttypestil topptekst > Skrifttypestil topptekstmeny"
+
+#: inc/theme_options.php:564
+msgid "Typography > Header Font Style > Logo Font Style"
+msgstr "Typografi > Skrifttypestil for topptekst > Skrifttypestil for logo"
+
+#: inc/functions.php:248 inc/functions.php:585
+#, fuzzy
+msgid "Unable to connect to the file system. Please contact the support at One.com."
+msgstr "Kan ikke koble til filsystemet. Ta kontakt med support hos one.com."
+
+#: includes/customize-page.php:70
+#, fuzzy
+msgid "Undo"
+msgstr "Angre"
+
+#: includes/customize-page.php:70
+#, fuzzy
+msgid "Undo last action"
+msgstr "Angre siste handling"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/core_functions.php:617
+msgid "Update Event"
+msgstr "Oppdater hendelse"
+
+#: inc/core_functions.php:450
+msgid "Update Instructor"
+msgstr "Oppdater instruktør"
+
+#: inc/core_functions.php:392
+msgid "Update Lesson"
+msgstr "Oppdater leksjon"
+
+#: inc/core_functions.php:331
+msgid "Update Recipe"
+msgstr "Oppdater oppskrift"
+
+#: inc/core_functions.php:374
+msgid "Update Recipe Type"
+msgstr "Oppdater oppskriftstype"
+
+#: inc/core_functions.php:336
+msgid "Update Service"
+msgstr "Oppdater tjeneste"
+
+#: includes/customize-page.php:267
+#, fuzzy
+msgid "Update the styling for borders."
+msgstr "Oppdater styling for kantlinjer."
+
+#: inc/core_functions.php:331
+msgid "Update Tutorial"
+msgstr "Oppdater tutorial"
+
+#: inc/core_functions.php:374
+msgid "Update Tutorials Type"
+msgstr "Oppdater tutorialtype"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:200
+#, php-format
+msgid "Update WordPress to the latest version, especially minor updates are important because they usually include security fixes. Check this guide for more instructions:  %sHow do I update a CMS like WordPress?%s"
+msgstr "Oppdater WordPress til den siste versjonen, de små oppdateringene er spesielt viktige fordi de vanligvis omfatter sikkerhetsrettelser. Se denne veiledningen for mer informasjon:  %sHvordan oppdaterer jeg et publiseringsverktøy som WordPress?%s"
+
+#: staging/one_staging.php:159
+#, fuzzy
+msgid "Updating database..."
+msgstr "Oppdaterer database…"
+
+#: inc/lib/validator.php:375
+msgid "Upgrade"
+msgstr "Oppgrader"
+
+#: inc/widgets.php:191
+msgid "Upload Banner"
+msgstr "Last opp banner"
+
+#: admin/options-init.php:133
+#, fuzzy
+msgid "Upload banner of your website."
+msgstr "Last opp banner av nettsted."
+
+#: inc/theme_options.php:616
+msgid "Upload Favicon"
+msgstr "Last opp Favicon"
+
+#: admin/options-init.php:165
+#, fuzzy
+msgid "Upload favicon of your website."
+msgstr "Last opp favicon for nettstedet."
+
+#: admin/options-init.php:192
+#, fuzzy
+msgid "Upload footer logo of your website."
+msgstr "Last opp logo til bunntekst på nettstedet."
+
+#: inc/theme_options.php:445
+msgid "Upload Header Image"
+msgstr "Last opp headerbilde"
+
+#: admin/options-init.php:397
+msgid "Upload home page banner of your website."
+msgstr "Last opp hjemmesidebaner."
+
+#: core/widgets.php:371
+msgid "Upload Icon"
+msgstr "Last opp ikon"
+
+#: inc/theme_options.php:573 inc/widgets.php:59 inc/widgets.php:61
+msgid "Upload Logo"
+msgstr "Last opp logo"
+
+#: admin/options-init.php:155
+#, fuzzy
+msgid "Upload logo of your website."
+msgstr "Last opp logo av nettstedet."
+
+# There is a checkbox before this text, checking it will enable an "easy checkout banner" on mobile.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:109
+msgid "Use easy checkout banner on mobile"
+msgstr "Bruk utsjekkingsbanner på mobil"
+
+#: admin/options-init.php:423 admin/options-init.php:433
+#: admin/options-init.php:466 admin/options-init.php:511
+#: admin/options-init.php:520
+msgid "Use shortcodes here, if necessary."
+msgstr "Bruk shortcodes her etter behov."
+
+#: metaboxes/metabox.php:199
+#, fuzzy
+msgid "Use this image"
+msgstr "Bruk dette bildet"
+
+#: includes/customize-page.php:195
+#, fuzzy
+msgid "Used as image overlay on hover."
+msgstr "Benyttet som bildeoverlegg ved mus over."
+
+#: includes/customize-page.php:302
+#, fuzzy
+msgid "Used for a line placed below the items on the checkout page."
+msgstr "Brukt på en linje plassert under elementer i kassen."
+
+#: includes/customize-page.php:280
+#, fuzzy
+msgid "Used for border of order details."
+msgstr "Brukes til kantlinjer for bestillingsinformasjon."
+
+#: includes/customize-page.php:168
+#, fuzzy
+msgid "Used for cart icon, price text, pagination, mobile slider border."
+msgstr "Benyttet på handlekurv-ikon, pristekst, sideinndeling, kantlinje for mobil glidebryter."
+
+#: includes/customize-page.php:269
+#, fuzzy
+msgid "Used for default buttons, like 'Back' and 'Return to shop'."
+msgstr "Benyttet for standardknapper som «Tilbake» og «Gå til nettbutikk»."
+
+#: includes/customize-page.php:291
+#, fuzzy
+msgid "Used for headings on 'checkout page' and 'cart page'."
+msgstr "Brukes til overskrifter på «Gå til kassen» og «Handlekurv-side»."
+
+#: includes/customize-page.php:184
+#, fuzzy
+msgid "Used for hover color on cart."
+msgstr "Benyttet for farge ved mus over på handlekurv."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:75
+msgid "Using discouraged plugins"
+msgstr "Du bruker en eller flere plugins som vi ikke anbefaler å bruke"
+
+# If you choose the option to have a floating cart, the cart is visible on all pages. It sort of floats above the page and stays at the same place whether you scroll up and down.
+# 
+# Use the slider to determine the vertical position of the cart on your page.
+# 
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:54
+msgid "Vertical cart position on the page"
+msgstr "Vertikal handlekurv på siden"
+
+#: inc/core_functions.php:93 inc/core_functions.php:215
+#, fuzzy
+msgid "via the contact form on"
+msgstr "via kontaktskjemaet på"
+
+#: inc/theme_metaboxes.php:260 inc/theme_metaboxes.php:389
+#: inc/theme_metaboxes.php:425
+msgid "Video URL"
+msgstr "Video-URL"
+
+#: custompost/custompost.php:12
+msgid "View Adventures"
+msgstr "View Reise"
+
+#: modules/notice-discouraged-plugins.php:104 modules/notices.php:114
+#, fuzzy
+msgid "View discouraged plugins"
+msgstr "Vis plugins vi fraråder"
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/core_functions.php:619
+msgid "View Events"
+msgstr "Se hendelser"
+
+#: templates/discouraged-plugin-listing.php:63
+#: templates/network/discouraged-plugin-listing.php:63
+#, fuzzy
+msgid "View full list of discouraged plugins"
+msgstr "Vis full liste over plugins som ikke er anbefalt"
+
+#: inc/core_functions.php:451
+msgid "View Instructor"
+msgstr "Vis instruktør"
+
+#: inc/core_functions.php:452
+msgid "View Instructors"
+msgstr "Vis instruktører"
+
+#: inc/core_functions.php:393
+msgid "View Lesson"
+msgstr "Vis leksjon"
+
+#: inc/core_functions.php:394
+msgid "View Lessons"
+msgstr "Vis leksjoner"
+
+#: inc/core_functions.php:332
+msgid "View Recipe"
+msgstr "Vis oppskrift"
+
+#: inc/core_functions.php:333
+msgid "View Recipes"
+msgstr "Vis oppskrifter"
+
+#: custompost/customposts.php:74
+#, fuzzy
+msgid "View Service"
+msgstr "Vis tjeneste"
+
+#: inc/core_functions.php:338
+msgid "View Services"
+msgstr "Vis tjenester"
+
+#: inc/core_functions.php:336
+msgid "View Slide"
+msgstr "Vis bilde"
+
+#: custompost/customposts.php:43
+msgid "View Spotlight"
+msgstr "Vis Spotlight"
+
+#: inc/classes/class-vlog.php:360
+msgid "View Testimonial"
+msgstr "View Kundeevalueringer"
+
+#: inc/classes/class-vlog.php:364
+msgid "View Testimonials"
+msgstr "Vis kundevurderinger"
+
+#: inc/core_functions.php:332
+msgid "View Tutorial"
+msgstr "Se tutorial"
+
+#: inc/core_functions.php:333
+msgid "View Tutorials"
+msgstr "Se tutorials"
+
+#: staging/Includes/Core/views/ajax/staging_details.php:27
+#, fuzzy
+msgid "We have detected that your staging site is broken due to missing database table(s) and/or directory(s)."
+msgstr "Vi har registrert at staging-siden virker ikke pga. manglende databasetabeller eller mapper."
+
+#: includes/settings-page.php:84
+#, fuzzy
+msgid "We're here to help"
+msgstr "Vi er her for å hjelpe deg"
+
+#: comments.php:73
+msgid "Website"
+msgstr "Nettsted"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:95
+msgid "What should be included in my cookie policy?"
+msgstr "Hva bør være med i en cookie-policy?"
+
+#: inc/core_functions.php:270 template-parts/section-contact.php:35
+msgid "What styling services can we help you with today?"
+msgstr "Hvilke tjenester kan vi hjelpe deg med idag?"
+
+#: staging/Includes/Core/views/staging.php:29
+#, fuzzy
+msgid "When you copy from staging to live, all data and files of your live website will be overwritten. This includes recently added posts, pages, media uploads and files."
+msgstr "Når du kopierer fra test til live, blir alle data og filer på ditt live nettsted overskrevet. Denne inkluderer nylig publiserte poster, sider, mediefiler og filer."
+
+#: importer/views/plugin-page.php:40
+#, fuzzy
+msgid "When you import demo data, please be aware of the following:"
+msgstr "Når du importerer demodata, bør du huske følgende:"
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:126
+msgid "White"
+msgstr "Hvit"
+
+#: widgets/widget.php:86
+msgid "Widget to Display contact."
+msgstr "Widget som viser kontakt."
+
+#: widgets/widget.php:9
+msgid "Widget to Display Testimonial."
+msgstr "Widget som viser kundeerfaring."
+
+# These keys are terms that are used to describe elements and settings in a WordPress theme. Try to translate them as generic as possible, so they can be reused.
+# 
+# _______________________________________________________________
+#: inc/theme_options.php:346 inc/theme_options.php:383
+msgid "Width"
+msgstr "Bredde"
+
+#: onecom-addons/templates/page-settings.php:7
+msgid "With One.com Performance Cache enabled your website loads a lot faster. We save a cached copy of your website on a Varnish server, that will then be served to your next visitors. <br/>This is especially useful if you have a lot of visitors. It may also help to improve your SEO ranking. If you would like to learn more, please read our help article: <a href=\"https://help.one.com/hc/en-us/articles/360000080458\" target=\"_blank\">How to use the One.com Performance Cache for WordPress</a>."
+msgstr "Med one.com Performance Cache kan nettsiden din lastes mye raskere. Vi lagrer en cachet kopi av nettsiden på en Varnish-server, som vil bli benyttet av dine besøkende. <br/>Dette er spesielt nyttig hvis du har mange besøkende. Det kan også hjelpe til med å forbedre SEO-rangeringen din. Hvis du ønsker å lese mer kan du lese hjelpeartikkelen vår: <a href=\"https://help.one.com/hc/no/articles/360000080458\" target=\"_blank\">Slik bruker du one.com Performance Cache plugin for WordPress</a>."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:45
+msgid "WordPress core updates"
+msgstr "Automatiske WordPress kjerneoppdateringer er deaktiverte"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:234
+msgid "Wordpress core updates are disabled. This means that your site cannot be auto updated to latest minor updates of WordPress"
+msgstr "Det betyr at de underordnede kjerneoppdateringene ikke blir installert automatisk. Dette er oppdateringer som ofte omfatter sikkerhetsrettelser, derfor bør du installere dem for å unngå at nettstedet ditt utsatt for angrep."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:267
+#, php-format
+msgid "Wordpress core updates are disabled. This means that your site cannot be auto updated to latest minor updates of WordPress. %sEnable auto updates%s"
+msgstr "Aktiver automatiske underordnede kjerneoppdateringer igjen, enten ved å endre innstillingene i plugin-en du bruker for å administrere oppdateringer eller ved å endre innstillingene i wp-konfig. Hvis du ønsker å vite mer om hvorfor oppdateringer er så viktige kan du se denne veiledningen: %sDerfor bør du alltid oppdatere WordPress%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:272
+msgid "Wordpress core updates are enabled"
+msgstr "Automatiske kjerneoppdateringer er aktivert"
+
+#: inc/functions.php:199
+#, fuzzy
+msgid "WordPress is being upgraded. Please try again later."
+msgstr "WordPress er i gang med å bli oppdatert. Prøv igjen senere."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:37
+msgid "WordPress version"
+msgstr "Du bruker ikke den nyeste versjonen av WordPress"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when something failed, it's header so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:58
+msgid "WP file directory and files permissions"
+msgstr "Nettstedet ditt har feil fil- og mappetillatelser"
+
+#: templates/discouraged-plugin-listing.php:117
+#: templates/network/discouraged-plugin-listing.php:117
+#, fuzzy
+msgid "Yes, deactivate plugin"
+msgstr "Ja, deaktiver plugin"
+
+#: modules/health-monitor/inc/functions.php:491
+#: templates/discouraged-plugin-listing.php:58
+#: templates/network/discouraged-plugin-listing.php:58
+#, fuzzy
+msgid "You are doing great! None of your installed plugins, are on our list of discouraged plugins."
+msgstr "Her ser det bra ut! Ingen av dine installerte plugins står på vår liste over plugins du bør unngå."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:359
+msgid "You are not using any common username. "
+msgstr "Du bruker et egendefinert brukernavn for innlogging"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:238
+msgid "You are not using default table prefix"
+msgstr "Du bruker et egendefinert tabellprefiks"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:77
+msgid "You are running an outdated version of PHP. We recommend using the latest version of PHP."
+msgstr "Den anbefalte PHP-versjonen er mest mulig stabil og fungerer best med de siste WordPress-versjonene. Ved å oppdatere PHP-versjonene regelmessig vil nettstedet ditt være mest mulig stabilt."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:93
+#, php-format
+#, fuzzy
+msgid "You are running an outdated version of PHP. We recommend using the latest version of PHP. %sHow do I update PHP for my WordPress site?%s"
+msgstr "Du kan oppdatere PHP fra kontrollpanelet i one.com under PHP & Database - MariaDB. Se vår veiledning for mer informasjon: %sHvordan oppdaterer jeg PHP for WordPress-nettstedet mitt?%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:172
+msgid "You are using an outdated version of WordPress. Using an outdated version of Wordpress can cause multiple problems, including security risks"
+msgstr "Vi anbefaler alltid at du oppdaterer til den siste WordPress-versjonen, den er den sikreste og har alle nye funksjoner."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:201
+msgid "You are using default table prefix. This means that attackers can easily guess your database configuration."
+msgstr "Du bruker standard tabellprefiks for WordPress _wp. Hackere ser aktivt etter WordPress-databaser og ved å bruke _wp som tabellprefiks gjør du dem mer sårbare."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# 
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:231
+#, php-format
+msgid "You are using default table prefix. This means that attackers can easily guess your database configuration. %sChange the table prefix for WordPress%s"
+msgstr "Du kan fikse dette ved å egendefinere tabellprefikset. Vi har laget en veiledning som viser deg hvordan du gjør det: %sEndre tabellprefiks for WordPress%s"
+
+#: modules/notice-discouraged-plugins.php:101 modules/notices.php:107
+#, fuzzy
+msgid "You are using one or more plugins from the list of plugins we discourage. We recommend that you deactivate them, to ensure the best performance of your website. "
+msgstr "Du bruker en eller flere plugins fra listen over plugins som vi fraråder at du bruker. Vi anbefaler at du deaktiverer dem for å sikre at nettsiden din skal fungere optimalt."
+
+#: includes/ws-shortcode.php:93
+#, fuzzy
+msgid "You can always change settings later directly in your shortcode on the page."
+msgstr "Du kan alltid endre innstillingene senere direkte i shortcoden på siden."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# 
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:63
+#: modules/health-monitor/templates/oc_sh_health_monitor.php:93
+#, php-format
+#, fuzzy
+msgid "You can disable PHP error reporting in the One.com control panel and WordPress debugging in the wp.config.php file. Check these two guides for more details on how to manage these settings: %sHow do I enable error messages for PHP?%s and %sHow do I enable debugging in WordPress?%s"
+msgstr "Du kan deaktivere PHP-feilrapportering i kontrollpanelet i one.com og WordPress-feilsøking i wp.config.php-filen. Les disse to veiledningene for mer informasjon om hvordan du administrerer disse innstillingene: %sHvordan aktiverer jeg feilmeldinger for PHP?%s og %sHvordan aktivere debugging i WordPress?%s"
+
+#: includes/ws-shortcode.php:83
+#, fuzzy
+msgid "You can have maximum 100 products per page."
+msgstr "Du kan ha maks. 100 produkter per side."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:108
+msgid "You can link to any page on your website or even add an external link."
+msgstr "Du kan linke til enhver side på hjemmesiden din eller også legge til en ekstern link."
+
+# If you select "In header on all pages", you also have the option to enter a CSS selector to place the cart somewhere else on your site, on all pages.
+# 
+# If you don't use a One.com theme, adding a CSS selector is required, if you do use a One.com theme adding a CSS selector is optional.
+# 
+# This text needs to fit both scenarios.
+# ____________________________
+# Reference for developers:
+# 
+#: includes/ws-cart-shortcode.php:69
+msgid "You can place the cart somewhere else on your site by attaching it to an HTML element. Enter a CSS selector that exists in your theme’s HTML."
+msgstr "Du kan plassere handlekurven hvor som helst på nettstedet ditt ved å koble den til et HTML-element. Angi en CSS-velger som finnes i HTML-temaet ditt."
+
+#: option-tree/includes/ot-functions-option-types.php:1515
+#: option-tree/includes/ot-functions-option-types.php:2261
+#, fuzzy
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr "Du kan endre rekkefølgen med dra og slipp, rekkefølgen blir oppdatert etter lagring."
+
+#: staging/Includes/Core/views/live.php:48
+#, fuzzy
+msgid "You can use it as a playground to test new plugins and themes. Once you are satisfied with the result, you can copy all the changes to your live website with a single click."
+msgstr "Du kan bruke testmiljøet il å prøve ut nye plugins og tema. Når du er fornøyd med resultatet kan du med bare ett klikk kopiere alle endringene til versjonen som er I drift."
+
+#: inc/lib/validator.php:638
+msgid "You have chosen a Premium feature that is not included in your current subscription."
+msgstr "Du har valgt en Premium funksjon som ikke er inkludert i ditt nåværende abonnement."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:100
+msgid "You have the latest PHP version enabled!"
+msgstr "Du bruker den anbefalte PHP-versjonen"
+
+#: includes/ws-shortcode.php:84
+#, fuzzy
+msgid "You need to have at least 2 products per page."
+msgstr "Du må ha minst 2 produkter per side."
+
+#: inc/core_functions.php:92 inc/core_functions.php:214
+#, fuzzy
+msgid "You received a new message from"
+msgstr "Du har mottatt en ny melding fra"
+
+#: importer/views/plugin-page.php:50
+#, fuzzy
+msgid "You should only import demo data when making a new website from scratch."
+msgstr "Du bør kun importere damodata når du oppretter en ny nettside fra grunnen av."
+
+#: classes/class-moments-walker-comment.php:34
+#: classes/class-moments-walker-comment.php:190
+msgid "Your comment is awaiting moderation."
+msgstr "Kommentaren din venter på moderering."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:462
+msgid "Your file and folder permissions are not set correctly. If they are too strict you get errors on your site, if they are too loose this poses a security risk."
+msgstr "Med fil- og mappetillatelser kan du definerer hvem som kan gjøre hva på nettstedet ditt. Hvis kriteriene for å få tillatelsene er for strenge kan det oppstå feil i tilgang og kjøring av filer, hvis tillatelsene ikke er strenge nok kan det bli utnyttet av hackere. "
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# 
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:523
+#, php-format
+msgid "Your file and folder permissions are not set correctly. If they are too strict you get errors on your site, if they are too loose this poses a security risk. %sChange the file permissions via an FTP client%s"
+msgstr "For å fikse dette må du bruke en FTP-klient for å endre filtillatelsene til 644 og mappetillatelsene til 755. Se vår trinnvise veiledning:  %sEndre filtillatelsene via en FTP-klient%s"
+
+#: classes/class-moments-blocks.php:314
+#, fuzzy
+msgid "Your message has been successfully sent."
+msgstr "Meldingen din er sendt."
+
+#: modules/cookie-banner/templates/oc_cookie_banner_admin.php:94
+msgid "Your privacy policy can contain information about which cookies you use, so visitors can read more about what you collect information about."
+msgstr "Dine retningslinjer for informasjonskapsler kan inneholde informasjon om hvilke informasjonskapsler du bruker, slik at de besøkende kan lese mer om hva du samler inn informasjon om."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:525
+msgid "Your site could not connect to wordpress.org, which means background updates may not be working properly."
+msgstr "Nettstedet ditt kunne ikke kobles til wordpress.org, det vil si at bakgrunnsoppdateringene ikke vil fungere som de skal. Dette kan være forårsaket av en plugin eller tema. "
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# 
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:585
+#: modules/health-monitor/inc/functions.php:593
+msgid "Your site could not connect to wordpress.org, which means background updates may not be working properly. %Contact support%s"
+msgstr "Prøv å deaktivere alle plugins og temaer, foreta deretter en ny skanning for å se om tilkoblingen til wordpress.org er gjenopprettet. Hvis det fungerte kan du aktivere plugins-ene én etter én slik at du finner den som forårsaket problemet. Hvis det ikke fungerer kan du %kontakte vår kundestøtte via chat%s."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:390
+msgid "Your site has valid SSL certificate!"
+msgstr "Nettstedet ditt har et gyldig SSL-sertifikat"
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:49
+msgid "Your site is configured to display errors to the visitors! This can reveal sensitive information to attackers."
+msgstr "Hvis det oppstår feil på nettstedet ditt betyr det at enten er det en rapportering om PHP-feil eller WordPress-feilsøking eller at de begge er aktiverte. Hvis du ikke feilsøker anbefaler vi deg å deaktivere feilmeldinger. De besøkende vil synes de er forstyrrende og hackere kan se de sårbare sidene."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# In this text we explain what the issue is and why it's a problem that needs to be fixed.
+# ________________________________________
+# 
+#: modules/health-monitor/inc/functions.php:341
+msgid "Your site isn’t using HTTPS. Visitors on your site might get a warning that your website isn’t secure and it can also have a negative effect on your SEO rating."
+msgstr "Nettstedet ditt har ikke et fungerende SSL-sertifikat. Fordi alle domener som er driftet av one.com automatisk får tildelt et SSL-sertifikat betyr det at noe gikk galt under konfigurasjonen."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# This is the part where we explain what needs to be fixed, and link to a guide with more information, or link to our chatsupport (in case the customer cannot solve it without our help).
+# 
+# The text in between the place holders will be the link text -> %slinktext%s
+# ________________________________________
+# 
+# 
+#: modules/health-monitor/inc/functions.php:383
+#, php-format
+msgid "Your site isn’t using HTTPS. Visitors on your site might get a warning that your website isn’t secure and it can also have a negative effect on your SEO rating. %sContact support%s"
+msgstr "%sKontakt vår kundestøtte via chat%s slik at vi kan se hva som er feil og fikse det."
+
+#: staging/Includes/Core/views/ajax/staging_details.php:13
+#, fuzzy
+msgid "Your staging site"
+msgstr "Ditt testmiljø"
+
+#: admin/options-init.php:105
+#, fuzzy
+msgid "Your website tagline."
+msgstr "Nettstedets tagline."
+
+#: admin/options-init.php:98
+#, fuzzy
+msgid "Your website title."
+msgstr "Tittel på nettstedet."
+
+#: templates/discouraged-plugin-listing.php:60
+#: templates/network/discouraged-plugin-listing.php:60
+#, fuzzy
+msgid "Your WordPress site should work the best possible way. We checked the plugins on your website, and listed those we don't recommended you to use."
+msgstr "WordPress-nettstedet ditt bør fungere best mulig. Vi har derfor kontrollert plugins på nettstedet ditt og listet opp plugins vi ikke anbefaler at du bruker."
+
+# This key is part of the Health Monitor in WordPress. There are 14 issues that could be reported. Each issue has a success state, where all is good. And a state when something needs to be fixed, in that case there will also be a description of what's wrong and how to fix it.
+# 
+# The message will be shown when a state is all good. It's a header, so no full stop.
+# ________________________________________
+#: modules/health-monitor/inc/functions.php:207
+msgid "Your WordPress version is updated"
+msgstr "Du bruker den siste WordPress-versjonen"

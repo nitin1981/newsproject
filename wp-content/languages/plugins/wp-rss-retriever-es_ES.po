@@ -1,0 +1,98 @@
+# Translation of Plugins - WordPress RSS Feed Retriever - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - WordPress RSS Feed Retriever - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-20 21:19:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - WordPress RSS Feed Retriever - Stable (latest release)\n"
+
+#. Plugin URI of the plugin
+msgid "https://thememason.com/plugins/rss-retriever/"
+msgstr "https://thememason.com/plugins/rss-retriever/"
+
+#. Description of the plugin
+msgid "A lightweight RSS feed plugin which uses shortcode to fetch and display an RSS feed including thumbnails and an excerpt."
+msgstr "Un ligero plugin de feed RSS que usa un shortcode para recuperar y mostrar un feed RSS que incluye miniaturas y un extracto."
+
+#: inc/classes/RSS_Retriever_Feed.php:299
+msgid "by"
+msgstr "por"
+
+#: inc/classes/RSS_Retriever_Feed.php:298
+msgid "Powered"
+msgstr "Funciona con"
+
+#: inc/classes/RSS_Retriever_Feed.php:297
+msgid "Custom News Feed"
+msgstr "Feed personalizado de noticias"
+
+#: inc/classes/RSS_Retriever_Feed.php:294
+msgid "RSS Aggregator"
+msgstr "Extractor RSS"
+
+#: inc/classes/RSS_Retriever_Feed.php:291
+msgid "RSS Feed WordPress"
+msgstr "Feed RSS de WordPress"
+
+#: inc/classes/RSS_Retriever_Feed.php:290
+msgid "WordPress Feed"
+msgstr "Feed de WordPress"
+
+#: inc/classes/RSS_Retriever_Feed.php:289
+msgid "WordPress RSS"
+msgstr "RSS de WordPress"
+
+#: inc/classes/RSS_Retriever_Feed.php:286
+msgid "thememason.com"
+msgstr "thememason.com"
+
+#: inc/classes/RSS_Retriever_Feed.php:296
+msgid "Custom RSS Feed"
+msgstr "Feed RSS personalizado"
+
+#: inc/classes/RSS_Retriever_Feed.php:295
+msgid "RSS Feed Plugin"
+msgstr "Plugin de feed RSS"
+
+#: inc/classes/RSS_Retriever_Feed.php:293
+msgid "RSS Feed Aggregator"
+msgstr "Extractor de feeds RSS"
+
+#: inc/classes/RSS_Retriever_Feed.php:288
+msgid "WordPress RSS Feed"
+msgstr "Feed RSS de WordPress"
+
+#: inc/classes/RSS_Retriever_Feed.php:292
+msgid "WordPress RSS Feed Plugin"
+msgstr "Plugin de feed RSS para WordPress"
+
+#: inc/classes/RSS_Retriever_Feed.php:233
+msgid "Published"
+msgstr "Publicado"
+
+#: inc/classes/RSS_Retriever_Feed.php:224
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/classes/RSS_Retriever_Feed.php:208
+msgid "Read more"
+msgstr "Leer más"
+
+#. Author URI of the plugin
+msgid "https://thememason.com/"
+msgstr "https://thememason.com/"
+
+#. Author of the plugin
+#: inc/classes/RSS_Retriever_Feed.php:285
+msgid "Theme Mason"
+msgstr "Theme Mason"
+
+#. Plugin Name of the plugin
+#: inc/classes/RSS_Retriever_Feed.php:287
+msgid "WordPress RSS Feed Retriever"
+msgstr "Recuperador de feeds RSS para WordPress"

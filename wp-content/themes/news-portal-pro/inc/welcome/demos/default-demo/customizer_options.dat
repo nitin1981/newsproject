@@ -1,0 +1,15 @@
+a:4:{s:8:"template";s:15:"news-portal-pro";s:4:"mods";a:37:{i:0;b:0;s:18:"nav_menu_locations";a:3:{s:24:"news_portal_primary_menu";i:15;s:20:"news_portal_top_menu";i:16;s:23:"news_portal_footer_menu";i:13;}s:18:"custom_css_post_id";i:107;s:20:"np_site_title_option";b:0;s:18:"social_media_icons";s:376:"[{"social_icon_class":"fa fa-facebook-f","social_icon_url":"https://www.facebook.com/"},{"social_icon_class":"fa fa-twitter","social_icon_url":"https://twitter.com/"},{"social_icon_class":"fa fa-linkedin","social_icon_url":"https://www.linkedin.com/"},{"social_icon_class":"fa fa-pinterest-p","social_icon_url":"https://www.pinterest.com/"},{"social_icon_class":"fa fa-instagram","social_icon_url":"https://www.instagram.com/"},{"social_icon_class":"fa fa-youtube-play","social_icon_url":"https://www.youtube.com/"}]";s:11:"custom_logo";i:29;s:14:"np_site_layout";s:12:"boxed_layout";s:16:"background_color";s:6:"f4f4f4";s:16:"np_ticker_layout";s:7:"layout1";s:22:"np_category_color_food";s:7:"#f54337";s:24:"np_category_color_gadget";s:7:"#81d742";s:24:"np_category_color_health";s:7:"#00a537";s:27:"np_category_color_lifestyle";s:7:"#3aa4f3";s:24:"np_category_color_sports";s:7:"#dd9933";s:22:"np_category_color_tech";s:7:"#c9cc20";s:24:"np_category_color_travel";s:7:"#8224e3";s:24:"np_footer_widget_bg_type";s:8:"bg_image";s:18:"np_widget_bg_image";s:100:"http://demo.mysterythemes.com/news-portal-pro/wp-content/uploads/sites/14/2017/09/testimonial-bg.jpg";s:20:"np_sub_footer_layout";s:7:"default";s:18:"np_widget_bg_color";s:7:"#000000";s:13:"np_pnf_layout";s:5:"extra";s:12:"np_pnf_image";s:107:"http://demo.mysterythemes.com/news-portal-pro/wp-content/uploads/sites/14/2017/09/error-1349562_960_720.png";s:21:"post_image_hover_type";s:13:"slanted_shine";s:10:"menu_color";s:7:"#333333";s:13:"menu_bg_color";s:7:"#f2f2f2";s:21:"np_menu_shadow_option";s:4:"hide";s:16:"background_image";s:124:"http://demo.mysterythemes.com/news-portal-pro/wp-content/uploads/sites/14/2017/09/minimal-background-pattern-wordpress-1.jpg";s:21:"background_attachment";s:5:"fixed";s:21:"site_preloader_layout";s:15:"spinning_border";s:11:"p_font_size";i:13;s:7:"p_color";s:7:"#666666";s:17:"np_copyright_text";s:58:"News Portal Pro | Theme: News Portal Pro by Mystery Themes";s:14:"np_theme_color";s:7:"#f54337";s:16:"np_header_layout";s:7:"default";s:16:"menu_line_height";i:40;s:21:"np_widget_post_author";s:4:"show";s:22:"np_post_fallback_image";s:85:"http://localhost/themes/news-portal-pro/wp-content/uploads/2018/01/fallback-image.jpg";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:334:"/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.news_portal_featured_posts .comments-link {
+  display: none;
+}
+.news_portal_featured_posts .np-post-meta a, .news_portal_featured_posts .np-post-meta span {
+  font-size: 12px !important;
+}
+.single-product.woocommerce .onsale {
+  left: 0;
+  width: 70px;
+}";}

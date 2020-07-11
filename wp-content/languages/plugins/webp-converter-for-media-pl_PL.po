@@ -1,0 +1,249 @@
+# Translation of Plugins - WebP Converter for Media - Development (trunk) in Polish
+# This file is distributed under the same license as the Plugins - WebP Converter for Media - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-10 13:43:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - WebP Converter for Media - Development (trunk)\n"
+
+#: resources/components/widgets/errors.php:32
+msgid "The path for saving converted WebP files does not exist and cannot be created %s(function is_writable() returns false)%s. Use filters %s or %s to set the correct path. The current using path is: %s. Please read the plugin FAQ to learn more."
+msgstr "Ścieżka do zapisywania skonwertowanych plików WebP nie istnieje i nie może zostać utworzona %s(funkcja is_writable() zwraca fałsz)%s. Użyj filtrów %s lub %s, aby ustawić poprawną ścieżkę. Aktualnie używana ścieżka to: %s. Przeczytaj FAQ wtyczki, aby dowiedzieć się więcej."
+
+#: resources/components/widgets/errors.php:10
+msgid "The path for /uploads files does not exist %s(function is_dir() returns false)%s. Use filters %s or %s to set the correct path. The current using path is: %s. Please read the plugin FAQ to learn more."
+msgstr "Ścieżka dla plików z biblioteki mediów nie istnieje %s(funkcja is_dir() zwraca fałsz)%s. Użyj filtrów %s lub %s, aby ustawić poprawną ścieżkę. Aktualnie używana ścieżka to: %s. Przeczytaj FAQ wtyczki, aby dowiedzieć się więcej."
+
+#: resources/components/widgets/errors.php:77
+msgid "Requests to images are processed by your server bypassing Apache. When loading images, rules from the .htaccess file are not executed. Check the redirects for %s.png file%s %s(for which the redirection does not work)%s and for %s.png2 file%s %s(for which the redirection works correctly)%s. Change the server settings to stop ignoring the rules in the .htaccess file. Please contact your server administrator."
+msgstr "Żądania do obrazków są przetwarzane przez serwer z pominięciem Apache. Podczas ładowania obrazków, reguły z pliku .htaccess nie są wykonywane. Sprawdź przekierowania dla %spliku .png%s %s(dla którego przekierowanie nie działa)%s oraz dla %spliku .png2%s %s(dla którego przekierowanie działa prawidłowo)%s. Zmień ustawienia serwera, aby zaprzestać ignorowania reguł w pliku .htaccess. Skontaktuj się z Administratorem Twojego serwera."
+
+#: resources/components/widgets/errors.php:64
+msgid "On your server is not installed %sGD%s or %sImagick%s library, or installed extension does not support WebP format. Check your server configuration %shere%s and try again. Please contact your server administrator."
+msgstr "Na Twoim serwerze nie ma zainstalowanych bibliotek %sGD%s oraz %sImagick%s, albo zainstalowane rozszerzenia nie wspierają formatu WebP. Sprawdź proszę konfigurację Twojego serwera %stutaj%s i spróbuj ponownie. Skontaktuj się z administratorem Twojego serwera."
+
+#: resources/components/widgets/errors.php:22
+msgid "Unable to create or edit .htaccess file %s(function is_readable() or is_writable() returns false)%s. Change directory permissions. The current using path of file is: %s. Please contact your server administrator."
+msgstr "Nie można utworzyć lub edytować pliku .htaccess %s(funkcja is_readable() lub is_writable() zwraca fałsz)%s. Zmień ustawienia katalogu. Aktualnie używana ścieżka do pliku to: %s. Skontaktuj się z administratorem Twojego serwera."
+
+#: resources/components/widgets/errors.php:44
+msgid "The paths for /uploads files and for saving converted WebP files are the same. Change them using filters %s or %s. The current path for them is: %s."
+msgstr "Ścieżki dla plików z biblioteki mediów oraz do zapisu skonwertowanych plików WebP są takie same. Zmień je używając filtrów %s lub %s. Aktualna ścieżka do nich to: %s."
+
+#: app/Settings/Options.php:62
+msgid "Browser Caching for WebP files (saving images in browser cache memory)"
+msgstr "Browser Caching dla plików WebP (zapisywanie obrazków w pamięci podręcznej przeglądarki)"
+
+#: app/Settings/Options.php:61
+msgid "Automatic removal of WebP files larger than original"
+msgstr "Automatyczne usuwanie plików WebP większych niż oryginalne"
+
+#: resources/components/widgets/support.php:20
+msgid "Server configuration"
+msgstr "Konfiguracja serwera"
+
+#: resources/components/widgets/server.php:12
+msgid "Please compare your configuration with the configuration that is given in the technical requirements in %sthe plugin FAQ%s. If your server does not meet the technical requirements, please contact your server Administrator."
+msgstr "Porównaj konfigurację Twojego serwera z konfiguracją przedstawianą w wymaganiach technicznych dostępnych w %sFAQ wtyczki%s. Jeżeli Twój serwer nie spełnia wymagań techniczny, prosimy o kontakt z Administratorem Twojego serwera."
+
+#: resources/components/widgets/support.php:11
+msgid "Please %scheck our FAQ%s before adding a thread with technical problem. If you do not find help there, %scheck support forum%s for similar problems. Before you contact us check the configuration of your server and attach it in your message, e.g. as a screenshot."
+msgstr "Zobacz %snasze FAQ%s zanim dodasz wątek w dziale pomocy technicznej. Jeżeli nie znajdziesz tam pomocy, sprawdź również %sforum techniczne%s pod kątem podobnych problemów. Zanim skontaktujesz się z nami zweryfikuj konfigurację Twojego serwera i załącz ją w swojej wiadomości, np. jako zrzut ekranu."
+
+#: resources/components/widgets/options.php:19
+msgid "If you have a problem %scheck our FAQ%s first. If you did not find help there, please %scheck support forum%s for any similar problem or contact us. Before you contact us %scheck the configuration%s of your server."
+msgstr "Jeżeli masz problem techniczny %szobacz nasze FAQ%s w pierwszej kolejności. Jeżeli nie znajdziesz tam pomocy, sprawdź również %sforum techniczne%s pod kątem podobnych problemów. Zanim skontaktujesz się z nami %szweryfikuj konfigurację%s Twojego serwera."
+
+#: resources/components/widgets/regenerate.php:12
+msgid "An unknown error occurred while converting the images: %s"
+msgstr "Wystąpił nieznany błąd podczas konwertowania obrazków: %s"
+
+#: resources/components/widgets/errors.php:54
+msgid "The REST API on your website is not available. Please verify this and try again. Pay special attention to the filters: %s, %s and %s."
+msgstr "REST API na Twojej stronie nie jest dostępne. Zweryfikuj to i sprawdź ponownie. Zwróć szczególną uwagę na filtry: %s, %s oraz %s."
+
+#: resources/components/widgets/errors.php:4
+msgid "Server configuration error"
+msgstr "Błąd konfiguracji serwera"
+
+#: resources/components/notices/thanks.php:8
+msgid "Please let us know what you think about our plugin. It is important that we can develop this tool. Thank you for all the ratings, reviews and donates. If you have a technical problem, please before you add a review %scheck our FAQ%s or contact us if you did not find help there. We will try to help you!"
+msgstr "Powiedz nam co myślisz o naszej wtyczce. To jest bardzo ważne dla nas i pozwoli nam ją rozwijać. Dziękujemy serdecznie za wszystkie oceny, recenzje i dodatkowe wsparcie. Jeżeli masz problem techniczny, prosimy zanim dodasz recenzję %ssprawdź nasze FAQ%s lub skontaktuj się z nami, jeżeli nie znajdziesz tam pomocy. Postaramy się Tobie pomóc!"
+
+#: resources/components/widgets/server.php:7
+msgid "Your server configuration"
+msgstr "Konfiguracja Twojego serwera"
+
+#: resources/components/widgets/server.php:18
+#: resources/components/widgets/server.php:26
+msgid "Back to settings"
+msgstr "Wróć do ustawień"
+
+#: app/Admin/Plugin.php:31
+msgid "%sProvide us a coffee%s"
+msgstr "%sPostaw nam kawę%s"
+
+#: app/Settings/Options.php:47
+msgid "Conversion method"
+msgstr "Metody konwertowania"
+
+#: app/Settings/Options.php:48
+msgid "The configuration for advanced users."
+msgstr "Konfiguracja dla użytkowników zaawansowanych."
+
+#: app/Settings/Options.php:58
+msgid "Extra features"
+msgstr "Dodatkowe funkcje"
+
+#: app/Settings/Options.php:69
+msgid "Images quality"
+msgstr "Jakość obrazków"
+
+#: app/Settings/Options.php:50
+msgid "%s (recommended)"
+msgstr "%s (rekomendowane)"
+
+#: app/Admin/Plugin.php:21
+msgid "%sSettings%s"
+msgstr "%sUstawienia%s"
+
+#: app/Settings/Options.php:22
+msgid "List of supported files extensions"
+msgstr "Lista wspieranych rozszerzeń plików"
+
+#: app/Admin/Activation.php:27
+msgid "%sWebP Converter for Media%s plugin requires a minimum PHP %s version. Sorry about that!"
+msgstr "Wtyczka %sWebP Converter for Media%s do działania wymaga PHP w wersji %s lub wyższej. Przepraszamy za utrudnienia!"
+
+#: resources/views/settings.php:12
+msgid "Changes were successfully saved!"
+msgstr "Zmiany zostały pomyślnie zapisane!"
+
+#: resources/components/notices/thanks.php:28
+msgid "I added review, do not show again"
+msgstr "Dodałem recenzję, nie pokazuj ponownie"
+
+#: app/Settings/Options.php:70
+msgid "Adjust the quality of the images being converted. Remember that higher quality also means larger file sizes. The recommended value is 85%."
+msgstr "Dostosuj jakość konwertowanych obrazków. Pamiętaj jednak, że wyższa jakość oznacza większy rozmiar plików. Rekomendowana wartość to 85%."
+
+#: resources/components/notices/thanks.php:20
+#: resources/components/widgets/support.php:31
+msgid "Add review"
+msgstr "Dodaj recenzję"
+
+#: resources/components/notices/thanks.php:16
+#: resources/components/widgets/support.php:23
+msgid "Get help"
+msgstr "Uzyskaj pomoc"
+
+#: resources/components/widgets/support.php:3
+msgid "We are waiting for your message"
+msgstr "Czekamy na Twoją wiadomość"
+
+#: resources/components/notices/thanks.php:24
+#: resources/components/widgets/donate.php:11
+msgid "Provide us a coffee"
+msgstr "Postaw nam kawę"
+
+#: resources/components/widgets/donate.php:7
+msgid "However, working on plugins and technical support requires many hours of work. If you want to appreciate it, you can provide us a coffee. Thanks everyone!"
+msgstr "Praca nad wtyczkami oraz świadczenie pomocy technicznej wymaga od nas wielu godzin ciężkiej pracy. Jeżeli chcesz to docenić, możesz postawić nam kawę. Dziękujemy wszystkim!"
+
+#: resources/components/widgets/donate.php:3
+msgid "We love what we do!"
+msgstr "Kochamy to co robimy!"
+
+#. Description of the plugin
+msgid "Speed up your website by serving WebP images instead of standard formats JPEG, PNG and GIF."
+msgstr "Przyspiesz działanie Twojej strony internetowej wyświetlając obrazki WebP zamiast standardowych formatów JPEG, PNG oraz GIF."
+
+#: resources/components/notices/thanks.php:4
+msgid "Thank you for using our plugin WebP Converter for Media!"
+msgstr "Dziękujemy za używanie naszej wtyczki WebP Converter for Media!"
+
+#: resources/components/widgets/options.php:3
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: resources/components/widgets/regenerate.php:64
+msgid "Regenerate All"
+msgstr "Konwertuj wszystkie"
+
+#: resources/components/widgets/regenerate.php:40
+msgid "An error occurred while connecting to REST API. Please try again."
+msgstr "Wystąpił nieznany błąd podczas połączenia z REST API. Spróbuj ponownie."
+
+#: resources/components/widgets/regenerate.php:36
+msgid "List of errors"
+msgstr "Lista błędów"
+
+#: resources/components/widgets/regenerate.php:33
+msgid "The process was completed successfully. Your images have been converted!"
+msgstr "Proces został zakończony pomyślnie. Twoje obrazki zostały skonwertowane!"
+
+#: resources/components/widgets/regenerate.php:27
+msgid "Saving the weight of your images: %s"
+msgstr "Rozmiar obrazków, który zaoszczędzono: %s"
+
+#: resources/components/widgets/regenerate.php:7
+msgid "Regenerate images"
+msgstr "Konwertuj obrazki"
+
+#: resources/components/widgets/about.php:19
+msgid "The plugin does not change file URLs, so there are no problems with saving the page to the cache and the page generation time does not increase."
+msgstr "Wtyczka nie modyfikuje adresów URL do plików. W związku z tym nie ma problemów z zapisywaniem strony w pamięci podręcznej, a czas generowania samej strony nie wydłuża się."
+
+#: resources/components/widgets/about.php:3
+msgid "How does this work?"
+msgstr "Jak to działa?"
+
+#: app/Settings/Options.php:59
+msgid "The options allow you to enable new functionalities that will additionally speed up your website."
+msgstr "Opcje pozwalają na włączenie nowych funkcjonalności, które dodatkowo przyspieszą Twoją witrynę."
+
+#: resources/components/widgets/about.php:23
+msgid "Image URLs are modified using the module %smod_rewrite%s on the server, i.e. the same, thanks to which we can use friendly links in WordPress. Additionally, the MIME type of the sent file is modified to %simage/webp%s."
+msgstr "Adresy URL do obrazków są modyfikowane używając modułu %smod_rewrite%s na serwerze. To ten sam, który wykorzystuje WordPress do tworzenia przyjaznej struktury linków. Dodatkowo typ MIME wysyłanego pliku jest zamieniany na %simage/webp%s."
+
+#: resources/components/widgets/about.php:8
+msgid "By adding images to your media library, they are automatically converted and saved in a separate directory. Images are converted using %sGD%s or %sImagick%s native extension for PHP."
+msgstr "Dodając obrazki do Twojej biblioteki mediów, będą one automatycznie konwertowane i zapisywane w osobnym katalogu. Obrazki są konwertowane używając natywnych rozszerzeń %sGD%s lub %sImagick%s dla PHP. "
+
+#: resources/components/widgets/options.php:14
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: resources/components/widgets/about.php:14
+msgid "When the browser tries to download an image file, the server verifies if it supports image/webp files and if the file exists. If everything is OK, instead of the original image, the browser will receive its equivalent in WebP format."
+msgstr "W momencie, gdy przeglądarka próbuje pobrać plik z obrazkiem, serwer weryfikuje czy wspiera ona pliki image/webp i czy taki plik istnieje. Jeżeli wszystko jest w porządku, zamiast oryginalnego pliku przeglądarka otrzyma jego odpowiednik w formacie WebP."
+
+#: resources/components/widgets/support.php:27
+msgid "Do you like our plugin? Could you rate him? Please let us know what you think about our plugin. It is important that we can develop this tool. Thank you for all the ratings, reviews and donates."
+msgstr "Czy jesteś zadowolony z używania naszej wtyczki? Masz możliwość ją ocenić? Daj nam znać, co o niej myślisz. To dla nas bardzo ważne, aby móc ją rozwijać. Dziękujemy za wszystkie oceny, recenzje oraz dodatkowe wsparcie."
+
+#: resources/components/widgets/support.php:7
+msgid "Do you have a technical problem? Please contact us. We will be happy to help you. Or maybe you have an idea for a new feature? Please let us know about it by filling the support form. We will try to add it!"
+msgstr "Masz problem techniczny? Prosimy o kontakt z nami. Z przyjemnością Tobie pomożemy. A może masz pomysł na nową funkcjonalność? Poinformuj nas o tym, dodając wątek na forum technicznym. Weźmiemy to pod uwagę!"
+
+#. Author URI of the plugin
+msgid "https://gbiorczyk.pl/"
+msgstr "https://gbiorczyk.pl/"
+
+#. Author of the plugin
+msgid "Mateusz Gbiorczyk"
+msgstr "Mateusz Gbiorczyk"
+
+#. Plugin Name of the plugin
+#: resources/views/settings.php:8
+msgid "WebP Converter for Media"
+msgstr "WebP Converter for Media"
+
+#: resources/components/widgets/regenerate.php:15
+msgid "Convert all existing images with just one click! This tool uses the WordPress REST API by downloading addresses of all images and converting all files gradually. This is a process that may take a few or more than ten minutes depending on the number of files. During this process, please do not close your browser window."
+msgstr "Konwertuj wszystkie istniejące obrazki za pomocą jednego kliknięcia. To narzędzie wykorzystuje interfejs REST API, pobierając adresy URL wszystkich obrazków i stopniowo konwertuje pliki. Jest to proces, który może potrwać kilka lub kilkanaście minut. Podczas jego trwania nie zamykaj okna przeglądarki."

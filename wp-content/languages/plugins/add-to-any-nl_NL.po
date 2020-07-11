@@ -1,0 +1,395 @@
+# Translation of Plugins - AddToAny Share Buttons - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - AddToAny Share Buttons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-08 10:21:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - AddToAny Share Buttons - Stable (latest release)\n"
+
+#: add-to-any.php:550
+msgid "Thanks for following!"
+msgstr "Dank voor het volgen!"
+
+#: add-to-any.php:549
+msgid "Thanks for sharing!"
+msgstr "Bedankt voor het delen!"
+
+#: addtoany.admin.php:808
+msgid "Center docked"
+msgstr "Gecentreerd in het midden"
+
+#: addtoany.admin.php:733
+msgid "Attach to content"
+msgstr "Bijvoegen aan inhoud"
+
+#: addtoany.admin.php:786 addtoany.admin.php:854
+msgid "Background"
+msgstr "Achtergond"
+
+#: addtoany.admin.php:475
+msgid "Share Buttons"
+msgstr "Deel knoppen"
+
+#: addtoany.admin.php:448
+msgid "Icon Style"
+msgstr "Pictogram stijl"
+
+#: addtoany.widgets.php:214
+msgid "Icon Size:"
+msgstr "Pictogram grootte:"
+
+#: addtoany.admin.php:621
+msgid "Display at the %s of media pages"
+msgstr "Toon op de %s van media pagina's"
+
+#. Description of the plugin
+msgid "Share buttons for your pages including AddToAny's universal sharing button, Facebook, Twitter, Google+, Pinterest, WhatsApp and many more."
+msgstr "Deel knoppen voor jouw pagina's, waaronder de universele knop Delen van AddToAny, Facebook, Twitter, Google+, Pinterest, WhatsApp en nog veel meer."
+
+#: addtoany.admin.php:697
+msgid "Height"
+msgstr "Hoogte"
+
+#: addtoany.admin.php:695
+msgid "Width"
+msgstr "Breed"
+
+#: addtoany.admin.php:672
+msgid "Additional CSS"
+msgstr "Extra CSS"
+
+#: addtoany.admin.php:660
+msgid "Additional JavaScript"
+msgstr "Extra JavaScript"
+
+#: addtoany.admin.php:675
+msgid "Below you can add special CSS code for AddToAny."
+msgstr "Hieronder kan je CSS code voor AddtoAny toevoegen."
+
+#. Plugin Name of the plugin
+msgid "AddToAny Share Buttons"
+msgstr "AddToAny Share Buttons"
+
+#: addtoany.admin.php:707
+msgid "Cache AddToAny locally with daily cache updates"
+msgstr "Cache AddToAny lokaal met dagelijkse cache updates"
+
+#: addtoany.admin.php:872
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: addtoany.admin.php:878
+msgid "Like this plugin?"
+msgstr "Vind je deze plugin goed?"
+
+#: addtoany.admin.php:882
+msgid "Need support?"
+msgstr "Hulp nodig?"
+
+#: addtoany.admin.php:1156
+msgid "Add/Remove Services"
+msgstr "Toevoegen/Verwijderen Diensten"
+
+#: addtoany.widgets.php:84 addtoany.widgets.php:210
+msgid "Title:"
+msgstr "Titel:"
+
+#: addtoany.admin.php:873
+msgid "Reset"
+msgstr "Resetten"
+
+#: addtoany.admin.php:768 addtoany.admin.php:836
+msgid "Position"
+msgstr "Positie"
+
+#: addtoany.admin.php:883
+msgid "See the <a href=\"https://wordpress.org/plugins/add-to-any/faq/\">FAQs</a>."
+msgstr "Zie de <a href=\"https://nl.wordpress.org/extend/plugins/add-to-any/faq/\">veelgestelde vragen</ a> (Engels)."
+
+#: addtoany.admin.php:884
+msgid "Search the <a href=\"https://wordpress.org/support/plugin/add-to-any\">support forums</a>."
+msgstr "Zoek in de <a href=\"https://wordpress.org/tags/add-to-any\">support forums</a> (Engels)."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.addtoany.com/"
+msgstr "https://www.addtoany.com/"
+
+#: addtoany.widgets.php:221
+msgid "%s ID:"
+msgstr "%s ID:"
+
+#: addtoany.widgets.php:221
+msgid "%s URL:"
+msgstr "%s URL:"
+
+#: addtoany.admin.php:799
+msgid "Horizontal Buttons"
+msgstr "Horizontale knoppen"
+
+#: addtoany.admin.php:746 addtoany.admin.php:814
+msgid "Responsiveness"
+msgstr "Responsiviteit"
+
+#: addtoany.admin.php:724
+msgid "Vertical Buttons"
+msgstr "Verticale knoppen"
+
+#: addtoany.widgets.php:88 addtoany.widgets.php:231
+msgid "AddToAny Settings"
+msgstr "AddToAny instellingen"
+
+#: addtoany.admin.php:880
+msgid "<a href=\"https://www.addtoany.com/share#title=WordPress%20Share%20Plugin%20by%20AddToAny.com&amp;url=https%3A%2F%2Fwordpress.org%2Fplugins%2Fadd-to-any%2F\">Share it</a> and follow <a href=\"https://www.addtoany.com/\">AddToAny</a> on <a href=\"https://www.facebook.com/AddToAny\" target=\"_blank\">Facebook</a> &amp; <a href=\"https://twitter.com/AddToAny\" target=\"_blank\">Twitter</a>."
+msgstr "<a href=\"https://www.addtoany.com/share#title=WordPress%20Share%20Plugin%20by%20AddToAny.com&amp;url=https%3A%2F%2Fwordpress.org%2Fplugins%2Fadd-to-any%2F\">Delen</a> en volgen <a href=\"https://www.addtoany.com/\">AddToAny</a> on <a href=\"https://www.facebook.com/AddToAny\" target=\"_blank\">Facebook</a> &amp; <a href=\"https://twitter.com/AddToAny\" target=\"_blank\">Twitter</a>."
+
+#: addtoany.admin.php:879
+msgid "<a href=\"https://wordpress.org/support/plugin/add-to-any/reviews/#new-post\" target=\"_blank\">Give it a 5 star rating</a> on WordPress.org."
+msgstr "<a href=\"https://wordpress.org/support/plugin/add-to-any/reviews/#new-post\" target=\"_blank\">Geef een 5-sterren waardering</a> op WordPress.org."
+
+#: addtoany.admin.php:722
+msgid "AddToAny &quot;floating&quot; share buttons stay in a fixed position even when the user scrolls."
+msgstr "AddToAny & quot; zwevende & quot; deel knoppen blijven op een vaste positie staan, zelfs wanneer de gebruiker scrolt."
+
+#: addtoany.admin.php:710
+msgid "Most sites should not use this option. By default, AddToAny loads asynchronously and most efficiently. Since many visitors will have AddToAny cached in their browser already, serving AddToAny locally from your site will be slower for those visitors. If local caching is enabled, be sure to set far future cache/expires headers for image files in your <code>uploads/addtoany</code> directory."
+msgstr "De meeste sites zouden deze optie niet moeten gebruiken. Standaard laadt AddToAny asynchroon en efficiënt. Omdat veel bezoekers AddToAny al in de cache in hun browser hebben opgeslagen, zal het trager zijn AddToAny vanaf je site te laden voor die bezoekers. Als lokale caching is ingeschakeld, moet je ver in de toekomst cache / verlopen headers instellen voor afbeeldingsbestanden in je map <code>uploads/addtoany</code>."
+
+#: addtoany.admin.php:774 addtoany.admin.php:842
+msgid "Offset"
+msgstr "Verschuiving"
+
+#: addtoany.admin.php:873
+msgid "Are you sure you want to delete all AddToAny options?"
+msgstr "Weet je zeker dat je alle AddToAny opties wilt verwijderen?"
+
+#: addtoany.admin.php:731 addtoany.admin.php:806
+msgid "Right docked"
+msgstr "Rechts docked"
+
+#: addtoany.admin.php:729 addtoany.admin.php:804
+msgid "Left docked"
+msgstr "Links docked"
+
+#: addtoany.admin.php:372 addtoany.admin.php:544 add-to-any.php:531
+msgid "Share"
+msgstr "Delen"
+
+#: add-to-any.php:532
+msgid "Save"
+msgstr "Bewaren"
+
+#: add-to-any.php:533
+msgid "Subscribe"
+msgstr "Inschrijven"
+
+#: add-to-any.php:535
+msgid "Bookmark"
+msgstr "Bookmark"
+
+#: add-to-any.php:536
+msgid "Show all"
+msgstr "Alles weergeven"
+
+#: add-to-any.php:537
+msgid "Show less"
+msgstr "Niet alles weergeven"
+
+#: add-to-any.php:538
+msgid "Find service(s)"
+msgstr "Vind dienst(en)"
+
+#: add-to-any.php:539
+msgid "Instantly find any service to add to"
+msgstr "Vind direct een dienst om aan toe te voegen"
+
+#: add-to-any.php:540
+msgid "Powered by"
+msgstr "Mede mogelijk gemaakt door"
+
+#: add-to-any.php:543
+msgid "Bookmark in your browser"
+msgstr "Bookmark in je browser"
+
+#: add-to-any.php:545
+msgid "Add to your favorites"
+msgstr "Voeg aan je favorieten toe"
+
+#: addtoany.admin.php:417
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: add-to-any.php:1239
+msgid "Settings"
+msgstr "Instellingen"
+
+#: addtoany.admin.php:480
+msgid "Choose the services you want below. &nbsp;Click a chosen service again to remove. &nbsp;Reorder services by dragging and dropping as they appear above."
+msgstr "Kies de gewenste diensten hieronder. Klik op een gekozen dienst om deze weer te verwijderen. Herorder de volgorde van diensten door middel van slepen en plaatsen zoals hierboven."
+
+#: addtoany.admin.php:535
+msgid "Image URL"
+msgstr "Afbeelding URL"
+
+#: addtoany.admin.php:542
+msgid "Text only"
+msgstr "Alleen tekst"
+
+#: addtoany.admin.php:573 addtoany.admin.php:727 addtoany.admin.php:802
+msgid "Placement"
+msgstr "Plaatsing"
+
+#: addtoany.admin.php:650
+msgid "Menu Options"
+msgstr "Menu Opties"
+
+#: addtoany.admin.php:684
+msgid "Advanced Options"
+msgstr "Geavanceerde Opties"
+
+#: addtoany.admin.php:549 addtoany.admin.php:735 addtoany.admin.php:810
+msgid "None"
+msgstr "Geen"
+
+#: addtoany.admin.php:436
+msgid "Standard"
+msgstr "Standaard"
+
+#: add-to-any.php:534
+msgid "Email"
+msgstr "E-mail"
+
+#: addtoany.admin.php:567
+msgid "Share this:"
+msgstr "Dit delen:"
+
+#: addtoany.admin.php:44
+msgid "Show sharing buttons."
+msgstr "Toon deel-knoppen."
+
+#: addtoany.admin.php:780 addtoany.admin.php:848
+msgid "Icon Size"
+msgstr "Icoongrootte"
+
+#: addtoany.admin.php:689
+msgid "Use custom icons. URL:"
+msgstr "Gebruik aangepaste pictogrammen. URL:"
+
+#: addtoany.admin.php:663
+msgid "Below you can add special JavaScript code for AddToAny."
+msgstr "Hieronder kunt u speciale JavaScript-code toevoegen voor AddToAny."
+
+#: addtoany.admin.php:153
+msgid "top"
+msgstr "Bovenaan"
+
+#: addtoany.admin.php:437
+msgid "Floating"
+msgstr "Zwevende"
+
+#. Author of the plugin
+#: addtoany.admin.php:11 add-to-any.php:1210
+msgid "AddToAny"
+msgstr "AddToAny"
+
+#: add-to-any.php:548
+msgid "More&#8230;"
+msgstr "Meer&#8230;"
+
+#: add-to-any.php:547
+msgid "Email program"
+msgstr "E-mail programma"
+
+#: add-to-any.php:544
+msgid "Press Ctrl+D or \\u2318+D to bookmark this page"
+msgstr "Druk op Ctrl+D of \\u2318+D om deze pagina te bookmarken"
+
+#: add-to-any.php:542
+msgid "Subscribe via email"
+msgstr "Abonneren via e-mail"
+
+#: addtoany.admin.php:664 addtoany.admin.php:676
+msgid "Advanced users should explore AddToAny's <a href=\"https://www.addtoany.com/buttons/customize/wordpress\" target=\"_blank\">additional options</a>."
+msgstr "Gevorderde gebruikers moeten de aanvullende <a href=\"https://www.addtoany.com/buttons/customize/wordpress\" target=\"_blank\">aanvullende opties</a> van AddToAny verkennen."
+
+#: addtoany.admin.php:157
+msgid "top &amp; bottom"
+msgstr "bovenkant &amp; onderkant"
+
+#: addtoany.admin.php:693
+msgid "Filename extension"
+msgstr "Bestandsnaam extensie"
+
+#: add-to-any.php:541
+msgid "Share via email"
+msgstr "Delen per e-mail"
+
+#: addtoany.admin.php:700
+msgid "Specify the URL of the directory containing your custom icons. For example, a URL of <code>//example.com/blog/uploads/addtoany/icons/custom/</code> containing <code>facebook.png</code> and <code>twitter.png</code>. Be sure that custom icon filenames match the icon filenames in <code>plugins/add-to-any/icons</code>. For AddToAny's Universal Button, select Image URL and specify the URL of your AddToAny universal share icon (<a href=\"#\" onclick=\"document.getElementsByName('A2A_SHARE_SAVE_button_custom')[0].focus();return false\">above</a>)."
+msgstr "Geef de URL op van de map met jouw aangepaste pictogrammen. Bijvoorbeeld een URL van <code>//example.com/blog/uploads/addtoany/icons/custom/</code> met <code>facebook.png</code> en <code>twitter.png</code>. Zorg ervoor dat de bestandsnamen van het aangepaste pictogram overeenkomen met de pictogram bestandsnamen in <code>plugins/add-to-any/icons</code>. Voor de universele deelknop van AddToAny, selecteer afbeelding URL en specificeer de URL van je AddToAny universele deel pictogram (<a href=\"#\" onclick=\"document.getElementsByName('A2A_SHARE_SAVE_button_custom')[0].focus();return false\">hierboven</a>)."
+
+#: addtoany.admin.php:433 add-to-any.php:1209
+msgid "AddToAny Share Settings"
+msgstr "AddToAny deel instellingen"
+
+#: addtoany.admin.php:523
+msgid "Universal Button"
+msgstr "Universele knop"
+
+#: addtoany.admin.php:564
+msgid "Sharing Header"
+msgstr "Header delen"
+
+#: addtoany.admin.php:578
+msgid "Display at the %s of posts"
+msgstr "Toon op de %s van berichten"
+
+#: addtoany.admin.php:586
+msgid "Display at the %s of posts on the front page"
+msgstr "Toon op de %s van berichten op de front pagina"
+
+#: addtoany.admin.php:594
+msgid "Display at the %s of posts on archive pages"
+msgstr "Toon op de %s berichten op archief pagina's"
+
+#: addtoany.admin.php:602
+msgid "Display at the %s of posts in the feed"
+msgstr "Toon op de %s van berichten in de feed"
+
+#: addtoany.admin.php:609
+msgid "Display at the %s of excerpts"
+msgstr "Toon op de %s van samenvattingen"
+
+#: addtoany.admin.php:614
+msgid "Display at the %s of pages"
+msgstr "Toon op de %s van pagina's"
+
+#. translators: 1: Position in content 2: Name of the custom post type
+#: addtoany.admin.php:635
+msgid "Display at the %1$s of %2$s"
+msgstr "Toon op de %1$s van %2$s"
+
+#: addtoany.admin.php:644
+msgid "See <a href=\"widgets.php\" title=\"Theme Widgets\">Widgets</a> and <a href=\"options-general.php?page=addtoany&action=floating\" title=\"AddToAny Floating Share Buttons\">Floating</a> for additional placement options. For advanced placement, see <a href=\"https://wordpress.org/plugins/add-to-any/faq/\">the FAQs</a>."
+msgstr "Bekijk <a href=\"widgets.php\" title=\"Theme Widgets\">Widgets</a> and <a href=\"options-general.php?page=addtoany&action=floating\" title=\"AddToAny Floating Share Buttons\">Floating</a> voor additionele plaatsing opties. Voor geavanceerde plaatsing, bekijk <a href=\"https://wordpress.org/plugins/add-to-any/faq/\">the FAQs</a>."
+
+#: addtoany.admin.php:654
+msgid "Only show the universal share menu when the user <em>clicks</em> the universal share button"
+msgstr "Toon alleen het universele deel menu als de gebruiker op<em>klikt</em> op de universele deel knop"
+
+#: addtoany.admin.php:548
+msgid "This option will disable universal sharing. Are you sure you want to disable universal sharing?"
+msgstr "Deze optie zal universeel delen uitschakelen. Weet je zeker dat je universeel delen wil uitschakelen?"
+
+#: addtoany.admin.php:149
+msgid "bottom"
+msgstr "bodem"
+
+#: add-to-any.php:546
+msgid "Send from any email address or email program"
+msgstr "Stuur vanuit elk e-mailadres of e-mail programma"

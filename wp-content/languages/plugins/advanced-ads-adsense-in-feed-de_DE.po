@@ -1,0 +1,70 @@
+# Translation of Plugins - Google AdSense In-feed Placement for WordPress by Advanced Ads - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Google AdSense In-feed Placement for WordPress by Advanced Ads - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-05-26 23:04:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Google AdSense In-feed Placement for WordPress by Advanced Ads - Stable (latest release)\n"
+
+#: advanced-ads-in-feed.php:171
+msgid "<strong>%s</strong> requires the <strong><a href=\"https://wpadvancedads.com/#utm_source=advanced-ads&utm_medium=link&utm_campaign=activate-in-feed\" target=\"_blank\">Advanced Ads</a></strong> plugin to be installed and activated on your site."
+msgstr "<strong>%s</strong> setzt voraus, dass das <strong><a href=\"https://wpadvancedads.com/#utm_source=advanced-ads&utm_medium=link&utm_campaign=activate-in-feed\" target=\"_blank\">Advanced Ads</a></strong> Plugin auf deiner Seite installiert und aktiviert ist."
+
+#. Plugin Name of the plugin
+msgid "AdSense In-feed Placement for WordPress"
+msgstr "AdSense In-feed Placement for WordPress"
+
+#. Author URI of the plugin
+msgid "https://webgilde.com"
+msgstr "https://webgilde.com"
+
+#. Author of the plugin
+msgid "Thomas Maier"
+msgstr "Thomas Maier"
+
+#. Plugin URI of the plugin
+msgid "https://wpadvancedads.com"
+msgstr "https://wpadvancedads.com"
+
+#: advanced-ads-in-feed.php:223
+msgid "position"
+msgstr "Position"
+
+#: advanced-ads-in-feed.php:219
+msgid "Before which post to inject the ad on post lists."
+msgstr "Gibt an, vor dem wievielten Beitrag die Anzeige eingeblendet werden soll."
+
+#. translators: $s is an index, e.g., "5".
+#: advanced-ads-in-feed.php:215
+msgid "Inject before %s. post"
+msgstr "Einfügen vor dem %s. Beitrag"
+
+#. translators: %s is a link.
+#: advanced-ads-in-feed.php:193
+msgid "This placement can only deliver a single In-feed ad. Use the <a href=\"%s\" target=\"_blank\">Post Lists placement</a> for other ad types."
+msgstr "Diese Platzierung kann nur eine einzelne In-Feed-Anzeige ausliefern. Verwende die <a href=\"%s\" target=\"_blank\">Artikel-Listen-Platzierung</a> für andere Anzeigentypen."
+
+#: advanced-ads-in-feed.php:167
+msgid "Install Now"
+msgstr "Jetzt installieren"
+
+#: advanced-ads-in-feed.php:165
+msgid "Activate Now"
+msgstr "Jetzt aktivieren"
+
+#: advanced-ads-in-feed.php:70
+msgid "AdSense In-feed"
+msgstr "AdSense In-feed"
+
+#. Description of the plugin
+msgid "Display AdSense In-feed ads between posts"
+msgstr "Fügt AdSense In-Feed-Anzeigen zwischen einzelne Beiträge ein"
+
+#: advanced-ads-in-feed.php:71
+msgid "Display an AdSense In-feed ad between posts"
+msgstr "Fügt eine AdSense In-Feed-Anzeige zwischen einzelnen Beiträgen ein."

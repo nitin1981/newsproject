@@ -1,0 +1,12 @@
+a:4:{s:8:"template";s:15:"news-portal-pro";s:4:"mods";a:30:{i:0;b:0;s:18:"custom_css_post_id";i:78;s:20:"np_site_title_option";s:5:"false";s:21:"site_preloader_layout";s:12:"knight_rider";s:14:"np_theme_color";s:7:"#25bc9e";s:19:"np_site_title_color";s:7:"#25bc9e";s:11:"custom_logo";i:22;s:16:"np_header_layout";s:7:"layout1";s:19:"np_home_icon_option";s:4:"hide";s:21:"np_menu_shadow_option";s:4:"hide";s:16:"np_ticker_option";s:4:"hide";s:16:"menu_font_family";s:15:"Source Sans Pro";s:15:"menu_font_style";s:7:"regular";s:16:"menu_line_height";i:80;s:10:"menu_color";s:7:"#333333";s:13:"menu_bg_color";s:7:"#ffffff";s:18:"social_media_icons";s:314:"[{"social_icon_class":"fa fa-facebook-f","social_icon_url":"#"},{"social_icon_class":"fa fa-twitter","social_icon_url":"#"},{"social_icon_class":"fa fa-linkedin","social_icon_url":"#"},{"social_icon_class":"fa fa-pinterest-p","social_icon_url":"#"},{"social_icon_class":"fa fa-youtube-play","social_icon_url":"#"}]";s:18:"nav_menu_locations";a:1:{s:24:"news_portal_primary_menu";i:2;}s:13:"p_font_family";s:15:"Source Sans Pro";s:12:"p_font_style";s:7:"regular";s:29:"np_category_color_photography";s:7:"#81d742";s:24:"np_category_color_slider";s:7:"#8224e3";s:28:"np_category_color_technology";s:7:"#dd9933";s:26:"np_category_color_wildlife";s:7:"#1e73be";s:20:"footer_widget_layout";s:11:"column_four";s:18:"np_widget_bg_color";s:7:"#001416";s:17:"np_copyright_text";s:58:"News Portal Pro | Theme: News Portal Pro by Mystery Themes";s:22:"np_category_color_food";s:7:"#dd3333";s:27:"np_category_color_lifestyle";s:7:"#00baa4";s:22:"np_post_fallback_image";s:105:"http://demo.mysterythemes.com/news-portal-pro-blog/wp-content/uploads/sites/15/2018/01/fallback-image.jpg";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:165:"/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.np-home-top-section {
+  margin-top: 30px;
+}
+
+#colophon .textwidget {
+  color: #fff;
+}";}

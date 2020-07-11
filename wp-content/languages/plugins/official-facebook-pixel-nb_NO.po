@@ -1,0 +1,85 @@
+# Translation of Plugins - Official Facebook Pixel - Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Plugins - Official Facebook Pixel - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-12 13:19:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Plugins - Official Facebook Pixel - Stable (latest release)\n"
+
+#: trunk/core/FacebookWordpressSettingsPage.php:231
+#: core/FacebookWordpressSettingsPage.php:231
+msgid ""
+"Also send events directly from your web server to Facebook through the\n"
+"        server-side API. This can help you capture more events."
+msgstr ""
+"Sender også hendelser direkte fra din webserver til Facebook gjennom\n"
+" serverside-APIe. Dette kan hjelpe deg fange flere hendelser."
+
+#: trunk/core/FacebookWordpressSettingsPage.php:205
+#: core/FacebookWordpressSettingsPage.php:205
+msgid ""
+"An access token is required to use the server-side API.<br>\n"
+"          <a href=\"%s\" target=\"_blank\"> Generate Access Token</a>"
+msgstr ""
+"En tilgangsnøkkel er nødvendig for å bruke serverside-APIet.<br>\n"
+"          <a href=\"%s\" target=\"_blank\">Lag tilgangsnøkkel</a>"
+
+#. Description of the plugin
+msgid "<strong><em>***ATTENTION: After upgrade the plugin may be deactivated due to a known issue, to workaround please refresh this page and activate plugin.***</em></strong> The Facebook pixel is an analytics tool that helps you measure the effectiveness of your advertising. You can use the Facebook pixel to understand the actions people are taking on your website and reach audiences you care about."
+msgstr "<strong><em>***OBS: Etter oppgradering kan utvidelsen bli deaktivert på grunn av et kjent problem. For å avhjelpe dette, vennligst oppfrisk denne siden og aktiver på nytt.***</em></strong> Facebook pixel er et analyseverktøy som hjelper deg måle effektiviteten til din annonsering. Du kan bruke Facebook pixel til å forstå de handlinger folk gjør på ditt nettsted og nå det publikum du bryr deg om."
+
+#. Author URI of the plugin
+msgid "https://www.facebook.com/"
+msgstr "https://www.facebook.com/"
+
+#. Author of the plugin
+msgid "Facebook"
+msgstr "Facebook"
+
+#. Plugin URI of the plugin
+msgid "https://www.facebook.com/business/help/881403525362441"
+msgstr "https://www.facebook.com/business/help/881403525362441"
+
+#. Plugin Name of the plugin
+msgid "Official Facebook Pixel"
+msgstr "Offisiell Facebook Piksel"
+
+#: trunk/core/FacebookWordpressSettingsPage.php:282
+#: core/FacebookWordpressSettingsPage.php:282
+msgid "Dismiss this notice."
+msgstr "Avvis dette varselet."
+
+#: trunk/core/FacebookWordpressSettingsPage.php:263
+#: core/FacebookWordpressSettingsPage.php:263
+msgid "The Facebook Pixel plugin requires a Pixel ID. Click <a href=\"%s\">here</a> to configure the plugin."
+msgstr "Utvidelsen Offisiell Facebook Piksel krever en pixel-ID. Klikk <a href=\"%s\">her</a> for å sette opp utvidelsen."
+
+#: trunk/core/FacebookWordpressSettingsPage.php:195
+#: core/FacebookWordpressSettingsPage.php:195
+msgid "Enabling Advanced Matching improves audience building."
+msgstr "Aktivering av Avansert samsvar forbedrer bygging av målgruppe."
+
+#: trunk/core/FacebookWordpressSettingsPage.php:170
+#: core/FacebookWordpressSettingsPage.php:170
+msgid "For businesses that operate in the European Union, you may need to take additional action. Read the <a href=\"%s\" target=\"_blank\">Cookie Consent Guide for Sites and Apps</a> for suggestions on complying with EU privacy requirements."
+msgstr "For virksomheter som driver i EU/EØS kan du trenge å gjøre en ytterligere handling. Les <a href=\"%s\" target=\"_blank\">Veiledning for Samtykke til inforkapsler for netsteder og apper</a> for forslag til å samsvare med personvernreglene i EU/EØS-land."
+
+#: trunk/core/FacebookWordpressSettingsPage.php:127
+#: core/FacebookWordpressSettingsPage.php:127
+msgid "The unique identifier for your Facebook pixel."
+msgstr "Den unike identifikatoren for din Facebook-piksel."
+
+#: trunk/core/FacebookWordpressSettingsPage.php:121
+#: core/FacebookWordpressSettingsPage.php:121
+msgid "Please note that we are now also supporting lower funnel pixel events for Contact Form 7, Easy Digital Downloads, Ninja Forms and WP Forms"
+msgstr "Vennligst leg merke til at vi nå også støtter lavtrakts pikselhendelser for Kontaktskjema 7, Easy Digital Downloads, Ninja Forms og WP Forms."
+
+#: trunk/core/FacebookWordpressSettingsPage.php:47
+#: core/FacebookWordpressSettingsPage.php:47
+msgid "You do not have sufficient permissions to access this page"
+msgstr "Du har ikke nødvendige tillatelser til å komme inn på denne siden"

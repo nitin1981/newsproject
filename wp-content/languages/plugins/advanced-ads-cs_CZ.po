@@ -1,0 +1,3469 @@
+# Translation of Plugins - Advanced Ads – Ad Manager &amp; AdSense - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - Advanced Ads – Ad Manager &amp; AdSense - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-31 06:49:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - Advanced Ads – Ad Manager &amp; AdSense - Stable (latest release)\n"
+
+#: admin/includes/ad-health-notices.php:179
+#: admin/includes/ad-health-notices.php:189
+#: admin/includes/ad-health-notices.php:199
+msgctxt "related to ads.txt file"
+msgid "Create one now."
+msgstr "Vytvořte si jednu teď."
+
+#: modules/gadsense/includes/class-mapi.php:1031
+msgid "No token provided. Token data needed to get account details."
+msgstr "Nebyl poskytnut žádný token. K získání informací o účtu jsou potřebné údaje tokenu."
+
+#: modules/gadsense/includes/class-mapi.php:876
+msgid "error while retrieving account alerts"
+msgstr "Chyba při načítání upozornění účtu"
+
+#: modules/gadsense/includes/class-mapi.php:867
+msgid "Invalid response body while retrieving account alerts"
+msgstr "Neplatná odpověď při načítání upozornění účtu"
+
+#: modules/gadsense/includes/class-mapi.php:573
+msgid "invalid response received while renewing access token for \"%s\""
+msgstr "Byla doručena neplatná odpověď při obnovení přístupového tokenu pro \"%s\""
+
+#: modules/gadsense/includes/class-mapi.php:548
+msgid "error while renewing access token for \"%s\""
+msgstr "Chyba při obnovování přístupového tokenu pro \"%s\""
+
+#. translators: %1$s is the AdSense publisher ID; %2$s a starting a tag to the
+#. AdSense ad unit list and %3$s the closing link.
+#: modules/gadsense/includes/class-mapi.php:437
+msgid "The account \"%1$s\" does not seem to have any ad units. Please create some %2$shere%3$s."
+msgstr "Zdá se, že účet \"%1$s\" nemá žádné reklamní jednotky. Vytvořte nějaké %2$szde%3$s."
+
+#: modules/gadsense/includes/class-mapi.php:413
+msgid "Invalid response while retrieving adUnits list for \"%s\"."
+msgstr "Neplatná odpověď při načítání seznamu reklamních jednotek pro \"%s\"."
+
+#: modules/gadsense/includes/class-mapi.php:406
+msgid "Error while retrieving adUnits list for \"%s\"."
+msgstr "Chyba při načítání seznamu reklamních jednotek pro \"%s\". "
+
+#: modules/gadsense/includes/class-mapi.php:365
+msgid "Invalid response while retrieving ad code for \"%s\"."
+msgstr "Neplatná odpověď při načítání kódu reklamy pro \"%s\"."
+
+#: modules/gadsense/includes/class-mapi.php:338
+msgid "Error while retrieving ad code for \"%s\"."
+msgstr "Chyba při načítání kódu reklamy pro \"%s\"."
+
+#: modules/ads-txt/admin/views/setting-additional-content.php:5
+msgid "Check for problems"
+msgstr "Zkontrolujte problémy"
+
+#: modules/ads-txt/admin/class-advanced-ads-ads-txt-admin.php:217
+#: modules/ads-txt/admin/views/setting-additional-content.php:4
+msgid "An error occured: %s."
+msgstr "Objevila se chyba: %s."
+
+#: modules/ads-txt/admin/class-advanced-ads-ads-txt-admin.php:205
+msgid "A third-party file exists: %s"
+msgstr "Soubor třetí strany byl již založen: %s."
+
+#: modules/ads-txt/admin/class-advanced-ads-ads-txt-admin.php:191
+msgid "The file was not created."
+msgstr "Soubor nebyl založen."
+
+#: modules/ads-txt/admin/class-advanced-ads-ads-txt-admin.php:187
+msgid "The file is available on %s."
+msgstr "Soubor je přístupný na %s."
+
+#: admin/includes/notices.php:55
+msgid "Yes, but help me first to solve a problem, please"
+msgstr "Ano, ale nejprve byste mi mohli pomoci vyřešit problém."
+
+#: admin/includes/notices.php:54
+msgid "Sure, I appreciate your work"
+msgstr "Jistě, oceňuji vaši práci."
+
+#. translators: this belongs to our message asking the user for a review. You
+#. can find a nice equivalent in your own language.
+#: admin/includes/notices.php:52
+msgid "When you give 5-stars, an actual person does a little happy dance!"
+msgstr "Když naši práci oceníte 5 hvězdami, tak poskočí radostí!"
+
+#: admin/includes/notices.php:49
+msgid "Do you find the plugin useful and would like to thank us for updates, fixing bugs and improving your ad setup?"
+msgstr "Považujete tento plugin za užitečný a chtěli byste nám poděkovat za aktualizace, opravu chyb a vylepšení nastavení reklam?"
+
+#: admin/includes/notices.php:48
+msgid "… ads created using <strong>Advanced Ads</strong>."
+msgstr "... reklamy vytvořené pomocí <strong>Advanced Ads</strong>."
+
+#: admin/includes/class-overview-widgets.php:455
+msgid "How to install and activate an add-on."
+msgstr "Jak nainstalovat a aktivovat doplněk."
+
+#: modules/gadsense/includes/class-network-adsense.php:166
+msgid "Enable this box if you don’t want Google Auto ads to place anchor ads at the top of your page."
+msgstr "Povolte toto políčko, pokud nechcete, aby reklamy služby Google Auto umístili kotvící reklamy v horní části stránky."
+
+#: modules/gadsense/includes/class-network-adsense.php:54
+msgid "Disable top anchor ad"
+msgstr "Deaktivujte kotevní reklamu v horní části stránky"
+
+#: modules/gadsense/includes/class-network-adsense.php:54
+msgid "Auto ads"
+msgstr "Automatické reklamy"
+
+#: modules/ads-txt/admin/views/setting-create.php:27
+msgid "Usually, this should be enabled on the main site of the network - often the one without a subdomain or subdirectory."
+msgstr "To by mělo být povoleno především na hlavní stránce sítě - často bez subdomény nebo podadresáře."
+
+#: modules/ads-txt/admin/views/setting-create.php:19
+msgid "Generate a single ads.txt file for all sites in the multisite network."
+msgstr "Generuj jeden soubor ads.txt pro všechny stránky v síti (Multisite network)."
+
+#: modules/ads-txt/admin/views/setting-additional-content.php:2
+msgid "Additional records to add to the file, one record per line. AdSense is added automatically."
+msgstr "Můžete doplnit další záznamy do souboru. Prosím vložte jeden záznam na jeden řádek. Služba AdSense se přidá automaticky."
+
+#. translators: %s the line that may need to be added manually
+#: modules/ads-txt/admin/class-advanced-ads-ads-txt-admin.php:230
+msgid "If your site is located on a subdomain, you need to add the following line to the ads.txt file of the root domain: %s"
+msgstr "Pokud se vaše stránka nachází na subdoméně, do souboru ads.txt v kořenové doméně je nutné přidat následující řádek: %s."
+
+#: modules/ads-txt/admin/class-advanced-ads-ads-txt-admin.php:176
+msgid "The ads.txt file cannot be placed because the URL contains a subdirectory. You need to make the file available at %s"
+msgstr "Soubor ads.txt nelze umístit, protože její URL obsahuje podadresář. Soubor musíte zpřístupnit na %s."
+
+#: admin/views/overview-notices.php:21
+msgid "Notifications"
+msgstr "Oznámení"
+
+#: admin/views/overview-notices.php:12
+msgid "Problems"
+msgstr "Problémy"
+
+#. translators: %1$s is a starting link tag, %2$s is closing the link tag.
+#: admin/views/checks.php:16
+msgid "Advanced Ads detected potential problems with your ad setup. %1$sShow me these errors%2$s"
+msgstr "Advanced Ads zjistil potenciální problémy s nastavením reklam. %1$sZobraz chyby%2$s"
+
+#: admin/views/support-callout.php:4
+msgid "Ask your question!"
+msgstr "Položte svůj dotaz."
+
+#: admin/views/support-callout.php:4
+msgid "Save time and get personal support."
+msgstr "Ušetřete čas a získejte osobní podporu."
+
+#: admin/views/support-callout.php:3
+msgid "Problems or questions?"
+msgstr "Problémy nebo otázky?"
+
+#: admin/includes/ad-health-notices.php:153
+msgid "AdSense issue"
+msgstr "Problém se službou Adsense"
+
+#: admin/includes/ad-health-notices.php:111
+msgid "Ad expired"
+msgstr "Platnost reklamy vypršela"
+
+#: admin/includes/class-meta-box.php:622
+msgid "RSS Error:"
+msgstr "Chyba RSS:"
+
+#. translators: %1$s is a starting <a> tag and %2$s a closing one.
+#: admin/views/settings/general/disable-notices.php:6
+msgid "Disable %1$sAd Health%2$s in frontend and backend, warnings and internal notices like tips, tutorials, email newsletters and update notices."
+msgstr "Zakázat službu %1$sAd Health%2$s ve frontendu a backendu, ve varovných a interních upozorněních jako jsou tipy, návody, e-mailové zpravodaje a aktualizace upozornění."
+
+#: admin/includes/class-settings.php:189
+msgid "Disable Ad Health and other notices"
+msgstr "Deaktivujte Ad Health a další upozornění"
+
+#: admin/includes/class-settings.php:77
+msgid "Content injection"
+msgstr "Vložení obsahu"
+
+#: classes/frontend_checks.php:406
+msgid "Show %d more notifications"
+msgstr "Ukaž %d více odkazů"
+
+#: classes/display-conditions.php:764
+msgid "allow ads in RSS Feed"
+msgstr "Aktivace reklam v RSS Feed"
+
+#: classes/display-conditions.php:763
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#. translators: %1$s is an anchor (link) opening tag, %2$s is the closing tag.
+#: modules/gadsense/includes/class-mapi.php:1513
+#: classes/ad-health-notices.php:865
+msgid "Learn more about AdSense account issues %1$shere%2$s."
+msgstr "Další informace o problémech s účtem AdSense %1$stu%2$s."
+
+#. translators: %s is our URL.
+#: admin/includes/class-meta-box.php:601
+msgid "Latest posts on wpadvancedads.com"
+msgstr "Poslední příspěvky na wpadvancedads.com"
+
+#: admin/views/post-ad-settings-metabox.php:1
+msgid "How to disable ads on specific pages"
+msgstr "Jak deaktivovat reklamy na konkrétních stránkách"
+
+#: admin/includes/class-meta-box.php:547
+msgid "Visit our blog for more articles about ad optimization"
+msgstr "Další články o optimalizaci reklam najdete na našem blogu"
+
+#. translators: %s is a list of server information like IP address. Just keep
+#. it as is.
+#: admin/includes/class-licenses.php:248
+msgid "Your request was blocked by our firewall. Please send us the following information to unblock you: %s."
+msgstr "Váš požadavek byl zablokován naším firewallem. Pošlete nám prosím následující informace na její odblokování: %s."
+
+#. translators: %1$s is the opening link tag to our manual; %2$s is the
+#. appropriate closing link tag; %3$s is the opening link tag to our help
+#. forum; %4$s is the appropriate closing link tag
+#: modules/gadsense/admin/views/adsense-account.php:155
+msgid "Problems with AdSense? Check out the %1$smanual%2$s or %3$sask here%4$s."
+msgstr "Problémy se službou AdSense? Viz %1$smanuál%2$s nebo se %3$szeptejte zde%4$s."
+
+#: modules/gadsense/admin/views/adsense-account.php:80
+msgid "Account holder name"
+msgstr "Jméno majitele účtu"
+
+#: admin/includes/ad-health-notices.php:158
+#: admin/includes/ad-health-notices.php:165
+#: modules/gadsense/includes/class-mapi.php:89
+msgid "Last AdSense account connection attempt failed."
+msgstr "Váš poslední pokus o připojení účtu AdSense selhal."
+
+#: admin/includes/ad-health-notices.php:177
+#: admin/includes/ad-health-notices.php:187
+#: admin/includes/ad-health-notices.php:197
+msgid "One of your sites is missing the AdSense publisher ID in the ads.txt file."
+msgstr "Na jedné z vašich stránek chybí v souboru ads.txt ID publishera služby AdSense."
+
+#: modules/gadsense/admin/views/adsense-account.php:30
+#: modules/gadsense/admin/views/adsense-account.php:62
+msgid "dismiss"
+msgstr "Zamítnout"
+
+#: modules/gadsense/admin/views/adsense-account.php:29
+msgid "AdSense warnings"
+msgstr "Upozornění služby AdSense"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:65
+msgid "cancel"
+msgstr "Zrušit"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:54
+msgid "Warning: The AdSense account from this code does not match the one set in the Advanced Ads options."
+msgstr "Upozornění: Účet AdSense spojeného s tímto kódem se neshoduje s kódem účtu udaného v možnostech Advanced Ads."
+
+#: modules/gadsense/admin/views/connect-adsense.php:64
+msgid "Use this account"
+msgstr "Použijte tento účet"
+
+#: modules/gadsense/admin/views/connect-adsense.php:59
+msgid "Please select an account"
+msgstr "Vyberte prosím účet"
+
+#: modules/gadsense/admin/views/connect-adsense.php:53
+msgid "Cannot access your account information."
+msgstr "Informace o účtu nelze zobrazit."
+
+#: admin/class-advanced-ads-admin.php:229
+msgid "Hide inactive ads"
+msgstr "Neaktivní reklamy skrýt"
+
+#: admin/class-advanced-ads-admin.php:228
+#: modules/gadsense/admin/views/external-ads-list.php:33
+msgid "Show inactive ads"
+msgstr "Neaktivní reklamy zobrazit"
+
+#: modules/gadsense/includes/class-mapi.php:1480
+msgid "There are one or more warnings about the currently linked AdSense account. You can view them <a href=\"%s\">here</a>"
+msgstr "K aktuální propojenému účtu služby AdSense existuje jedno nebo více upozornění. Můžete si je prohlédnout <a href=\"%s\">zde</a>"
+
+#: modules/gadsense/includes/class-mapi.php:1095
+msgid "An error occurred while requesting account details."
+msgstr "Při vyžádání bližších informací o účtu došlo k chybě."
+
+#: modules/gadsense/includes/class-mapi.php:506
+msgid "Advanced Ads does not have access to your account (<code>%s</code>) anymore."
+msgstr "Advanced Ads už nemá přístup k vašemu účtu (<code>%s</code>)."
+
+#: modules/gadsense/includes/class-mapi.php:499
+msgid "It seems that some changes have been made in the Advanced Ads settings. Please refresh this page."
+msgstr "Zdá se, že v nastavení pluginu Advanced Ads byly provedeny určité změny. Obnovte tuto stránku."
+
+#. translators: %1$s is the opening a tag and %2$s the closing one.
+#: admin/includes/ad-health-notices.php:167
+msgid "Create a new AdSense account %1$shere%2$s."
+msgstr "Vytvořte nový účet AdSense %1$stu%2$s."
+
+#: admin/includes/ad-health-notices.php:158
+msgid "Your account was not approved by AdSense."
+msgstr "Váš účet nebyl schválen službou AdSense."
+
+#: admin/includes/class-ad-type.php:863 classes/frontend_checks.php:434
+#: classes/ad-health-notices.php:886
+msgid "Get help"
+msgstr "Získejte pomoc"
+
+#: admin/views/setting-license.php:32
+msgid "Click on %2$s if you renewed it or have a subscription or <a href=\"%1$s\" class=\"advads-renewal-link\" target=\"_blank\">renew your license</a>."
+msgstr "Klikněte na %2$s, pokud jste jej obnovili nebo máte předplatné nebo chcete <a href=\"%1$s\" class=\"advads-renewal-link\" target=\"_blank\">obnovit licenci</a>."
+
+#: classes/ad_type_plain.php:125
+msgid "No shortcode detected in your code."
+msgstr "Ve Vašem kódu nebyl zjištěn žádný shortcode."
+
+#: classes/ad_type_plain.php:102 classes/ad_type_plain.php:125
+msgid "Uncheck this checkbox for improved performance."
+msgstr "Zrušte zaškrtnutí relevantního políčka pro zlepšení výkonu."
+
+#: classes/ad_type_plain.php:102
+msgid "No PHP tag detected in your code."
+msgstr "Ve Vašem kódu nebyl zjištěn žádný PHP tag."
+
+#. translators: %s is a link. `30%%` is correct, please use exactly that value
+#. so that it shows "30%".
+#: admin/includes/notices.php:64
+msgid "Our Black Friday / Cyber Monday Offer: <span style=\"font-weight: bold; font-size: 1.4em; color: green;\">-30%%</span> on all add-ons and All Access.<a class=\"button button-primary\" target=\"_blank\" href=\"%s\">Get All Access</a>"
+msgstr "Náš Black Friday / Cyber ​​Monday ponuka: <span style=\"font-weight: bold; font-size: 1.4em; color: green;\">-30%%</span> na všechny doplňky a na All Access.<a class=\"button button-primary\" target=\"_blank\" href=\"%s\">Získejte All Access</a> "
+
+#: classes/frontend_checks.php:313
+msgid "Auto ads code found"
+msgstr "Kód automatických reklam byl nalezen"
+
+#: modules/gadsense/admin/views/external-ads-list.php:102
+msgid "Get the code for this ad"
+msgstr "Získejte kód pro tuto reklamu"
+
+#: modules/gadsense/admin/views/external-ads-list.php:48
+#: modules/gadsense/admin/views/external-ads-list.php:58
+msgid "Size"
+msgstr "Velikost"
+
+#: modules/gadsense/admin/views/external-ads-list.php:47
+#: modules/gadsense/admin/views/external-ads-list.php:57
+msgctxt "AdSense ad"
+msgid "Type"
+msgstr "Typ"
+
+#: modules/gadsense/admin/views/external-ads-list.php:46
+#: modules/gadsense/admin/views/external-ads-list.php:56
+msgctxt "AdSense ad"
+msgid "Slot ID"
+msgstr "ID slotu"
+
+#: modules/gadsense/admin/admin.php:182
+msgid "The AdSense verification and Auto ads code should be set up in the <a href=\"%s\">AdSense settings</a>. Click on the following button to enable it now."
+msgstr "Ověřovací kód služby AdSense, který je kódem i pro automatické reklamy, se nachází v <a href=\"%s\">nastaveních AdSense</a>. Kliknutím na následující tlačítko ho nyní aktivujete."
+
+#: modules/gadsense/includes/class-network-adsense.php:203
+msgid "Auto ads on AMP pages"
+msgstr "Automatické reklamy na AMP stránkách"
+
+#: modules/gadsense/includes/class-network-adsense.php:202
+#: classes/frontend_checks.php:827
+msgid "Display Auto ads only on specific pages"
+msgstr "Zobrazit automatické reklamy jen na určených stránkách"
+
+#: modules/gadsense/includes/class-network-adsense.php:201
+msgid "Please read <a href=\"%s\" target=\"_blank\">this article</a> if <strong>ads appear in random places</strong>."
+msgstr "Přečtěte si <a href=\"%s\" target=\"_blank\">tento článek</a>, pokud <strong>se reklamy zobrazí na náhodných místech</strong>."
+
+#: modules/gadsense/includes/class-network-adsense.php:199
+msgid "Adjust Auto ads options"
+msgstr "Upravte nastavení pro automatické reklamy"
+
+#: classes/frontend_checks.php:276
+msgid "The following responsive AdSense ads are not showing up: %s"
+msgstr "Nasledujici responzivní reklamy služby Adsense se nezobrazují: %s."
+
+#: classes/ad_type_image.php:214
+msgid "Original size: %s"
+msgstr "Původní velikost: %s"
+
+#: admin/views/placement-injection-top.php:74
+msgid "inject Auto ads"
+msgstr "vložit automatické reklamy"
+
+#: admin/views/placement-injection-top.php:63
+msgid "Click on the button below to add the Auto ads code to the header of your site."
+msgstr "Kliknutím na tlačítko níže přidáte kód automatických reklam do záhlaví Vaší stránky."
+
+#: admin/views/placement-injection-top.php:60
+#: modules/gadsense/admin/admin.php:180
+msgid "No need to add the code manually here, unless you want to include it into certain pages only."
+msgstr "Není třeba zde ručně přidat kód, pokud jej chcete použít pouze na určitých stránkách."
+
+#. translators: %s is a URL.
+#: admin/views/placement-injection-top.php:48
+#: modules/gadsense/admin/admin.php:178
+msgid "The AdSense verification and Auto ads code is already activated in the <a href=\"%s\">AdSense settings</a>."
+msgstr "Kód pro verifikace AdSense a kód pro automatické reklamy jsou již aktivovány v <a href=\"%s\">nastavení služby AdSense</a>."
+
+#: admin/views/pitches/all-access.php:13
+msgid "Get All Access"
+msgstr "Získejte přístup ke všem funkcím"
+
+#: admin/views/feedback-disable.php:46
+msgid "Disabling the plugin now…"
+msgstr "Deaktivujte plugin nyní..."
+
+#. translators: %s is the title of the website.
+#: admin/views/feedback-disable.php:43
+msgid "All the best to you and %s."
+msgstr "Jen to nejlepší pro Vás a %s."
+
+#: admin/views/feedback-disable.php:39
+msgid "Thanks for submitting your feedback. I will reply within 24 hours on working days."
+msgstr "Děkujeme za odeslání Vaší připomínky. Během pracovních dnů odpovím na ni do 24 hodin."
+
+#: admin/views/feedback-disable.php:34
+msgid "Send feedback"
+msgstr "Pošlete Vaše připomínky"
+
+#: admin/views/feedback-disable.php:33
+msgid "Send feedback & deactivate"
+msgstr "Pošlete Vaše připomínky a deaktivujte plugin"
+
+#: admin/includes/ad-health-notices.php:72 admin/views/support.php:57
+msgid "Advanced Ads related constants enabled"
+msgstr "Konstanty pluginu Advanced Ads jsou povoleny"
+
+#: admin/includes/class-ad-type.php:263 admin/includes/class-ad-type.php:269
+msgid "Ad Shortcode"
+msgstr "Přidat shortcode"
+
+#: modules/gadsense/admin/views/external-ads-links.php:38
+#: modules/gadsense/admin/views/adsense-account.php:163
+msgid "Can not connect AdSense account. PHP version is too low."
+msgstr "Nemohu Vás spojit s účtem služby Adsense. Vaše PHP verze je příliš zastaralá."
+
+#: modules/privacy/admin/views/setting-enable.php:6
+msgid "Cache-busting in <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> solves that."
+msgstr "Řeší to 'cache-busting' ve verzi <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a>."
+
+#: modules/privacy/admin/views/setting-enable.php:5
+msgid "Your users’ consent might get cached and show ads to users who didn’t give their consent yet. "
+msgstr "Souhlas Vašich uživatelů může být cachován a tak může zobrazovat reklamy i uživatelům, kteří ještě neposkytli svůj souhlas."
+
+#: modules/gadsense/admin/views/external-ads-list.php:125
+msgid "This ad type can currently not be imported from AdSense."
+msgstr "Tento typ reklamy momentálně nelze importovat ze služby AdSense."
+
+#: modules/gadsense/admin/views/external-ads-list.php:119
+msgid "Unrecognized ad code"
+msgstr "Nerozpoznaný kód reklamy"
+
+#: modules/gadsense/admin/views/external-ads-list.php:76
+msgid "No ad units found"
+msgstr "Reklamní jednotka nebyla nalezena"
+
+#: modules/gadsense/admin/views/external-ads-list.php:34
+#: modules/gadsense/admin/views/external-ads-list.php:78
+msgid "Update the ad units list"
+msgstr "Aktualizovat seznam reklamních jednotek"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:141
+msgid "Enable this box if responsive ads cover something on your site"
+msgstr "Označte toto políčko, pokud je na Vaší straně překryta nějaká část responzívnou reklamou."
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:138
+msgid "Clearfix"
+msgstr "Clearfix"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:91
+msgid "The ad slot ID is either a number or empty and not the same as the publisher ID."
+msgstr "ID reklamního prostoru je buď prázdné nebo číslo, které neodpovídá ID vydavatele."
+
+#: modules/gadsense/admin/views/external-ads-links.php:18
+msgid "Get ad code from your linked account"
+msgstr "Kód reklamy získejte z Vašeho propojeného účtu"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:67
+msgid "connect to your AdSense account"
+msgstr "spojit se s Vaším účtem AdSense"
+
+#: modules/gadsense/admin/views/connect-adsense.php:45
+msgid "Submit code"
+msgstr "Odeslat kód"
+
+#: modules/gadsense/admin/views/connect-adsense.php:35
+msgid "Please enter the confirmation code."
+msgstr "Zadejte prosím potvrzovací kód."
+
+#: modules/gadsense/admin/views/adsense-account.php:97
+msgid "No, I still don't have an AdSense account"
+msgstr "Ne, ještě stále nemám účet AdSense."
+
+#: modules/gadsense/admin/views/adsense-account.php:94
+msgid "Configure everything manually"
+msgstr "Nakonfigurujte si vše sami"
+
+#: modules/gadsense/admin/views/adsense-account.php:92
+msgid "Yes, I have an AdSense account"
+msgstr "Ano, mám účet AdSense"
+
+#: modules/gadsense/admin/views/adsense-account.php:74
+msgid "Revoke API acccess"
+msgstr "Zrušit přístup API"
+
+#: admin/includes/class-overview-widgets.php:121
+#: modules/gadsense/admin/views/adsense-account.php:71
+#: modules/gadsense/admin/views/adsense-account.php:93
+msgid "Connect to AdSense"
+msgstr "Připojte se ke službě AdSense"
+
+#: modules/gadsense/includes/class-network-adsense.php:34
+msgid "AdSense account"
+msgstr "Účet na AdSense"
+
+#: admin/views/notices/welcome-panel.php:43
+msgid "Setting up AdSense ads manually"
+msgstr "Ruční nastavení reklam AdSense"
+
+#: admin/views/notices/welcome-panel.php:40
+msgid "Setting up Auto ads"
+msgstr "Nastavení automatických reklam"
+
+#: admin/views/notices/welcome-panel.php:36
+msgid "Import ads from AdSense"
+msgstr "Import reklam z AdSense"
+
+#: admin/views/notices/welcome-panel.php:34
+msgid "AdSense Options"
+msgstr "Možnosti AdSense"
+
+#: admin/views/notices/welcome-panel.php:19
+msgid "First ad tutorial"
+msgstr "Návod jak vložit svou první reklamu a ji spravovat"
+
+#: admin/views/notices/welcome-panel.php:13
+msgid "Get Started"
+msgstr "Začněte"
+
+#: admin/views/feedback-disable.php:7
+msgid "I have a problem, a question or need help."
+msgstr "Mám problém, otázku a potřebuji pomoc."
+
+#: admin/views/notices/welcome-panel.php:10
+msgid "Welcome to Advanced Ads!"
+msgstr "Vítejte u Advanced Ads!"
+
+#: modules/privacy/classes/plugin.php:150
+msgid "Cookie"
+msgstr "Cookie"
+
+#: modules/privacy/classes/plugin.php:149
+msgid "Show all ads even without consent."
+msgstr "I bez souhlasu zobrazit všechny reklamy."
+
+#: modules/privacy/admin/views/setting-consent-method.php:18
+msgid "Show non-personalized AdSense ads until consent is given."
+msgstr "Zobrazit nespecifikované reklamy AdSense, dokud nebude zadaný souhlas."
+
+#: modules/privacy/admin/views/setting-consent-method.php:12
+msgid "Value"
+msgstr "Hodnota"
+
+#: modules/privacy/admin/views/setting-ad-ignore-consent.php:6
+msgid "Ignore <a href=\"%s\">general Privacy settings</a> and display the ad even without consent."
+msgstr "Ignorovaní <a href=\"%s\">obecného nastavení ochrany osobních údajů</a> a zobrazení reklamy i bez souhlasu uživatele."
+
+#: modules/privacy/admin/views/setting-ad-ignore-consent.php:2
+msgid "privacy"
+msgstr "Ochrana osobních údajů"
+
+#: modules/privacy/admin/admin.php:87
+msgid "Consent method"
+msgstr "Způsob souhlasu"
+
+#: modules/privacy/admin/admin.php:84
+msgid "Enable Privacy module"
+msgstr "Umožněte Privacy module (Modul ochrany osobních údajů)."
+
+#: modules/privacy/admin/admin.php:63
+msgid "Privacy"
+msgstr "Ochrana osobních údajů "
+
+#: classes/frontend_checks.php:290
+msgid "Consent not given"
+msgstr "Souhlas nebyl zadán."
+
+#. translators: %s is empty here, but the string will be followed by a name of
+#. an ad unit.
+#: admin/includes/ad-health-notices.php:121 classes/frontend_checks.php:247
+msgid "Visible ads should not use the Header placement: %s"
+msgstr "Viditelné reklamy by neměli používat Header placement (Umístění záhlaví): %s."
+
+#: admin/includes/class-overview-widgets.php:776
+msgid "Manage ad positions with WPBakery Page Builder (formerly Visual Composer)."
+msgstr "Správa pozic reklamy pomocí funkce WPBakery Page Builder (původně jako Visual Composer)."
+
+#. translators: %s is a URL.
+#: admin/views/support.php:43
+msgid "Upgrade to any premium add-on and get <strong>priority email support</strong> or reach out through the <a href=\"%s\" target=\"_blank\">support forum</a> for individual help."
+msgstr "Upgradujte na libovolný doplňkový prémiový účet a získejte <strong>prioritní technickou podporu pomocí mailu</strong> nebo nás oslovte <a href=\"%s\" target=\"_blank\">pomocí fóra technické podpory</a>."
+
+#: modules/gadsense/admin/views/connect-adsense.php:43
+#: modules/gadsense/includes/class-network-adsense.php:194
+msgid "Insert the AdSense header code used for verification and the Auto Ads feature."
+msgstr "Vložte kód hlavičky AdSense, který jste použili k ověření a funkci automatických reklam."
+
+#: modules/gadsense/admin/views/adsense-account.php:98
+msgid "Get a free AdSense account"
+msgstr "Získejte bezplatný AdSense účet."
+
+#: modules/gadsense/includes/class-network-adsense.php:43
+msgid "Verification code & Auto ads"
+msgstr "Ověřovací kód & automatické reklamy"
+
+#: classes/ad_type_plain.php:122
+msgid "Execute shortcodes"
+msgstr "Provádět shortcodes"
+
+#: classes/ad_type_plain.php:117
+msgid "Allow shortcodes"
+msgstr "Povolit shortcodes"
+
+#: modules/gadsense/admin/admin.php:183
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: classes/frontend_checks.php:491
+msgid "the following code is used for automatic error detection and only visible to admins"
+msgstr "Následující kód se používá pro automatickou detekci chyb a je viditelný pouze pro administrátory."
+
+#. translators: %s is a list of PHP extensions.
+#. translators: %s is a name of a module.
+#: admin/includes/ad-health-notices.php:54 admin/views/placements.php:168
+msgid "Missing PHP extensions could cause issues. Please ask your hosting provider to enable them: %s"
+msgstr "Chybějící rozšíření PHP by mohly způsobit problémy. Požádejte svého poskytovatele hostingu o povolení: %s"
+
+#: admin/views/settings/general/block-bots.php:10
+msgid "Hide ads from crawlers, bots and empty user agents."
+msgstr "Skrytě reklamy z prohlížečů, robotů a prázdných uživatelských agentů."
+
+#: admin/views/settings/general/block-bots.php:9
+msgid "Read this first"
+msgstr "Přečtěte si nejprve tohle"
+
+#: classes/ad_type_plain.php:33
+msgid "Any ad network, Amazon, customized AdSense codes, shortcodes, and code like JavaScript, HTML or PHP."
+msgstr "Každá reklamní síť, Amazon, přizpůsobené kódy AdSense, shortcodes a kódy jako JavaScript, HTML nebo PHP."
+
+#: admin/views/pitches/all-access.php:1
+msgid "All Access – with all available add-ons"
+msgstr "All Access - přístup ke všem dostupným doplňkem"
+
+#: admin/includes/class-overview-widgets.php:794
+msgid "Get full access"
+msgstr "Získat plný přístup"
+
+#: admin/includes/class-overview-widgets.php:792
+msgid "Our best deal with all add-ons included."
+msgstr "Naše nejlepší řešení se všemi doplňky."
+
+#: admin/includes/class-overview-widgets.php:170
+msgid "Get the All Access pass"
+msgstr "Získat povolení k All Access"
+
+#: admin/includes/class-overview-widgets.php:153
+msgid "Do you find Advanced Ads useful and would like to keep us motivated? Please help us with a review."
+msgstr "Považujete Advanced Ads za užitečný a rádi byste nás nadále motivovali? Pomozte nám a napište nám."
+
+#: admin/includes/class-overview-widgets.php:157
+msgid "I already did"
+msgstr "Už jsem"
+
+#: admin/includes/class-overview-widgets.php:155
+msgid "Sure, I’ll rate the plugin"
+msgstr "Samozřejmě, Váš plugin ohodnotím."
+
+#. translators: %s: plugin name.
+#: lib/yoast/i18n-module/src/i18n-v3.php:295
+msgid "Translation of %s"
+msgstr "Překlad %s"
+
+#. translators: %1$s is the notification dismissal link start tag, %2$s is the
+#. link closing tag.
+#: lib/yoast/i18n-module/src/i18n-v3.php:275
+msgid "%1$sPlease don't show me this notification anymore%2$s"
+msgstr "%1$sProsím, nezobrazujte více toto oznámení%2$s."
+
+#: lib/yoast/i18n-module/src/i18n-v3.php:259
+msgid "Register now &raquo;"
+msgstr "Zaregistrujte se nyní"
+
+#. translators: 2: plugin name; 4: link to translation platform.
+#: lib/yoast/i18n-module/src/i18n-v3.php:241
+msgid "You're using WordPress in a language we don't support yet. We'd love for %2$s to be translated in that language too, but unfortunately, it isn't right now. You can change that! Register at %4$s to help translate it!"
+msgstr "Právě používáte WordPress v jazyce, do kterého ještě nebyl přeložen. %2$s bychom měli rádi přeložen i do Vašeho jazyka. Můžete to změnit! Zaregistrujte se na %4$s a pomozte s překladem!"
+
+#. translators: 1: language name; 2: plugin name; 3: completion percentage; 4:
+#. link to translation platform.
+#: lib/yoast/i18n-module/src/i18n-v3.php:237
+msgid "You're using WordPress in %1$s. While %2$s has been translated to %1$s for %3$d%%, it's not been shipped with the plugin yet. You can help! Register at %4$s to help complete the translation to %1$s!"
+msgstr "Právě používáte WordPress v %1$s. I když je plugin %2$s přeložen do %1$s na %3$d%%, není zatím v tomto jazyce dostupný. Můžete nám pomoci! Zaregistrujte se na %4$s a pomozte nám dokončit překlad do %1$s."
+
+#. translators: 1: language name; 3: completion percentage; 4: link to
+#. translation platform.
+#: lib/yoast/i18n-module/src/i18n-v3.php:233
+msgid "As you can see, there is a translation of this plugin in %1$s. This translation is currently %3$d%% complete. We need your help to make it complete and to fix any errors. Please register at %4$s to help complete the translation to %1$s!"
+msgstr "Jak vidíte, tento plugin je aktuálně přeložen do %1$s na %3$d%%. Na to, abychom ho dokončili a opravili chyby, potřebujeme Vaši pomoc. Přihlaste se prosím na %4$s a pomozte s překladem do %1$s!"
+
+#: modules/gadsense/admin/admin.php:127
+msgid "<a href=\"%s\" target=\"_blank\">Install the free AdSense In-feed add-on</a> in order to place ads between posts."
+msgstr "<a href=\"%s\" target=\"_blank\">Nainstalujte si bezplatné rozšíření AdSense In-feed</a> na umístění reklam mezi příspěvky."
+
+#: modules/ad-blocker/admin/views/setting-use-adblocker.php:8
+msgid "Learn how to display alternative content to ad block users <a href=\"%s\" target=\"_blank\">in the manual</a>."
+msgstr "Zjistěte v <a href=\"%s\" target=\"_blank\">manuálu</a>, jak zobrazit alternativní obsah uživatelům adblockeru."
+
+#: admin/views/placement-injection-top.php:99
+msgid "AdSense In-feed"
+msgstr "AdSense In-feed"
+
+#: admin/views/pitches/tracking.php:8
+msgid "spread impressions or clicks equally over a given period"
+msgstr "Šiřte zobrazení nebo kliknutí rovnoměrně během období, které jste si zadali."
+
+#: admin/views/pitches/tracking.php:7
+msgid "limit ads views by overall number of impressions or clicks"
+msgstr "Omezte banery zadáním celkového počtu jejich zobrazení nebo kliknutí."
+
+#: admin/views/pitches/tracking.php:6
+msgid "share reports via link or email"
+msgstr "Sdílejte přehledy prostřednictvím odkazů nebo e-mailu."
+
+#: admin/views/pitches/tracking.php:5
+msgid "compare ads and periods"
+msgstr "Porovnejte reklamy a období jejich zobrazení."
+
+#: admin/views/pitches/tracking.php:4
+msgid "track impressions and click on your ads"
+msgstr "Sledujte zobrazení a kliknutí na Vaše reklamy."
+
+#: admin/views/pitches/pro-tab.php:13 admin/views/pitches/tracking.php:10
+msgid "See all features and pricing"
+msgstr "Zobrazit všechny funkce a ceny."
+
+#: admin/views/pitches/pro-tab.php:6
+msgid "Lazy Loading"
+msgstr "Lazy Loading"
+
+#: admin/views/pitches/pro-tab.php:5
+msgid "Click Fraud Protection"
+msgstr "Ochrana před podvodem"
+
+#: admin/views/pitches/pro-tab.php:4
+msgid "Ads for Ad Blockers"
+msgstr "Reklamy pro adblockery"
+
+#: admin/views/pitches/pro-tab.php:2
+msgid "Advanced Ads Pro – test and optimize your ad performance"
+msgstr "Advanced Ads Pro - Otestujte a optimalizujte výkonnost Vašich reklam."
+
+#: admin/views/pitches/all-access.php:12
+msgid "Risk free with 30-day Money-Back guarantee"
+msgstr "Bez rizika s 30-denní garancí vrácení peněz"
+
+#: classes/visitor-conditions.php:285
+msgid "browser width"
+msgstr "Šířka okna prohlížeče"
+
+#: classes/visitor-conditions.php:282
+msgid "geo location"
+msgstr "Geolokace"
+
+#: classes/visitor-conditions.php:278
+msgid "user can (capabilities)"
+msgstr "User can (Právo uživatele)"
+
+#: classes/visitor-conditions.php:277
+msgid "user agent"
+msgstr "User agent "
+
+#: classes/visitor-conditions.php:276
+msgid "referrer url"
+msgstr "URL odkazovače"
+
+#: classes/visitor-conditions.php:275
+msgid "page impressions"
+msgstr "Zobrazení stránky"
+
+#: classes/visitor-conditions.php:274
+msgid "new visitor"
+msgstr "Nový návštěvník"
+
+#: classes/visitor-conditions.php:273
+msgid "max. ad impressions"
+msgstr "max. zobrazení reklam"
+
+#: classes/visitor-conditions.php:272
+msgid "max. ad clicks"
+msgstr "max. kliknutí na reklamy"
+
+#: classes/visitor-conditions.php:271
+msgid "cookie"
+msgstr "Cookie"
+
+#: classes/visitor-conditions.php:270
+msgid "browser language"
+msgstr "Jazyk prohlížeče"
+
+#: admin/views/conditions/conditions-form.php:24
+msgid "Add-On features"
+msgstr "Doplňkové funkce"
+
+#: classes/display-conditions.php:266
+msgid "accelerated mobile pages"
+msgstr "Zrychlené mobilní stránky (AMP)"
+
+#: classes/display-conditions.php:263
+msgid "url parameters"
+msgstr "URL parametry"
+
+#: classes/display-conditions.php:262
+msgid "page template"
+msgstr " Šablóna stránky "
+
+#: classes/display-conditions.php:261
+msgid "post meta"
+msgstr "Metadata příspěvků"
+
+#: classes/display-conditions.php:260
+msgid "parent page"
+msgstr "Nadřazená stránka"
+
+#: admin/includes/class-settings.php:355
+msgid "Are you missing something?"
+msgstr "Chybí Vám něco?"
+
+#: admin/includes/class-settings.php:309 admin/views/pitches/tracking.php:2
+msgid "Tracking"
+msgstr "Tracking"
+
+#: admin/includes/class-settings.php:291
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/includes/class-overview-widgets.php:589
+msgid "Place AdSense In-feed ads between posts on homepage, category, and archive pages."
+msgstr "Umístěte reklamy AdSense In-feed mezi příspěvky na domovské stránce, v kategoriích a na archivních stránkách."
+
+#: admin/includes/class-overview-widgets.php:528
+msgid "click fraud protection, lazy load, ad-block ads"
+msgstr "Ochrana před podvodem, lazy load a reklamy adblockeru"
+
+#: admin/includes/class-meta-box.php:131
+msgid "Ad Stats"
+msgstr "Ad Stats (statistiky reklamy) "
+
+#: admin/includes/class-meta-box.php:121
+msgid "Increase your ad revenue"
+msgstr "Zvyšte výnosy z reklamy."
+
+#: modules/gadsense/includes/class-network-adsense.php:228
+msgid "Enable this option in case your theme adds an unfortunate background color to AdSense ads."
+msgstr "V případě, že má Vaše téma nevhodnou barvu pozadí pro reklamy z AdSense, využijte tuto možnost."
+
+#: modules/gadsense/includes/class-network-adsense.php:94
+msgid "Transparent background"
+msgstr "Transparentní pozadí"
+
+#: admin/views/settings/general/block-bots.php:5
+#: classes/frontend_checks.php:114
+msgid "You look like a bot"
+msgstr "Jste robot?"
+
+#: classes/frontend_checks.php:195
+msgid "Ads are disabled on all pages"
+msgstr "Reklamy jsou zakázány na všech stránkách."
+
+#: modules/gadsense/includes/class-network-adsense.php:217
+msgid "Our <a href=\"%s\" target=\"_blank\">Ad Health</a> feature monitors if AdSense is implemented correctly on your site. It also considers ads not managed with Advanced Ads. Enable this option to remove these checks"
+msgstr "Naše funkce <a href=\"%s\" target=\"_blank\">Ad Health</a> sleduje, zda je služba AdSense na Vašich stránkách správně implementována. Zohledňuje také reklamy, které nejsou spravovány pomocí Advanced Ads. Chcete-li tuto kontrolu odstranit, povolte tuto možnost."
+
+#: modules/gadsense/includes/class-network-adsense.php:216
+msgid "Disable warnings about potential violations of the AdSense terms."
+msgstr "Deaktivovat upozornění na případné porušení podmínek AdSense."
+
+#: modules/gadsense/includes/class-network-adsense.php:86
+msgid "Disable violation warnings"
+msgstr "Deaktivovat varovná hlášení AdSense."
+
+#: classes/frontend_checks.php:263
+msgid "IDs: %s"
+msgstr "IDs: %s"
+
+#: admin/includes/ad-health-notices.php:136 classes/frontend_checks.php:262
+msgid "Ad is hidden"
+msgstr "Reklama je skrytá."
+
+#: admin/includes/ad-health-notices.php:135 classes/frontend_checks.php:261
+msgid "AdSense violation"
+msgstr "Porušení práv AdSense"
+
+#: admin/views/settings/general/link-target.php:6
+msgid "Open programatically created links in a new window (use <code>target=\"_blank\"</code>)"
+msgstr "Otevřete programem vytvořené odkazy v novém okně. (Použijte <code>target=\"_blank\"</code>.)"
+
+#. translators: %s is the name of another plugin.
+#: admin/includes/class-overview-widgets.php:487
+#: admin/includes/class-overview-widgets.php:499
+#: admin/includes/class-overview-widgets.php:511
+#: admin/includes/class-overview-widgets.php:523
+msgid "integrates with <strong>%s</strong>"
+msgstr "podporuje <strong>%s</strong>"
+
+#: public/class-advanced-ads.php:684
+msgctxt "ad group general name"
+msgid "Ad Groups & Rotations"
+msgstr "Skupiny reklam & rotace"
+
+#: modules/adblock-finder/admin/views/setting-ga.php:2
+msgid "Want to know how many of your visitors are using an ad blocker? Enter your Google Analytics property ID above to count them."
+msgstr "Chcete vědět, kolik Vašich návštěvníků používá adblocker? Zadejte nahoru své ID služby Google Analytics a spočítejte je."
+
+#: modules/adblock-finder/admin/admin.php:23
+msgid "Ad blocker counter"
+msgstr "Čítač adblockeru"
+
+#: modules/adblock-finder/admin/admin.php:16
+msgid "Ad Blocker"
+msgstr "Adblocker"
+
+#: classes/frontend_checks.php:235
+msgid "Ad IDs: %s"
+msgstr "IDs reklam: %s"
+
+#: admin/includes/class-menu.php:121
+msgid "Groups & Rotation"
+msgstr "Skupiny & rotace"
+
+#: admin/includes/class-menu.php:120
+msgid "Ad Groups & Rotations"
+msgstr "Skupiny reklam & rotace"
+
+#: classes/ad_type_image.php:64 classes/ad_type_dummy.php:45
+msgid "URL"
+msgstr "URL"
+
+#: admin/views/placement-injection-top.php:120
+msgid "see all…"
+msgstr "Všechny zobrazit..."
+
+#: admin/views/placement-injection-top.php:115
+msgid "PopUp & Layer"
+msgstr "PopUp & Layer"
+
+#: admin/views/placement-injection-top.php:90
+#: admin/views/placement-injection-top.php:94
+msgid "Custom Position"
+msgstr "Vlastní pozice"
+
+#: admin/views/placement-injection-top.php:86
+msgid "Header (Manual)"
+msgstr "Záhlaví (Viz manuál.)"
+
+#: admin/views/placement-injection-top.php:84
+msgid "PHP or Shortcode"
+msgstr "PHP nebo shortcode"
+
+#: admin/views/placement-injection-top.php:16
+msgid "Adjust the placement options"
+msgstr "Upravit možnosti umístění"
+
+#: admin/views/placement-injection-top.php:15
+msgid "Congratulations! Your ad is now visible in the frontend."
+msgstr "Blahopřejeme! Vaše reklama je nyní viditelná na frontendu."
+
+#: classes/display-conditions.php:123
+msgid "Display ads based on the taxonomy of an archive page."
+msgstr "Zobrazte reklamy založené na taxonomii archivní stránky."
+
+#: classes/display-conditions.php:122
+msgid "taxonomy"
+msgstr "Taxonomie"
+
+#: admin/includes/class-settings.php:222
+msgid "Open links in a new window"
+msgstr "Otevřít odkazy v novém okně"
+
+#: admin/includes/class-overview-widgets.php:813
+msgid "Get this add-on"
+msgstr "Získejte doplněk"
+
+#: admin/includes/class-overview-widgets.php:760
+msgid "Use Genesis specific ad positions."
+msgstr "Použijte pozice reklamy specifické pro Genesis."
+
+#: admin/includes/class-overview-widgets.php:657
+msgid "List of responsive ads by browser width"
+msgstr "Seznam responzívnych reklam podle šířky prohlížeče"
+
+#: admin/includes/class-overview-widgets.php:636
+msgid "Visit your ad stats"
+msgstr "Navštivte své statistiky reklam."
+
+#: admin/includes/class-overview-widgets.php:610
+#: admin/includes/class-overview-widgets.php:628
+#: admin/includes/class-overview-widgets.php:653
+#: admin/includes/class-overview-widgets.php:671
+#: admin/includes/class-overview-widgets.php:689
+#: admin/includes/class-overview-widgets.php:707
+#: admin/includes/class-overview-widgets.php:725
+#: admin/includes/class-overview-widgets.php:743
+msgid "Activate now"
+msgstr "Nyní aktivovat"
+
+#: admin/includes/class-overview-widgets.php:592
+#: admin/includes/class-overview-widgets.php:764
+#: admin/includes/class-overview-widgets.php:780
+msgid "Install now"
+msgstr "Nyní nainstalovat"
+
+#: admin/includes/class-overview-widgets.php:583
+msgid "Create a beautiful and simple slider from your ads to show more information on less space."
+msgstr "Vytvořte z Vašich reklam krásný a jednoduchý posuvník a zobrazte tak více informací na menším prostoru."
+
+#: admin/includes/class-overview-widgets.php:577
+msgid "Users will never miss an ad or other information in a PopUp. Choose when it shows up and for how long a user can close it."
+msgstr "S pop-up oknem uživatelé nikdy nezmeškají reklamu nebo jinou informaci. Vyberte, kdy se má okno zobrazit a po jaké době se může zavřít."
+
+#: admin/includes/class-overview-widgets.php:571
+msgid "Increase click rates on your ads by placing them in sticky positions above, next or below your site."
+msgstr "Zvyšte počet kliknutí na Vaše reklamy tím, že je umístíte do pevných pozic nad, vedle nebo pod Vaší stránkou."
+
+#: admin/includes/class-overview-widgets.php:565
+msgid "Target visitors with ads that match their geo location and make more money with regional campaigns."
+msgstr "Zobrazte reklamy na základě geografické polohy Vašich návštěvníků a vydělejte více peněz regionálními kampaněmi."
+
+#: admin/includes/class-overview-widgets.php:559
+msgid "Earn more money and let advertisers pay for ad space directly on the frontend of your site."
+msgstr "Vydělejte více peněz a nechte inzerenty platit za reklamní prostor přímo na frontendu Vaší stránky."
+
+#: admin/includes/class-overview-widgets.php:546
+msgid "Display ads based on the device or the size of your visitor’s browser, and control ads on AMP pages."
+msgstr "Zobrazte reklamy založené na typu zařízení nebo velikosti prohlížeče Vašeho návštěvníka a mějte kontrolu nad reklamami na AMP stránkách."
+
+#: admin/includes/class-overview-widgets.php:540
+msgid "Analyze clicks and impressions of your ads locally or in Google Analytics, share reports, and limit ads to a specific number of impressions or clicks."
+msgstr "Analyzujte kliknutí a zobrazení reklam lokálně nebo ve službě Google Analytics, sdílejte přehledy a omezte reklamy na určitý počet zobrazení nebo kliknutí."
+
+#: admin/includes/class-overview-widgets.php:532
+#: admin/views/pitches/pro-tab.php:11
+msgid "ad grids and many more advanced features"
+msgstr "Reklamní mřížky a mnoho dalších funkcí"
+
+#: admin/includes/class-overview-widgets.php:531
+#: admin/views/pitches/pro-tab.php:10
+msgid "placement tests for ad optimization"
+msgstr "Testy pro umístění na optimalizaci reklam"
+
+#: admin/includes/class-overview-widgets.php:530
+#: admin/views/pitches/pro-tab.php:9
+msgid "6 more placements"
+msgstr "Dalších 6 umístění"
+
+#: admin/includes/class-overview-widgets.php:529
+#: admin/views/pitches/pro-tab.php:8
+msgid "11 more display and visitor conditions"
+msgstr "11 dalších podmínek pro zobrazení a pro návštěvníky"
+
+#: admin/includes/class-overview-widgets.php:471
+#: admin/views/pitches/pro-tab.php:7
+msgid "support for cached sites"
+msgstr "Technická podpora pro cachované stránky"
+
+#: admin/includes/class-overview-widgets.php:462
+msgid "The solution for professional websites."
+msgstr "Řešení pro profesionální webové stránky"
+
+#: admin/includes/class-overview-widgets.php:164
+msgid "Manage your ads"
+msgstr "Spravujte Vaše reklamy"
+
+#: admin/includes/class-overview-widgets.php:136
+msgid "How to earn more with AdSense"
+msgstr "Jak vydělávat více s AdSense."
+
+#: admin/includes/class-overview-widgets.php:132
+msgid "Join the newsletter for more benefits"
+msgstr "Aktivujte newsletter a získejte více výhod."
+
+#: admin/includes/class-ad-type.php:862
+msgid "You don’t have access to ads. Please deactivate and re-enable Advanced Ads again to fix this."
+msgstr "Nemáte přístup k reklamám. Deaktivací a reaktivací Advanced Ads to můžete vyřešit."
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:133
+msgid "Layout-Key"
+msgstr "Layout-Key"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:128
+msgid "Layout"
+msgstr "Layout"
+
+#: admin/views/setting-license.php:23
+msgid "Update expiry date"
+msgstr "Aktualizovat datum ukončení platnosti"
+
+#: admin/views/placements.php:194
+msgid "ad label"
+msgstr "Reklamní štítek"
+
+#: admin/views/placements.php:158
+msgid "position"
+msgstr "Pozice"
+
+#: admin/views/ad-group.php:73
+msgid "save"
+msgstr "Uložit"
+
+#: admin/views/ad-group.php:72
+msgid "Group title"
+msgstr "Název skupiny"
+
+#: admin/includes/class-ad-groups-list.php:410
+msgid "No ad group created"
+msgstr "Nebyla vytvořena žádná skupina reklam."
+
+#: admin/views/ad-group.php:24
+msgid "Ad Group successfully created"
+msgstr "Skupina reklam byla úspěšně vytvořena."
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:62
+msgid "Copy the ad code from your AdSense account, paste it into the area below and click on <em>Get details</em>."
+msgstr "Zkopírujte kód reklamy z účtu AdSense, vložte jej do pole níže a klikněte na on <em>Více informací</em>."
+
+#: classes/frontend_checks.php:100
+msgid "Random AdSense ads"
+msgstr "Náhodné reklamy služby AdSense"
+
+#: classes/display-conditions.php:807
+msgid "days"
+msgstr "Dny"
+
+#: classes/display-conditions.php:805
+msgid "younger than"
+msgstr "mladší než"
+
+#: classes/display-conditions.php:804
+msgid "older than"
+msgstr "starší než"
+
+#: classes/display-conditions.php:116
+msgid "Display ads based on age of the page."
+msgstr "Zobrazit reklamy založené na věku stránky."
+
+#: classes/display-conditions.php:115
+msgid "content age"
+msgstr "Věk obsahu"
+
+#: classes/ad_type_dummy.php:27
+msgid "Uses a simple placeholder ad for quick testing."
+msgstr "Pro rychlé testování je použita jednoduchá reklama."
+
+#: classes/ad_type_dummy.php:26
+msgid "Dummy"
+msgstr "Dummy"
+
+#. translators: %s is a URL.
+#: admin/views/placements.php:225
+msgid "Tutorial: <a href=\"%s\" target=\"_blank\">How to place visible ads in the header of your website</a>."
+msgstr "Instruktážní video: <a href=\"%s\" target=\"_blank\">How to place visible ads in the header of your website</a>.  (Jak umístit viditelné reklamy do záhlaví Vašeho webu.)"
+
+#: admin/views/placements.php:204
+msgid "show all options"
+msgstr "Zobrazit všechny možnosti"
+
+#: admin/views/placements.php:129
+msgid "template (PHP)"
+msgstr "Šablona (PHP)"
+
+#: admin/views/placements-ad-label.php:17
+#: admin/views/placements-ad-label.php:19
+#: modules/ads-txt/admin/views/setting-create.php:6
+#: modules/ads-txt/admin/views/setting-create.php:8
+msgid "disabled"
+msgstr "deaktivován"
+
+#: admin/views/placements-ad-label.php:13
+#: admin/views/placements-ad-label.php:15
+#: modules/ads-txt/admin/views/setting-create.php:2
+#: modules/ads-txt/admin/views/setting-create.php:4
+msgid "enabled"
+msgstr "aktivován"
+
+#: admin/views/placements-ad-label-position.php:27
+msgid "Check this if you don’t want the following elements to float around the ad. (adds a placement_clearfix)"
+msgstr "Zvažte, zda chcete, aby se kolem reklamy nacházely následující prvky. (Přidá placement_clearfix.)"
+
+#: admin/views/feedback-disable.php:26
+msgid "Which one?"
+msgstr "Které?"
+
+#: admin/views/conditions/ad-visitor-metabox.php:18
+msgid "Hide the ad from some users"
+msgstr "Pro některé uživatele skrýt reklamu."
+
+#: admin/views/conditions/ad-visitor-metabox.php:16
+msgid "Click on the button below if the ad should NOT be visible to all visitors"
+msgstr "Klikněte na tlačítko níže, pokud se reklama NEMÁ zobrazovat všem návštěvníkům."
+
+#. translators: %s is a URL.
+#: admin/views/ad-group.php:81
+msgid "Find more information about ad groups in the <a href=\"%s\" target=\"_blank\">manual</a>."
+msgstr "Více informací o skupinách reklam naleznete v <a href=\"%s\" target=\"_blank\">manuálu</a>."
+
+#: admin/views/ad-group-list-form-row.php:79
+msgid "Visible ads"
+msgstr "Viditelné zobrazení reklam"
+
+#: admin/views/conditions/ad-display-metabox.php:18
+msgid "Hide the ad on some pages"
+msgstr "Skryjte reklamu na některých stránkách"
+
+#: admin/views/conditions/ad-display-metabox.php:16
+msgid "Click on the button below if the ad should NOT show up on all pages when included automatically."
+msgstr "Klikněte na tlačítko níže, pokud se reklama NEMÁ automaticky zobrazovat na všech stránkách."
+
+#. translators: %s is a URL.
+#: admin/views/settings/license/section.php:18
+msgid "See also <a href=\"%s\" target=\"_blank\">Issues and questions about licenses</a>."
+msgstr "Viz také <a href=\"%s\" target=\"_blank\">Problémy a otázky týkající se licencí</a>."
+
+#. translators: %s is a URL.
+#: admin/views/settings/license/section.php:4
+msgid "Enter license keys for our powerful <a href=\"%s\" target=\"_blank\">add-ons</a>."
+msgstr "Zadejte licenční klíče pro naše výjimečné <a href=\"%s\" target=\"_blank\">doplňky</a>."
+
+#: admin/includes/class-ad-groups-list.php:237
+msgid "Add some"
+msgstr "Přidat další"
+
+#. translators: %d is a number.
+#: admin/includes/class-ad-groups-list.php:225
+msgid "show %d more ads"
+msgstr "Zobrazit %d více reklam"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:112
+msgid "Link ads (Responsive)"
+msgstr "Odkazové reklamy (Responzivní)"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:111
+msgid "Link ads"
+msgstr "Odkazové reklamy"
+
+#. translators: %s is the email address of the current user
+#: admin/views/feedback-disable.php:15
+msgid "Send me free help to %s"
+msgstr "Pošlete mi bezplatnou pomoc pro %s"
+
+#: admin/views/feedback-disable.php:8
+msgid "Please let us know how we can help"
+msgstr "Dejte nám vědět, jak Vám můžeme pomoci"
+
+#: modules/gadsense/admin/admin.php:121
+msgid "Responsive AdSense ads don’t work reliably with <em>Position</em> set to left or right. Either switch the <em>Type</em> to \"normal\" or follow <a href=\"%s\" target=\"_blank\">this tutorial</a> if you want the ad to be wrapped in text."
+msgstr "Responzivní reklamy AdSense nefungují spolehlivě s nastavením položky <em>Pozice</em> vlevo nebo vpravo. Zadejte <em>Typ</em> 'normální' nebo postupujte podle <a href=\"%s\" target=\"_blank\">této příručky</a>, pokud chcete, aby byl text kolem reklamy."
+
+#. translators: %s stands for the name of the "Disable level limitation" option
+#. and automatically translated as well
+#: classes/ad_placements.php:868
+msgid "Set <em>%s</em> to show more ads"
+msgstr "Nastavte <em>%s</em>, pokud chcete zobrazit další reklamy"
+
+#. translators: %s is a URL.
+#: admin/includes/class-shortcode-creator.php:192
+msgid "Please, either switch off your ad blocker or disable the shortcode button in the <a href=\"%s\" target=\"_blank\">settings</a>."
+msgstr "Vypněte adblocker nebo deaktivujte tlačítko 'shortcode button' v <a href=\"%s\" target=\"_blank\">nastaveních</a>."
+
+#: admin/views/settings/general/disable-shortcode-button.php:2
+msgid "Disable shortcode button in visual editor."
+msgstr "Deaktivujte 'shortcode button' ve vizuálním editoru."
+
+#: admin/views/settings/general/content-injection-level-limitation.php:2
+msgid "Advanced Ads ignores paragraphs and other elements in containers when injecting ads into the post content. Check this option to ignore this limitation and ads might show up again."
+msgstr "Advanced Ads ignoruje odstavce a jiné prvky v kontejnerech při vkládání reklam do obsahu příspěvků. Aktivujte tuto možnost a odstraňte toto omezení. Reklamy se pak mohou znovu zobrazit."
+
+#: admin/includes/class-settings.php:250
+msgid "Disable shortcode button"
+msgstr "Deaktivujte tlačítko 'shortcode button'"
+
+#: admin/includes/class-settings.php:163 classes/ad_placements.php:869
+msgid "Disable level limitation"
+msgstr "Deaktivovat úrovňové omezení"
+
+#. translators: %1$d is the number of elements in the list and %2$s a URL.
+#: admin/views/conditions/condition-author.php:41
+msgid "Only %1$d elements are displayed above. Use the <code>advanced-ads-admin-max-terms</code> filter to change this limit according to <a href=\"%2$s\" target=\"_blank\">this page</a>."
+msgstr "Pouze %d prvky jsou zobrazeny výše. Použijte filtr <code>advanced-ads-admin-max-terms</code> na změnu tohoto obemdzenia podle <a href=\"%s\" target=\"_blank\">této stránky</a>."
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:110
+msgid "Responsive (Matched Content)"
+msgstr "Responzívní (Matched Content)"
+
+#: modules/ad-blocker/admin/views/setting-use-adblocker.php:4
+msgid "The ad block disguise can only be set by the super admin on the main site in the network."
+msgstr "Adblock-Fix může být nastaven pouze uživatelskou rolí \"Super Admin\" na jeho hlavní stránce v síti."
+
+#: modules/ad-blocker/admin/admin.php:150
+#: modules/ads-txt/admin/class-advanced-ads-ads-txt-admin.php:372
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Nepodařilo se připojit k souborovému systému. Potvrďte své přihlašovací údaje."
+
+#: classes/filesystem.php:80
+msgid "Unable to locate needed folder (%s)."
+msgstr "Nelze najít požadovanou složku (%s)."
+
+#: classes/filesystem.php:76
+msgid "Unable to locate WordPress content directory (wp-content)."
+msgstr "Nelze najít obsahový adresář WordPress-u (wp-content)."
+
+#: classes/filesystem.php:72
+msgid "Unable to locate WordPress root directory."
+msgstr "Nelze najít kořenový adresář WordPress-u."
+
+#: classes/filesystem.php:65
+msgid "Filesystem error."
+msgstr "Chyba souborového systému."
+
+#: classes/filesystem.php:61
+msgid "Could not access filesystem."
+msgstr "Nebyl umožněn přístup do souborového systému."
+
+#: admin/includes/class-licenses.php:598
+msgid "Download failed. <a href=\"%s\" target=\"_blank\">Click here to learn why</a>."
+msgstr "Stahování selhalo. <a href=\"%s\" target=\"_blank\">Zde zjistíte proč</a>."
+
+#: admin/includes/class-licenses.php:596
+msgid "Download failed. <a href=\"%s\">Click here to try another method</a>."
+msgstr "Stahování selhalo. <a href=\"%s\">Klikněte sem a zkuste to jinak</a>."
+
+#: admin/views/feedback-disable.php:36
+msgid "Only Deactivate"
+msgstr "Jen deaktivovat"
+
+#: admin/views/feedback-disable.php:28
+msgid "I switched to another plugin"
+msgstr "Přešel jsem k jinému pluginu"
+
+#: admin/views/feedback-disable.php:25
+msgid "I miss a feature"
+msgstr "Chybí mi funkce"
+
+#: admin/views/feedback-disable.php:24
+msgid "It is only temporary"
+msgstr "Je to jen dočasní"
+
+#: admin/views/settings/general/content-injection-everywhere.php:2
+msgid "Some plugins and themes trigger ad injections where it shouldn’t happen. Therefore, Advanced Ads ignores injected placements on non-singular pages and outside the loop. However, this can cause problems with some themes. Set this option to -1 in order to enable unlimited ad injection at your own risk, set it to 0 to keep it disabled or choose a positive number to enable the injection only in the first x posts on your archive pages."
+msgstr "Některé pluginy a témata spouštějí reklamu na místech, na kterých by se to nemělo stát. Advanced Ads proto předchází automatickým umístěním na nejedinečných stránkách a mimo smyčky (the loop). Může to však způsobovat problémy u některých tématech. Máte zde následující možnosti: Nastavte hodnotu na -1, abyste povolili neomezené vkládání reklam na vlastní riziko. Hodnotu lze nastavit na 0, pokud se chcete chránit před automatickým umisťováním nebo vyberte nějaké kladné číslo, abyste umožnili vkládání reklamy pouze v prvních x příspěvcích na Vašich archivních stránkách."
+
+#: admin/views/conditions/condition-device.php:15
+msgid "Desktop"
+msgstr "Pracovní plocha"
+
+#: admin/views/conditions/condition-device.php:13
+msgid "Mobile (including tablets)"
+msgstr "Mobilní zařízení (včetně tabletů)"
+
+#: classes/visitor-conditions.php:40
+msgid "device"
+msgstr "Zařízení "
+
+#: admin/includes/ad-health-notices.php:145 classes/frontend_checks.php:234
+#: classes/ad-debug.php:272
+msgid "Your website is using HTTPS, but the ad code contains HTTP and might not work."
+msgstr "Vaše webové stránky používají protokol HTTPS a kód reklamy obsahuje protokol HTTP. Z toho důvodu se reklama nemusí zobrazit."
+
+#: admin/views/conditions/visitor-conditions-form-top.php:9
+#: modules/privacy/admin/views/setting-enable.php:4
+msgid "It seems that a caching plugin is activated."
+msgstr "Zdá se, že je aktivován plugin pro vyrovnávací paměť (cache)."
+
+#: admin/views/conditions/ad-display-metabox.php:58
+msgid "A page with this ad on it must match all of the following conditions."
+msgstr "Stránka s touto reklamou musí odpovídat všem následujícím podmínkám."
+
+#: admin/includes/class-overview-widgets.php:810
+#: admin/views/conditions/ad-visitor-metabox.php:37
+#: admin/views/conditions/ad-display-metabox.php:37
+msgid "Visit the manual"
+msgstr "Navštivte manuál"
+
+#: admin/views/conditions/ad-display-metabox.php:33
+msgid "Watch video"
+msgstr "Spusťte video"
+
+#: admin/includes/class-licenses.php:90
+msgid "There might be a new version of %1$s. Please <strong>provide a valid license key</strong> in order to receive updates and support <a href=\"%2$s\">on this page</a>."
+msgstr "Nová verze %1$s by mohla být k dispozici.  <strong>Zadejte platný licenční klíč</strong>, pokud chcete aktualizace a technickou podporu <a href=\"%2$s\">na této stránce</a>."
+
+#: public/views/ad-debug.php:8
+msgid "Find solutions in the manual"
+msgstr "Najděte řešení v manuálu"
+
+#: public/views/ad-debug.php:6
+msgid "Ad debug output"
+msgstr "Výstup ladění reklam (Ad debug output)"
+
+#: classes/frontend_checks.php:325
+msgid "highlight ads"
+msgstr "Zvýraznit banner"
+
+#: classes/ad-debug.php:128
+msgid "Placement"
+msgstr "Umístění"
+
+#: classes/ad-debug.php:98
+msgid "main query"
+msgstr "Hlavní dotaz"
+
+#: classes/ad-debug.php:98
+msgid "current query"
+msgstr "Aktuální dotaz"
+
+#: classes/ad-debug.php:34
+msgid "The ad is not displayed on the page"
+msgstr "Reklama není zobrazena na stránce"
+
+#: classes/ad-debug.php:32
+msgid "The ad is displayed on the page"
+msgstr "Reklama je zobrazena na stránce"
+
+#: classes/ad-debug.php:51
+msgid "main post"
+msgstr "Hlavní příspěvek"
+
+#: classes/ad-debug.php:45
+msgid "current post"
+msgstr "Aktuální příspěvek"
+
+#: classes/ad-debug.php:49
+msgid "Current post is not identical to main post."
+msgstr "Aktuální příspěvek není shodný s hlavním příspěvkem."
+
+#: classes/ad-debug.php:39
+msgid "Current query is not identical to main query."
+msgstr "Aktuální dotaz není shodný s hlavním dotazem."
+
+#. translators: %s is a URL.
+#: admin/views/support.php:25
+msgid "Take a look at more common issues or contact us directly through the <a href=\"%s\" target=\"_blank\">support page</a>."
+msgstr "Seznamte se s běžnými problémy nebo nás kontaktujte přímo na <a href=\"%s\" target=\"_blank\">stránce technické podpory</a>."
+
+#: admin/views/support.php:12
+msgid "Issues with Add-Ons"
+msgstr "Problémy s doplňky"
+
+#: admin/views/support.php:11
+msgid "General Issues"
+msgstr "Obecné problémy"
+
+#: admin/views/support.php:10
+msgid "Purchase & Licenses"
+msgstr "Nákup & licence"
+
+#: admin/views/support.php:9
+msgid "Ads not showing up"
+msgstr "Reklamy se nezobrazují"
+
+#: admin/views/setting-license.php:82
+msgid "Update License"
+msgstr "Aktualizace licence"
+
+#: classes/frontend_checks.php:423
+msgid "Everything is fine"
+msgstr "Všechno je v pořádku"
+
+#: classes/frontend_checks.php:221
+msgid "Ads are disabled on non singular pages"
+msgstr "Reklamy jsou na nejedinečných resp. archivních stránkách deaktivovány"
+
+#: classes/frontend_checks.php:208
+msgid "Ads are disabled on 404 pages"
+msgstr "Reklamy jsou na stránkách 404 deaktivovány"
+
+#: classes/frontend_checks.php:181
+msgid "the current post ID is 0 "
+msgstr "Aktuálně ID příspěvku je 0"
+
+#: classes/frontend_checks.php:169
+msgid "Ads are disabled in the content of this page"
+msgstr "Reklamy jsou pro obsah této stránky deaktivovány"
+
+#: classes/frontend_checks.php:156
+msgid "Ads are disabled on this page"
+msgstr "Reklamy jsou deaktivovány na této stránce"
+
+#: classes/frontend_checks.php:140
+msgid "<em>%s</em> filter does not exist"
+msgstr "Filtr <em>%s</em> neexistuje"
+
+#: classes/frontend_checks.php:128
+msgid "Ad blocker enabled"
+msgstr "Adblocker je aktivován"
+
+#: classes/frontend_checks.php:392
+msgid "Ad Health"
+msgstr "Kontrola reklam (Ad Health)"
+
+#: modules/gadsense/includes/class-network-adsense.php:150
+msgid "There is no explicit limit for AdSense ads anymore, but you can still use this setting to prevent too many AdSense ads to show accidentally on your site."
+msgstr "Jednoznačný limit pro reklamy AdSense neexistuje. Použijte toto nastavení, abyste zabránili přílišnému zobrazování reklam AdSense na svých stránkách."
+
+#: admin/views/placement-injection-top.php:157
+msgid "Existing placement"
+msgstr "Stávající umístění"
+
+#: admin/views/placement-injection-top.php:80
+msgid "New placement"
+msgstr "Nové umístění"
+
+#: admin/views/settings/general/uninstall-delete-data.php:3
+msgid "Clean up all data related to Advanced Ads when removing the plugin."
+msgstr "Vymazat všechny údaje týkající se Advanced Ads při jeho odstranění."
+
+#: admin/includes/class-settings.php:240
+msgid "Delete data on uninstall"
+msgstr "Vymazat údaje při odinstalaci pluginu"
+
+#. translators: %s is a URL.
+#: admin/views/placement-injection-top.php:23
+msgid "Ad not showing up? Take a look <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr "Reklama se nezobrazuje? <a href=\"%s\" target=\"_blank\">Zde</a> najdete pár řešení."
+
+#: public/class-advanced-ads.php:871
+msgctxt "label above ads"
+msgid "Advertisements"
+msgstr "Reklamy"
+
+#: classes/EDD_SL_Plugin_Updater.php:236
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s or %5$supdate now%6$s."
+msgstr "K dispozici je nová verze %1$s. %2$sZobrazte detaily verze %3$s%4$s nebo ji %5$steraz aktualizujte%6$s."
+
+#: classes/EDD_SL_Plugin_Updater.php:228
+msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr "K dispozici je nová verze %1$s. %2$sZobrazte detaily verze %3$s%4$s."
+
+#: admin/views/ad-list-no-ads.php:4
+msgid "Watch the “First Ad” Tutorial (Video)"
+msgstr "Viz instruktážní video \"Moje první reklama\". (angl.)"
+
+#. translators: %s is a URL.
+#: admin/views/ad-info-after-textarea.php:24
+msgid "Reach out to <a href=\"%s\">support</a> to get help."
+msgstr "Chcete-li získat pomoc, vyhledejte <a href=\"%s\">technickou podporu</a>."
+
+#: admin/views/ad-info-after-textarea.php:17
+msgid "The code of this ad might not work properly with the Content placement."
+msgstr "Kód této reklamy může vést při použití 'umístění <em>obsahu</em>' (Content Placement) k chybám."
+
+#: admin/views/conditions/display-conditions-list.php:45
+msgid "Forced to OR."
+msgstr "NEBO bylo vynucené."
+
+#: modules/import-export/views/page.php:65
+msgid "Start import"
+msgstr "Spustit import"
+
+#: modules/import-export/views/page.php:57
+msgid "Maximum size: %s"
+msgstr "Max. velikost: %s"
+
+#: modules/import-export/views/page.php:52
+msgid "Before you can upload your import file, you will need to fix the following error:"
+msgstr "Před nahráním importovaného souboru budete muset opravit následující chybu:"
+
+#: modules/import-export/views/page.php:45
+msgid "Copy an XML content"
+msgstr "Zkopírovat obsah XML"
+
+#: modules/import-export/views/page.php:44
+msgid "Choose an XML file"
+msgstr "Zvolit soubor XML"
+
+#: modules/import-export/views/page.php:33
+msgid "Import"
+msgstr "Import"
+
+#: modules/import-export/views/page.php:28
+msgid "Download Export File"
+msgstr "Stáhnout exportovaný soubor"
+
+#: modules/import-export/views/page.php:17
+msgid "When you click the button below Advanced Ads will create an XML file for you to save to your computer."
+msgstr "Klikněte na tlačítko níže a Advanced Ads vytvoří soubor XML, který si můžete uložit na počítači."
+
+#: modules/import-export/views/page.php:16
+msgid "Export"
+msgstr "Export"
+
+#: modules/import-export/classes/import.php:636
+msgid "Zero size file downloaded <em>%s</em>"
+msgstr "Soubor s nulovou velikostí byl stažen <em>%s</em>"
+
+#: modules/import-export/classes/import.php:612
+#: modules/import-export/classes/import.php:619
+#: modules/import-export/classes/import.php:627
+#: modules/import-export/classes/import.php:642
+msgid "Error getting remote image <em>%s</em>"
+msgstr "Chyba při stahování externího obrázku <em>%s</em>"
+
+#: modules/import-export/classes/import.php:607
+msgid "Invalid filetype <em>%s</em>"
+msgstr "Neplatný typ souboru <em>%s</em>"
+
+#: modules/import-export/classes/import.php:534
+msgid "The file could not be created: <em>%s</em>. This is probably a permissions problem"
+msgstr "Soubor nemohl být vytvořen: <em>%s</em>. Pravděpodobně je problém s jeho oprávněním."
+
+#: modules/import-export/classes/import.php:529
+msgid "File is empty."
+msgstr "Soubor je prázdný."
+
+#: modules/import-export/classes/import.php:524
+msgid "Failed to upload file, error: <em>%s</em>"
+msgstr "Nahrání souboru selhalo, chyba: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:514
+msgid "File is empty, uploads are disabled or post_max_size is smaller than upload_max_filesize in php.ini"
+msgstr "Soubor je prázdný, nahrávání je deaktivováno nebo post_max_size je menší než upload_max_filesize v php.ini"
+
+#: modules/import-export/classes/import.php:506
+msgid "Import directory is not writable: <em>%s</em>"
+msgstr "Importní adresář není zapisovatelný: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:501
+msgid "Failed to create import directory <em>%s</em>"
+msgstr "Vytvoření importního adresáře selhalo <em>%s</em>"
+
+#: modules/import-export/classes/import.php:479
+msgid "Option already exists: <em>%s</em>"
+msgstr "Tato možnost již existuje: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:476
+msgid "Option was updated: <em>%s</em>"
+msgstr "Tato možnost je aktualizovaná: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:359
+msgid "Placement <em>%s</em> created"
+msgstr "Umístění <em>%s</em> bylo vytvořeno"
+
+#: modules/import-export/classes/import.php:294
+msgid "Failed to import taxonomy: <em>%s</em>, term: <em>%s</em>"
+msgstr "Importovat taxonomii selhalo: <em>%s</em>, pojem: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:292
+msgid "New group created, id: <em>%s</em>, name: <em>%s</em>"
+msgstr "Nová skupina byla vytvořena, ID: <em>%s</em>, název: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:230
+msgid "Assigned terms: <em>%s</em>, to post: <em>%s</em>"
+msgstr "Přiřazené výrazy: <em>%s</em>, na zveřejnění: <em>%s</em>"
+
+#: modules/import-export/classes/import.php:187
+msgid "New ad created: <em>%s</em> %s"
+msgstr "Nová reklama byla vytvořena: <em>%s</em> %s"
+
+#: modules/import-export/classes/import.php:179
+msgid "Failed to import <em>%s</em>"
+msgstr "Import selhal <em>%s</em>"
+
+#: modules/import-export/classes/import.php:147
+#: modules/import-export/classes/import.php:565
+msgid "New attachment created <em>%s</em> %s"
+msgstr "Nová příloha byla vytvořena <em>%s</em> %s"
+
+#: modules/import-export/classes/import.php:66
+msgid "Please enter XML content"
+msgstr "Zadejte obsah v XML"
+
+#: modules/import-export/classes/XmlEncoder.php:223
+msgctxt "import_export"
+msgid "XML error: %s"
+msgstr "Chyba v XML: %s"
+
+#: modules/import-export/classes/XmlEncoder.php:201
+msgctxt "import_export"
+msgid "Invalid XML data, it can not be empty"
+msgstr "Data XML jsou neplatné, neboť jsou prázdné"
+
+#: modules/import-export/classes/XmlEncoder.php:149
+msgctxt "import_export"
+msgid "An unexpected value could not be serialized: %s"
+msgstr "Neočekávaná hodnota nemůže být serializovaná: %s"
+
+#: modules/import-export/classes/XmlEncoder.php:103
+msgctxt "import_export"
+msgid "The key %s is not valid"
+msgstr "Klíč %s není platný"
+
+#: modules/import-export/classes/XmlEncoder.php:75
+msgctxt "import_export"
+msgid "The data must be an array"
+msgstr "Údaje musí být uvedeny jako pole (array)"
+
+#: modules/import-export/classes/XmlEncoder.php:61
+#: modules/import-export/classes/XmlEncoder.php:64
+#: modules/import-export/classes/XmlEncoder.php:193
+#: modules/import-export/classes/XmlEncoder.php:196
+msgid "The %s extension(s) is not loaded"
+msgstr "Rozšíření %s nebyly načteny"
+
+#: modules/gadsense/admin/admin.php:134
+msgid "Use the <a href=\"%s\" target=\"_blank\">Responsive add-on</a> in order to define the exact size for each browser width or choose between horizontal, vertical, or rectangle formats."
+msgstr "Pomocí <a href=\"%s\" target=\"_blank\">responzívneho doplňku</a> můžete definovat přesnou velikost pro každou šířku prohlížeče nebo vybrat mezi horizontálními, vertikálními nebo obdélníkovými formáty."
+
+#: classes/ad_type_plain.php:95
+msgid "Allow PHP"
+msgstr "Povolit PHP"
+
+#: admin/views/settings.php:50 modules/import-export/main.php:17
+msgid "Import &amp; Export"
+msgstr "Import &amp; Export"
+
+#: admin/views/ad-parameters-size.php:9
+msgid "size"
+msgstr "Velikost"
+
+#: admin/views/conditions/display-conditions-list.php:46
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:116
+msgid "manual"
+msgstr "Manuál"
+
+#: admin/views/ad-info-top.php:27 admin/views/ad-info-bottom.php:21
+msgid "Stop Wizard and show all options"
+msgstr "Ukončit průvodce (wizard) a zobrazit všechny možnosti"
+
+#: admin/views/ad-info-top.php:3
+msgid "Stop Wizard"
+msgstr "Ukončit průvodce (wizard)"
+
+#: admin/views/ad-info-top.php:2
+msgid "Start Wizard"
+msgstr "Spustit průvodce"
+
+#: admin/views/ad-info-bottom.php:17 admin/views/ad-info-bottom.php:20
+msgctxt "wizard navigation"
+msgid "next"
+msgstr "Další"
+
+#: admin/views/ad-info-bottom.php:17
+msgctxt "wizard navigation"
+msgid "save"
+msgstr "Uložit"
+
+#: admin/views/ad-info-bottom.php:13
+msgctxt "wizard navigation"
+msgid "previous"
+msgstr "Předchozí"
+
+#. translators: %s is some HTML.
+#: admin/views/placement-injection-top.php:170
+msgid "Or use the shortcode %s to insert the ad into the content manually."
+msgstr "Nebo použijte 'shortcode' %s a vložte reklamu do obsahu manuálně."
+
+#: admin/views/placement-injection-top.php:111
+msgid "Show PopUp"
+msgstr "Zobrazit pop-up"
+
+#: admin/views/placement-injection-top.php:105
+msgid "Show Sticky Places"
+msgstr "Zobrazit 'Sticky Places' (připnuté pozice)"
+
+#: admin/views/placement-injection-top.php:90
+msgid "Show Pro Places"
+msgstr "Zobrazit 'Pro Places'"
+
+#: admin/views/placement-injection-top.php:85
+msgid "Manage Sidebar"
+msgstr "Spravovat boční panel"
+
+#: admin/views/placement-injection-top.php:82 classes/ad_placements.php:89
+msgid "Content"
+msgstr "Obsah"
+
+#: admin/views/placement-injection-top.php:37
+msgid "Where do you want to display the ad?"
+msgstr "Kde chcete reklamu zobrazit?"
+
+#: admin/class-advanced-ads-admin.php:217
+msgid "After which paragraph?"
+msgstr "Po kterém odstavci?"
+
+#: classes/ad_type_group.php:85
+msgid "ad group"
+msgstr "Skupina reklam"
+
+#: classes/ad_type_group.php:31
+msgid "Choose an existing ad group. Use this type when you want to assign the same display and visitor conditions to all ads in that group."
+msgstr "Vyberte existující skupinu reklam. Tento typ použijte, pokud chcete přiřadit stejné podmínky zobrazení a návštěvnosti všem reklamám v dané skupině."
+
+#: admin/views/setting-license.php:15
+msgid "Your license expired."
+msgstr "Vaše licence vypršela."
+
+#: admin/includes/class-licenses.php:347 admin/includes/class-licenses.php:370
+msgid "License couldn’t be deactivated. Please try again later."
+msgstr "Licence nemohla být deaktivována. Zkuste to později znovu."
+
+#: admin/includes/class-licenses.php:191
+msgid "There are no activations left."
+msgstr "Nezůstaly žádné aktivace."
+
+#: admin/includes/class-licenses.php:172
+msgid "License couldn’t be activated. Please try again later."
+msgstr "Licence nemohla být aktivována. Zkuste to později znovu."
+
+#: admin/views/settings/general/custom-label.php:7
+msgid "Displayed above ads."
+msgstr "Zobrazené nad reklamami."
+
+#: admin/includes/class-settings.php:531
+msgctxt "label before ads"
+msgid "Advertisements"
+msgstr "Reklamy"
+
+#: admin/includes/class-settings.php:213
+msgid "Ad label"
+msgstr "Označení reklamy (label)"
+
+#: admin/includes/class-meta-box.php:217
+msgid "Video"
+msgstr "Video"
+
+#: classes/display-conditions.php:674
+msgid "title or id"
+msgstr "Název nebo ID"
+
+#. translators: %s is an html tag.
+#: classes/ad_placements.php:291
+msgid "paragraph without image (%s)"
+msgstr "Odstavec bez obrázku (%s)"
+
+#: admin/views/settings/general/disable-ads.php:31
+msgid "Disable ads in RSS Feed"
+msgstr "Vypnout zobrazení reklamy v RSS feed "
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:31
+msgid "Rename assets"
+msgstr "Přejmenovat položky"
+
+#: admin/views/ad-parameters-size.php:22
+msgid "reserve this space"
+msgstr "Rezervovat tohle místo"
+
+#: admin/class-advanced-ads-admin.php:216 classes/visitor-conditions.php:311
+#: classes/display-conditions.php:290
+msgid "and"
+msgstr "a"
+
+#: admin/class-advanced-ads-admin.php:215
+#: modules/gadsense/admin/views/external-ads-links.php:17
+#: modules/gadsense/admin/views/external-ads-links.php:22
+#: modules/gadsense/admin/views/external-ads-links.php:29
+#: classes/visitor-conditions.php:311 classes/display-conditions.php:290
+msgid "or"
+msgstr "nebo"
+
+#: admin/views/ad-output-metabox.php:58
+msgid "Enable debug mode"
+msgstr "Umožnit režim ladění (debugging)"
+
+#. translators: %s is a target URL.
+#: admin/includes/ad-health-notices.php:90
+msgid "Some assets were changed. Please <strong>rebuild the asset folder</strong> in the <a href=\"%s\">Advanced Ads settings</a> to update the ad blocker disguise."
+msgstr "Některé položky byly změněny. Chcete-li aktualizovat Ad Block Fix, musíte nanovo <strong>vytvořit položkový složku</strong> v <a href=\"%s\">nastaveních pluginu Advanced Ads</a>."
+
+#: admin/views/conditions/not-selected.php:2
+msgctxt "Error message shown when no display condition term is selected"
+msgid "Please select some items."
+msgstr "Vyberte z možností."
+
+#. translators: %s is a label of an archive page.
+#: classes/display-conditions.php:171
+msgid "archive: %s"
+msgstr "Archiv: %s"
+
+#: classes/display-conditions.php:109
+msgid "author"
+msgstr "Autor"
+
+#: classes/display-conditions.php:103
+msgid "general conditions"
+msgstr "Všeobecné podmínky"
+
+#: classes/display-conditions.php:96
+msgid "specific pages"
+msgstr "Konrétní stránky"
+
+#: classes/display-conditions.php:89
+msgid "post type"
+msgstr "Typ obsahu"
+
+#. translators: %s is a link to a tutorial.
+#: admin/views/conditions/ad-display-metabox.php:47
+#: admin/views/notices/jqueryui_error.php:2
+msgid "There might be a problem with layouts and scripts in your dashboard. Please check <a href=\"%s\" target=\"_blank\">this article to learn more</a>."
+msgstr "Na Vaší nástěnce se může vyskytnout problém s layoutem a skripty. <a href=\"%s\" target=\"_blank\">Viz tento článek a dozvíte se více</a>."
+
+#: admin/includes/class-meta-box.php:199 admin/includes/class-meta-box.php:218
+#: admin/includes/class-meta-box.php:223
+#: admin/includes/class-overview-widgets.php:182
+#: admin/views/settings/general/custom-label.php:9
+#: admin/views/ad-output-metabox.php:62
+#: modules/privacy/admin/views/setting-enable.php:2
+#: modules/ads-txt/admin/views/setting-create.php:11
+msgid "Manual"
+msgstr "Manuál"
+
+#: admin/includes/class-licenses.php:190
+msgid "This is not the correct key for this add-on."
+msgstr "Tato licence není součástí tohoto produktu."
+
+#: admin/includes/class-licenses.php:189
+msgid "This is the bundle license key."
+msgstr "Tato licence je součástí Pro Bundle."
+
+#. translators: time zone name.
+#: admin/class-advanced-ads-admin.php:343
+msgid "time of %s"
+msgstr "Čas of %s"
+
+#: admin/views/conditions/condition-device.php:23
+#: admin/views/conditions/condition-is-or-not.php:21
+msgid "Manual and Troubleshooting"
+msgstr "Manuál a odstraňování chyb"
+
+#: admin/views/feedback-disable.php:27
+msgid "I stopped using ads on my site."
+msgstr "Přestal jsem používat reklamy na svých stránkách."
+
+#: admin/views/feedback-disable.php:5
+msgid "Why did you decide to disable Advanced Ads?"
+msgstr "Proč jste se rozhodli deaktivovat Advanced Ads?"
+
+#: admin/class-advanced-ads-admin.php:418
+#: admin/includes/class-overview-widgets.php:71
+msgid "Add-Ons"
+msgstr "Doplňky"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:46
+msgid "Rebuild asset folder"
+msgstr "Obnovit položkový složku"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:43
+msgid "Please, rebuild the asset folder. All assets will be located in <strong>%s</strong>"
+msgstr "Obnovte položkový složku. Všechny položky budou uloženy jako <strong>%s</strong>."
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:34
+msgid "Check if you want to change the names of the assets"
+msgstr "Ověřte, pokud chcete změnit názvy položek"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:27
+msgid "Asset URL"
+msgstr "URL položky"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:23
+msgid "Asset path"
+msgstr "Cesta položky"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:10
+msgid "Upload folder is not writable"
+msgstr "Nahraná složka není zapisovatelná"
+
+#: modules/ad-blocker/admin/views/rebuild_form.php:1
+msgid "Ad blocker file folder"
+msgstr "Složka souborů adblockera"
+
+#: modules/ad-blocker/admin/views/setting-use-adblocker.php:6
+msgid "Prevents ad block software from breaking your website when blocking asset files (.js, .css)."
+msgstr "Zabraňuje tomu, aby software na blokování reklam způsoboval chyby na webstránce. (Blokování souborů .js, .css)"
+
+#: modules/ad-blocker/admin/admin.php:430
+msgid "Unable to copy files to %s"
+msgstr "Nelze zkopírovat soubory do %s."
+
+#: modules/ad-blocker/admin/admin.php:334
+#: modules/ad-blocker/admin/admin.php:419
+msgid "We do not have direct write access to the \"%s\" directory"
+msgstr "Nemáme přímý přístup do adresáře \"%s\""
+
+#: modules/ad-blocker/admin/admin.php:271
+#: modules/ad-blocker/admin/admin.php:284
+#: modules/ad-blocker/admin/admin.php:301
+msgid "Unable to copy assets to the \"%s\" directory"
+msgstr "Nelze zkopírovat položky do adresáře \"%s\""
+
+#: modules/ad-blocker/admin/admin.php:255
+msgid "Unable to rename \"%s\" directory"
+msgstr "Nelze přejmenovat adresář \"%s\""
+
+#: modules/ad-blocker/admin/admin.php:226
+msgid "There is no writable upload folder"
+msgstr "Nebyla nalezena žádná zapisovatelná složka"
+
+#: modules/ad-blocker/admin/admin.php:96
+msgid "Ad blocker fix"
+msgstr "Ad blocker Fix"
+
+#: modules/ad-blocker/admin/admin.php:165
+msgid "The asset folder was rebuilt successfully"
+msgstr "Položková složka byla úspěšně obnovena"
+
+#. translators: %s is a URL. Please don’t change it.
+#: classes/visitor-conditions.php:119
+msgid "Display ads by the available space on the device or target tablets with the <a href=\"%s\" target=\"_blank\">Responsive add-on</a>"
+msgstr "Zobrazte reklamy podle dostupného prostoru na všech zařízeních s <a href=\"%s\" target=\"_blank\">responzívnym doplňkem</a>."
+
+#: admin/views/support.php:6
+msgid "Please fix the red highlighted issues on this page or try to understand their consequences before contacting support."
+msgstr "Červenou zvýrazněné problémy na této stránce opravte nebo se pokuste porozumět jejich důsledkem dříve, než kontaktujete technickou podporu."
+
+#. translators: %s is a target URL.
+#. translators: %s is a URL.
+#: admin/includes/ad-health-notices.php:102 admin/includes/notices.php:40
+msgid "Please add valid license keys <a href=\"%s\">here</a>."
+msgstr "Přidejte platné licenční klíče <a href=\"%s\">zde</a>. "
+
+#: admin/includes/ad-health-notices.php:99 admin/includes/notices.php:38
+msgid "One or more license keys for <strong>Advanced Ads add-ons are invalid or missing</strong>."
+msgstr "Jeden nebo více licenčních klíčů pro <strong>doplňky Advanced Ads jsou neplatné nebo chybí</strong>."
+
+#. translators: %s is a URL.
+#: admin/views/settings/general/editors-manage-ads.php:7
+msgid "You can assign different ad-related roles on a user basis with <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a>."
+msgstr "Pomocí <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> můžete přiřadit různé funkce reklamám na uživatelské bázi."
+
+#: admin/views/settings/general/editors-manage-ads.php:2
+msgid "Allow editors to also manage and publish ads."
+msgstr "Povolte editorem spravovat a zveřejňovat reklamy."
+
+#: admin/includes/class-settings.php:205
+msgid "Allow editors to manage ads"
+msgstr "Povolte editorem spravovat reklamy"
+
+#. translators: %s is a target URL.
+#: admin/includes/ad-health-notices.php:80
+msgid "Possible conflict between jQueryUI library, used by Advanced Ads and other libraries (probably <a href=\"%s\">Twitter Bootstrap</a>). This might lead to misfortunate formats in forms, but should not damage features."
+msgstr "Může dojít ke konfliktu mezi knihovnou jQueryUI, kterou používají Advanced Ads a dalšími knihovnami (pravděpodobně <a href=\"%s\">Bootstrap ve službě Twitter</a>). Vede to k nešťastným formátem v tvarech, i když funkce zůstávají nepoškozené."
+
+#: admin/views/ad-list-filters.php:42
+msgid "all ad groups"
+msgstr "všechny skupiny reklam"
+
+#: admin/includes/class-list-filters.php:155
+msgid "any expiry date"
+msgstr "jakýkoliv datum ukončení platnosti"
+
+#: admin/views/ad-list-filters.php:34
+msgid "all ad dates"
+msgstr "jakýkoliv datum reklamy"
+
+#: admin/views/ad-list-filters.php:26
+msgid "all ad sizes"
+msgstr "všechny velikosti reklam"
+
+#: admin/views/ad-list-filters.php:18
+msgid "all ad types"
+msgstr "všechny typy reklam"
+
+#. translators: %s is a date.
+#. translators: %s is a time and date string.
+#: admin/includes/class-ad-groups-list.php:208
+#: admin/views/ad-list-timing-column.php:70
+msgid "<strong>expired</strong> %s"
+msgstr "<strong>Platnost vypršela</strong> %s"
+
+#: modules/gadsense/includes/class-network-adsense.php:154
+msgid "Due to technical restrictions, the limit does not work on placements with cache-busting enabled."
+msgstr "Z důvodu technických omezení limit nefunguje na umístěních s povoleným ukládáním tzv. 'cache-busting' (vyrovnávací paměti)."
+
+#: classes/ad_placements.php:101
+msgid "Create a sidebar widget with an ad. Can be placed and used like any other widget."
+msgstr "Vytvořte widget postranního panelu s reklamou. Může být umístěn a používán jako jakýkoli jiný widget."
+
+#: classes/ad_placements.php:100
+msgid "Sidebar Widget"
+msgstr "Widget bočního panelu"
+
+#. translators: %s is a target URL.
+#: admin/includes/ad-health-notices.php:64
+msgid "Ads are disabled for all or some pages. See \"disabled ads\" in <a href=\"%s\">settings</a>."
+msgstr "Reklamy jsou deaktivovány na všech nebo některých stránkách. Viz \"deaktivovány reklamy\" v <a href=\"%s\">nastaveních</a>."
+
+#: admin/includes/class-licenses.php:115 admin/views/setting-license.php:85
+msgid "Please enter a valid license key"
+msgstr "Zadejte platný licenční klíč"
+
+#: admin/views/setting-license.php:73
+msgid "Deactivate License"
+msgstr "Deaktivovat licenci"
+
+#. translators: %s is a date.
+#. translators: %s is a time and date string.
+#: admin/includes/class-ad-groups-list.php:205
+#: admin/views/ad-list-timing-column.php:59
+msgid "expires %s"
+msgstr "Končí %s"
+
+#. translators: %s is a date.
+#: admin/includes/class-ad-groups-list.php:184
+#: admin/views/ad-list-timing-column.php:21
+msgid "starts %s"
+msgstr "Začíná %s"
+
+#: admin/includes/shortcode-creator-l10n.php:19
+msgctxt "shortcode creator"
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: admin/includes/shortcode-creator-l10n.php:18
+msgctxt "shortcode creator"
+msgid "Add shortcode"
+msgstr "Přidat 'shortcode'"
+
+#: admin/includes/shortcode-creator-l10n.php:17
+msgctxt "shortcode creator"
+msgid "Add an ad"
+msgstr "Přidat reklamu"
+
+#: admin/includes/class-licenses.php:312
+msgid "Error while trying to disable the license. Please contact support."
+msgstr "Při pokusu o deaktivaci licence došlo k chybě. Kontaktujte technickou podporu."
+
+#: admin/includes/class-ad-type.php:262 admin/includes/class-ad-type.php:268
+msgid "Ad Planning"
+msgstr "Plánování reklam"
+
+#: admin/views/settings/general/content-injection-priority.php:6
+msgid "Please check your post content. A priority of 10 and below might cause issues (wpautop function might run twice)."
+msgstr "Skontrolujte obsah svých příspěvků. Priorita s hodnotou 10 a níže může způsobit problémy. (Funkce \"wpautop\" může proběhnout dvakrát)."
+
+#: classes/ad_type_image.php:56
+msgid "edit"
+msgstr "Editace"
+
+#: classes/ad_type_image.php:55
+msgid "select image"
+msgstr "Vybrat obrázek"
+
+#: classes/ad_type_image.php:55
+msgid "Insert"
+msgstr "Vložit"
+
+#: classes/ad_type_image.php:55
+msgid "Insert File"
+msgstr "Vložit soubor"
+
+#: classes/ad_type_image.php:35
+msgid "Ads in various image formats."
+msgstr "Reklamy v různých formátech obrázků."
+
+#: classes/ad_type_image.php:34
+msgid "Image Ad"
+msgstr "Grafická reklama"
+
+#. translators: %1$s is a list of plugin names; %2$s a target URL.
+#: admin/includes/ad-health-notices.php:43
+msgid "Plugins that are known to cause (partial) problems: <strong>%1$s</strong>. <a href=\"%2$s\" target=\"_blank\">Learn more</a>."
+msgstr "Pluginy, o nichž je známo, že způsobují (částečné) problémy: <strong>%1$s</strong>. <a href=\"%2$s\" target=\"_blank\">Získejte více informací</a>."
+
+#: admin/views/ad-output-metabox.php:55
+msgid "Specify one or more classes for the container. Separate multiple classes with a space"
+msgstr "Zadejte jednu nebo více tříd pro kontejner. Oddělte několik třídy mezerou."
+
+#: admin/views/ad-output-metabox.php:52
+msgid "container classes"
+msgstr "Třídy kontejnerů"
+
+#: admin/views/ad-output-metabox.php:48
+msgid "Specify the id of the ad container. Leave blank for random or no id."
+msgstr "Zadejte ID kontejneru reklamy. Nechte prázdný prostor pro náhodné nebo žádné ID."
+
+#: admin/views/ad-output-metabox.php:45
+msgid "container ID"
+msgstr "ID kontajneru"
+
+#. Description of the plugin
+msgid "Manage and optimize your ads in WordPress"
+msgstr "Spravujte a optimalizujte své reklamy ve WordPress."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpadvancedads.com"
+msgstr "https://wpadvancedads.com"
+
+#. Plugin Name of the plugin
+#: modules/gutenberg/includes/class-gutenberg.php:78
+msgid "Advanced Ads"
+msgstr "Advanced Ads"
+
+#: public/class-advanced-ads.php:732
+msgid "Parent Ad"
+msgstr "Nadřazená reklama"
+
+#: public/class-advanced-ads.php:731
+msgid "No Ads found in Trash"
+msgstr "V koši nebyly nalezeny žádné reklamy"
+
+#: public/class-advanced-ads.php:730
+msgid "No Ads found"
+msgstr "Nebyly nalezeny žádné reklamy"
+
+#: public/class-advanced-ads.php:729
+msgid "Search Ads"
+msgstr "Hledat reklamy"
+
+#: public/class-advanced-ads.php:728
+msgid "View the Ad"
+msgstr "Zobrazit reklamu"
+
+#: public/class-advanced-ads.php:727
+msgid "View"
+msgstr "Všechno zobraziť"
+
+#: public/class-advanced-ads.php:725
+msgid "Edit Ad"
+msgstr "Editace reklamy"
+
+#: admin/includes/class-menu.php:111 public/class-advanced-ads.php:723
+msgid "Add New Ad"
+msgstr "Přidat novou reklamu"
+
+#: admin/includes/class-menu.php:112 admin/views/ad-group-list-ads.php:36
+#: public/class-advanced-ads.php:722 public/class-advanced-ads.php:726
+msgid "New Ad"
+msgstr "Nová reklama"
+
+#: public/class-advanced-ads.php:695
+msgid "No Ad Group found"
+msgstr "Nebyla nalezena žádná skupina reklam"
+
+#: public/class-advanced-ads.php:693
+msgid "New Ad Groups Name"
+msgstr "Nový název skupiny reklam"
+
+#: public/class-advanced-ads.php:692
+msgid "Add New Ad Group"
+msgstr "Přidat novou skupinu reklam"
+
+#: public/class-advanced-ads.php:691
+msgid "Update Ad Group"
+msgstr "Aktualizovat skupinu reklam"
+
+#: public/class-advanced-ads.php:690
+msgid "Edit Ad Group"
+msgstr "Editace skupiny reklam"
+
+#: public/class-advanced-ads.php:689
+msgid "Parent Ad Groups:"
+msgstr "Nadřazené skupiny reklam:"
+
+#: public/class-advanced-ads.php:688
+msgid "Parent Ad Groups"
+msgstr "Nadřazené skupiny reklam"
+
+#: public/class-advanced-ads.php:687
+msgid "All Ad Groups"
+msgstr "Všechny skupiny reklam"
+
+#: public/class-advanced-ads.php:686
+msgid "Search Ad Groups"
+msgstr "Hledat skupiny reklam"
+
+#: public/class-advanced-ads.php:685 classes/ad-debug.php:121
+msgctxt "ad group singular name"
+msgid "Ad Group"
+msgstr "Skupina reklam"
+
+#. translators: %s is an error message generated by the plugin.
+#: public/class-advanced-ads.php:373
+msgid "Advanced Ads Error: %s"
+msgstr "Chyba související s Advanced Ads: %s"
+
+#: public/class-advanced-ads.php:369
+msgid "Advanced Ads Error following:"
+msgstr "Chyba související s Advanced Ads:"
+
+#: modules/gadsense/includes/class-gadsense-data.php:40
+msgid "Auto"
+msgstr "Auto"
+
+#: modules/gadsense/includes/class-ad-type-adsense.php:132
+msgid "Your AdSense Publisher ID is missing."
+msgstr "Chybí Váš AdSense Publisher ID."
+
+#: modules/gadsense/includes/class-ad-type-adsense.php:35
+msgid "Use ads from your Google AdSense account"
+msgstr "Použijte reklamy z účtu Google AdSense"
+
+#: modules/gadsense/includes/class-ad-type-adsense.php:34
+msgid "AdSense ad"
+msgstr "AdSense reklama"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:64
+msgid "Get details"
+msgstr "Získejte detaily"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:119
+msgid "Resizing"
+msgstr "Velikost"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:108
+msgid "Normal"
+msgstr "Normální"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:102
+msgid "Please <a href=\"%s\" target=\"_blank\">change it here</a>."
+msgstr "<a href=\"%s\" target=\"_blank\">Změňte to tu</a>."
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:87
+msgid "Publisher ID: %s"
+msgstr "Publisher ID: %s"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:82
+msgid "Ad Slot ID"
+msgstr "ID reklamího bloku"
+
+#: modules/gadsense/admin/views/adsense-account.php:83
+#: modules/gadsense/includes/class-ad-type-adsense.php:91
+msgid "The Publisher ID has an incorrect format. (must start with \"pub-\")"
+msgstr "Publisher ID má nesprávný formát. (Musí začínat s \"pub-\".) "
+
+#: modules/gadsense/includes/class-network-adsense.php:146
+msgid "Limit to %d AdSense ads"
+msgstr "Omezit na %d AdSense reklamy"
+
+#: modules/gadsense/admin/views/adsense-account.php:85
+msgid "Your AdSense Publisher ID <em>(pub-xxxxxxxxxxxxxx)</em>"
+msgstr "Vaše AdSense Publisher ID <em>(pub-xxxxxxxxxxxxxx)</em>"
+
+#: modules/gadsense/includes/class-network-adsense.php:76
+msgid "Limit to 3 ads"
+msgstr "Omezit na 3 reklamy"
+
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:53
+msgid "The ad details couldn't be retrieved from the ad code"
+msgstr "Podrobnosti reklamy nebylo možné získat z jejího kódu "
+
+#: admin/includes/class-list-filters.php:142
+#: modules/gadsense/admin/admin.php:25
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:109
+msgid "Responsive"
+msgstr "Responzivní"
+
+#: includes/array_ad_conditions.php:94 classes/display-conditions.php:759
+msgid "allow ads in secondary queries"
+msgstr "Povolit reklamy v dodatečných dotazech (secondary queries)"
+
+#: includes/array_ad_conditions.php:93 classes/display-conditions.php:758
+msgid "Secondary Queries"
+msgstr "Sekundární dotaz"
+
+#: includes/array_ad_conditions.php:89 classes/display-conditions.php:754
+msgid "show on attachment pages"
+msgstr "Zobrazit na přílohových stránkách"
+
+#: includes/array_ad_conditions.php:88 classes/display-conditions.php:753
+msgid "Attachment Pages"
+msgstr "Přílohové stránky"
+
+#: includes/array_ad_conditions.php:84 classes/display-conditions.php:749
+msgid "show on 404 error page"
+msgstr "Zobrazit chybovou stránku 404"
+
+#: includes/array_ad_conditions.php:83 classes/display-conditions.php:748
+msgid "404 Page"
+msgstr "Stránka 404"
+
+#: includes/array_ad_conditions.php:79 classes/display-conditions.php:744
+msgid "show on search result pages"
+msgstr "Zobrazit na stránkách s výsledky vyhledávání"
+
+#: includes/array_ad_conditions.php:78 classes/display-conditions.php:743
+msgid "Search Results"
+msgstr "Výsledky vyhledávání"
+
+#: includes/array_ad_conditions.php:74 classes/display-conditions.php:739
+msgid "show on any type of archive page (category, tag, author and date)"
+msgstr "Zobrazit na jakémkoliv typu archivní stránky (kategorie, značka, autor a datum)"
+
+#: includes/array_ad_conditions.php:73 classes/display-conditions.php:738
+msgid "Archive Pages"
+msgstr "Archivní stránky"
+
+#: includes/array_ad_conditions.php:69 classes/display-conditions.php:734
+msgid "show on singular pages/posts"
+msgstr "Zobrazit na jednotlivých stránkách/ příspěvcích"
+
+#: includes/array_ad_conditions.php:68 classes/display-conditions.php:733
+msgid "Singular Pages"
+msgstr "jednotlivé stránky"
+
+#: includes/array_ad_conditions.php:64 classes/display-conditions.php:729
+msgid "show on Home page"
+msgstr "Zobrazit na domovské stránce"
+
+#: includes/array_ad_conditions.php:63 classes/display-conditions.php:728
+msgid "Home Page"
+msgstr "Domovská stránka"
+
+#: includes/array_ad_conditions.php:57
+msgid "Individual Posts, Pages and Public Post Types"
+msgstr "Jednotlivé příspěvky, stránky a typy veřejných příspěvků"
+
+#: includes/array_ad_conditions.php:52
+msgid "comma seperated IDs of category archives"
+msgstr "Čárkou oddělené ID archivních stránek vyhrazených pro kategorie"
+
+#: includes/array_ad_conditions.php:51
+msgid "Category Archives"
+msgstr "Archivy kategorií"
+
+#: includes/array_ad_conditions.php:46
+msgid "Choose terms from public category, tag and other taxonomies a post must belong to in order to have ads."
+msgstr "Vyberte pojmy z veřejných kategorií, značek a dalších taxonomických položek, do kterých musí příspěvek patřit, aby se zobrazily vhodné reklamy."
+
+#: includes/array_ad_conditions.php:45
+msgid "Categories, Tags and Taxonomies"
+msgstr "Kategorie, značky a taxonomie"
+
+#: includes/array_ad_conditions.php:39
+msgid "Post Types"
+msgstr "Typ příspěvku"
+
+#: admin/includes/class-shortcode-creator.php:99
+#: modules/gutenberg/includes/class-gutenberg.php:77 classes/widget.php:113
+msgid "--empty--"
+msgstr "--prázdný--"
+
+#: classes/widget.php:107
+msgid "Title:"
+msgstr "Název:"
+
+#: classes/widget.php:26
+msgid "Display Ads and Ad Groups."
+msgstr "Zobrazit reklamy a skupiny reklam."
+
+#: admin/views/ad-conditions-string-operators.php:24
+msgid "does not match regex"
+msgstr "Neshoduje se s regex-em"
+
+#: admin/views/ad-conditions-string-operators.php:23
+msgid "does not match"
+msgstr "Neshoduje se"
+
+#: admin/views/ad-conditions-string-operators.php:22
+msgid "does not end with"
+msgstr "Nekončí"
+
+#: admin/views/ad-conditions-string-operators.php:21
+msgid "does not start with"
+msgstr "Nezačíná"
+
+#: admin/views/ad-conditions-string-operators.php:20
+msgid "does not contain"
+msgstr "Neobsahuje"
+
+#: admin/views/ad-conditions-string-operators.php:19
+msgid "matches regex"
+msgstr "Shoduje se s regex-em "
+
+#: admin/views/ad-conditions-string-operators.php:18
+msgid "matches"
+msgstr "Shoduje se"
+
+#: admin/views/ad-conditions-string-operators.php:17
+msgid "ends with"
+msgstr "Končí"
+
+#: admin/views/ad-conditions-string-operators.php:16
+msgid "starts with"
+msgstr "Začíná"
+
+#: admin/views/ad-conditions-string-operators.php:15
+#: modules/privacy/admin/views/setting-consent-method.php:10
+msgid "contains"
+msgstr "Obsahuje"
+
+#: admin/views/conditions/condition-number.php:17
+msgid "equal or lower"
+msgstr "shodný nebo menší"
+
+#: admin/views/conditions/condition-number.php:15
+msgid "equal or higher"
+msgstr "shodný nebo větší"
+
+#: admin/views/conditions/condition-number.php:13
+msgid "equal"
+msgstr "shodný"
+
+#: admin/views/conditions/condition-operator.php:12
+msgid "is not"
+msgstr "není"
+
+#: admin/views/conditions/condition-operator.php:10
+msgid "is"
+msgstr "je"
+
+#: classes/visitor-conditions.php:48
+msgid "Whether the visitor has to be logged in or not in order to see the ads."
+msgstr "Zda se návštěvník musí přihlásit nebo ne, aby se reklamy zobrazily."
+
+#: classes/visitor-conditions.php:47
+msgid "logged-in visitor"
+msgstr "Přihlášený návštěvník"
+
+#: classes/visitor-conditions.php:41
+msgid "Display ads only on mobile devices or hide them."
+msgstr "Reklamy zobrazit nebo skrýt pouze na mobilních zařízeních."
+
+#: classes/ad_type_plain.php:99
+msgid "Execute PHP code (wrapped in <code>&lt;?php ?&gt;</code>)"
+msgstr "Spustit PHP kód (zabalený v <code>&lt;?php ?&gt;</code>)"
+
+#: classes/ad_type_plain.php:54
+msgid "Insert plain text or code into this field."
+msgstr "Do tohoto pole vložit prostý text nebo kód."
+
+#: classes/ad_type_plain.php:32
+msgid "Plain Text and Code"
+msgstr "Pouze text a kód"
+
+#: classes/ad_type_content.php:36
+msgid "The full content editor from WordPress with all features like shortcodes, image upload or styling, but also simple text/html mode for scripts and code."
+msgstr "Úplný WordPress editor obsahu se všemi funkcemi jako shortcodes, nahrávání obrázků, styling nebo i text / html režim pro skripty a kódy."
+
+#: classes/ad_type_content.php:35
+msgid "Rich Content"
+msgstr "Vizuální editor"
+
+#. translators: %s is an html tag.
+#: classes/ad_placements.php:297
+msgid "headline 4 (%s)"
+msgstr "Titulek 4 (%s)"
+
+#. translators: %s is an html tag.
+#: classes/ad_placements.php:295
+msgid "headline 3 (%s)"
+msgstr "Titulek 3 (%s)"
+
+#. translators: %s is an html tag.
+#: classes/ad_placements.php:293
+msgid "headline 2 (%s)"
+msgstr "Titulek 2 (%s)"
+
+#. translators: %s is an html tag.
+#: classes/ad_placements.php:289
+msgid "paragraph (%s)"
+msgstr "Odstavec (%s)"
+
+#: classes/ad_placements.php:90
+msgid "Injected into the content. You can choose the paragraph after which the ad content is displayed."
+msgstr "Vložené do obsahu. Můžete si vybrat odstavec, pod kterém se zobrazí obsah reklamy."
+
+#: classes/ad_placements.php:79
+msgid "Injected after the post content."
+msgstr "Vložené za obsahem příspěvku."
+
+#: admin/views/placement-injection-top.php:83 classes/ad_placements.php:78
+msgid "After Content"
+msgstr "Za obsahem"
+
+#: classes/ad_placements.php:68
+msgid "Injected before the post content."
+msgstr "Vložené před obsahem příspěvku."
+
+#: admin/views/placement-injection-top.php:81 classes/ad_placements.php:67
+msgid "Before Content"
+msgstr "Před obsahem"
+
+#: classes/ad_placements.php:62
+msgid "Injected in Footer (before closing &lt;/body&gt; Tag)."
+msgstr "Vložené do zápatí stránky (před ukončením značky &lt;/body&gt; Tag)."
+
+#: classes/ad_placements.php:61
+msgid "Footer Code"
+msgstr "Kód zápatí stránky"
+
+#: classes/ad_placements.php:57
+msgid "Injected in Header (before closing &lt;/head&gt; Tag, often not visible)."
+msgstr "Vložené do záhlaví (před ukončením značek &lt;/head&gt; Tag, které se často nezobrazí)."
+
+#: classes/ad_placements.php:56
+msgid "Header Code"
+msgstr "Kód záhlaví"
+
+#: classes/ad_placements.php:47
+msgid "Manual placement to use as function or shortcode."
+msgstr "Manuálně umístění, které se používá jako funkce nebo jako shortcode."
+
+#: classes/ad_placements.php:46
+msgid "Manual Placement"
+msgstr "Manuálně umístění"
+
+#: classes/EDD_SL_Plugin_Updater.php:479
+msgid "Error"
+msgstr "Chyba"
+
+#: classes/EDD_SL_Plugin_Updater.php:479
+msgid "You do not have permission to install plugin updates"
+msgstr "Nemáte povolení k instalaci aktualizací pluginu."
+
+#. translators: %1$s is a version number.
+#: admin/includes/ad-health-notices.php:32
+msgid "Your <strong>PHP version (%1$s) is too low</strong>. Advanced Ads is built for PHP %2$s and higher. It might work, but updating PHP is highly recommended. Please ask your hosting provider for more information."
+msgstr "Vaše <strong>verze PHP (%1$s) je zastaralá</strong>. Advanced Ads je programován pro PHP %2$s a novější verze. Může fungovat, ale doporučujeme raději aktualizovat PHP. Požádejte svého poskytovatele hostingu o další informace."
+
+#: admin/views/support.php:7
+msgid "Possible Issues"
+msgstr "Možné problémy"
+
+#: admin/views/support.php:17
+msgid "search"
+msgstr "Hledat"
+
+#: admin/views/support.php:14
+msgid "Use the following form to search for solutions in the manual on wpadvancedads.com"
+msgstr "Použijte následující formulář k vyhledání řešení v příručce: wpadvancedads.com."
+
+#: admin/views/settings.php:43
+msgid "Save settings on this page"
+msgstr "Uložit nastavení na této stránce"
+
+#: admin/views/settings/general/disable-ads.php:25
+msgid "Secondary queries are custom queries of posts outside the main query of a page. Try this option if you see ads injected on places where they shouldn’t appear."
+msgstr "Dodatečné dotazy (secondary queries) jsou vlastní dotazy příspěvků mimo hlavního dotazu stránky. Vyzkoušejte tuto možnost, pokud vidíte reklamy na místech, kde by se neměly zobrazovat."
+
+#: admin/views/settings/general/disable-ads.php:24
+msgid "Disable ads on secondary queries"
+msgstr "Deaktivovat reklamy dodatečných dotazů"
+
+#: admin/views/settings/general/disable-ads.php:19
+msgid "e.g. archive pages like categories, tags, authors, front page (if a list)"
+msgstr "Např. na archivních stránkách jako jsou kategorie, značky, autoři, titulní stránka (pokud je seznam)."
+
+#: admin/views/settings/general/disable-ads.php:18
+msgid "Disable ads on non-singular pages"
+msgstr "Deaktivovat reklamy na nejedinečných stránkách"
+
+#: admin/views/settings/general/disable-ads.php:12
+msgid "Disable ads on 404 error pages"
+msgstr "Deaktivovat reklamy na chybných stránkách 404"
+
+#: admin/views/settings/general/disable-ads.php:6
+msgid "Use this option to disable all ads in the frontend, but still be able to use the plugin."
+msgstr "Tato možnost deaktivuje všechny reklamy na frontendu s tím, že stále budete moci používat plugin."
+
+#: admin/views/settings/general/disable-ads.php:5
+msgid "Disable all ads in frontend"
+msgstr "Deaktivovat všechny reklamy na frontendu"
+
+#. translators: %d is a number of days.
+#: admin/views/setting-license.php:50
+msgid "(%d days left)"
+msgstr "(zbývajících %d dní)"
+
+#: admin/views/setting-license.php:91
+msgid "active"
+msgstr "aktivní"
+
+#: admin/views/setting-license.php:87
+msgid "License key invalid"
+msgstr "Licenční klíč je neplatný"
+
+#: admin/views/setting-license.php:82
+msgid "Activate License"
+msgstr "Aktivovat licenci"
+
+#: admin/views/setting-license.php:56
+msgid "License key"
+msgstr "Licenční klíč"
+
+#: admin/views/post-ad-settings-metabox.php:7
+msgid "Disable ads on this page"
+msgstr "Deaktivovat reklamy na této stránce"
+
+#: admin/views/placement-form.php:86
+msgid "Save New Placement"
+msgstr "Uložit nové umístění"
+
+#: admin/views/placement-form.php:67
+msgid "The ad or group that should be displayed."
+msgstr "Reklama nebo skupina reklam, která má být zobrazena."
+
+#: admin/views/placement-form.php:66
+msgid "Choose the Ad or Group"
+msgstr "Vybrat reklamu nebo skupinu reklam"
+
+#: admin/views/placement-form.php:65
+msgid "Please enter a name for your placement."
+msgstr "Vložte prosím název pro Vaše umístění."
+
+#: admin/views/placement-form.php:64
+msgid "Placement Name"
+msgstr "Název umístění"
+
+#: admin/views/placement-form.php:62
+msgid "The name of the placement is only visible to you. Tip: choose a descriptive one, e.g. <em>Below Post Headline</em>."
+msgstr "Název umístění se zobrazí pouze Vám. Tip: Vyberte popisný výraz, např.  <em>Pod hlavičkou příspěvku</em>."
+
+#: admin/views/placement-form.php:61
+msgid "Choose a Name"
+msgstr "Vybrat název"
+
+#: admin/views/placement-form.php:59
+msgid "Please select a placement type."
+msgstr "Vyberte prosím typ umístění."
+
+#. translators: %s is a URL.
+#: admin/views/placement-form.php:21
+msgid "Placement types define where the ad is going to be displayed. Learn more about the different types from the <a href=\"%s\">manual</a>"
+msgstr "Typy umístění určují, kde se má reklama zobrazovat. Více informací o různých typech naleznete v <a href=\"%s\">manuálu</a>."
+
+#: admin/views/placement-form.php:15
+msgid "Choose a placement type"
+msgstr "Vybrat typ umístění"
+
+#: admin/views/placements.php:23 admin/views/placements.php:256
+msgid "New Placement"
+msgstr "Nové umístění"
+
+#: admin/views/placements.php:22 admin/views/placements.php:254
+msgid "Create a new placement"
+msgstr "Vytvořit nové umístění"
+
+#: admin/views/placements.php:252
+msgid "Save Placements"
+msgstr "Uložit umístění"
+
+#: admin/views/placements.php:245
+msgctxt "checkbox to remove placement"
+msgid "delete"
+msgstr "Smazat"
+
+#: admin/views/placements.php:164
+msgid "Important Notice"
+msgstr "Důležité upozornění"
+
+#: admin/views/placements-content-index.php:44
+msgid "start counting from bottom"
+msgstr "Začni počítání odpředu"
+
+#: admin/views/placements-content-index.php:10
+msgid "before"
+msgstr "Před"
+
+#: admin/views/placements-content-index.php:9
+msgid "after"
+msgstr "Za"
+
+#: admin/views/placements-item.php:10 admin/views/placement-form.php:69
+msgid "--not selected--"
+msgstr "--nebola vybraná--"
+
+#: admin/views/placements.php:144
+msgid "Item"
+msgstr "Reklama"
+
+#: admin/views/placements.php:117
+msgid "show usage"
+msgstr "Zobrazit použití"
+
+#. translators: %s is the name of a placement.
+#: admin/views/placements.php:87
+msgid "Placement type \"%s\" is missing and was reset to \"default\".<br/>Please check if the responsible add-on is activated."
+msgstr "Nebyl určen typ umístění \"%s\" a proto byl změněn na \"výchozí\". <br/>Zkontrolujte, zda je aktivován tomu odpovídající doplněk."
+
+#: admin/views/placements.php:60 modules/import-export/views/page.php:26
+msgid "Options"
+msgstr "Možnosti"
+
+#. translators: %s is a URL.
+#: admin/views/placements.php:34
+msgid "See also the manual for more information on <a href=\"%s\">placements</a>."
+msgstr "Další informace o <a href=\"%s\">umístěních</a> naleznete v manuálu."
+
+#: admin/views/placements.php:28
+msgid "Placements are physically places in your theme and posts. You can use them if you plan to change ads and ad groups on the same place without the need to change your templates."
+msgstr "Umístění se nacházejí ve vaší tématu a příspěvcích. Můžete je použít, pokud plánujete změnit reklamy a skupiny reklam na stejném místě, aniž byste museli měnit šablony."
+
+#: admin/views/placements.php:16
+msgid "Placements updated"
+msgstr "Umístění jsou aktualizovány"
+
+#: admin/views/placements.php:12
+msgid "Couldn’t create the new placement. Please check your form field and whether the name is already in use."
+msgstr "Nové umístění se nepodařilo vytvořit. Zkontrolujte pole formuláře, zda název už nebyl použit."
+
+#: admin/views/notices/adblock.php:4
+msgid "Please disable your <strong>AdBlocker</strong> to prevent problems with your ad setup."
+msgstr "Chcete-li zabránit problémům s nastavením reklamy, deaktivujte svůj <strong>adblocker</strong>."
+
+#: admin/includes/class-overview-widgets.php:134
+msgid "Get 2 free add-ons"
+msgstr "Získejte 2 předplatné doplňky"
+
+#: admin/views/conditions/conditions-form.php:37
+#: admin/views/ad-group-list-ads.php:45
+msgid "add"
+msgstr "Přidat"
+
+#: admin/views/conditions/conditions-form.php:15
+msgid "-- choose a condition --"
+msgstr "--vybrat podmínku--"
+
+#: admin/views/conditions/conditions-form.php:10
+msgid "New condition"
+msgstr "Nová podmínka"
+
+#. translators: %s is a URL.
+#: admin/views/conditions/visitor-conditions-form-top.php:14
+msgid "Check out cache-busting in <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a> if dynamic features get cached."
+msgstr "Pokud nefungují dynamické funkce, použijte cache-busting ve verzi pluginu <a href=\"%s\" target=\"_blank\">Advanced Ads Pro</a>."
+
+#: admin/views/conditions/visitor-conditions-form-top.php:4
+msgid "Visitor conditions limit the number of users who can see your ad. There is no need to set visitor conditions if you want all users to see the ad."
+msgstr "Podmínky pro návštěvníky omezují počet uživatelů, kteří mohou vidět Vaši reklamu. Nedoporučuje se proto nastavit podmínky pro návštěvníky, pokud chcete, aby každý z nich viděl reklamu."
+
+#: admin/views/conditions/ad-visitor-metabox.php:28
+msgid "Display conditions that are based on the user. Use with caution on cached websites."
+msgstr "Zobrazit podmínky, které se týkají uživatelů. Zacházejte s nimi opatrně na webových stránkách s vyrovnávací pamětí (cache)."
+
+#. translators: %1$s month, %2$s day, %3$s year, %4$s hour, %5$s minute.
+#: admin/views/ad-submitbox-meta.php:40
+msgctxt "order of expiry date fields 1: month, 2: day, 3: year, 4: hour, 5: minute"
+msgid "%1$s %2$s, %3$s @ %4$s %5$s"
+msgstr "%1$s %2$s, %3$s @ %4$s %5$s"
+
+#: admin/views/ad-submitbox-meta.php:31
+msgid "Minute"
+msgstr "Minuta"
+
+#: admin/views/ad-submitbox-meta.php:30
+msgid "Hour"
+msgstr "Hodina"
+
+#: admin/views/ad-submitbox-meta.php:29
+msgid "Year"
+msgstr "Rok"
+
+#: admin/views/ad-submitbox-meta.php:28
+msgid "Day"
+msgstr "Den"
+
+#. translators: %1$s is the month number, %2$s is the month shortname.
+#: admin/views/ad-submitbox-meta.php:21
+msgctxt "1: month number (01, 02, etc.), 2: month abbreviation"
+msgid "%1$s-%2$s"
+msgstr "%1$s-%2$s"
+
+#: admin/views/ad-submitbox-meta.php:15
+msgid "Month"
+msgstr "Měsíc"
+
+#: admin/views/ad-submitbox-meta.php:10
+msgid "Set expiry date"
+msgstr "Zadat den vypršení platnosti"
+
+#: admin/views/ad-parameters-size.php:12
+msgid "height"
+msgstr "Výška"
+
+#: admin/views/ad-parameters-size.php:11
+msgid "width"
+msgstr "Šířka"
+
+#: admin/views/ad-output-metabox.php:42
+msgid "tip: use this to add a margin around the ad"
+msgstr "Tip: Použijte toto a vytvořte odstup mezi reklamou a obsahem."
+
+#: admin/views/ad-output-metabox.php:41
+msgid "left:"
+msgstr "Vlevo:"
+
+#: admin/views/ad-output-metabox.php:40
+msgid "bottom:"
+msgstr "Dolní okraj:"
+
+#: admin/views/ad-output-metabox.php:39
+msgid "right:"
+msgstr "Vpravo:"
+
+#: admin/views/ad-output-metabox.php:38
+msgid "top:"
+msgstr "Horní okraj:"
+
+#: admin/views/ad-output-metabox.php:36
+msgid "Margin"
+msgstr "Okraj"
+
+#: admin/views/ad-output-metabox.php:31
+msgid "Check this if you don’t want the following elements to float around the ad. (adds a clearfix)"
+msgstr "Aktivujte tuto funkci, pokud nechcete, aby se kolem reklamy pohybovali následující prvky. (Přidá Clearfix.)"
+
+#: admin/views/ad-output-metabox.php:25
+#: admin/views/placements-ad-label-position.php:21
+#: admin/views/placements-ad-label-position.php:23
+msgid "right"
+msgstr "Vpravo"
+
+#: admin/views/ad-output-metabox.php:22
+#: admin/views/placements-ad-label-position.php:18
+#: admin/views/placements-ad-label-position.php:20
+msgid "center"
+msgstr "Střed"
+
+#: admin/views/ad-output-metabox.php:19
+#: admin/views/placements-ad-label-position.php:15
+#: admin/views/placements-ad-label-position.php:17
+msgid "left"
+msgstr "Vlevo"
+
+#: admin/views/placements-ad-label.php:9 admin/views/placements-ad-label.php:11
+#: admin/views/ad-output-metabox.php:18 admin/views/placements.php:108
+#: admin/views/placements-ad-label-position.php:11
+#: admin/views/placements-ad-label-position.php:13
+#: modules/gadsense/includes/class-network-adsense.php:239
+msgid "default"
+msgstr "Standard"
+
+#: admin/views/ad-output-metabox.php:16
+msgid "- default -"
+msgstr "- výchozí-"
+
+#: admin/views/ad-output-metabox.php:14
+#: admin/views/placements-ad-label-position.php:10
+msgid "Position"
+msgstr "Pozice"
+
+#: admin/views/ad-output-metabox.php:12
+msgid "Everything connected to the ads layout and output."
+msgstr "Vše spojené s rozložením a výstupem reklam."
+
+#: admin/views/ad-main-metabox.php:3
+msgid "No ad types defined"
+msgstr "Nebyly definovány žádné typy reklam"
+
+#: admin/views/ad-info.php:42
+msgid "Internal description or your own notes about this ad."
+msgstr "Vnitřní popis nebo vlastní poznámky k této reklamě."
+
+#: admin/views/ad-info.php:38
+msgid "Add a description"
+msgstr "Přidat popis"
+
+#: admin/views/ad-info.php:31
+msgid "click to change"
+msgstr "Kliknutím změnit"
+
+#. translators: %s is a URL.
+#: admin/views/ad-info.php:16
+msgid "Find more display options in the <a href=\"%s\" target=\"_blank\">manual</a>."
+msgstr "Další možnosti zobrazení naleznete v <a href=\"%s\" target=\"_blank\">manuálu</a>."
+
+#: admin/views/ad-info.php:9
+msgid "theme function"
+msgstr "Funkce témata"
+
+#. translators: %s is an ad ID.
+#: admin/views/ad-info.php:4
+msgid "Ad Id: %s"
+msgstr "ID reklamy: %s"
+
+#. translators: %s is a URL.
+#: admin/views/placement-injection-top.php:178
+msgid "Learn more about your choices to display an ad in the <a href=\"%s\" target=\"_blank\">manual</a>."
+msgstr "Další informace o možnostech zobrazení reklamy v <a href=\"%s\" target=\"_blank\">manuálu</a>."
+
+#: admin/views/ad-group.php:119
+msgid "Update Groups"
+msgstr "Aktualizovat skupiny"
+
+#: admin/views/ad-group.php:75
+msgid "Ad Groups are a very flexible method to bundle ads. You can use them to display random ads in the frontend or run split tests, but also just for informational purposes. Not only can an Ad Groups have multiple ads, but an ad can belong to multiple ad groups."
+msgstr "Skupiny reklam představují flexibilní způsob, jak spojit reklamy do jednoho balíku. Můžete je použít nejen k zobrazení náhodných reklam na frontendu nebo ke spuštění rozdělených testů, ale také i pro informační účely. Nejenže mohou skupiny reklam obsahovat několik reklam, ale i jedna reklama může patřit do více skupin."
+
+#: admin/views/ad-group.php:64
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Výsledky hledání pro &#8220;%s&#8221;"
+
+#: admin/views/ad-group.php:37
+msgid "Ad Groups successfully updated"
+msgstr "Skupiny reklam byly úspěšně aktualizovány"
+
+#: admin/views/ad-group-list-row.php:45
+msgid "ID: %s"
+msgstr "ID: %s"
+
+#: admin/views/ad-group-list-row.php:37
+msgid "Type: %s"
+msgstr "Typ: %s"
+
+#: admin/views/ad-group-list-row.php:25
+msgid "template"
+msgstr "Šablona"
+
+#: admin/views/ad-info.php:7 admin/views/ad-group-list-row.php:22
+#: admin/views/placements.php:126
+msgid "shortcode"
+msgstr "Shortcode"
+
+#: admin/views/ad-group-list-header.php:15
+msgid "Details"
+msgstr "Detaily"
+
+#: admin/views/ad-group-list-header.php:14 classes/ad_type_group.php:30
+msgid "Ad Group"
+msgstr "Skupina reklam"
+
+#: admin/views/ad-group-list-ads.php:22
+msgid "weight"
+msgstr "Váha"
+
+#: admin/views/ad-group-list-ads.php:20 public/class-advanced-ads.php:721
+#: classes/ad-debug.php:118 classes/ad-debug.php:167 classes/ad-debug.php:169
+msgid "Ad"
+msgstr "Reklama"
+
+#: admin/views/ad-group-list-form-row.php:81
+msgid "Number of ads that are visible at the same time"
+msgstr "Počet reklam, které se zobrazí současně"
+
+#: admin/views/ad-group-list-form-row.php:72
+msgctxt "option to display all ads in an ad groups"
+msgid "all"
+msgstr "vše"
+
+#: admin/views/placements.php:58 admin/views/ad-group-list-form-row.php:56
+#: modules/gadsense/admin/views/adsense-ad-parameters.php:105
+msgid "Type"
+msgstr "Typ"
+
+#: admin/views/placements.php:59 admin/views/ad-group-list-form-row.php:31
+#: modules/gadsense/admin/views/external-ads-list.php:45
+#: modules/gadsense/admin/views/external-ads-list.php:55
+#: modules/privacy/admin/views/setting-consent-method.php:9
+msgid "Name"
+msgstr "Název"
+
+#: admin/views/ad-group-edit.php:79
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: admin/views/ad-group-edit.php:77
+msgid "Create new Ad Group"
+msgstr "Vytvořit novou skupinu reklam"
+
+#: admin/views/ad-group-edit.php:65
+msgctxt "Taxonomy Description"
+msgid "Description"
+msgstr "Popis"
+
+#: admin/views/ad-output-metabox.php:49 admin/views/ad-group-edit.php:58
+msgid "An id-like string with only letters in lower case, numbers, and hyphens."
+msgstr "Řetězec typu ID vyjádřený malými písmeny, čísly a pomlčkami."
+
+#: admin/views/ad-group-edit.php:51
+msgctxt "Taxonomy Slug"
+msgid "Slug"
+msgstr "Slug"
+
+#: admin/views/ad-group-edit.php:41
+msgctxt "Taxonomy Name"
+msgid "Name"
+msgstr "Název"
+
+#: admin/views/ad-group-edit.php:20
+msgid "You did not select an item for editing."
+msgstr "Nevybrali jste položku na editování."
+
+#: admin/views/conditions/display-conditions-form-top.php:4
+msgid "If you want to display the ad everywhere, don't do anything here. "
+msgstr "Řetězec typu ID vyjádřený malými písmeny, čísly a pomlčkami."
+
+#: admin/includes/notices.php:31
+msgid "Learn more about how and <strong>how much you can earn with AdSense</strong> and Advanced Ads from my dedicated newsletter."
+msgstr "Získejte více informací o tom, jak a <strong>kolik můžete vydělat s AdSense</strong> a s Advanced Ads z mého vyhrazeního newsletteru."
+
+#: admin/includes/notices.php:25
+msgid "Add me now"
+msgstr "Přidejte si mě"
+
+#: admin/includes/notices.php:24
+msgid "Thank you for using <strong>Advanced Ads</strong>. Stay informed and receive <strong>2 free add-ons</strong> for joining the newsletter."
+msgstr "Děkujeme, že jste se rozhodli používat <strong>Advanced Ads</strong>. Zůstaňte informováni a získejte <strong>2 bezplatné doplňky</strong> za přihlášení se do newsletteru."
+
+#: admin/includes/notices.php:18
+msgid "Yes, send it"
+msgstr "Ano, poslat"
+
+#: admin/includes/notices.php:17
+msgid "Thank you for activating <strong>Advanced Ads</strong>. Would you like to receive the first steps via email?"
+msgstr "Děkujeme, že jste aktivovali <strong>Advanced Ads</strong>. Chcete návod jak nás používat prostřednictvím e-mailu?"
+
+#. translators: %s is the URL to add a new review,
+#. https://wordpress.org/support/plugin/advanced-ads/reviews/#new-post
+#. translators: %s is a URL.
+#: admin/class-advanced-ads-admin.php:689
+#: admin/includes/class-overview-widgets.php:194
+msgid "Thank the developer with a &#9733;&#9733;&#9733;&#9733;&#9733; review on <a href=\"%s\" target=\"_blank\">wordpress.org</a>"
+msgstr "Pošli poděkování vývojáři prostřednictvím &#9733;&#9733;&#9733;&#9733;&#9733; recenze na <a href=\"%s\" target=\"_blank\">wordpress.org</a>"
+
+#: admin/includes/class-overview-widgets.php:48
+msgid "Next steps"
+msgstr "Další kroky"
+
+#: admin/includes/class-overview-widgets.php:118
+#: admin/views/notices/welcome-panel.php:15
+msgid "Create your first ad"
+msgstr "Udělejte svou první reklamu"
+
+#: admin/includes/class-overview-widgets.php:135
+msgid "Get the first steps and more tutorials to your inbox"
+msgstr "Získejte návod jak začít a další instrutážní videa do Vaší doručené pošty"
+
+#: admin/includes/notices.php:32 admin/views/notices/inline.php:3
+#: admin/views/notices/subscribe.php:3
+msgid "Subscribe me now"
+msgstr "Předplaťte si mě teď"
+
+#: admin/includes/class-overview-widgets.php:141
+msgid "Join now"
+msgstr "Přidat se"
+
+#: admin/includes/class-overview-widgets.php:54
+msgid "Manual and Support"
+msgstr "Manuál a technická podpora"
+
+#: admin/includes/class-notices.php:448
+msgid "How embarrassing. The email server seems to be down. Please try again later."
+msgstr "To je nám nepříjemné. Zdá se, že emailový server je nefunkční. Zkuste to prosím později."
+
+#. translators: %s is a URL.
+#: admin/includes/class-notices.php:427
+msgid "You don’t seem to have an email address. Please use <a href=\"%s\" target=\"_blank\">this form</a> to sign up."
+msgstr "Zdá se, že nemáte emailovou adresu. K registraci použijte <a href=\"%s\" target=\"_blank\">tento formulář</a>."
+
+#: includes/array_ad_conditions.php:58 classes/display-conditions.php:97
+msgid "Choose on which individual posts, pages and public post type pages you want to display or hide ads."
+msgstr "Vyberte, na kterých jednotlivých příspěvcích, stránkách a stránkách s veřejnými příspěvky chcete zobrazovat nebo skrýt reklamy."
+
+#: classes/display-conditions.php:598
+msgid "term name or id"
+msgstr "Název nebo ID"
+
+#: classes/display-conditions.php:594
+msgctxt "display the terms search field on ad edit page"
+msgid "add more terms"
+msgstr "Přidat více pojmů"
+
+#: includes/array_ad_conditions.php:40 classes/display-conditions.php:90
+msgid "Choose the public post types on which to display the ad."
+msgstr "Vyberte si typy veřejných příspěvků, na kterých se reklama zobrazí."
+
+#: admin/includes/class-ad-groups-list.php:376
+#: admin/includes/class-ad-groups-list.php:446
+msgid "You don’t have permission to change the ad groups"
+msgstr "Nemáte povolení k změnění skupin reklam"
+
+#: admin/includes/class-ad-groups-list.php:371
+#: admin/includes/class-ad-groups-list.php:441
+msgid "Invalid Ad Group"
+msgstr "Neplatná skupina reklam"
+
+#: admin/includes/class-ad-groups-list.php:349
+msgid "Delete"
+msgstr "Vymazat"
+
+#: admin/includes/class-ad-groups-list.php:340
+msgid "Usage"
+msgstr "Použití"
+
+#: admin/includes/class-ad-groups-list.php:339
+#: public/class-advanced-ads.php:724
+#: modules/import-export/classes/import.php:146
+#: modules/import-export/classes/import.php:186
+#: modules/import-export/classes/import.php:564
+msgid "Edit"
+msgstr "Editování"
+
+#: admin/includes/class-ad-groups-list.php:320
+msgid "Display ads with the highest ad weight first"
+msgstr "Zobrazit ty reklamy jako první, které mají největší váhu"
+
+#: admin/includes/class-ad-groups-list.php:319
+msgid "Ordered ads"
+msgstr "Pevné uspořádání reklam"
+
+#: admin/includes/class-ad-groups-list.php:316
+msgid "Display random ads based on ad weight"
+msgstr "Zobrazit náhodné reklamy na základě jejich priorizace"
+
+#: admin/includes/class-ad-groups-list.php:315
+msgid "Random ads"
+msgstr "Náhodné reklamy"
+
+#: admin/includes/class-ad-groups-list.php:235
+msgid "No ads assigned"
+msgstr "Nebyly přiřazeny žádné reklamy"
+
+#. translators: %d is a number.
+#: admin/includes/class-ad-groups-list.php:232
+msgid "up to %d ads displayed"
+msgstr "Až %d reklam bylo zobrazených"
+
+#: admin/includes/class-ad-groups-list.php:229
+msgid "all published ads are displayed"
+msgstr "Všechny zveřejněné reklamy jsou zobrazeny"
+
+#: admin/includes/class-ad-groups-list.php:172
+msgid "Ad weight"
+msgstr "Váha reklamy"
+
+#: admin/includes/class-list-filters.php:151
+msgid "expired"
+msgstr "Platnost vypršela"
+
+#. translators: %s is a string containing information about the issue.
+#: admin/includes/class-licenses.php:208
+msgid "License is invalid. Reason: %s"
+msgstr "Licence je neplatná. Důvod: %s"
+
+#: admin/includes/class-licenses.php:110
+msgid "Error while trying to register the license. Please contact support."
+msgstr "Chyba při pokusu o registraci licence. Kontaktujte technickou podporu."
+
+#: admin/includes/class-meta-box.php:538
+msgid "Get AdSense tips via email"
+msgstr "Získat tipy pro AdSense emailem"
+
+#: admin/includes/class-meta-box.php:529
+msgid "Get the tutorial via email"
+msgstr "Získat tutoriál emailem"
+
+#: admin/includes/class-meta-box.php:500 admin/views/overview.php:8
+msgid "Ads Dashboard"
+msgstr "Informační panel reklam"
+
+#: admin/includes/class-meta-box.php:401
+msgid "Ad Settings"
+msgstr "Reklamní nastavení"
+
+#: admin/includes/class-ad-type.php:261 admin/includes/class-ad-type.php:267
+msgid "Ad Details"
+msgstr "Detaily reklamy"
+
+#: admin/views/settings/general/content-injection-priority.php:9
+msgid "Play with this value in order to change the priority of the injected ads compared to other auto injected elements in the post content."
+msgstr "Změňte tuto hodnotu a změňte tím prioritu vložených reklam v porovnání s ostatními prvky automaticky vloženými do obsahu příspěvků."
+
+#. translators: %s is a URL.
+#: admin/views/settings/general/advanced-js.php:14
+msgid "Enable advanced JavaScript functions (<a href=\"%s\" target=\"_blank\">here</a>). Some features and add-ons might override this setting if they need features from this file."
+msgstr "Aktivujte rozšířené funkce JavaScriptu (<a href=\"%s\" target=\"_blank\">zde</a>). Některé funkce a doplňky mohou toto nastavení přepsat, pokud potřebují tento soubor."
+
+#: admin/views/settings/general/hide-for-user-role.php:14
+msgid "Choose the roles a user must have in order to not see any ads."
+msgstr "Vyberte co nejmenší roli, kterou by uživatel měl mít, aby se nezobrazovaly žádné reklamy."
+
+#: admin/includes/class-settings.php:53
+msgid "Admin"
+msgstr "Admin"
+
+#: admin/includes/class-settings.php:197
+msgid "ID prefix"
+msgstr "ID předpona"
+
+#: admin/includes/class-settings.php:171
+msgid "Hide ads from bots"
+msgstr "Skrýt reklamy před roboty"
+
+#: admin/includes/class-settings.php:155
+msgid "Priority of content injection filter"
+msgstr "Priorita filtru pro vložený obsah"
+
+#: admin/includes/class-settings.php:147
+msgid "Unlimited ad injection"
+msgstr "Neomezené vkládání reklam"
+
+#: admin/includes/class-settings.php:230
+msgid "Use advanced JavaScript"
+msgstr "Použít 'advanced JavaScript'"
+
+#: admin/includes/class-settings.php:61 admin/includes/class-settings.php:131
+msgid "Disable ads"
+msgstr "Daktivovat reklamy"
+
+#: admin/includes/class-settings.php:272 admin/includes/class-menu.php:175
+#: admin/includes/class-menu.php:179
+msgid "Licenses"
+msgstr "Licence"
+
+#: admin/views/settings.php:14
+msgid "General"
+msgstr "Obecně"
+
+#. translators: %s is the number of ads.
+#: admin/includes/class-ad-type.php:439
+msgid "%s ad restored from the Trash."
+msgid_plural "%s ads restored from the Trash."
+msgstr[0] "%s reklama byla z koše obnovena."
+msgstr[1] "%s reklamy byly z koše obnoveny."
+msgstr[2] "%s reklam bylo z koše obnovených."
+
+#. translators: %s is the number of ads.
+#: admin/includes/class-ad-type.php:437
+msgid "%s ad moved to the Trash."
+msgid_plural "%s ads moved to the Trash."
+msgstr[0] "%s reklama byla přesunuta do koše."
+msgstr[1] "%s reklamy byly přesunuty do koše."
+msgstr[2] "%s reklam bylo přesunuto do koše."
+
+#. translators: %s is the number of ads.
+#: admin/includes/class-ad-type.php:435
+msgid "%s ad permanently deleted."
+msgid_plural "%s ads permanently deleted."
+msgstr[0] "%s reklama byla nenávratně smazána."
+msgstr[1] "%s reklamy byly nenávratně smazány."
+msgstr[2] "%s reklam bylo nenávratně smazaných."
+
+#. translators: %s is the number of ads.
+#: admin/includes/class-ad-type.php:433
+msgid "%s ad not updated, somebody is editing it."
+msgid_plural "%s ads not updated, somebody is editing them."
+msgstr[0] "%s reklama nebyla aktualizována, někdo na ní pracuje."
+msgstr[1] "%s reklamy nebyly aktualizovány, někdo na nich pracuje."
+msgstr[2] "%s reklam nebylo aktualizovaných, někdo na nich pracuje."
+
+#. translators: %s is the number of ads.
+#: admin/includes/class-ad-type.php:431
+msgid "%s ad updated."
+msgid_plural "%s ads updated."
+msgstr[0] "%s reklama byla aktualizována."
+msgstr[1] "%s reklamy byly aktualizovány."
+msgstr[2] "%s reklam bylo aktualizovaných."
+
+#: admin/includes/class-ad-type.php:806
+msgid "Ad draft updated."
+msgstr "Koncept reklamy byl aktualizován."
+
+#. translators: Publish box date format, see http://php.net/date.
+#: admin/includes/class-ad-type.php:804
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#. translators: %1$s is a date.
+#: admin/includes/class-ad-type.php:802
+msgid "Ad scheduled for: <strong>%1$s</strong>."
+msgstr "Reklama je naplánována na: <strong>%1$s</strong>."
+
+#: admin/includes/class-ad-type.php:799
+msgid "Ad submitted."
+msgstr "Reklama byla publikována."
+
+#: admin/includes/class-ad-type.php:797 admin/includes/class-ad-type.php:798
+msgid "Ad saved."
+msgstr "Reklama byla uložena."
+
+#. translators: %s: date and time of the revision
+#: admin/includes/class-ad-type.php:796
+msgid "Ad restored to revision from %s"
+msgstr "Reklama byla obnovena za účelem revize od %s."
+
+#: admin/includes/class-ad-type.php:794 admin/includes/class-ad-type.php:795
+msgid "Ad updated."
+msgstr "Reklama byla aktualizována."
+
+#: admin/includes/class-meta-box.php:112 classes/ad-debug.php:239
+msgid "Visitor Conditions"
+msgstr "Podmínky pro návštěvníky"
+
+#: admin/includes/class-meta-box.php:104 classes/ad-debug.php:152
+msgid "Display Conditions"
+msgstr "Podmínky pro zobrazení"
+
+#: admin/includes/class-meta-box.php:96 admin/includes/class-settings.php:69
+msgid "Layout / Output"
+msgstr "Layout / Output"
+
+#: admin/includes/class-meta-box.php:88
+msgid "Ad Parameters"
+msgstr "Parametry reklamy"
+
+#: admin/includes/class-meta-box.php:60
+msgid "Ad Type"
+msgstr "Typ reklamy"
+
+#: admin/includes/class-menu.php:293
+msgid "You attempted to edit an ad group that doesn&#8217;t exist. Perhaps it was deleted?"
+msgstr "Pokusili jste se upravit skupinu reklam, která již neexistuje. Možná byla odstraněna."
+
+#: admin/includes/class-menu.php:281 admin/includes/class-menu.php:306
+msgid "Sorry, you are not allowed to access this feature."
+msgstr "Je nám to líto, ale nemáte přístup k této funkci."
+
+#: admin/class-advanced-ads-admin.php:414 admin/includes/class-menu.php:155
+#: admin/includes/class-menu.php:158 admin/views/settings.php:29
+msgid "Support"
+msgstr "Technická podpora "
+
+#: admin/includes/class-menu.php:140
+msgid "Settings"
+msgstr "Nastavení"
+
+#: admin/includes/class-menu.php:139
+msgid "Advanced Ads Settings"
+msgstr "Nastavení Advanced Ads"
+
+#: admin/includes/class-menu.php:131
+#: admin/includes/class-shortcode-creator.php:115 admin/views/placements.php:53
+#: modules/import-export/views/page.php:25
+#: modules/gutenberg/includes/class-gutenberg.php:81 classes/widget.php:115
+msgid "Placements"
+msgstr "Umístění"
+
+#: admin/includes/class-menu.php:130
+msgid "Ad Placements"
+msgstr "Umístění reklamy"
+
+#: public/class-advanced-ads.php:694 modules/import-export/views/page.php:24
+msgid "Groups"
+msgstr "Skupiny"
+
+#: admin/includes/class-shortcode-creator.php:108
+#: admin/views/placements-item.php:12 admin/views/placement-form.php:71
+#: modules/gutenberg/includes/class-gutenberg.php:80 classes/widget.php:122
+msgid "Ad Groups"
+msgstr "Skupiny reklam"
+
+#: admin/includes/class-menu.php:79 admin/includes/class-menu.php:80
+#: admin/includes/class-shortcode-creator.php:101
+#: admin/views/ad-group-list-header.php:16 admin/views/placements-item.php:24
+#: admin/views/placement-form.php:78 admin/views/ad-group-list-form-row.php:91
+#: public/class-advanced-ads.php:720 modules/import-export/views/page.php:23
+#: modules/gutenberg/includes/class-gutenberg.php:79 classes/widget.php:129
+msgid "Ads"
+msgstr "Reklamy"
+
+#: admin/includes/class-menu.php:65 admin/includes/class-menu.php:88
+#: admin/includes/class-menu.php:99 admin/includes/class-menu.php:100
+msgid "Overview"
+msgstr "Přehled"
